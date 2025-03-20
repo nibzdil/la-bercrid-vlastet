@@ -11,6 +11,7 @@
                 - cmavlanoi: x1=c1=v1=no is a gloss / short linguistic annotation of x2=n2 in language x3=v3 (by author x4=n3 for audience/users/interpreters x5=n4 by standard x6=c3).
                 - dempau: x1=d1=p1 is a summary/compression of x2=p2 selecting for highlights x3=p2 (from places x4=d3); x1 is an overview / abstract.
                 - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
+                - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
 - vlaste (vocabulary):
     - li'enrai: x1=l1=t1 is initial in property x2=r2 in sequence x3=l3
     - bazpru: x1 is tentative for purpose/satisfier x2 under conditions x3; x1 is a work-in-progress or placeholder; x1 is not yet processed.
@@ -21,5 +22,6 @@
     - cmavlanoi: x1=c1=v1=no is a gloss / short linguistic annotation of x2=n2 in language x3=v3 (by author x4=n3 for audience/users/interpreters x5=n4 by standard x6=c3).
     - dempau: x1=d1=p1 is a summary/compression of x2=p2 selecting for highlights x3=p2 (from places x4=d3); x1 is an overview / abstract.
     - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
+    - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
     - jbofu'ivlafavytsi: x1=fu1=v1(=fu'ivla1)=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3).
     - samypapri: x1=p1 is a file in directory x2=p2 of computer x3=s1 (computer purpose x4=s2)  (alternative to jbovlaste {datnyvei}, which I still like more) (prefer {datnyvei})
