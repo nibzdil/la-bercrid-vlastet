@@ -1,0 +1,38 @@
+- skidatni (meta):
+    - notci (notes):
+        - fukfadmupli (template):
+            - vlaste (vocabulary):
+                - cmavo (cmavo):
+                - lujvo (lujvo):
+                    - brodybroda:
+                        ka bangu dunli (by-language):
+                          jbo:
+                            xu'asmu (definition):
+                              x1=brode1 cu co'e x2=broda1
+                            cmavlanoi (gloss):
+                              - valsi tanru
+                              - mupli
+                            notci (notes):
+                              .i ti cu vasru lo fukfadmupli gi'e mupli
+                          en_US:
+                            xu'asmu (definition):
+                              x1 is a mumble of x2 (thanks rlpowell)
+                            cmavlanoi (gloss):
+                              - a phrase gloss
+                              - example
+                            notci (notes):
+                              This is an example in a template.
+                        krasi (sources):
+                          - la lylygy jbovlaste: se jicmu lo se cupra be la .alis. (based on LLG jbovlaste contribution through user Alice.)
+                          - la bab: se stika la .bab. (adapted by Bob)
+                          - la tcarlin: se gunka la .tcarlin. (contribution by Charlie)
+                          - la deiv
+                        jbofu'ivlafavytsi (sample of fu'ivla synonym variants):
+                          - brodrbroida
+                          - broirdrbroda
+                          - broida
+                - fu'ivla (fu'ivla):
+- vlaste (vocabulary):
+    - cmavo (cmavo):
+    - lujvo (lujvo):
+    - fu'ivla (fu'ivla):
