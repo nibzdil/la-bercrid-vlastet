@@ -25,3 +25,4 @@
     - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
     - jbofu'ivlafavytsi: x1=fu1=v1(=fu'ivla1)=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3).
     - samypapri: x1=p1 is a file in directory x2=p2 of computer x3=s1 (computer purpose x4=s2)  (alternative to jbovlaste {datnyvei}, which I still like more) (prefer {datnyvei})
+    - experiment cmavo pair to declare modifier-then-main or main-then-modifier tanru order.
