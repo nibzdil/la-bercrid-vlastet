@@ -13,16 +13,149 @@
                 - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
                 - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
 - vlaste (vocabulary):
-    - li'enrai: x1=l1=t1 is initial in property x2=r2 in sequence x3=l3
-    - bazpru: x1 is tentative for purpose/satisfier x2 under conditions x3; x1 is a work-in-progress or placeholder; x1 is not yet processed.
-    - storveipa'o: x1=s1=v1=p1 is a snapshot/record/commit of data x2=v2 in repository/data storage x3=v4, about/pertaining to x4=v3, immutable and static/unchanging in property x5=s2; x1 is a commit.
-    - skidatni: x1=s4=d1 is metadata about/describing x2=s2=d2 to interpreter x3=s3
-    - fukfadmupli: x1=fu2=fa1=m1 is a template of property x2=fa2=m2 in context/set x3=fa3=m3 in form/medium x4=fu3
-    - xu'asmu: x1=xu2=s1 is a definition of x2=xu2=s2 given by/according to x3=xu1=s3
-    - cmavlanoi: x1=c1=v1=no is a gloss / short linguistic annotation of x2=n2 in language x3=v3 (by author x4=n3 for audience/users/interpreters x5=n4 by standard x6=c3).
-    - dempau: x1=d1=p1 is a summary/compression of x2=p2 selecting for highlights x3=p2 (from places x4=d3); x1 is an overview / abstract.
-    - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
-    - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
-    - jbofu'ivlafavytsi: x1=fu1=v1(=fu'ivla1)=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3).
-    - samypapri: x1=p1 is a file in directory x2=p2 of computer x3=s1 (computer purpose x4=s2)  (alternative to jbovlaste {datnyvei}, which I still like more) (prefer {datnyvei})
-    - experiment cmavo pair to declare modifier-then-main or main-then-modifier tanru order.
+    - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
+    - stoveipa'o: $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$; $x_1$ is a commit.
+    - multcu: $x_1=n_1=m_1$ is to-do / needs completion in property $x_2=n_2=m_2$ by judge / standard $x_4=m_3$ for purpose / state $x_5=n_3$; $x_1$ is TODO.
+    - skidatni: $x_1=d_1=s_1=s_4$ is metadata / annotation about / describing $x_2=d_2=s_2$ to interpreter / audience $x_3=s_3$, gathered by method $x_4=d_3$.
+    - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
+    - fukfadmupli: $x_1=m_1=fa_1=fu_2$ is a template / prototype / role-model of property $x_2=m_2=fa_2$ for derivatives / influenced $x_3=m_3=fa_3=fu_1$ in form / medium $x_4=fu_3$ made by method $x_5=fu_4$.
+    - xu'asmu: $x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.
+    - dempau: $x_1=p_1=d_3$ is a summary / brief / dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is an overview / abstract / concentration.
+    - jbovlaste krtisfranks: smuvelckivla: $x_1$ (text) is a gloss word/keyword (or phrase) for the meaning of $x_2$ (du'u/text)  in language $x_3$
+    - (lo multcu zo'u: ¿xu jagri'a pensi stidi?) jbofu'ivlafavytsi: x1=fu1=v1=fu'ivla1=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3). (ji'a nitcu lo nu jmina lumci ja spali)
+    - lo mutcu zo'u: lo valsi be lo xe fanva be zo'oi submit
+    - lo mutcu zo'u: multcu experiment cmavo pair to declare modifier-then-main or main-then-modifier tanru order.
+    - lo mutcu zo'u: farsni: arrow
+    - xadysku: $x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
+    - lo mutcu zo'u: farxadysku: point
+    - lo mutcu zo'u: le'oi: lenjo modal
+    - lo mutcu zo'u: sai'a: simsa modal
+    - lo mutcu zo'u: vo'a'e: {vo'a} but innermost scope even in descriptions; sequence to {vo'u'e}
+    - lo mutcu zo'u: vo'a'ei: {vo'a} but outermost / main bridi of this sentence; sequence to {vo'u'a'ei}
+    - lo mutcu zo'u: vo'a'e'i: {vo'a} but innermost _complete bridi_; sequence to {vo'u'a'e'i}
+    - fraseljimca: $x_1=j_2=f_1$ is a switch with branches / for toggling $x_2=j_1=f_2$ triggered by $x_3=f_3$ under conditions $x_4=f_4$.
+    - marbartu: $x_1=b_1=m_2$ does not conform to / obey standard $x_2=b_2=m_2$ with rules $x_3=m_3$; $x_1$ is nonstandard / experimental / non-comformant.
+    - martinbe: $x_1=t_1=m_2$ conforms to / is compliant with standard $x_3=t_3=m_1$ with rules $x_2=t_2=m_3$; $x_1$ is standard.
+    - lo mutcu zo'u: setnaldicra: directly (or ‘layer remain’)
+    - lo mutcu zo'u: ci'o'ei: convert arbitrary bridi to UI
+    - lo mutcu zo'u: ma'o'ei: With meaning / function.  Take the cmavo preceding as the selma'o, and convert the arbitrary bridi following it to give it meaning or function.
+    - lo mutcu zo'u: jbovlaste ilmen's lo'oi
+    - koi'au: kancau modal, 1st place (individually; separately) with individuals …
+    - sekoi'au: kancau modal, 2nd place (individually; separately) separately from …
+    - tekoi'au: kancau modal, 3nd place (individually; separately) separately in context …
+    - pavdu'i: $d1$ is unique in property/dimension/quantity/aspect $d3$.
+    - jo'u'e: Generalized prenex/topic separator/joiner; such that …
+    - to'o'e: Apply Lojban text to an unspecified point in text.
+    - ma'ai: mansa modal, 1st place (satisfying evaluator) satisfied by …
+    - sema'ai: mansa modal, 2nd place (satisfying evaluator) such that …
+    - tema'ai: mansa modal, 3rd place (satisfying evaluator) satisfying in property …
+    - kancau: $x_1=c_1=k_1$ is separate from / not with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is individual / alone / separate.
+    - ciplanli: $x_1=l_1$ experiments on / experimentally analyzes $x_2=l_2=c_3$ to find or test for $x_3=c_2$ by means / test $x_4=l_3=c_1$.  (At least partly inspired by old definition, but I polished it up.)
+    - cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
+    - jbovlaste tiljan: pliri'a: $r_1=p_1$ applies $r_2=p_2$ to $r_3=p_3$.
+    - cu'e'o: Separate top-level sumti or selbri.
+    - zmabazlai: $x_1=k_1=b_1=z_1$ is plenty of $x_2=z_3$ for purpose $x_3=b_3$ under conditions $x_4=b_4$ with quantity (of $x_1$) $x_5=l_2$ and excess $x_6=z_4$ on scale $x_7=l_3$; $x_1$ is an abundance of $x_2$; $x_1$, in quantity $x_5$, is more than enough (by amount / substance $x_6$).
+    - bimrurklaji: $x_1=k_1=s_2$ is a hall / corridor / long passageway at $x_2=k_2$ accessing / connecting $x_3=k_3$ with surrounding walls / barriers / separators / covers / borders $x_4=s_1=b_1$ in direction(s) / dimension(s) / plane $x_5=s_3$, with interior $x_6=b_2$ and exterior $x_7=b_3$ in / of structure / environment $x_8=b_4$.
+    - bimrurklaji: $x_1=k_1=s_2$ is a hall / corridor / long passageway at $x_2=k_2$ accessing / connecting $x_3=k_3$ with surrounding walls / barriers / separators / covers / borders $x_4=s_1=b_1$ in direction(s) / dimension(s) / plane $x_5=s_3$, with interior $x_6=b_2$ and exterior $x_7=b_3$ in / of structure / environment $x_8=b_4$.
+    - jbovlaste Taun: sorlutca'u: maze / labyrinth
+    - ba'arlu'a: $x_1=p_1=b_2$ is a trail of / with marks / indicators $x_2=b_1$ to $x_3=l_2$ from $x_4=l_3$ via / defined by points including / through $x_5=l_4$, with trail mark type / material $x_6=b_3$; $x_1$ is a trail of $x_2$ to $x_3$ from $x_4$ through $x_5$.
+    - lutpoi: $x_1=po_1=pl_1$ is a course / pathed sequence to $x_2=pl_2$ from $x_3=pl_3$ via / defined by steps / stages / including $x_4=po_3=pl_4$ ordered by / sequenced by / listed by $x_5=po_2$.
+    - selgrebi'u: $x_1=b_1=p_2$ is a barrier / walled medium separating / protecting $x_2=b_2=p_3$ from $x_3=b_3=p_4$ but allowing passage by $x_4=p_1$ in environment / structure $x_5=b_4$.
+    - pipmulkla: $x_1=k_1=p_1$ lands on / at $x_2=k_2=p_2$ from origin $x_3=k_3=p_3$ from route $x_4=k_4$ by means $x_5=k_5$ having reached height $x_6=p_4$ with propellent $x_7=p_5$ by standard $x_8=m_3$.
+    - jajyjai: $x_1=jg_1$ grabs $x_2=jg_2=jm_1$ towards $x_3=jm_3$ away from $x_4=jm_4$ with $x_5=jg_3$ (part of $x_1$) at locus $x_6=jg_4$ (part of $x_2$).
+    - caltaiboi: $x_1=b_1=t_2$ is a sphere / ellipsoid with geometric shape $x_2=t_1=c_1$ occupied by / made of $x_3=b_2=c_2$.
+    - $x_1=p_1$ is a level / world / mini-world / map / world-part / universe, of universe $x_2=p_2=m_1$, with domain / sphere $x_3=m_2$ (for $x_1$) characterized by / defined by rules $x_4=m_3$ (for $x_1$), with parent universe of domain / sphere $x_5$ (for $x_2$) characterized by / defined by rules $x_6$ (for $x_2$)).
+    - pairlai: $x_1=k_1=p_2$ has score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$; $x_2$ is the score / rank of $x_1$ according to judge $x_3$.
+    - sfapailai: $x_1=k_1=p_2=s_2$ has penalty / is penalized with penalty / judgement $x_2=k_2=p_3=s_4$ for infraction $x_3=s_3$ by judge / evaluator / ranking $x_4=k_3=p_1=s_1$; $x_2$ is a penalty.
+    - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
+    - posxu'a: $x_1=xu_1=p_1$ claims ownership of $x_2=xu_2=p_2$ under property rights standard / law / custom / system of private exclusion / system of rights $x_3=p_3$; $x_1$ claims $x_2$.
+    - naltelgau: $x_1=g_1$ unlocks lock $x_2=g_2=s_1$, a lock / seal of / for sealing $x_3=s_2$ with/by locking mechanism $x_4=s_3$.
+    - zasyde'agau: $x_1=g_1$ pauses / makes to temporarily wait $x_2=g_2=d_1=z_1=z_2$ for / until $x_3=d_2$ at state $x_4=d_3$ before resuming / continuing / starting $x_5=d_4$ (activity / process), (with temporariness standard / expectant $x_6=z_3$); $x_1$ pauses / delays $x_2$.
+    - zasyde'a: $x_1=d_1=z_1$ is paused / pausing / temporarily waiting for / until $x_2=d_2$ at state $x_3=d_3$ before resuming / continuing / starting $x_4=d_4$ (activity / process), (with temporariness standard / expectant $x_6=z_3$); $x_1$ is paused / delayed.
+    - cfarefygau: $x_1=g_1$ restarts $x_3=g_2=c_1=k_2$, with repetition / recurrence / instance $x_3=k_1$, for the $x_4=k_3$'rd time; $x_1$ does $x_2$, a restart of $x_3$ for the $x_4$'th time.
+    - refcfagau: $x_1=g_1$ restarts $x_2=g_2=c_1=k_2$, with repetition / recurrence / instance $x_3=k_1$, for the $x_4=k_3$'rd time.
+    - jbovlaste me'au: abstract sumti predicate to selbri conversion; combine with {la'e} for general conversion from strings.
+    - jbovlaste me'ei: inverse of {me'au}.
+    - kelcrdaumtce: $x_1$ (players / mass) plays checkers in game / instance $x_2$, with checkers standard / variant $x_3$.
+    - kelcrtcesranjmu: $x_1$ (players / mass) plays chess in game / instance $x_2$, with chess standard / variant $x_3$.
+    - jbovlaste rlpowell: kanpe: _
+    - kritikti'i: $x_1=stid_1=stik_1$ is a hint / clue for / that $x_2=stid_2=stik_2=k_2$ (belief / declaration / state / discovery) to $x_3=stid_3=k_1$ (person / believer) for / about $x_4=k_3$ (topic or subject of clue) with clue strength / clarity / amount $x_5=stik_3$; $x_1$ is a hint that $x_2$ to $x_3$ about $x_4$ of strength / size $x_5$.
+    - cadyselcu'a: $x_1=cu_2$ is the default / choice when not overridden by $x_2=cu_1=ca_2$ among alternatives / options $x_3=cu_3$.
+    - bityzba: $x_1=b_1=z_1$ ensures $x_2=z_2=b_2$ is true / the case by doing / with means / with proof $x_3=z_3$; $x_1$ makes certain $x_2$.
+    - kupkla: $x_1=kl_1=ku_1$ reaches $x_2=kl_2=ku_2$ from $x_3=kl_3$ via route $x_4=kl_4$ using means / vehicle $x_5=kl_5$.
+    - tu'e'ei: General-purpose left-bracket for arbitrary grouping of Lojban text; start highlight / selection marker.
+    - tu'u'o: General-purpose right-bracket for arbitrary grouping of Lojban text; end highlight / selection marker.
+    - pruma'ufa'o: $x_1=f_1=p_1$ is an abortion / premature end of $x_2=f_2=m_1$ before maturity $x_3=m_2$; $x_2$ aborts / is aborted / ends pre-maturely.
+    - xakmu'o: $x_1=m_1=xa_2$ is exhausted / depleted / completely consumed by $x_2=xa_2$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
+    - selva'i: $x_1=v_2$ is a resource / good / asset / worthy / valuable to $x_3=v_3$ with value / worth $x_1=v_1$ for goal / use / end / appreciation / purpose / value / end-factor $x_4=v_4$; $x_1$ is a resource / is valued at / a good with value $x_2$ to $x_3$ for $x_4$.
+    - velva'i: $x_1=v_4$ is a goal / use / end / appreciation / purpose / objective / value / value composite / end-factor, for which $x_2=v_2$ has value / worth $x_4=v_3$ to $x_3=v_1$; $x_1$ is a value / value composite.
+    - terva'i: $x_1=v_3$ values $x_2=v_2$ as / at $x_3=v_1$ for goal / use / end / appreciation / purpose / value / end-factor $x_4=v_4$.
+    - datnyxra: $x_1=p_1=d_1$ are the graphics / digital imagery / visuals, showing $x_2=p_2$, of / about $x_3=d_2$ gathered by method / made by means $x_4=d_3$ and made by artist $x_5=p_3$ in medium $x_6=p_4$.
+    - laurselylai: $x_1=k_2$ is the audial volume / degree of loudness of $x_2=k_1=c_1$ at observation point $x_3=c_2$ on scale / by standard $x_4=k_3=c_3$.
+    - xadyxai: $x_1=xr_1$ assaults / causes bodily injury / harm / physical damage to the body / manifestation $x_2=xa_1$ of $x_3=xr_2=xa_2$ in property $x_4=xr_3$ resulting in injury $x_5=xr_4$; $x_1$ assaults $x_3$.
+    - cupterplo: $x_1=p_3$ is a lap of / back-fold / circuit traversal / reconnector around $x_2=p_2=c_1$ (e.g. circuit) by folding force / connector / upholder $x_3=p_1$ of loop / circuit substance / material $x_4=c_2$.
+    - stuxadlaxterbi'a: $x_1=b_3$ is the disease / condition of vertigo, with impaired bodily balance $x_2=b_2=l_1=xa_1=s_2$, experiencing false movement / swirling $x_3=l_2=s_1$, experienced by $x_4=b_1=xa_2$.
+    - jai'a'a: {jai} variant but as {zo'ei} rather than {tu'a}.
+    - jincarna: $x_1=c_1$ revolves around $x_2=c_2$ in path $x_3=d_1$ with inside radius $x_3=d_3$ and outside radius $x_4=d_4$ towards direction $x_5=c_3$, turning angular distance / to face point $x_6=c_4$, with revolution path material / substance $x_7=d_2$.
+    - derived from jbovlaste totus: crakla: $x_1=k_1$ advances to $x_2=k_2=c_1$ from $x_3=k_3=c_2$ via $x_4=k_4$ using means/vehicle $x_5=k_5$ in frame of reference $x_6=c_3$.
+    - derived from jbovlaste Ilmen: mroru'i: $x_1=p_1$ is a ghost, of (deceased) $x_2=m_1$.
+    - jbovlaste grekla: enter/exit
+    - derived from jbovlaste arj: mo'isro: $x_1=s_1$ is the memory of / a memory storage / anamnesis of remeberer $x_2=m_1$ of memories / facts / data / recollection $x_3=s_2=m_2$ about / related to subject $x_4=m_3$ in containment / storage medium / method / type / substrate $x_5=s_3$; $x_1$ is the memory of $x_2$'s with memories $x_3$ about $x_4$ in medium $x_5$.
+    - zmaraigau: $x_1=g_1$ maximizes $x_2=t_1=z_1$ in property $x_3=t_2=z_3$ towards extreme $x_4=t_3$ among $x_5=t_4=z_2$ by amount / excess $x_6=z_4$.
+    - mecraigau: $x_1=g_1$ minimizes $x_2=t_1=m_1$ in property $x_3=t_2=m_3$ towards extreme $x_4=t_3$ among $x_5=t_4=m_2$ by amount $x_6=m_4$.
+    - temymre: $x_1=m_1$ is a timer measuring $x_2=m_2$ (e.g. event) as $x_3=m_3=t_1$ long / elapsed time units / time-duration / interval / period from time / event $x_4=t_2$ to time / event $x_5=t_3$ on scale $x_6=m_4$, with accuracy $x_7=m_5$; $x_1$ is a timer for $x_2$.
+    - temsarxe: $x_1=s_1=t_1$ has timing / synchronization with $x_2=s_2$ in property / aspect / way $x_3=s_3$ from time / event $x_4=t_2$ to time / event $x_5=t_3$.
+    - vamraigau: $x_1=g_1$ optimizes $x_2=g_2=t_1=v_2$ in aspect / in terms of / in property / value $x_3=t_2=v_1$ for subjective / agent $x_4=v_3$ for goal / end / use / appreciation $x_5=v_4$ towards extreme of property / as xth-most $x_6=t_3$ among $x_7=t_4$; $x_2$ is made optimal among $x_7$.
+    - vamrai: $x_1=t_1=v_2$ is optimal / most valuable in aspect / in terms of / in property / value $x_2=t_2=v_1$ for subjective / agent $x_3=v_3$ for goal / end / use / appreciation $x_4=v_4$ towards extreme of property / as xth-most $x_5=t_3$ among $x_6=t_4$; $x_1$ is optimal among $x_6$.
+    - mansyraigau: $x_1=g_1$ optimizes / makes $x_2=g_2=t_1=m_1$ optimal / to best satisfy evaluator $x_3=m_2$ in property / state $x_4=t_2=m_3$ towards extreme $x_5=t_3$ among $x_6=t_5$; $x_2$ is optimal among $x_6$.
+    - mansyrai: $x_1=t_1=m_1$ is optimal / best satisfies evaluator $x_2=m_2$ in property / state $x_3=t_2=m_3$ towards extreme $x_4=t_3$ among $x_5=t_5$; $x_1$ is optimal among $x_5$.
+    - TODO snapshot?
+    - javdunmau: $x_1=z_1=d_1$ is equal to or greater than $x_2=z_2=d_2$ in property / dimension / quantity $x_3=z_3=d_3$ by amount / excess $x_4=z_4$; $x_1$ is at least $x_2$.
+    - javdunme'a: 
+    - jbovlaste gleki: amfite'atro
+    - jbimau: $x_1=z_1=j_1$ is closer to $x_2=j_2$ than $x_3=z_2$ is in property / quantity $x_4=j_3=z_3$ by amount / excess $x_5=z_4$.
+    - jbirai: $x_1=t_1=j_1$ is closest to $x_2=j_2$ in property / quantity $x_3=j_3=t_2$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; among $x_5$, $x_1$ is closest to $x_2$.
+    - juxyjicla: $x_1=ji_1$ scrambles / mangles $x_2=ji_2=ju_1$ by standard $x_3=ju_3$.
+    - jbovlaste Qimar: damvaxtu'u: t1 is a pipe for inhaling burned substance d1 used by v1 made of material t2.
+    - jbovlaste selpahi: si'au: evidential for {simlu} (UI2)
+    - xu'ai: evidential: I declare - I submit
+    - jbovalste noralujv: tanbargu: b1 is a rainbow at location b2=t2, made of water droplets b3.
+    - jbovlaste xsznix: zukyde'a: z1=d1 is hesitant/is reluctant/hesitates/lingers in employing means/taking action z2=d4 because of z3, waiting until d2 at state d3
+    - sai'au: evidential: I guess
+    - ju'a'ei: Evidential builder; convert arbitrary bridi to UI2 with the grammar of {sei}.
+    - temsaxygau: $x_1=g_1$ synchronizes / times $x_2=g_2=s_1=t_1$ with $x_3=s_2$ in property / aspect / way $x_4=s_3$ from time / event $x_5=t_2$ to time / event $x_6=t_3$.
+    - sikyju'e: $x_1=j_1=s_1$ is a web / spider's web / network or interconnected structure resembling a web, produced by $x_2=s_2$, allowing passage of / including $x_3=j_2$, prohibiting passage of / excluding $x_4=j_3$, web properties $x_5=j_4$.
+    - ki'irxu'a: $x_1=xu_1$ assigns / attributes $x_2=c_1$ to $x_3=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_3$ as $x_2$.
+    - smuki'ixu'a: $x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_2=c_1=s_1$ to $x_3=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
+    - temfa'o: $x_1=f_1=t_3$ is the expiration / end of lifetime of $x_2=f_2$ with lifetime $x_3=t_1$ from $x_4=t_2$ to $x_1$; $x_1$ expires; $x_2$ has a lifetime (possibly infinite).
+    - $x_1=c_1=z+1$ gains / obtains / increases in $x_2=c_2=z_2$ by amount / quality $x_3=z_3$ from source $x_4=c_3$; $x_1$ gains $x_2$.
+    - $x_1=c_1=z_1$ gains / obtains / increases in $x_2=c_2=z_2$ by amount / quality $x_3=z_3$ from source $x_4=c_3$; $x_1$ gains $x_2$.
+    - nalmucti: $x_1=m_1$ is physical / tangible / material.
+    - stufa'i: $x_1=f_1$ has orientation / is oriented with locations / qualities / aspects / facts $x_2=f_2=s_1$ of components / environment $x_3=f_3=s_2$.
+    - pabykanpystika: $x_1=s_1$ is evidence for $x_2=k_2$ with evidence strength $x_3=s_3=p_1$ (numerator $x_4=p_2$, denominator $x_5=p_3$, believer $x_6=k_1$, new odds $x_7=k_3$, old odds $x_8=s_2$); $x_1$ is Bayesian evidence for belief / prediction / hypothesis $x_2$, with evidence magnitude / strength (and direction), as a likelihood ratio as odds, $x_3$ since the hypothesis predicts the evidence to degree / with probability $x_4$ and since not-hypothesis predicts the evidence to degree / with probability $x_5$, updating $x_6$'s belief strength / odds / confidence to posterior odds / new confidence $x_7$ from prior odds / old confidence $x_8$; $x_1$ is evidence for $x_2$ with evidence strength and direction $x_3$ due to how much better (or worse) the hypothesis predicts the evidence (amount $x_4$) than not-hypothesis predicts the evidence (amount $x_5$), according to knowledge / truth / subjective probability judge / assigner / evaluator $x_6$, who after accounting for the evidence has odds in the hypothesis $x_7$ after prior odds $x_8$.
+    - derived from jbovlaste k1234567890y (perhaps something as rigorous as Bayes' rule could be developed, but until I learn it, I can just use this): jagri'a: $x_1=r_1=j_2$ is a factor / contributing cause / effectual part of effect $x_2=r_2=j_1$ under conditions $x_3=r_3$.
+    - famli'a: $x_1=c_1=f_1$ quits / abandons / renounces $x_2=c_2=f_1$ via route $x_3=c_3$.
+    - toisti: $x_1=s_1=t_1$ gives up / abandons / stops trying to do / attain $x_2=s_2=t_2$ by means / actions / method $x_3=t_3$.
+    - proradyxarnysti: $x_1=s_1=r_1$ abandons / surrenders / gives up / relinquishes control / influence of $x_2=s_2=xa_1$ to $x_3=xa_3=r_2$ concerning / in matter / property $x_4=xa_3=f_3$ under conditions $x_5=r_3$.
+    - nupmulgau: $x_1=g_1$ follows through / is faithful on / fulfills / makes good on $x_2=n_1$'s promise / claim / threat of $x_3=g_2=m_1=n_2$ to $x_4=n_3$ in aspect $x_5=m_2$ by standard $x_6=m_3$.
+    - nupmu'o: $x_1=n_1$'s promise of $x_2=m_1=n_2$ to $x_3=n_3$ is fulfilled in aspect $x_4=m_2$ by standard $x_5=m_3$; $x_1$ is faithful.
+    - ra'erprogau: $x_1=g_1=f_1=r_1$ cancels / revokes / invalidates / withdraws from / [reverses] $x_2=g_2=f_2=r_2$ about / concerning $x_3=f_3$.
+    - nupra'eprogau: $x_1=g_1=f_1$ cancels promise / renounces / reneges / repudiates / abandons $x_2=r_1=n_1$'s promise / threat of $x_3=g_2=r_2=n_2$ to $x_4=n_3$ about / concerning $x_5=f_3$.
+    - zmanonpuksajyfri: $x_1=l_1=s_1=p_2$ experience pleasure / hedonic positive experience / qualia $x_2=l_2=s_2=p_1=z_1=z_3$ to degree $x_3=z_4$ (relative to hedonic zero) under conditions $x_4=p_3$; $x_2$ is pleasure.
+    - mecnonjvecorsajyfri: $x_1=l_1=s_1=c_1$ experience suffering / pain / hedonic negative experience / qualia $x_2=l_2=s_1=c_2=m_1=m_3$ to degree $x_3=m_4$ (relative to hedonic zero); $x_2$ is (the experience of) suffering.
+    - baunpli: $x_1$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2$ for text / purpose / to express / communicate $x_3$; $x_1$ is using / declaring language / language extension $x_2$.
+    - jbovlaste arj: genturfa'i: parse
+    - jvatinsa: $x_1=t_1$ is strict / rigorous / particular, to standards / rules / codes $x_2=j_1$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, in aspect / perspective $x_5=t_2$ against non-conformance / exclusions $x_6=t_3$ under conditions $x_7=t_4$; $x_1$ is rigorous for rule $x_2$ requiring / specifying $x_3$.
+    - jvatinsa: $x_1=t_1$ is strict / rigorous / particular, to standards / rules / codes $x_2=j_1$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, in aspect / perspective $x_5=t_2$ against non-conformance / exclusions $x_6=t_3$ under conditions $x_7=t_4$; $x_1$ is rigorous for rule $x_2$ requiring / specifying $x_3$.
+    - jvatinsycoldu'e: $x_1=t_1=d_1$ is pedantic for standards / rules / codes $x_2=j_1=d_2$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, overly rigid by standard $x_5=d_3$, in aspect / perspective $x_6=t_2$ against non-conformance / exclusions $x_7=t_3$ under conditions $x_8=t_4$; $x_1$ is pedantic for rule $x_2$ requiring / specifying $x_3$.
+    - xadysku: $x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
+    - baupli: $x_1=b_2=p_1$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2=b_1=p_2$ for text / purpose / to express / communicate $x_3=b_3=p_3$; $x_1$ is using / declaring language / language extension $x_2$.
+    - vajraipavmompoi: $x_1=p_1$ is a big-endian / most-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3$, with most-significant item $x_4=t_1=v_1$ first, most important to $x_5=t_2=v_2$ in property / aspect $x_6=v_3$, towards extreme / as xth-most $x_7=t_3$ among $x_8=t_4$.
+    - vairteryraipavmompoi: $x_1=t_3$ [ka zmadu or ka mleca] is the endianness / orientation of most-vs-least-significant-first of sequence $x_2=p_1$ with ordering $x_3=p_2$ on set $x_4=p_3=t_4$, with most/least-significant item $x_5=t_1=v_1$ first, most important to $x_6=t_2=v_2$ in property / aspect $x_7=v_3$.
+    - vajymecyboryraipavmompoi: $x_1=p_1$ is a little-endian / least-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3$, with least-significant item $x_4=t_1=m_1=v_1$ first, least important to $x_5=t_2=m_3=v_2$ in property / aspect $x_6=v_3$, towards extreme / as xth-least $x_7=t_3$ among $x_8=t_4=m_2$ (least significant by amount $x_9=m_4$).
+    - pornvajli'e: $x_1$ is a big-endian / most-significant-first sequence with ordering $x_2$ on set $x_3$, with most-significant item $x_4$ first, most important to $x_5$ in property / aspect $x_6$, towards extreme / as xth-most $x_7$ among $x_8$.
+    - pornvaije'i: $x_1$ is a little-endian / least-significant-first sequence with ordering $x_2$ on set $x_3$, with least-significant item $x_4$ first, least important to $x_5$ in property / aspect $x_6$, towards extreme / as xth-least $x_7$ among $x_8$ (least significant by amount $x_9$).
+    - pornternrai: $x_1$ [ka zmadu or ka mleca] is the endianness / orientation of most-vs-least-significant-first of sequence $x_2$ with ordering $x_3$ on set $x_4$, with most/least-significant item $x_5$ first, most important to $x_6$ in property / aspect $x_7$.
+    - vajli'epoi: $x_1=p_1$ is a big-endian / most-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3=l_2$, with most-significant item $x_4=l_1=v_1$ first, most important to $x_5=v_2$ in property / aspect $x_6=v_3$.
+    - vajyje'ipoi: $x_1=p_1$ is a little-endian / least-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3=j_2$, with least-significant item $x_4=j_1=v_1$ first, least important to $x_5=v_2$ in property / aspect $x_6=v_3$.
+    - teryraipoi: $x_1=r_3$ [ka zmadu or ka mleca] is the endianness / orientation of most-vs-least-significant-first of sequence $x_2=p_1$ with ordering $x_3=p_2$ on set $x_4=p_3=t_4$, with most/least-significant item $x_5=t_1$ first in aspect $x_6=t_2$.

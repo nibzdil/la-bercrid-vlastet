@@ -10,7 +10,7 @@ to multcu toi
 ## nu po'ecru
 (Licensing.)
 
-po'ecru lonu pilno ro lo se vasru be lovi storveipa'o kei  la'oi LICENSE.0BSD noi ri vasru  zi'e noi datnyvei
+po'ecru lonu pilno ro lo se vasru be lovi stoveipa'o kei  la'oi LICENSE.0BSD noi ri vasru  zi'e noi datnyvei
 (All contents of this repository are licensed under the terms of LICENSE.0BSD.)
 
 .i zifre mulno gi'e na binra jake pleji bilga dunda
