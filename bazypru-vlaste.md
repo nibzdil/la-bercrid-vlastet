@@ -36,7 +36,8 @@
     - fraseljimca: $x_1=j_2=f_1$ is a switch with branches / for toggling $x_2=j_1=f_2$ triggered by $x_3=f_3$ under conditions $x_4=f_4$.
     - marbartu: $x_1=b_1=m_2$ does not conform to / obey standard $x_2=b_2=m_2$ with rules $x_3=m_3$; $x_1$ is nonstandard / experimental / non-comformant.
     - martinbe: $x_1=t_1=m_2$ conforms to / is compliant with standard $x_3=t_3=m_1$ with rules $x_2=t_2=m_3$; $x_1$ is standard.
-    - lo mutcu zo'u: setnaldicra: directly (or ‘layer remain’)
+    - setsta: $x_1=st_1$ is direct / directly $x_2=st_2=se_3$, with single / clear relationship / step $x_3=se_1$ of type $x_4=se_2$; $x_1$ is straightforward / without layered interruption.
+    - setseldicra: $x_1=d_2=st_1$ is indirect / indirectly $x_2=d_1=se_3$, with layers / steps $x_3=se_1$ of type / material / manifestation $x_4=se_2$ separate / interrupted from the direct layer due to quality $x_5=d_3$.
     - lo mutcu zo'u: ci'o'ei: convert arbitrary bridi to UI
     - lo mutcu zo'u: ma'o'ei: With meaning / function.  Take the cmavo preceding as the selma'o, and convert the arbitrary bridi following it to give it meaning or function.
     - lo mutcu zo'u: jbovlaste ilmen's lo'oi
