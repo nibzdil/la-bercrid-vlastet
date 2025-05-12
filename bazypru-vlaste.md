@@ -160,3 +160,4 @@
     - vajli'epoi: $x_1=p_1$ is a big-endian / most-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3=l_2$, with most-significant item $x_4=l_1=v_1$ first, most important to $x_5=v_2$ in property / aspect $x_6=v_3$.
     - vajyje'ipoi: $x_1=p_1$ is a little-endian / least-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3=j_2$, with least-significant item $x_4=j_1=v_1$ first, least important to $x_5=v_2$ in property / aspect $x_6=v_3$.
     - teryraipoi: $x_1=r_3$ [ka zmadu or ka mleca] is the endianness / orientation of most-vs-least-significant-first of sequence $x_2=p_1$ with ordering $x_3=p_2$ on set $x_4=p_3=t_4$, with most/least-significant item $x_5=t_1$ first in aspect $x_6=t_2$.
+    - geirzdi: $x_1=z_1=g_1$ is fun, to $x_2=z_2=g_2$ in property / aspect $x_3=z_3$.
