@@ -165,3 +165,4 @@
     - vajyje'ipoitau: $x_1=t_1=p_2=p_3=j_2=v_2$ is a little-endian / least-significant-first tanru formed with $x_2=t_2$ modifying $x_3=t_3=j_1=v_1$, giving meaning $x_4=t_4$ in usage/instance $x_5=t_5=v_3$.
     - co'i'e'au'i: Shorthand for «sei baunpli be la vajli'epoitau»; with big-endian tanru (reversed from CLL Lojban).
     - co'e'i'au'i: Shorthand for «sei baunpli be la vajli'epoitau»; with little-endian tanru (same as CLL Lojban).
+    - jbenunsla: $x_1=n_1$ is the birthday celebration with celebrators $x_2=s_1$ of $x_3=s_2=j_1$, born to $x_4=j_2$ at time [birthday] $x_5=j_3$ and place $x_6=j_4$, with birthday party $x_7=s_3$.
