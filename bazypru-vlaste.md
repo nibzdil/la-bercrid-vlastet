@@ -166,3 +166,11 @@
     - co'i'e'au'i: Shorthand for «sei baunpli be la vajli'epoitau»; with big-endian tanru (reversed from CLL Lojban).
     - co'e'i'au'i: Shorthand for «sei baunpli be la vajli'epoitau»; with little-endian tanru (same as CLL Lojban).
     - jbenunsla: $x_1=n_1$ is the birthday celebration with celebrators $x_2=s_1$ of $x_3=s_2=j_1$, born to $x_4=j_2$ at time [birthday] $x_5=j_3$ and place $x_6=j_4$, with birthday party $x_7=s_3$.
+    - lo multcu zo'u: selrikcuxselka'e: x1 is private / opt-outable, e.g. patents, or something.  (ko viska lo meli 2025-05-14 notci)
+    - lo multcu zo'u: worthwhile (ko viska lo meli 2025-05-14 notci)
+    - lo multcu zo'u: jbofu'ivlafavytsi (ko viska lo meli 2025-05-13 notci) .i ma xamgu tadji lonu valsi finti
+    - lo multcu zo'u: jagri'a pensi: sezo'u'e: lo sidbo zo'u: heat-soaking arm, for spatula / tongs?  Is there a better way to do this?  (This is in spite of, it's possible (I don't know yet; haven't looked) that after you research the etymology of ‘spatula’, perhaps it's relatively more fitting among words for a fu'ivla word creation, and you can still make a lujvo anyway.)
+    - lo multcu zo'u: bevtisna (to zo'oi Loading… toi)
+    - lo multcu zo'u: zo'oi Trustee
+    - (multcu co benji) plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function] $x_2=j_2=pu_2=pi_2$ to [input] $x_3=pu_3$.
+    - (multcu co benji) bevtisna: $x_1=b_1$ loads cargo / data $x_2=t_2=b_2$ to $x_3=t_1=b_3$ from $x_4=b_4$ over path $x_5=b_5$; $x_1$ is loading.
