@@ -172,7 +172,6 @@
     - lo multcu zo'u: jagri'a pensi: sezo'u'e: lo sidbo zo'u: heat-soaking arm, for spatula / tongs?  Is there a better way to do this?  (This is in spite of, it's possible (I don't know yet; haven't looked) that after you research the etymology of ‘spatula’, perhaps it's relatively more fitting among words for a fu'ivla word creation, and you can still make a lujvo anyway.)
     - lo multcu zo'u: bevtisna (to zo'oi Loading… toi)
     - lo multcu zo'u: zo'oi Trustee
-    - (multcu co benji) plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function] $x_2=j_2=pu_2=pi_2$ to [input] $x_3=pu_3$.
     - tisybei: $x_1=b_1$ loads cargo / data $x_2=t_2=b_2$ to $x_3=t_1=b_3$ from $x_4=b_4$ over path $x_5=b_5$; $x_1$ is loading.
     - tol multcu zo'u: audience (to'e sucta be lu «seka'a» li'u), medium
     - ki'irmapti: $x_1=m_1=k_1$ corresponds to / is as $x_2=m_2=k_2$ in property / aspect $x_3=m_3=k_3$ by standard $x_4=m_4$.
@@ -180,3 +179,5 @@
     - semai'ai: ki'irmapti modal, 2nd place (relational correspondence) as …
     - temai'ai: ki'irmapti modal, 3rd place (relational correspondence) corresponding in property / aspect …
     - vemai'ai: ki'irmapti modal, 4th place (relational correspondence) corresponding by standard …
+    - plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
+    - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
