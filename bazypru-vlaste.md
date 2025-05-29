@@ -181,3 +181,4 @@
     - vemai'ai: ki'irmapti modal, 4th place (relational correspondence) corresponding by standard …
     - plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
     - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
+    - fa'u'i: sumti place tag: apply arbitrary sumti application or termset
