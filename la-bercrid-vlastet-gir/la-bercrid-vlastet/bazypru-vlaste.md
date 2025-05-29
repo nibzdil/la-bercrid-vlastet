@@ -182,3 +182,6 @@
     - plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
     - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
     - fa'u'i: sumti place tag: apply arbitrary sumti application or termset
+    - jbovlaste jongausib: setpistabno: $s_1=p_2=t_1$ is a quantity of/contains/is made of graphene.
+    - jbovlaste jongausib: pistabno: $p_2=t_1$ is a quantity of/contains/is made of graphite.
+    - ca'arsacki: $x_1=s_1=c_1$ is a lighter / sparker / ignition device for function / fire / purpose $x_2=c_2$ controlled/[triggered] by $x_3=c_3$ and made of / fueled by $x_4=s_2$.
