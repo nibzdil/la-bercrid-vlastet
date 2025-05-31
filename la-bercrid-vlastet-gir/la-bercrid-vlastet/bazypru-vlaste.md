@@ -185,3 +185,22 @@
     - jbovlaste jongausib: setpistabno: $s_1=p_2=t_1$ is a quantity of/contains/is made of graphene.
     - jbovlaste jongausib: pistabno: $p_2=t_1$ is a quantity of/contains/is made of graphite.
     - ca'arsacki: $x_1=s_1=c_1$ is a lighter / sparker / ignition device for function / fire / purpose $x_2=c_2$ controlled/[triggered] by $x_3=c_3$ and made of / fueled by $x_4=s_2$.
+    - retpei:
+        smuni: $x_1=pe_1=pr_3$ wonders [whether] / [ponders] $x_2=pr_1$ about $x_3=pe_2=pr_2$, (wondering towards $x_4=pr_4$).
+        notci:
+          A derivation of the more general and vague gismu {preti} to a more specific
+          meaning, in this case as a lujvo (which can take fu'ivla components through
+          -(')y(')- hyphens) rather than fu'ivla (which makes making synonym variants
+          through changing the word easier).
+        cmeta notci: na jmina fi la jbovlaste
+    - jbovlaste camgusmis: kanpe:
+        cmeta notci: mi nelci lonu na pilno lo valsi poi marbartu ku'o pu lonu bazycuxlanli ri
+    - jbovlaste krtisfranks: cmeta:
+        cmeta notci: mi nelci lonu na pilno lo valsi poi marbartu ku'o pu lonu bazycuxlanli ri
+    - bazycuxlanli: $x_1=l_1=c_1$ vets / makes determination about adequecy / investigates $x_2=l_2=c_2=b_1$ for purpose $x_3=b_2$ (under conditions / in context $x_4=b_3$ among options $x_5=c_2$) by means $x_6=l_3$.
+        notci: See also: {zanru}, {cmicu'a}, {pajni}.
+        smuvelckivla: vet;make adequacy determination, investigate:vet
+    - jbovlaste rspeer: cmicu'a: $cm_1=cu_1$ votes for $cu_2$ among choices $cu_3$ in voting group $cm_2$.
+    - jbovlaste totus: paijdi
+    - jbovlaste totus: pairseljdi
+    - jbovlaste krtisfranks: smuvelckivla: $x_1$ (text) is a gloss word/keyword (or phrase) for the meaning of $x_2$ (du'u/text)  in language $x_3$
