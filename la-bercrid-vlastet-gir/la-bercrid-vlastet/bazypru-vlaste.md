@@ -143,7 +143,7 @@
     - nupra'eprogau: $x_1=g_1=f_1$ cancels promise / renounces / reneges / repudiates / abandons $x_2=r_1=n_1$'s promise / threat of $x_3=g_2=r_2=n_2$ to $x_4=n_3$ about / concerning $x_5=f_3$.
     - zmanonpuksajyfri: $x_1=l_1=s_1=p_2$ experience pleasure / hedonic positive experience / qualia $x_2=l_2=s_2=p_1=z_1=z_3$ to degree $x_3=z_4$ (relative to hedonic zero) under conditions $x_4=p_3$; $x_2$ is pleasure.
     - mecnonjvecorsajyfri: $x_1=l_1=s_1=c_1$ experience suffering / pain / hedonic negative experience / qualia $x_2=l_2=s_1=c_2=m_1=m_3$ to degree $x_3=m_4$ (relative to hedonic zero); $x_2$ is (the experience of) suffering.
-    - baunpli: $x_1$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2$ for text / purpose / to express / communicate $x_3$; $x_1$ is using / declaring language / language extension $x_2$.
+    - baunpli: $x_1$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2$ with scope / for text / purpose / to express / communicate $x_3$; $x_1$ is using / declaring language / language extension $x_2$.
     - jbovlaste arj: genturfa'i: parse
     - jvatinsa: $x_1=t_1$ is strict / rigorous / particular, to standards / rules / codes $x_2=j_1$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, in aspect / perspective $x_5=t_2$ against non-conformance / exclusions $x_6=t_3$ under conditions $x_7=t_4$; $x_1$ is rigorous for rule $x_2$ requiring / specifying $x_3$.
     - jvatinsa: $x_1=t_1$ is strict / rigorous / particular, to standards / rules / codes $x_2=j_1$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, in aspect / perspective $x_5=t_2$ against non-conformance / exclusions $x_6=t_3$ under conditions $x_7=t_4$; $x_1$ is rigorous for rule $x_2$ requiring / specifying $x_3$.
@@ -211,3 +211,9 @@
     - dempau: $x_1=p_1=d_3$ is a dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is a concentration / thesis statement / [summary] / [overview] / [abstract] / [important component].
     - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
     - basnypau: $x_1=p_1=b_2$ is a highlight / emphasized part of $x_2=p_2$, emphasized by $x_3=b_1$ by (action) $x_4=b_3$.
+    - co'i'e: contraction of co'i'e'au'i; use big-endian tanru (reverse of CLL Lojban)
+    - co'e'i: contraction of co'e'i'au'i; use little-endian tanru (CLL Lojban order)
+    - ve'i'ai: indicate short scope; alias for «sei diklo be lo tordu».
+    - ve'a'ai: indicate moderate scope; alias for «sei diklo be lo mijycla».
+    - ve'u'ai: indicate long scope; alias for «sei diklo be lo clani».
+    - ve'o'ai: indicate default scope; eliminate previous scope overrides; alias for «sei diklo be lo cadyselcu'a».
