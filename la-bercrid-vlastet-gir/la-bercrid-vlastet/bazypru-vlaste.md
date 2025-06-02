@@ -9,7 +9,7 @@
                 - fukfadmupli: x1=fu2=fa1=m1 is a template of property x2=fa2=m2 in context/set x3=fa3=m3 in form/medium x4=fu3
                 - xu'asmu: x1=xu2=s1 is a definition of x2=xu2=s2 given by/according to x3=xu1=s3
                 - cmavlanoi: x1=c1=v1=no is a gloss / short linguistic annotation of x2=n2 in language x3=v3 (by author x4=n3 for audience/users/interpreters x5=n4 by standard x6=c3).
-                - dempau: x1=d1=p1 is a summary/compression of x2=p2 selecting for highlights x3=p2 (from places x4=d3); x1 is an overview / abstract.
+                - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
                 - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
                 - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
 - vlaste (vocabulary):
@@ -20,7 +20,6 @@
     - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
     - fukfadmupli: $x_1=m_1=fa_1=fu_2$ is a template / prototype / role-model of property $x_2=m_2=fa_2$ for derivatives / influenced $x_3=m_3=fa_3=fu_1$ in form / medium $x_4=fu_3$ made by method $x_5=fu_4$.
     - xu'asmu: $x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.
-    - dempau: $x_1=p_1=d_3$ is a summary / brief / dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is an overview / abstract / concentration.
     - jbovlaste krtisfranks: smuvelckivla: $x_1$ (text) is a gloss word/keyword (or phrase) for the meaning of $x_2$ (du'u/text)  in language $x_3$
     - (lo multcu zo'u: ¿xu jagri'a pensi stidi?) jbofu'ivlafavytsi: x1=fu1=v1=fu'ivla1=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3). (ji'a nitcu lo nu jmina lumci ja spali)
     - lo mutcu zo'u: lo valsi be lo xe fanva be zo'oi submit
@@ -204,3 +203,11 @@
     - jbovlaste totus: paijdi
     - jbovlaste totus: pairseljdi
     - jbovlaste krtisfranks: smuvelckivla: $x_1$ (text) is a gloss word/keyword (or phrase) for the meaning of $x_2$ (du'u/text)  in language $x_3$
+    - i'oi: modify preceding cmavo to not cross bridi; require its terminator by the next «i».
+    - i'oi'a'o: require preceding cmavo is terminated before the next occurence of the word following; attach an omitted terminator to next …
+    - jbovlaste arj: zo ja'ai
+    - jbovlaste guskant: zo lau'i .e zo nu'oi .e zo pu'ei .e zo ca'ai .e zo ja'ai
+    - i'oi'a: merge block until (elidable) terminator; make the terminator for the preceding cmavo duplicated.
+    - dempau: $x_1=p_1=d_3$ is a dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is a concentration / thesis statement / [summary] / [overview] / [abstract] / [important component].
+    - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
+    - basnypau: $x_1=p_1=b_2$ is a highlight / emphasized part of $x_2=p_2$, emphasized by $x_3=b_1$ by (action) $x_4=b_3$.
