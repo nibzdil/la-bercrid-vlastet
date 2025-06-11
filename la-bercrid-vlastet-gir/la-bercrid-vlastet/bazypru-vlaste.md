@@ -40,10 +40,9 @@
     - lo mutcu zo'u: ci'o'ei: convert arbitrary bridi to UI
     - lo mutcu zo'u: ma'o'ei: With meaning / function.  Take the cmavo preceding as the selma'o, and convert the arbitrary bridi following it to give it meaning or function.
     - lo mutcu zo'u: jbovlaste ilmen's lo'oi
-    - koi'au: kancau modal, 1st place (individually; separately) with individuals …
-    - sekoi'au: kancau modal, 2nd place (individually; separately) separately from …
-    - tekoi'au: kancau modal, 3nd place (individually; separately) separately in context …
-    - pavdu'i: $d1$ is unique in property/dimension/quantity/aspect $d3$.
+    - koi'au: karncau modal, 1st place (individually; separately) with individuals …
+    - sekoi'au: karncau modal, 2nd place (individually; separately) separately from …
+    - tekoi'au: karncau modal, 3nd place (individually; separately) separately in context …
     - jo'u'e: Generalized prenex/topic separator/joiner; such that …
     - to'o'e: Apply Lojban text to an unspecified point in text.
     - ma'ai: mansa modal, 1st place (satisfying evaluator) satisfied by …
@@ -143,13 +142,13 @@
     - nupra'eprogau: $x_1=g_1=f_1$ cancels promise / renounces / reneges / repudiates / abandons $x_2=r_1=n_1$'s promise / threat of $x_3=g_2=r_2=n_2$ to $x_4=n_3$ about / concerning $x_5=f_3$.
     - zmanonpuksajyfri: $x_1=l_1=s_1=p_2$ experience pleasure / hedonic positive experience / qualia $x_2=l_2=s_2=p_1=z_1=z_3$ to degree $x_3=z_4$ (relative to hedonic zero) under conditions $x_4=p_3$; $x_2$ is pleasure.
     - mecnonjvecorsajyfri: $x_1=l_1=s_1=c_1$ experience suffering / pain / hedonic negative experience / qualia $x_2=l_2=s_1=c_2=m_1=m_3$ to degree $x_3=m_4$ (relative to hedonic zero); $x_2$ is (the experience of) suffering.
-    - baunpli: $x_1$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2$ with scope / for text / purpose / to express / communicate $x_3$; $x_1$ is using / declaring language / language extension $x_2$.
+    - baunpli: $x_1=p_1=b_2$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2=p_2=b_1$ with scope / for text / purpose / to express / communicate $x_3=p_3=b_3$; $x_1$ is using / declaring language / language extension $x_2$.
     - jbovlaste arj: genturfa'i: parse
     - jvatinsa: $x_1=t_1$ is strict / rigorous / particular, to standards / rules / codes $x_2=j_1$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, in aspect / perspective $x_5=t_2$ against non-conformance / exclusions $x_6=t_3$ under conditions $x_7=t_4$; $x_1$ is rigorous for rule $x_2$ requiring / specifying $x_3$.
     - jvatinsa: $x_1=t_1$ is strict / rigorous / particular, to standards / rules / codes $x_2=j_1$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, in aspect / perspective $x_5=t_2$ against non-conformance / exclusions $x_6=t_3$ under conditions $x_7=t_4$; $x_1$ is rigorous for rule $x_2$ requiring / specifying $x_3$.
     - jvatinsycoldu'e: $x_1=t_1=d_1$ is pedantic for standards / rules / codes $x_2=j_1=d_2$ prescribing / mandating / requiring $x_3=j_3$ within system / community $x_4=j_4$, overly rigid by standard $x_5=d_3$, in aspect / perspective $x_6=t_2$ against non-conformance / exclusions $x_7=t_3$ under conditions $x_8=t_4$; $x_1$ is pedantic for rule $x_2$ requiring / specifying $x_3$.
     - xadysku: $x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
-    - baupli: $x_1=b_2=p_1$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2=b_1=p_2$ for text / purpose / to express / communicate $x_3=b_3=p_3$; $x_1$ is using / declaring language / language extension $x_2$.
+    - baupli: $x_1=p_1=b_2$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2=p_2=b_1$ with scope / for text / purpose / to express / communicate $x_3=p_3=b_3$; $x_1$ is using / declaring language / language extension $x_2$.
     - vajraipavmompoi: $x_1=p_1$ is a big-endian / most-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3$, with most-significant item $x_4=t_1=v_1$ first, most important to $x_5=t_2=v_2$ in property / aspect $x_6=v_3$, towards extreme / as xth-most $x_7=t_3$ among $x_8=t_4$.
     - vairteryraipavmompoi: $x_1=t_3$ [ka zmadu or ka mleca] is the endianness / orientation of most-vs-least-significant-first of sequence $x_2=p_1$ with ordering $x_3=p_2$ on set $x_4=p_3=t_4$, with most/least-significant item $x_5=t_1=v_1$ first, most important to $x_6=t_2=v_2$ in property / aspect $x_7=v_3$.
     - vajymecyboryraipavmompoi: $x_1=p_1$ is a little-endian / least-significant-first sequence with ordering $x_2=p_2$ on set $x_3=p_3$, with least-significant item $x_4=t_1=m_1=v_1$ first, least important to $x_5=t_2=m_3=v_2$ in property / aspect $x_6=v_3$, towards extreme / as xth-least $x_7=t_3$ among $x_8=t_4=m_2$ (least significant by amount $x_9=m_4$).
@@ -217,3 +216,18 @@
     - ve'a'ai: indicate moderate scope; alias for «sei diklo be lo mijycla».
     - ve'u'ai: indicate long scope; alias for «sei diklo be lo clani».
     - ve'o'ai: indicate default scope; eliminate previous scope overrides; alias for «sei diklo be lo cadyselcu'a».
+    - pavdu'i: $d1$ is unique in property/dimension/quantity/aspect $d3$.
+    - karncau: $x_1=c_1=k_1$ is separate from / not with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is individual / alone / separate.
+    - tolykarncau: $x_1=c_1=k_1$ is together with / pluralistic with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is non-individual / joint.
+    - norykarncau: $x_1=c_1=k_1$ is individual or together with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is individual / non-individual / joint.
+    - lu'a'ei: alias for «lu'a ma'o'ei»; convert / quantify / interpret as …
+    - tolsra: $x_1=s_1$ opposes / is contrary to / against / hinders / [resists] $x_2=s_2$ towards force / opposition / harm / resistance / goal (possibly indirect) $x_3=s_3$ with [direct] force / by means / with $x_4=s_4$.
+    - terbricnetau: $x_1=ta_1$ is a place-structure-dynamic tanru formed with $x_2=ta_2$ modifying (including possibly the place structure) of $x_3=ta_3=c_1=c_2=b_3=b_2=b_1$, giving meaning $x_4=ta_4=c_3$ in usage/instance $x_5=ta_5=c_4$; $x_1$ is a tanru with CLL place structure.
+    - terbristotau: $x_1=ta_1$ is a place-structure-stable tanru formed with $x_2=ta_2$ modifying (but preserving the place structure) of $x_3=ta_3=s_1=s_2=b_3=b_2=b_1$, giving meaning $x_4=ta_4$ in usage/instance $x_5=ta_5=s_3$; $x_1$ is a tanru with CLL place structure.
+    - do'e'e'au'i: tanru / contextual place structures; idiomatic tanru; «sei baunpli be la terbricnetau».
+    - do'e'o'au'i: place-structure-stable tanru (CLL tanru place structure); «sei baunpli be la terbristotau».
+    - do'e'e: tanru / contextual place structures; idiomatic tanru; contraction of «do'e'e'au'i».
+    - do'e'o: place-structure-stable tanru (CLL tanru place structure); contraction of «do'e'o'au'i».
+    - narbilga: $x_1=b_1$ is not bound/obliged to/does not have the duty to do/be $x_2=b_2$ in/by standard/agreement $x_3=b_3$; $x_2$ is optional / non-mandatory / non-obligatory to $x_1$ under $x_3$.
+    - na'i'a: discursive: optionally.
+    - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
