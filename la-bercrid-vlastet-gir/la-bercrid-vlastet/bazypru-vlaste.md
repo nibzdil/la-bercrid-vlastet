@@ -231,3 +231,17 @@
     - narbilga: $x_1=b_1$ is not bound/obliged to/does not have the duty to do/be $x_2=b_2$ in/by standard/agreement $x_3=b_3$; $x_2$ is optional / non-mandatory / non-obligatory to $x_1$ under $x_3$.
     - na'i'a: discursive: optionally.
     - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
+    - lo multcu zo'u: zaucpe: $x_1=c_1$ applies for [job] / [school] / requests approval of / [proposes] $x_2=c_2=z_2$ from $x_3=c_3=z_1$ in manner / form / with application $x_4=c_4$.
+      apply;request approval
+      x4 application;request approval
+
+      See also: {zarti'i} (‘propose’).
+    - lo multcu zo'u: zarti'i: $x_1=s_1$ proposes / offers for approval $x_2=s_3=z_2$ from / to $x_3=s_3=z_1$.
+
+      See also: {zaucpe} (‘apply’ as in ‘request approval’).
+    - na'o'e: vague/elliptical truth value; whether {ja'a}, {na}, etc. is applied is unspecified.
+
+      See also: {ja'a}, {na}, {na'e'o'e} (for {na'e}), {cau'a} (alternative synonym), {xu'o'e} (alternative synonym).
+    - na'e'o'e: vague/elliptical truth value; whether {je'a}, {na'e}, etc. is applied is unspecified.
+
+      See also: {je'a}, {na'e}, {na'o'e} (for {na}), {cau'e} (alternative synonym), {cau'o'e} (alternative synonym).
