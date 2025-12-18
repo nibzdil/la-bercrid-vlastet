@@ -239,9 +239,9 @@
     - lo multcu zo'u: zarti'i: $x_1=s_1$ proposes / offers for approval $x_2=s_3=z_2$ from / to $x_3=s_3=z_1$.
 
       See also: {zaucpe} (‘apply’ as in ‘request approval’).
-    - na'o'e: vague/elliptical truth value; whether {ja'a}, {na}, etc. is applied is unspecified.
+    - na'o'e: vague/elliptical truth value for selbri; whether {ja'a}, {na}, etc. is applied is unspecified.
 
       See also: {ja'a}, {na}, {na'e'o'e} (for {na'e}), {cau'a} (alternative synonym), {xu'o'e} (alternative synonym).
-    - na'e'o'e: vague/elliptical truth value; whether {je'a}, {na'e}, etc. is applied is unspecified.
+    - na'e'o'e: vague/elliptical truth value for sumti; whether {je'a}, {na'e}, etc. is applied is unspecified.
 
       See also: {je'a}, {na'e}, {na'o'e} (for {na}), {cau'e} (alternative synonym), {cau'o'e} (alternative synonym).
