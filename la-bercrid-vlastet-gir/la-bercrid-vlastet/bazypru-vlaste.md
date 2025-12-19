@@ -20,6 +20,8 @@
     - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
     - fukfadmupli: $x_1=m_1=fa_1=fu_2$ is a template / prototype / role-model of property $x_2=m_2=fa_2$ for derivatives / influenced $x_3=m_3=fa_3=fu_1$ in form / medium $x_4=fu_3$ made by method $x_5=fu_4$.
     - xu'asmu: $x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.
+
+      Synonym: {smuki'ixu'a} (to define).
     - jbovlaste krtisfranks: smuvelckivla: $x_1$ (text) is a gloss word/keyword (or phrase) for the meaning of $x_2$ (du'u/text)  in language $x_3$
     - (lo multcu zo'u: ¿xu jagri'a pensi stidi?) jbofu'ivlafavytsi: x1=fu1=v1=fu'ivla1=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3). (ji'a nitcu lo nu jmina lumci ja spali)
     - lo mutcu zo'u: lo valsi be lo xe fanva be zo'oi submit
@@ -124,8 +126,12 @@
     - ju'a'ei: Evidential builder; convert arbitrary bridi to UI2 with the grammar of {sei}.
     - temsaxygau: $x_1=g_1$ synchronizes / times $x_2=g_2=s_1=t_1$ with $x_3=s_2$ in property / aspect / way $x_4=s_3$ from time / event $x_5=t_2$ to time / event $x_6=t_3$.
     - sikyju'e: $x_1=j_1=s_1$ is a web / spider's web / network or interconnected structure resembling a web, produced by $x_2=s_2$, allowing passage of / including $x_3=j_2$, prohibiting passage of / excluding $x_4=j_3$, web properties $x_5=j_4$.
-    - ki'irxu'a: $x_1=xu_1$ assigns / attributes $x_2=c_1$ to $x_3=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_3$ as $x_2$.
-    - smuki'ixu'a: $x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_2=c_1=s_1$ to $x_3=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
+    - ki'irxu'a: $x_1=xu_1$ assigns / attributes $x_3=c_1$ to $x_2=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_2$ as $x_3$.
+
+      See also: te {smuki'ixu'a} (to define).
+    - smuki'ixu'a: $x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_3=c_1=s_1$ to $x_2=c_2=s_2$; $x_1$ defines $x_3$ to be $x_2$.
+
+      Synonym: te {xu'asmu}.  See also: {ki'irxu'a} (to assign / attribute).
     - temfa'o: $x_1=f_1=t_3$ is the expiration / end of lifetime of $x_2=f_2$ with lifetime $x_3=t_1$ from $x_4=t_2$ to $x_1$; $x_1$ expires; $x_2$ has a lifetime (possibly infinite).
     - $x_1=c_1=z+1$ gains / obtains / increases in $x_2=c_2=z_2$ by amount / quality $x_3=z_3$ from source $x_4=c_3$; $x_1$ gains $x_2$.
     - $x_1=c_1=z_1$ gains / obtains / increases in $x_2=c_2=z_2$ by amount / quality $x_3=z_3$ from source $x_4=c_3$; $x_1$ gains $x_2$.
