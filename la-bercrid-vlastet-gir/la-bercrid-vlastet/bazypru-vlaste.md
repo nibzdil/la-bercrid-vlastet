@@ -129,7 +129,7 @@
     - ki'irxu'a: $x_1=xu_1$ assigns / attributes $x_3=c_1$ to $x_2=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_2$ as $x_3$.
 
       See also: te {smuki'ixu'a} (to define).
-    - smuki'ixu'a: $x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_3=c_1=s_1$ to $x_2=c_2=s_2$; $x_1$ defines $x_3$ to be $x_2$.
+    - smuki'ixu'a: $x_1=xu_1=c_2=s_3$ defines / assigns meaning / attributes definition $x_3=c_1=s_1$ to $x_2=c_2=s_2$; $x_1$ defines $x_2$ to be $x_3$.
 
       Synonym: te {xu'asmu}.  See also: {ki'irxu'a} (to assign / attribute).
     - temfa'o: $x_1=f_1=t_3$ is the expiration / end of lifetime of $x_2=f_2$ with lifetime $x_3=t_1$ from $x_4=t_2$ to $x_1$; $x_1$ expires; $x_2$ has a lifetime (possibly infinite).
