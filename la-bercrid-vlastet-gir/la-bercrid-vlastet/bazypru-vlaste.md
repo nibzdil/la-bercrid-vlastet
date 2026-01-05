@@ -251,3 +251,12 @@
     - na'e'o'e: vague/elliptical truth value for sumti; whether {je'a}, {na'e}, etc. is applied is unspecified.
 
       See also: {je'a}, {na'e}, {na'o'e} (for {na}), {cau'e} (alternative synonym), {cau'o'e} (alternative synonym).
+
+    - tcinyza'i: $x_1=z_1=t_2$ (e.g. abstraction, energy) is potential / potentially real, made real when / under conditions $x_2=t_1$ for $x_3=z_2$ under metaphysics / conceptual framework / model $x_4=z_3$.
+      potential;realizable
+      realizable;situationally real
+      Example 1: .i le cerda poi pu'o ponse cu ca ponse .i ka'e go'i .ije na ca'a go'i .i va'i le cerda cu ca ponse le'oi loka tcinyza'i
+      Example 2: .i le bolci noi se falgau fo teka'a lo galtu cu ckaji tu'alo tcinyza'i nejni
+      Example 3: .i lonu mi snada cu tcinyza'i .i mi nitcu lonu cuxna zo'epoi mi certu co no'a
+
+      See also: {ke'a}.
