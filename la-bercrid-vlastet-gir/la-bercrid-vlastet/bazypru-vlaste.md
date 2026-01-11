@@ -260,3 +260,14 @@
       Example 3: .i lonu mi snada cu tcinyza'i .i mi nitcu lonu cuxna zo'epoi mi certu co no'a
 
       See also: {ke'a}.
+
+    - bei'i: hybrid {be} and {bei}: sumti link to attached sumti to a selbri, repeatable, valid for both first and subsequent attachments.
+      link first or subsequent sumti;link sumti to selbri
+
+      {be} is only for the first attachment, and {bei} is only for non-first attachments.  {bei'i} is valid for either the first or subsequent attachments, and is terminated with {be'o}.  See also {bei'e}, to effectively automatically apply {bei'i} to all following sumti until terminated with {be'o}; this also can be used after SEI cmavo to attach following sumti to the SEI cmavo without having to explicitly use {be} or {bei} to sumti that occur after the selbri (sumti preceding the selbri in the case of {sei} are already part of the SEI clause).
+
+    - .ui'ei: Convert arbitrary bridi to UI with the grammar of {sei}.
+      nonce UI;manual UI from bridi
+      nonce;UI
+
+      Equivalent synonym for {ci'o'ei}, converting bridis to UI; both words are shorthand for «.ui {ma'o'ei}».  For a grammar closer to sumti, see also {ki'ai}, which uses COI2 rather than SEI, which can convert cmevla, selbri, and zoi quotes; this permits the shorter version of e.g. «ki'ai .xm. mi pensi» rather than e.g. «.ui'ei me la .xm. mi pensi».  For conversion to selbri, see {tai'i}.  See also {ju'a'ei} for nonce evidentials (e.g. «ju'a'ei simlu» for «si'au» (‘it seems …’)).  Note that after SEI, selbri auto-terminate with {se'u} once a sumti is found, unless it is attached with {be} or {bei} (or {bei'i}); however, {bei'e} may be used after a SEI cmavo to still apply the following sumti, with effectively automatic {bei'i} application.  For converting bridi to arbitrary existing grammar, see {ma'o'ei}.
