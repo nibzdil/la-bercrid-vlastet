@@ -4,7 +4,7 @@
             - vlaste (vocabulary):
                 - li'enrai: x1=l1=t1 is initial in property x2=r2 in sequence x3=l3
                 - bazpru: x1 is tentative for purpose/satisfier x2 under conditions x3; x1 is a work-in-progress or placeholder; x1 is not yet processed.
-                - storveipa'o: x1=s1=v1=p1 is a snapshot/record/commit of data x2=v2 in repository/data storage x3=v4, about/pertaining to x4=v3, immutable and static/unchanging in property x5=s2; x1 is a commit.
+                - stoveipa'o: x1=s1=v1=p1 is a snapshot/record/commit of data x2=v2 in repository/data storage x3=v4, about/pertaining to x4=v3, immutable and static/unchanging in property x5=s2; x1 is a commit.
                 - skidatni: x1=s4=d1 is metadata about/describing x2=s2=d2 to interpreter x3=s3
                 - fukfadmupli: x1=fu2=fa1=m1 is a template of property x2=fa2=m2 in context/set x3=fa3=m3 in form/medium x4=fu3
                 - xu'asmu: x1=xu2=s1 is a definition of x2=xu2=s2 given by/according to x3=xu1=s3
