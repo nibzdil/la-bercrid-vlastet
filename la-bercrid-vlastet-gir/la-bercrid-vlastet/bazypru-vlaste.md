@@ -45,10 +45,23 @@
     - koi'au: karncau modal, 1st place (individually; separately) with individuals …
     - sekoi'au: karncau modal, 2nd place (individually; separately) separately from …
     - tekoi'au: karncau modal, 3nd place (individually; separately) separately in context …
-    - jo'u'e: Generalized prenex/topic separator/joiner; such that …
+    - zo'u'e: Generalized prenex/topic separator/joiner; such that …
+      selma'o: ZOhUhE
+      smuvelckivla: such that;implies
+      notci:
+        After {zo'u}, {zo'u'e} can chain together arbitrary chains of sumti term sequences or bridi.  {zo'u'e} can add a topic/prenex/‘postnex’ after a bridi too, usually but not necessarily with a {se} prefix as in {se}{zo'u'e}, whereas {zo'u} currently only supports it before.  {zo'u'e} can also chain together multiple bridi (suggested interpretation: ‘such that’, analogous to Sigma dependent sums in dependent type theory).  {zo'u'e} is a variant of {zo'u} that is generalized to be more flexible.  {zo'u'e} can be prefixed with SE.  {zo'u'e} links can be grouped with {tu'e}…{tu'u}.  (See also the Curry-Howard correspondence and the representation of logical quantifiers in e.g. Agda.)
+
+        ni'o If desired, the semantics can be specified in more detail, such as declaring or importing a language feature, complete language, language dialect or variation, dictionary, semantics, or other language standard or specification or open source fork with {baunpli}, e.g. ({sei}) {baupli} {be} {la} {mulno} {ke} {lojbo} {bangu}, or something more precise and versioned.
+
+        ni'o See also {sema'ai} (‘such that’).
     - to'o'e: Apply Lojban text to an unspecified point in text.
     - ma'ai: mansa modal, 1st place (satisfying evaluator) satisfied by …
     - sema'ai: mansa modal, 2nd place (satisfying evaluator) such that …
+      smuvelckivla: such that;which satisfies
+      notci: >
+        See also: {xoi}, {poi'a}.
+
+        ni'o Example: «.i ko temsaxygau le fraseljimca sema'ai lonu ra jai cfari ne'i lo midju» (‘Time the switches so they start in the middle’.)
     - tema'ai: mansa modal, 3rd place (satisfying evaluator) satisfying in property …
     - kancau: $x_1=c_1=k_1$ is separate from / not with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is individual / alone / separate.
     - ciplanli: $x_1=l_1$ experiments on / experimentally analyzes $x_2=l_2=c_3$ to find or test for $x_3=c_2$ by means / test $x_4=l_3=c_1$.  (At least partly inspired by old definition, but I polished it up.)
@@ -271,4 +284,17 @@
       nonce;UI
 
       Equivalent synonym for {ci'o'ei}, converting bridis to UI; both words are shorthand for «.ui {ma'o'ei}».  For a grammar closer to sumti, see also {ki'ai}, which uses COI2 rather than SEI, which can convert cmevla, selbri, and zoi quotes; this permits the shorter version of e.g. «ki'ai .xm. mi pensi» rather than e.g. «.ui'ei me la .xm. mi pensi».  For conversion to selbri, see {tai'i}.  See also {ju'a'ei} for nonce evidentials (e.g. «ju'a'ei simlu» for «si'au» (‘it seems …’)).  Note that after SEI, selbri auto-terminate with {se'u} once a sumti is found, unless it is attached with {be} or {bei} (or {bei'i}); however, {bei'e} may be used after a SEI cmavo to still apply the following sumti, with effectively automatic {bei'i} application.  For converting bridi to arbitrary existing grammar, see {ma'o'ei}.
-    - lo multcu zo'u: very briefly thought of samca'adatni; give it some better thinking through and consider if you want a different word, and then provide a good-quality definition.
+    - lo multcu zo'u: very briefly thought of samca'adatni; give it some better thinking through and consider if you want a different word, and then provide a good-quality definition. software
+    - multcu.i ai'ai: comparative reality emphasis; even.
+      selma'o: UI5
+      smuvelckivla: even;comparative reality emphasis
+      notci: «.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene».
+    - fu'oi: indicates attachment of the following to the next instead of, as normal, previous construct.
+      selma'o: UI9
+      notci: Place before UI to indicate it applies to the next construct rather than the previous.  See also {fu'e}…{fu'o}, {to}…{toi}, {tu'e'ei}…{tu'u'o}.
+    - pe'au: marks a construct as having approximate meaning or likely improveable expression and/or as [offhand] the currently best known way to express meaning.
+      selma'o: UI3c
+      notci: When the speaker is not aware of a way to precisely express meaning to their satisfaction, this can be used to pick a closest expression and indicate the meaning is slightly different or likely improveable, until a precise or satisfactory construct is discovered.  Similar to {sa'enai}, but intended to indicate a possibly specific alternative meaning rather than vagueness or looseness in precision, although {sa'enai} might also work in some cases.  Example: «mi djica lo sa'enai djacu» might be used when what you want is water and/or alternatives that are close enough, like other hydrating drinks.  «mi djica lo pe'au djacu» might be used when you want something specific that is like water, perhaps a specific water-like substance, or you have some intended means of sumti qualification in mind, but since you haven't learned a good word or expression for it yet, you want to use «lo djacu» while also indicating that it's currently just the best way you know how to express it, especially when you expect that a more advanced understanding of vocabulary or topic would allow you to phrase it better differently, although the vagueness and semantic broadness in a gismu might sometimes be sufficient to adequately capture the meaning.  See also: {le}, {pe'ai}.
+    - pe'aunai: marks a construct as expressing the intended meaning to the speaker's satisfaction.
+      selma'o: UI3c*
+    - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
