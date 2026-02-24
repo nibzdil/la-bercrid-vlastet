@@ -295,7 +295,8 @@
       notci: Place before UI to indicate it applies to the next construct rather than the previous.  See also {fu'e}…{fu'o}, {to}…{toi}, {tu'e'ei}…{tu'u'o}.
     - pe'au: marks a construct as having approximate meaning or likely improveable expression and/or as [offhand] the currently best known way to express meaning.
       selma'o: UI3c
-      notci: When the speaker is not aware of a way to precisely express meaning to their satisfaction, this can be used to pick a closest expression and indicate the meaning is slightly different or likely improveable, until a precise or satisfactory construct is discovered.  Similar to {sa'enai}, but intended to indicate a possibly specific alternative meaning rather than vagueness or looseness in precision, although {sa'enai} might also work in some cases.  Example: «mi djica lo sa'enai djacu» might be used when what you want is water and/or alternatives that are close enough, like other hydrating drinks.  «mi djica lo pe'au djacu» might be used when you want something specific that is like water, perhaps a specific water-like substance, or you have some intended means of sumti qualification in mind, but since you haven't learned a good word or expression for it yet, you want to use «lo djacu» while also indicating that it's currently just the best way you know how to express it, especially when you expect that a more advanced understanding of vocabulary or topic would allow you to phrase it better differently, although the vagueness and semantic broadness in a gismu might sometimes be sufficient to adequately capture the meaning.  See also: {le}, {pe'ai}.
+      notci: When the speaker is not aware of a way to precisely express meaning to their satisfaction, this can be used to pick a closest expression and indicate the meaning is slightly different or possibly improveable, until a precise or satisfactory construct is discovered.  Similar to {sa'enai}, but intended to indicate a possibly specific alternative meaning rather than vagueness or looseness in precision, although {sa'enai} might also work in some cases.  Example: «mi djica lo sa'enai djacu» might be used when what you want is water and/or alternatives that are close enough, like other hydrating drinks.  «mi djica lo pe'au djacu» might be used when you want something specific that is like water, perhaps a specific water-like substance, or you have some intended means of sumti qualification in mind, but since you haven't learned a good word or expression for it yet, you want to use «lo djacu» while also indicating that it's currently just the best way you know how to express it, especially when you expect that a more advanced understanding of vocabulary or topic would allow you to phrase it better differently, although the vagueness and semantic broadness in a gismu might sometimes be sufficient to adequately capture the meaning.  See also: {le}, {pe'ai}.
+      smuvelckivla: approximate meaning
     - pe'aunai: marks a construct as expressing the intended meaning to the speaker's satisfaction.
       selma'o: UI3c*
     - la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
@@ -307,3 +308,49 @@
       notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
       smuvelckivla: quoted expression;scare quotes,
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
+      se ciska tarmi ?
+      selci'atai ?
+      $x_1=t_1=c_2$ is a script / 
+      tinbe ?
+      ju'ocu'i balvi
+    - SRERA .i multcu.i zo co'au .i co'au: (flip tanru place structure); change place structure basis to an alternative component, especially the top-level tertau in a tanru with «co» (or seltau without «co»).
+      selma'o: SE
+      notci: Recommended with experimental grammar feature that allows «SEku»
+      in places other than before a brivla,
+      since then you can say «.i mi gasnu co sutra co'auku lonu ciska»,
+      allowing you use reverse tanru order like in noun-adjective languages, and then, once you realize you want
+      to fill in the places of the seltau rather than the tertau, to say
+      «co'auku» and to then fill in places.  CLL Lojban specifies that the
+      basis for the place structure of a tanru is what appears on the right.  {co'au} most likely refers to the
+      place structure basis of the top-level tanru component that would be used
+      if {co} were removed (or added), but less commonly can also refer to
+      other components.  See also: {se'o'e}, {do'o'e}.
+
+    - SRERA .i multcu.i zo co'au .i co'au: flip tanru place structure; change place structure basis of a tanru to tertau withou «co» (or seltau without).
+      selma'o: SE
+      notci: Recommended with experimental grammar feature that allows «SEku»
+      in places other than before a brivla,
+      since then you can say «.i mi gasnu co sutra co'auku lonu ciska»,
+      allowing you use reverse tanru order like in noun-adjective languages, and then, once you realize you want
+      to fill in the places of the seltau rather than the tertau, to say
+      «co'auku» and to then fill in places.  In a tanru, the tertau's meaning
+      is modified by the seltau, but, under CLL Lojban, the place structure is
+      based on what appears on the right, which is the tertau, or seltau if
+      {co} is used.  Technically «.i ko'a co'auke broda brode ko'e» (don't forget the «ke» or else, like «se», «co'au» would only attach to «broda» and not the tanru).  See also: {se'o'e}, {do'o'e}.
+
+
+    - SRERA .i multcu.i zo co'au .i co'au: flip tanru place structure; change place structure basis of a tanru to tertau without «co» (or seltau without).
+      selma'o: SE
+      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say «.i mi ciska co sutra co'auku lo cilre sidju», allowing you to use reverse tanru order like in noun-adjective languages, and then, once you realize you want to fill in places based on the seltau rather than the tertau, to say «co'auku» and to then fill in places.  In a tanru, the tertau's meaning is modified by the seltau, but, under CLL Lojban, the place structure is based on what appears on the right, which is the tertau, or seltau if {co} is used.  Technically, «.i ko'a co'auke broda brode ko'e» can be used (don't forget the «ke» or else, like «se», «co'au» would only attach to «broda» and not the tanru; alternatively use «broda SE brode»).  Two adjacent «co'au»s cancel out.  To indicate that the tanru's place structure is based on a merging of the tanru's components' place structures, rather than just the left's, see {gu'a'au}; {gu'a'au} indicates the seltau can also modify the place structure basis of the tertau.  See also: {se'o'e}, {do'o'e}, {ke'oi}, ({co'i'e}, {ke'e'u}).
+
+      _merge_ tanru place structure
+      ke'oi
+
+      ke'e'au
+
+      ke'au
+
+      gu'a'au: indicate seltau can modify the tertau's place structure basis too
+      selma'o: SE
+      notci: {gu'a'au} indicates the seltau can also modify the tertau's place
+      structure basis, allowing for more flexible merging of places.  See also: {co'au}.
