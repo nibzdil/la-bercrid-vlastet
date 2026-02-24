@@ -313,44 +313,7 @@
       $x_1=t_1=c_2$ is a script / 
       tinbe ?
       ju'ocu'i balvi
-    - SRERA .i multcu.i zo co'au .i co'au: (flip tanru place structure); change place structure basis to an alternative component, especially the top-level tertau in a tanru with «co» (or seltau without «co»).
-      selma'o: SE
-      notci: Recommended with experimental grammar feature that allows «SEku»
-      in places other than before a brivla,
-      since then you can say «.i mi gasnu co sutra co'auku lonu ciska»,
-      allowing you use reverse tanru order like in noun-adjective languages, and then, once you realize you want
-      to fill in the places of the seltau rather than the tertau, to say
-      «co'auku» and to then fill in places.  CLL Lojban specifies that the
-      basis for the place structure of a tanru is what appears on the right.  {co'au} most likely refers to the
-      place structure basis of the top-level tanru component that would be used
-      if {co} were removed (or added), but less commonly can also refer to
-      other components.  See also: {se'o'e}, {do'o'e}.
-
-    - SRERA .i multcu.i zo co'au .i co'au: flip tanru place structure; change place structure basis of a tanru to tertau withou «co» (or seltau without).
-      selma'o: SE
-      notci: Recommended with experimental grammar feature that allows «SEku»
-      in places other than before a brivla,
-      since then you can say «.i mi gasnu co sutra co'auku lonu ciska»,
-      allowing you use reverse tanru order like in noun-adjective languages, and then, once you realize you want
-      to fill in the places of the seltau rather than the tertau, to say
-      «co'auku» and to then fill in places.  In a tanru, the tertau's meaning
-      is modified by the seltau, but, under CLL Lojban, the place structure is
-      based on what appears on the right, which is the tertau, or seltau if
-      {co} is used.  Technically «.i ko'a co'auke broda brode ko'e» (don't forget the «ke» or else, like «se», «co'au» would only attach to «broda» and not the tanru).  See also: {se'o'e}, {do'o'e}.
-
-
-    - SRERA .i multcu.i zo co'au .i co'au: flip tanru place structure; change place structure basis of a tanru to tertau without «co» (or seltau without).
-      selma'o: SE
-      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say «.i mi ciska co sutra co'auku lo cilre sidju», allowing you to use reverse tanru order like in noun-adjective languages, and then, once you realize you want to fill in places based on the seltau rather than the tertau, to say «co'auku» and to then fill in places.  In a tanru, the tertau's meaning is modified by the seltau, but, under CLL Lojban, the place structure is based on what appears on the right, which is the tertau, or seltau if {co} is used.  Technically, «.i ko'a co'auke broda brode ko'e» can be used (don't forget the «ke» or else, like «se», «co'au» would only attach to «broda» and not the tanru; alternatively use «broda SE brode»).  Two adjacent «co'au»s cancel out.  To indicate that the tanru's place structure is based on a merging of the tanru's components' place structures, rather than just the left's, see {gu'a'au}; {gu'a'au} indicates the seltau can also modify the place structure basis of the tertau.  See also: {se'o'e}, {do'o'e}, {ke'oi}, ({co'i'e}, {ke'e'u}).
-
-      _merge_ tanru place structure
-      ke'oi
-
-      ke'e'au
-
-      ke'au
-
-      gu'a'au: indicate seltau can modify the tertau's place structure basis too
+    - multcu.i: merge place structure: gu'a'au?: indicate seltau can modify the tertau's place structure basis too
       selma'o: SE
       notci: {gu'a'au} indicates the seltau can also modify the tertau's place
       structure basis, allowing for more flexible merging of places.  See also: {co'au}.
