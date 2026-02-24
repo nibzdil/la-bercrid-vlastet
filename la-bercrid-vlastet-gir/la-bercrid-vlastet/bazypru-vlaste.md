@@ -306,7 +306,7 @@
     - lu'i'u: discursive: quoted expression / [scare quotes]
       selma'o: UI3
       notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
-      smuvelckivla: quoted expression;scare quotes,
+      smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
@@ -354,3 +354,13 @@
       selma'o: SE
       notci: {gu'a'au} indicates the seltau can also modify the tertau's place
       structure basis, allowing for more flexible merging of places.  See also: {co'au}.
+    - multcu.i co'au: flip tanru place structure; change place structure basis of a tanru to(/from) the seltau.
+      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say _, allowing you to use reverse tanru order like in noun-adjective languages, and then, once you realize you want to fill in places based on the seltau rather than the tertau, to say «co'auku» and to then fill in places.  In a tanru, the tertau's meaning is modified by the seltau, but, under CLL Lojban, the place structure is based on what appears on the right, which is the tertau, or seltau if {co} is used.  Technically, «.i ko'a co'auke broda brode ko'e» can be used (don't forget the «ke» or else, like «se», «co'au» would only attach to «broda» and not the tanru; alternatively use «broda SE brode»).  Two adjacent «co'au»s cancel out.  To indicate that the tanru's place structure is based on a merging of the tanru's components' place structures, rather than just the left's, see {gu'a'au}; {gu'a'au} indicates the seltau can also modify the place structure basis of the tertau.  See also: {se'o'e}, {do'o'e}, {ke'oi}, ({co'i'e}, {ke'e'u}).
+    - multcu.i gu'a'au: indicate seltau can modify the tertau's place structure basis too
+    - pagjdicu'a: $x_1=c_1=j_1=p_1$ votes for [ranked choice / top] $x_2=c_2=j_2$ in poll/decision/election $x_3=j_3$ among options/alternatives $x_4=c_3$ among voters $x_5=p_2$.
+      notci: For non-instant-runoff, single-choice-only votes, a ‘vote in strategy’ («pagjdicu'a le'oi loka vampla») can be expressed to express a vote for something in strategy rather than the direct ({setsta}), actual ({fatci}) vote, e.g. in the case of a spoiler vote.
+      smuvelckivla: vote;partial decision selection
+      sumti smuvelckivla: voter;one who votes; vote;elected choice, election;voting
+    - vampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x7=v_4$.
+      smuvelckivla: strategy;value plan
+      notci: See also {kanpe}.
