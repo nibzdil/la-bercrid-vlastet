@@ -37,6 +37,7 @@
     - fraseljimca: $x_1=j_2=f_1$ is a switch with branches / for toggling $x_2=j_1=f_2$ triggered by $x_3=f_3$ under conditions $x_4=f_4$.
     - marbartu: $x_1=b_1=m_2$ does not conform to / obey standard $x_2=b_2=m_2$ with rules $x_3=m_3$; $x_1$ is nonstandard / experimental / non-comformant.
     - martinbe: $x_1=t_1=m_2$ conforms to / is compliant with standard $x_3=t_3=m_1$ with rules $x_2=t_2=m_3$; $x_1$ is standard.
+      smuvelckivla: standard;being normal, conform;compliance
     - setsta: $x_1=st_1$ is direct / directly $x_2=st_2=se_3$, with single / clear relationship / step $x_3=se_1$ of type $x_4=se_2$; $x_1$ is straightforward / without layered interruption.
     - setseldicra: $x_1=d_2=st_1$ is indirect / indirectly $x_2=d_1=se_3$, with layers / steps $x_3=se_1$ of type / material / manifestation $x_4=se_2$ separate / interrupted from the direct layer due to quality $x_5=d_3$.
     - lo mutcu zo'u: ci'o'ei: convert arbitrary bridi to UI
@@ -297,4 +298,12 @@
       notci: When the speaker is not aware of a way to precisely express meaning to their satisfaction, this can be used to pick a closest expression and indicate the meaning is slightly different or likely improveable, until a precise or satisfactory construct is discovered.  Similar to {sa'enai}, but intended to indicate a possibly specific alternative meaning rather than vagueness or looseness in precision, although {sa'enai} might also work in some cases.  Example: «mi djica lo sa'enai djacu» might be used when what you want is water and/or alternatives that are close enough, like other hydrating drinks.  «mi djica lo pe'au djacu» might be used when you want something specific that is like water, perhaps a specific water-like substance, or you have some intended means of sumti qualification in mind, but since you haven't learned a good word or expression for it yet, you want to use «lo djacu» while also indicating that it's currently just the best way you know how to express it, especially when you expect that a more advanced understanding of vocabulary or topic would allow you to phrase it better differently, although the vagueness and semantic broadness in a gismu might sometimes be sufficient to adequately capture the meaning.  See also: {le}, {pe'ai}.
     - pe'aunai: marks a construct as expressing the intended meaning to the speaker's satisfaction.
       selma'o: UI3c*
+    - la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
+      selma'o: UI3a
+      notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
+      smuvelckivla: omittable text;square bracketed text
+    - lu'i'u: discursive: quoted expression / [scare quotes]
+      selma'o: UI3
+      notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
+      smuvelckivla: quoted expression;scare quotes,
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
