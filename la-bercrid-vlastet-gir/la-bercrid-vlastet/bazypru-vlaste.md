@@ -296,7 +296,7 @@
     - pe'au: marks a construct as having approximate meaning or likely improveable expression and/or as [offhand] the currently best known way to express meaning.
       selma'o: UI3c
       notci: When the speaker is not aware of a way to precisely express meaning to their satisfaction, this can be used to pick a closest expression and indicate the meaning is slightly different or possibly improveable, until a precise or satisfactory construct is discovered.  Similar to {sa'enai}, but intended to indicate a possibly specific alternative meaning rather than vagueness or looseness in precision, although {sa'enai} might also work in some cases.  Example: «mi djica lo sa'enai djacu» might be used when what you want is water and/or alternatives that are close enough, like other hydrating drinks.  «mi djica lo pe'au djacu» might be used when you want something specific that is like water, perhaps a specific water-like substance, or you have some intended means of sumti qualification in mind, but since you haven't learned a good word or expression for it yet, you want to use «lo djacu» while also indicating that it's currently just the best way you know how to express it, especially when you expect that a more advanced understanding of vocabulary or topic would allow you to phrase it better differently, although the vagueness and semantic broadness in a gismu might sometimes be sufficient to adequately capture the meaning.  See also: {le}, {pe'ai}.
-      smuvelckivla: approximate meaning
+      smuvelckivla: approximate meaning, or something;or something like that
     - pe'aunai: marks a construct as expressing the intended meaning to the speaker's satisfaction.
       selma'o: UI3c*
     - la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
@@ -327,3 +327,10 @@
     - vampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x7=v_4$.
       smuvelckivla: strategy;value plan
       notci: See also {kanpe}.
+    - multcu.i lu livla ctile li'u .i lujvo
+    - multcu.i dibyxau: $x_1=xa_1=d_1$ is high-quality / splendid / [superb] / [excellent] to $x_2=xa_2=d_2$ by standard $x_3=xa_3$.
+      notci: See also: {splutakni}, {zabna}, {dirba}, {xamgu}, {banli}, {melbi}, {kukte}.
+    - multcu.i splutakni: $x_1$ is splendid to $x_2$ by standard $x_3$.
+      notci: See also: {mleba'i}.
+    - multcu.i SLABU .i zo dunda .i zoi gy gift/present … [without payment/exchange] … gy .i xu da xagmau .i gundu'a: $x_1=d_1=g_1$ contributes work $x_2=d_2=g_2$ for value/goal/use/objective $x_3=g_3$ to [receiver]/[project] $x_4=d_3$.
+      pensi: xu zo benji .i xu zo gasnu .i xu lo drata .i ko ba pensi
