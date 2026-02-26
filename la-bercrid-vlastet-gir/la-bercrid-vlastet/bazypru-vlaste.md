@@ -325,6 +325,7 @@
     - splurtakni: $x_1$ is splendid to $x_2$ by standard $x_3$.
       notci: See also: {mleba'i}, {dibyxau}.
       smuvelckivla: splendid;excellent
+      vlakra: macnu se krasi lo vrici bangu
     - .i gundu'a: $x_1=d_1=g_1$ contributes work $x_2=d_2=g_2$ for value/goal/use/objective $x_3=g_3$ to [receiver]/[project] $x_4=d_3$.
       smuvelckivla: contribute;give a work
       stuzi smuvelckivla: contributor;giver of a work, contribution;a work given
@@ -339,7 +340,7 @@
     - co'e'o: indicate that the seltau can also modify the tertau's place.
       selma'o: SE
       notci: This allows tanru to produce a merged place structure more flexibly and freely.  See also: {co'au} (flip tanru place structure basis between tertau and seltau; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {do'e'e} (‘sticky’ {co'e'o} with a more complicated grammar).
-      valkra: .e'u zo co joi zo fenso
+      vlakra: .e'u zo co joi zo fenso
       smuvelckivla: merged tanru place structure
     - co'ai: attach remaining attached sumti to the seltau rather than the tertau.
       selma'o: COhAI
@@ -356,10 +357,15 @@
       $x_1=t_1=c_2$ is a script / 
       tinbe ?
       ju'ocu'i balvi
-    - multcu.i inda: $x_1$ deserves / merits / is worthy of $x_2$ (property of $x_1$) according to / by standard $x_3$.
-      notci: See also: {pairjerna}, {jerna}.  Based on Ilmen's earlier definition, with an extra {ma'i} place to allow for subjective judgements (objective claims can still be made by representing ‘the objective’ (e.g. {fatci}) in $x_3$) (e.g. private economic actors may consider goods' worthiness differently by their freedom of choice, and cultures can vary in values).
-    - multcu.i lujvo: ki'ai xm .i
-      bazypru: jerna
-      pau pajni ji manri
-      pairjerna: $x_1=j_1$ deserves / merits / is worthy of $x_2=j_2=p_2$ [reward/punishment] (not necessarily realized) for good/deed/status $x_3=j_3$ according to / by standard $x_4=p_1$.
+    - inda: $x_1$ deserves / merits / is worthy of $x_2$ (property of $x_1$) according to / by standard $x_3$.
+      notci: See also: {pairjerna}, {jerna}.  Based on Ilmen's earlier definition, with an extra {ma'i} place to allow for subjective judgements (objective claims can still be made by representing ‘the objective’ (e.g. «lo fatci») in $x_3$) (e.g. private economic actors may consider goods' worthiness differently by their freedom of choice, and cultures can vary in values).
+      smuvelcki: deserve;be worthy of, merit;deserve, worthy;deserve
+    - pairjerna: $x_1=j_1$ deserves / merits / is worthy of $x_2=j_2=p_2$ [reward/punishment/response] (not necessarily realized) for good/deed/status $x_3=j_3=p_2$ according to / by standard $x_4=p_1$.
       notci: See also: {inda}.
+      smuvelcki: deserve;fitting reward, merit;fitting reward, worthy of;fitting reward
+    - splurtakni'yxau: $x_1=xa_1=s_1$ is magnificent/brilliant to $x_2=xa_2=s_2$ by standard $x_3=xa_3=s_3$.
+      smuvelckivla: magnificent;brilliant
+      notci: One option of many synonyms.
+    - dibyxautce: $x_1=m_1=xa_1=d_1$ is excellent / very high-quality / very splendid / superb to $x_2=xa_2=d_2$, toward $x_3=m_3$ extreme/direction, by standard $x_4=xa_3$.
+      notci: See also: {splurtakni'yxau}.
+      smuvelckivla: excellent;very high quality, splendid;very, superb;excellent
