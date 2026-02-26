@@ -12,7 +12,7 @@
                 - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
                 - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
                 - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
-- vlaste (vocabulary):
+- vlaste (vocabulary): "bangu: en":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
     - stoveipa'o: $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$; $x_1$ is a commit.
     - multcu: $x_1=n_1=m_1$ is to-do / needs completion in property $x_2=n_2=m_2$ by judge / standard $x_4=m_3$ for purpose / state $x_5=n_3$; $x_1$ is TODO.
