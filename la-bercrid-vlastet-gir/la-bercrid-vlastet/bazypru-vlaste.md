@@ -344,7 +344,7 @@
     - co'ai: attach remaining attached sumti to the seltau rather than the tertau.
       selma'o: COhAI
       notci: Repeatable, and invertible with {nai}.  Based on lamisotanis's earlier definition, but this one has been adapted to add an experimental cmavo without otherwise contradicting the LLG CLL.  See also: {co'au} (SE grammar rather than COhAI grammar).
-    - lilctile: $x_1=c_1=l_1$ is petrol/gasoline/diesel for powering $x_2=l_2$ from source $x_3=c_2$.
+    - lilctile: $x_1=c_1=l_1$ is petrol/gasoline/diesel for powering $x_2=l_2$ from source $x_3=c_2$, of grade $x_4$ with additives $x_5$.
       smuvelcki: petrol;fuel, gasoline;fuel, gas;fuel, diesel;fuel
       notci: See also {ma'erlivla} (more general), {likrtcigaso} (synonym), {tcigaso} (synonym).
     - ma'erlivla: $x_1=l_1$ is a fuel/energy-source for powering vehicle/mode of transport $x_2=l_2=m_1$ carrying $x_3=m_2$ in/on surface/medium $x_4=m_3$, propelled by $x_5=m_4$.
@@ -356,3 +356,10 @@
       $x_1=t_1=c_2$ is a script / 
       tinbe ?
       ju'ocu'i balvi
+    - multcu.i inda: $x_1$ deserves / merits / is worthy of $x_2$ (property of $x_1$) according to / by standard $x_3$.
+      notci: See also: {pairjerna}, {jerna}.  Based on Ilmen's earlier definition, with an extra {ma'i} place to allow for subjective judgements (objective claims can still be made by representing ‘the objective’ (e.g. {fatci}) in $x_3$) (e.g. private economic actors may consider goods' worthiness differently by their freedom of choice, and cultures can vary in values).
+    - multcu.i lujvo: ki'ai xm .i
+      bazypru: jerna
+      pau pajni ji manri
+      pairjerna: $x_1=j_1$ deserves / merits / is worthy of $x_2=j_2=p_2$ [reward/punishment] (not necessarily realized) for good/deed/status $x_3=j_3$ according to / by standard $x_4=p_1$.
+      notci: See also: {inda}.
