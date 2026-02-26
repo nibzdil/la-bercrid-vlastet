@@ -344,10 +344,15 @@
     - co'ai: attach remaining attached sumti to the seltau rather than the tertau.
       selma'o: COhAI
       notci: Repeatable, and invertible with {nai}.  Based on lamisotanis's earlier definition, but this one has been adapted to add an experimental cmavo without otherwise contradicting the LLG CLL.  See also: {co'au} (SE grammar rather than COhAI grammar).
+    - lilctile: $x_1=c_1=l_1$ is petrol/gasoline/diesel for powering $x_2=l_2$ from source $x_3=c_2$.
+      smuvelcki: petrol;fuel, gasoline;fuel, gas;fuel, diesel;fuel
+      notci: See also {ma'erlivla} (more general), {likrtcigaso} (synonym), {tcigaso} (synonym).
+    - ma'erlivla: $x_1=l_1$ is a fuel/energy-source for powering vehicle/mode of transport $x_2=l_2=m_1$ carrying $x_3=m_2$ in/on surface/medium $x_4=m_3$, propelled by $x_5=m_4$.
+      notci: See also: {lilctile} (gas).
+      smuvelcki: fuel;vehicular
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
       $x_1=t_1=c_2$ is a script / 
       tinbe ?
       ju'ocu'i balvi
-    - multcu.i lu livla ctile li'u .i lujvo
