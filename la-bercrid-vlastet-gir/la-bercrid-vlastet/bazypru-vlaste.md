@@ -351,12 +351,6 @@
     - ma'erlivla: $x_1=l_1$ is a fuel/energy-source for powering vehicle/mode of transport $x_2=l_2=m_1$ carrying $x_3=m_2$ in/on surface/medium $x_4=m_3$, propelled by $x_5=m_4$.
       notci: See also: {lilctile} (gas).
       smuvelcki: fuel;vehicular
-    - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
-      se ciska tarmi ?
-      selci'atai ?
-      $x_1=t_1=c_2$ is a script / 
-      tinbe ?
-      ju'ocu'i balvi
     - inda: $x_1$ deserves / merits / is worthy of $x_2$ (property of $x_1$) according to / by standard $x_3$.
       notci: See also: {pairjerna}, {jerna}.  Based on Ilmen's earlier definition, with an extra {ma'i} place to allow for subjective judgements (objective claims can still be made by representing ‘the objective’ (e.g. «lo fatci») in $x_3$) (e.g. private economic actors may consider goods' worthiness differently by their freedom of choice, and cultures can vary in values).
       smuvelcki: deserve;be worthy of, merit;deserve, worthy;deserve
@@ -369,3 +363,37 @@
     - dibyxautce: $x_1=m_1=xa_1=d_1$ is excellent / very high-quality / very splendid / superb to $x_2=xa_2=d_2$, toward $x_3=m_3$ extreme/direction, by standard $x_4=xa_3$.
       notci: See also: {splurtakni'yxau}.
       smuvelckivla: excellent;very high quality, splendid;very, superb;excellent
+    - jonzba: $x_1=z_1$ composes $x_2=z_2=j_1$ out of $x_3=z_3=j_1$ and $x_4=z_3=j_2$ merged with structure / by means / in way / at locus $x_5=j_3$.
+      smuvelckivla: compose;make by merging, composition;compose
+      stuzi smuvelckivla: composer;maker by merging, composite;first composite, constituent;second constituent
+      notci: For a composition of non-pairs, {jonzba} can be nested like functional List, or places $x_2$ and $x_3$ can be merged allowing a single place to specify the constituents, or either can be deleted ({zi'o}).  Alternatively, either can be constructed to be interpreted to represent multiple constituents (e.g. with a mass), and either place can be split into multiple places.  See also: {krapagzba} (construct), {jonzba} (decompose), {selgumgau} (combine).
+    - jonzbafa'e: $x_1=z_1$ decomposes $x_2=z_2=j_1$ into $x_3=z_3=j_1$ and $x_4=z_3=j_2$ merged with structure / by means / in way / at locus $x_5=j_3$.
+      smuvelckivla: decompose;separate into components, decomposition;decompose
+      notci: See also: {jonzba} (compose).
+    - krapagzba: $x_1=z_1$ constructs $x_2=z_2=p_2=k_2$ out of / from parts $x_3=z_3=p_1=k_1$.
+      smuvelckivla: construct;make out of parts, construction;construct, constructor;maker out of parts
+      stuzi smuvelckivla: constructor;maker out of parts
+      notci: See also: {jonzba} (compose), {krapagzbafa'e} (deconstruct), {selgumgau} (combine).
+    - krapagzbafa'e: $x_1=z_1$ deconstructs $x_2=z_2=p_2=k_2$ into parts $x_3=z_3=p_1=k_1$.
+      smuvelckivla: deconstruct;reduce into parts, deconstruction;deconstruct, deconstructor;reducer into parts
+      stuzi smuvelckivla: deconstructor;reducer into parts
+      notci: See also: {krapagzba} (construct).
+    - gumgau: $x_1=ga_1$ combines / ‘massifies’ into $x_2=gu_1$ $x_3=gu_2$; $x_1$ combines components $x_3$ into $x_2$ [joint whole].
+      smuvelckivla: combine;massify into
+      notci: See also: {selgumgau}.
+    - gumgaufa'e: $x_1=ga_1$ ‘individualizes’ / decombines $x_2=gu_1$ into $x_3=gu_2$.
+      smuvelckivla: uncombine;separate from
+      notci: See also: {selgumgaufa'e}.
+    - selgumgau: $x_1=ga_1$ combines / ‘massifies’ $x_2=gu_1$ into [combination] $x_3=gu_2$.
+      smuvelckivla: combine;massify
+      stuzi smuvelckivla: combiner;massifier, combination;combined
+      notci: See also: {selgumgaufa'e} (decombine), {jonzba} (compose), {krapagzba} (construct).
+    - selgumgaufa'e: $x_1=ga_1$ decombines / [individualizes] into parts / individuals $x_2=gu_1$ $x_3=gu_2$; $x_1$ decombines $x_3$ [joint whole] into [components] $x_2$.
+      smuvelckivla: decombine;separate, uncombine;decombine, individualize;decombine
+      notci: See also: {selgumgau} (combine).
+    - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
+      se ciska tarmi ?
+      selci'atai ?
+      $x_1=t_1=c_2$ is a script / 
+      tinbe ?
+      ju'ocu'i balvi
