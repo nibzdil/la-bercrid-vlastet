@@ -307,40 +307,47 @@
       selma'o: UI3
       notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
       smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
-    - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
-      se ciska tarmi ?
-      selci'atai ?
-      $x_1=t_1=c_2$ is a script / 
-      tinbe ?
-      ju'ocu'i balvi
-    - multcu.i: merge place structure: gu'a'au?: indicate seltau can modify the tertau's place structure basis too
-      selma'o: SE
-      notci: {gu'a'au} indicates the seltau can also modify the tertau's place
-      structure basis, allowing for more flexible merging of places.  See also: {co'au}.
-    - multcu.i co'au: flip tanru place structure; change place structure basis of a tanru to(/from) the seltau.
-      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say _, allowing you to use reverse tanru order like in noun-adjective languages, and then, once you realize you want to fill in places based on the seltau rather than the tertau, to say «co'auku» and to then fill in places.  In a tanru, the tertau's meaning is modified by the seltau, but, under CLL Lojban, the place structure is based on what appears on the right, which is the tertau, or seltau if {co} is used.  Technically, «.i ko'a co'auke broda brode ko'e» can be used (don't forget the «ke» or else, like «se», «co'au» would only attach to «broda» and not the tanru; alternatively use «broda SE brode»).  Two adjacent «co'au»s cancel out.  To indicate that the tanru's place structure is based on a merging of the tanru's components' place structures, rather than just the left's, see {gu'a'au}; {gu'a'au} indicates the seltau can also modify the place structure basis of the tertau.  See also: {se'o'e}, {do'o'e}, {ke'oi}, ({co'i'e}, {ke'e'u}).
-    - multcu.i gu'a'au: indicate seltau can modify the tertau's place structure basis too
     - pagjdicu'a: $x_1=c_1=j_1=p_1$ votes for [ranked choice / top] $x_2=c_2=j_2$ in poll/decision/election $x_3=j_3$ among options/alternatives $x_4=c_3$ among voters $x_5=p_2$.
       notci: For non-instant-runoff, single-choice-only votes, a ‘vote in strategy’ («pagjdicu'a le'oi loka kanpyvampla») can be expressed to express a vote for something in strategy rather than the direct ({setsta}), actual ({fatci}) vote, e.g. in the case of a spoiler vote.
       smuvelckivla: vote;partial decision selection
-      sumti smuvelckivla: voter;one who votes; vote;elected choice, election;voting
-    - SLABU: vampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x7=v_4$.
-      smuvelckivla: strategy;value plan
-      notci: See also {kanpe}.
+      stuzi smuvelckivla: voter;one who votes; vote;elected choice, election;voting
     - vampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x_7=v_4$.
       notci: Shortened version of {kanpyvampla}, which is more a complete word for ‘strategy’ and more recommended.  See also {kanpe}.
-    - kanpyvampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x_7=v_4$, with predictors $x_8=k_1$ judging the probability/odds/likelihood of $x_9=k_2$ as $x_10=k_3$.
+    - kanpyvampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x_7=v_4$, with predictors $x_8=k_1$ judging the probability/odds/likelihood of $x_9=k_2$ as $x_{10}=k_3$.
       smuvelckivla: strategy;value plan
-      notci: This word captures the essence of strategy: a value/goal plan with probability theory.  A shortened version of this word is {vampla}.  For more immediate, short-term, or static tactics, see {velva'itadjil}.
+      notci: This word captures the essence of strategy: a value/goal plan with probability theory.  A shortened version of this word is {vampla}, but {kanpyvampla} is more complete and more recommended.  For more immediate, short-term, or static tactics, see {velva'itadjil}.
     - velva'itadji: $x_1=t_1=v_2$ is a tactic / technique for accomplishing $x_2=t_2=v_4$ under conditions $x_3=t_3$, with value / usefulness $x_4=t_1$ to $x_5=t_3$.
       smuvelckivla: tactic;technique
       notci: See also {kanpyvampla} (‘strategy’).
-    - multcu.i lu livla ctile li'u .i lujvo
     - dibyxau: $x_1=xa_1=d_1$ is high-quality / splendid / [superb] / [excellent] to $x_2=xa_2=d_2$ by standard $x_3=xa_3$.
       notci: See also: {splurtakni}, {zabna}, {dirba}, {xamgu}, {banli}, {melbi}, {kukte}.
       smuvelckivla: quality;high quality, splendid;quality
     - splurtakni: $x_1$ is splendid to $x_2$ by standard $x_3$.
       notci: See also: {mleba'i}, {dibyxau}.
       smuvelckivla: splendid;excellent
-    - multcu.i SLABU .i zo dunda .i zoi gy gift/present … [without payment/exchange] … gy .i xu da xagmau .i gundu'a: $x_1=d_1=g_1$ contributes work $x_2=d_2=g_2$ for value/goal/use/objective $x_3=g_3$ to [receiver]/[project] $x_4=d_3$.
-      pensi: xu zo benji .i xu zo gasnu .i xu lo drata .i ko ba pensi
+    - .i gundu'a: $x_1=d_1=g_1$ contributes work $x_2=d_2=g_2$ for value/goal/use/objective $x_3=g_3$ to [receiver]/[project] $x_4=d_3$.
+      smuvelckivla: contribute;give a work
+      stuzi smuvelckivla: contributor;giver of a work, contribution;a work given
+    - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
+      selma'o: SE
+      notci: More general than {se'o'e}.  See also: {jai'a'a}, {co'au}, {co'e'o}.
+      smuvelckivla: elliptical place structure conversion
+    - co'au: change place structure basis of a tanru to the seltau (repeatable).
+      selma'o: SE
+      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, even if {co} is used (12.2, 5.8) (e.g., «cidja co carmi be loka titla» is not equivalent to «cidja co carmi loka titla», which might require a more poetic interpretation).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text).
+      smuvelckivla: use seltau place structure as basis
+    - co'e'o: indicate that the seltau can also modify the tertau's place.
+      selma'o: SE
+      notci: This allows tanru to produce a merged place structure more flexibly and freely.  See also: {co'au} (flip tanru place structure basis between tertau and seltau; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {do'e'e} (‘sticky’ {co'e'o} with a more complicated grammar).
+      valkra: .e'u zo co joi zo fenso
+      smuvelckivla: merged tanru place structure
+    - co'ai: attach remaining attached sumti to the seltau rather than the tertau.
+      selma'o: COhAI
+      notci: Repeatable, and invertible with {nai}.  Based on lamisotanis's earlier definition, but this one has been adapted to add an experimental cmavo without otherwise contradicting the LLG CLL.  See also: {co'au} (SE grammar rather than COhAI grammar).
+    - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
+      se ciska tarmi ?
+      selci'atai ?
+      $x_1=t_1=c_2$ is a script / 
+      tinbe ?
+      ju'ocu'i balvi
+    - multcu.i lu livla ctile li'u .i lujvo
