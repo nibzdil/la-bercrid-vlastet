@@ -128,8 +128,6 @@
     - javdunmau: $x_1=z_1=d_1$ is equal to or greater than $x_2=z_2=d_2$ in property / dimension / quantity $x_3=z_3=d_3$ by amount / excess $x_4=z_4$; $x_1$ is at least $x_2$.
     - javdunme'a: 
     - jbovlaste gleki: amfite'atro
-    - jbimau: $x_1=z_1=j_1$ is closer to $x_2=j_2$ than $x_3=z_2$ is in property / quantity $x_4=j_3=z_3$ by amount / excess $x_5=z_4$.
-    - jbirai: $x_1=t_1=j_1$ is closest to $x_2=j_2$ in property / quantity $x_3=j_3=t_2$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; among $x_5$, $x_1$ is closest to $x_2$.
     - juxyjicla: $x_1=ji_1$ scrambles / mangles $x_2=ji_2=ju_1$ by standard $x_3=ju_3$.
     - jbovlaste Qimar: damvaxtu'u: t1 is a pipe for inhaling burned substance d1 used by v1 made of material t2.
     - jbovlaste selpahi: si'au: evidential for {simlu} (UI2)
@@ -391,6 +389,12 @@
     - selgumgaufa'e: $x_1=ga_1$ decombines / [individualizes] into parts / individuals $x_2=gu_1$ $x_3=gu_2$; $x_1$ decombines $x_3$ [joint whole] into [components] $x_2$.
       smuvelckivla: decombine;separate, uncombine;decombine, individualize;decombine
       notci: See also: {selgumgau} (combine).
+    - jbimau: $x_1=z_1=j_1$ is closer than $x_2=z_2$ to $x_3=j_2$ is in property / quantity $x_4=j_3$ by amount / excess $x_5=z_4$.
+      notci: {jbimau} uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$; see also {fi'o}).  See also: {jbirai}.
+      smuvelckivla: closer;location, nearer;location
+    - jbirai: $x_1=t_1=j_1$ is closest to $x_2=j_2$ in property / quantity $x_3=j_3$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; among $x_5$, $x_1$ is closest to $x_2$.
+      notci: See also: {jbimau}.
+      smuvelckivla: closest;location, nearest;location
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
