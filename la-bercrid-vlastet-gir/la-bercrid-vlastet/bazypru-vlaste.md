@@ -395,6 +395,15 @@
     - jbirai: $x_1=t_1=j_1$ is closest to $x_2=j_2$ in property / quantity $x_3=j_3$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; among $x_5$, $x_1$ is closest to $x_2$.
       notci: See also: {jbimau}.
       smuvelckivla: closest;location, nearest;location
+    - selsi'ame'a: $x_1=s_2=m_1$ is less esteemed/respected/venerated/highly regarded than $x_2=m_2$ by $x_3=s_1$ [object of respect] by margin $x_4=m_4$.
+      notci: This follows the pattern of «-me'a» inserting what $x_1$ is compared to into $x_2$ (and appending $m_4$).  While it is still possible to choose an alternative place structure, for different place structures consider inserting «me'a» elsewhere.
+      smuvelcki: less esteemed;respected
+    - kabnilvai: $x_1=n_1=k_5$ is the priority of $x_2=v_1=k_2$ among $x_3=k_3$ in aspect $x_4=k_4$ to $x_5=v_3=k_1$ for reason $x_6=v_4$; $x_2$ is a priority / prioritized.
+      smuvelcki: priority;relative importance
+      stuzi smuvelcki: priority;relative importance ranking, priority;something prioritized
+    - nelmau: $x_1=z_1=n_1$ is a greater liker than $x_2=z_2$ is of $x_3=n_2$ by amount/excess $x_4=z_4$.
+      notci: This follows the pattern of «-mau» inserting what $x_1$ is compared to into $x_2$ (and appending $z_4$).  While it is still possible to choose an alternative place structure, for different place structures consider inserting «mau» elsewhere.  See also: {zmanei} (prefer).
+      smuvelcki: greater liker;likes more than another does
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
