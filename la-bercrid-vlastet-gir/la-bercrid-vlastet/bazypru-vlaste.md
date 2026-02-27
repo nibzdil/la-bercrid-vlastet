@@ -112,7 +112,10 @@
     - stuxadlaxterbi'a: $x_1=b_3$ is the disease / condition of vertigo, with impaired bodily balance $x_2=b_2=l_1=xa_1=s_2$, experiencing false movement / swirling $x_3=l_2=s_1$, experienced by $x_4=b_1=xa_2$.
     - jai'a'a: {jai} variant but as {zo'ei} rather than {tu'a}.
     - jincarna: $x_1=c_1$ revolves around $x_2=c_2$ in path $x_3=d_1$ with inside radius $x_3=d_3$ and outside radius $x_4=d_4$ towards direction $x_5=c_3$, turning angular distance / to face point $x_6=c_4$, with revolution path material / substance $x_7=d_2$.
-    - derived from jbovlaste totus: crakla: $x_1=k_1$ advances to $x_2=k_2=c_1$ from $x_3=k_3=c_2$ via $x_4=k_4$ using means/vehicle $x_5=k_5$ in frame of reference $x_6=c_3$.
+    - crakla: $x_1=k_1$ advances / proceeds to $x_2=k_2=c_1$ from $x_3=k_3=c_2$ via $x_4=k_4$ using means/vehicle $x_5=k_5$ in frame of reference $x_6=c_3$.
+      smuvelckivla: advance;go forward, come forward, go forward, progress;go forward, proceed;advance
+      notci: See also: {klama}, {crane}.
+      krasi: la jbovlaste la totus
     - derived from jbovlaste Ilmen: mroru'i: $x_1=p_1$ is a ghost, of (deceased) $x_2=m_1$.
     - jbovlaste grekla: enter/exit
     - derived from jbovlaste arj: mo'isro: $x_1=s_1$ is the memory of / a memory storage / anamnesis of remeberer $x_2=m_1$ of memories / facts / data / recollection $x_3=s_2=m_2$ about / related to subject $x_4=m_3$ in containment / storage medium / method / type / substrate $x_5=s_3$; $x_1$ is the memory of $x_2$'s with memories $x_3$ about $x_4$ in medium $x_5$.
@@ -227,6 +230,9 @@
     - i'oi'a: merge block until (elidable) terminator; make the terminator for the preceding cmavo duplicated.
     - dempau: $x_1=p_1=d_3$ is a dense part of $x_2=p_2=d_1$ selecting for highlights / in property $x_3=d_2$; $x_1$ is a concentration / thesis statement / [summary] / [overview] / [abstract] / [important component].
     - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
+      notci: See also: {to'u} (in brief), {dempau} for ‘concentrated part’ or ‘highlights’, and {basnypau} for ‘highlights’.
+      smuvelckivla: abstract;big picture, big picture;detailed, brief;big picture, overview;big picture, summary;big picture
+      stuzi smuvelckivla: big picture;detailed, summary;big picture, overview;big picture, abstract;big picture, brief;big picture
     - basnypau: $x_1=p_1=b_2$ is a highlight / emphasized part of $x_2=p_2$, emphasized by $x_3=b_1$ by (action) $x_4=b_3$.
     - co'i'e: contraction of co'i'e'au'i; use big-endian tanru (reverse of CLL Lojban)
     - co'e'i: contraction of co'e'i'au'i; use little-endian tanru (CLL Lojban order)
@@ -344,17 +350,17 @@
       selma'o: COhAI
       notci: Repeatable, and invertible with {nai}.  Based on lamisotanis's earlier definition, but this one has been adapted to add an experimental cmavo without otherwise contradicting the LLG CLL.  See also: {co'au} (SE grammar rather than COhAI grammar).
     - lilctile: $x_1=c_1=l_1$ is petrol/gasoline/diesel for powering $x_2=l_2$ from source $x_3=c_2$, of grade $x_4$ with additives $x_5$.
-      smuvelcki: petrol;fuel, gasoline;fuel, gas;fuel, diesel;fuel
+      smuvelckivla: petrol;fuel, gasoline;fuel, gas;fuel, diesel;fuel
       notci: See also {ma'erlivla} (more general), {likrtcigaso} (synonym), {tcigaso} (synonym).
     - ma'erlivla: $x_1=l_1$ is a fuel/energy-source for powering vehicle/mode of transport $x_2=l_2=m_1$ carrying $x_3=m_2$ in/on surface/medium $x_4=m_3$, propelled by $x_5=m_4$.
       notci: See also: {lilctile} (gas).
-      smuvelcki: fuel;vehicular
+      smuvelckivla: fuel;vehicular
     - inda: $x_1$ deserves / merits / is worthy of $x_2$ (property of $x_1$) according to / by standard $x_3$.
       notci: See also: {pairjerna}, {jerna}.  Based on Ilmen's earlier definition, with an extra {ma'i} place to allow for subjective judgements (objective claims can still be made by representing ‘the objective’ (e.g. «lo fatci») in $x_3$) (e.g. private economic actors may consider goods' worthiness differently by their freedom of choice, and cultures can vary in values).
-      smuvelcki: deserve;be worthy of, merit;deserve, worthy;deserve
+      smuvelckivla: deserve;be worthy of, merit;deserve, worthy;deserve
     - pairjerna: $x_1=j_1$ deserves / merits / is worthy of $x_2=j_2=p_2$ [reward/punishment/response] (not necessarily realized) for good/deed/status $x_3=j_3=p_2$ according to / by standard $x_4=p_1$.
       notci: See also: {inda}.
-      smuvelcki: deserve;fitting reward, merit;fitting reward, worthy of;fitting reward
+      smuvelckivla: deserve;fitting reward, merit;fitting reward, worthy of;fitting reward
     - splurtakni'yxau: $x_1=xa_1=s_1$ is magnificent/brilliant to $x_2=xa_2=s_2$ by standard $x_3=xa_3=s_3$.
       smuvelckivla: magnificent;brilliant
       notci: One option of many synonyms.
@@ -397,13 +403,34 @@
       smuvelckivla: closest;location, nearest;location
     - selsi'ame'a: $x_1=s_2=m_1$ is less esteemed/respected/venerated/highly regarded than $x_2=m_2$ by $x_3=s_1$ [object of respect] by margin $x_4=m_4$.
       notci: This follows the pattern of «-me'a» inserting what $x_1$ is compared to into $x_2$ (and appending $m_4$).  While it is still possible to choose an alternative place structure, for different place structures consider inserting «me'a» elsewhere.
-      smuvelcki: less esteemed;respected
+      smuvelckivla: less esteemed;respected
     - kabnilvai: $x_1=n_1=k_5$ is the priority of $x_2=v_1=k_2$ among $x_3=k_3$ in aspect $x_4=k_4$ to $x_5=v_3=k_1$ for reason $x_6=v_4$; $x_2$ is a priority / prioritized.
-      smuvelcki: priority;relative importance
-      stuzi smuvelcki: priority;relative importance ranking, priority;something prioritized
+      smuvelckivla: priority;relative importance
+      stuzi smuvelckivla: priority;relative importance ranking, priority;something prioritized
     - nelmau: $x_1=z_1=n_1$ is a greater liker than $x_2=z_2$ is of $x_3=n_2$ by amount/excess $x_4=z_4$.
       notci: This follows the pattern of «-mau» inserting what $x_1$ is compared to into $x_2$ (and appending $z_4$).  While it is still possible to choose an alternative place structure, for different place structures consider inserting «mau» elsewhere.  See also: {zmanei} (prefer).
-      smuvelcki: greater liker;likes more than another does
+      smuvelckivla: greater liker;likes more than another does
+    - tidyke'u: $x_1=k_1$ (event) is the instance/recurrence/repetition of $x_2=t_1$ [agent] reading $x_3=t_2$ [text] from surface/document/reading material $x_4=t_3$ for the $x_5=k_3$th time; $x_2$ re-reads $x_3$ from $x_4$.
+      notci: This definition follows the principle of using «-ke'u» to prepend a repetition/instance place and changing the definition such that it's as though the ‘re-’ prefix in English were added (and appending $k_3$; the $k_2$ can apply to the reading as a whole).  lujvo construction can have more flexibility than always following a similar constraint, but this definition consistently follows this principle.  See also: {tcidu}, {krefu}.
+      smuvelckivla: re-read;read again, reread;re-read
+    - nalpro: $x_1=f_1$ is not opposed to / doesn't mind / doesn't object to / doesn't contend / balance against $x_2=f_2$ about $x_3=f_3$.
+      notci: Can be either neutral or in support of.  For consent, see {po'ecru}, which deals more closely with ownership and property rights.  It is possible to permit something you have ownership over while opposing it.  Depending on context, «nalpro» can imply consent (permission/license), e.g. if it's not explicit and reasonably inferrable from context.  See also: «tolpro» (non-neutral), «no'epro» (only neutral).
+      smuvelckivla: doesn't mind;not opposed to
+    - tolpro: $x_1=f_1$ favors / supports / agrees with / is for $x_2=f_2$ about $x_3=f_3$.
+      notci: Non-neutral.  For consent, see {po'ecru}, which deals more closely with ownership and property rights.  It is possible to permit something you have ownership over while opposing it.  See also: «tugni», «zanru», «nalpro».
+      smuvelckivla: favor;doesn't oppose, supports;doesn't oppose, agrees with;doesn't oppose, is for;doesn't oppose
+    - nolpro: $x_1=f_1$ is passive / indifferent towards $x_2=f_2$ about $x_3=f_3$; $x_1$ is neither opposing nor in favor of $x_2$.
+      notci: Can be in action or thought.  See also: {nutli}, {cando}, {tugni}, {fapro}, {tolpro}, {nalpro}.
+      smuvelckivla: passive;opposition, indifferent;opposition
+    - tidyke'u: $x_1=k_1$ (event) is the instance/recurrence/repetition of $x_2=t_1$ [agent] reading $x_3=t_2$ [text] from surface/document/reading material $x_4=t_3$ for the $x_5=k_3$rd time; $x_2$ re-reads $x_3$ from $x_4$.
+      notci: This definition follows the principle of using «-ke'u» to prepend a repetition/instance place and changing the definition such that it's as though the ‘re-’ prefix in English were added (and appending $k_3$; the $k_2$ can apply to the reading as a whole).  lujvo construction can have more flexibility than always following a similar constraint, but this definition consistently follows this principle.  See also: {tcidu}, {krefu}.
+      smuvelckivla: re-read;read again, reread;re-read
+    - prake'u: $x_1=k_1$ (event) is the instance/recurrence/repetition of $x_2=c_1$ producing $x_3=c_2$ [product] by process $x_4=c_3$ for the $x_5=k_3$rd time.
+      notci: This definition first follows the principle of using «-ke'u» to prepend a repetition/instance ($k_1$) place and changing the definition such that it's as though the ‘re-’ prefix in English were added (and appending $k_3$; the $k_2$ can apply to the producing as a whole).  lujvo construction can have more flexibility than always following a similar constraint, but this definition consistently follows this principle.  See also: «fukpra» (reproduce).
+      smuvelckivla: re-produce;produce again
+    - fukpra: $x_1=c_1$ reproduces $x_2=f_1$ as a copy / image of $x_3=f_2$ in form / medium $x_4=f_3$ by method / process $x_5=f_4$.
+      notci: Also produces an image or copy of, or biologically reproduces.  See also: {prake'u} (produce again).
+      smuvelckivla: reproduce;produce again, reproduce;make a copy of, reproduce;make an image of, reproduce;biological
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
