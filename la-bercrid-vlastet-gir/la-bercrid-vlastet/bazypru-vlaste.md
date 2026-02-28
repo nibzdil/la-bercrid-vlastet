@@ -431,6 +431,10 @@
     - fukpra: $x_1=c_1$ reproduces $x_2=f_1$ as a copy / image of $x_3=f_2$ in form / medium $x_4=f_3$ by method / process $x_5=f_4$.
       notci: Also produces an image or copy of, or biologically reproduces.  See also: {prake'u} (produce again).
       smuvelckivla: reproduce;produce again, reproduce;make a copy of, reproduce;make an image of, reproduce;biological
+    - multcu.i: zo'oi diversity .i multcu .i pu'o bazypru
+      ficfu'i zei sortercu'a
+      ; $x_1$ is diversity.
+      _
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
