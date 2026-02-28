@@ -439,8 +439,8 @@
       selma'o: UI3a
       notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.  See also: {li'oi} (alternative option with slightly different definition).
       smuvelckivla: omittable text;square bracketed text
-    - multu.i: zo li'oi noi basti le me zo la'i'a pagbu
-    - multu.i: sera'a zo ponse .i ko viska lo notci be de'i li ni'eme'oi 2026-02-28 .i y li'oi 2026-02-28
+    - multcu.i: zo li'oi noi basti le me zo la'i'a pagbu
+    - multcu.i: sera'a zo ponse .i ko viska lo notci be de'i li ni'eme'oi 2026-02-28 .i y li'oi 2026-02-28
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
