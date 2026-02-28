@@ -303,14 +303,6 @@
       smuvelckivla: approximate meaning, or something;or something like that
     - pe'aunai: marks a construct as expressing the intended meaning to the speaker's satisfaction.
       selma'o: UI3c*
-    - la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
-      selma'o: UI3a
-      notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
-      smuvelckivla: omittable text;square bracketed text
-    - lu'i'u: discursive: quoted expression / [scare quotes]
-      selma'o: UI3
-      notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
-      smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
     - pagjdicu'a: $x_1=c_1=j_1=p_1$ votes for [ranked choice / top] $x_2=c_2=j_2$ in poll/decision/election $x_3=j_3$ among options/alternatives $x_4=c_3$ among voters $x_5=p_2$.
       notci: For non-instant-runoff, single-choice-only votes, a ‘vote in strategy’ («pagjdicu'a le'oi loka kanpyvampla») can be expressed to express a vote for something in strategy rather than the direct ({setsta}), actual ({fatci}) vote, e.g. in the case of a spoiler vote.
       smuvelckivla: vote;partial decision selection
@@ -435,6 +427,20 @@
       ficfu'i zei sortercu'a
       ; $x_1$ is diversity.
       _
+    - lu'i'u: discursive: quoted expression / [scare quotes]
+      selma'o: UI3
+      notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
+      smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
+    - multu.i la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
+      selma'o: UI3a
+      notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
+      smuvelckivla: omittable text;square bracketed text
+    - multu.i ko pensi le vi nu gafygau: la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
+      selma'o: UI3a
+      notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.  See also: {li'oi} (alternative option with slightly different definition).
+      smuvelckivla: omittable text;square bracketed text
+    - multu.i: zo li'oi noi basti le me zo la'i'a pagbu
+    - multu.i: sera'a zo ponse .i ko viska lo notci be de'i li ni'eme'oi 2026-02-28 .i y li'oi 2026-02-28
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
