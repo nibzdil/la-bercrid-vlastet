@@ -441,6 +441,10 @@
       smuvelckivla: omittable text;square bracketed text
     - multcu.i: zo li'oi noi basti le me zo la'i'a pagbu
     - multcu.i: sera'a zo ponse .i ko viska lo notci be de'i li ni'eme'oi 2026-02-28 .i y li'oi 2026-02-28
+    - multcu: zo ka'ergau seka'a le me la'oi Neverball xe fanva: enable
+    - multcu: zo ka'ergaufa'e: disable
+    - multcu: valsi seva'u lo purci be la xorlo me zo lo .iku'i mi na djuno lokaukei mi djica lonu jmina ti .i to va'i lodu'u xukau co'e kei sa'unai
+    - multcu: lu saunai cu jibni: zo'oi verbosely .i zo'oi succinctly .i zo cu'u'u xu .iku'i zo'oi evidential la'a jenai zo'oi discursive
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
