@@ -500,7 +500,6 @@
       notci: The gismu {xusra} is broader than just declarations.  See also: {xu'ai} (I declare), {xu'asmu} (define), {ki'irxu'a} (assign / designate), {te'iski} (synonym), {tinbe} (obey / conform), {javni}, {catni}, {ponse}.
     - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
       smuvelckivla: consent;permission, license;consent, permit;ownership
-      multcu co vimcu: Consent; $x_2$ does not violate property rights or ownership of $x_1$ under $ponse_3$.  See also {_po'e} (), {flapo'e} (legal or ideological ownership, especially with property rights), {ra'erpo'e} (ownership as in effective control; could be legitimate or illegitmate under some $_po'e_3$), as the gismu {ponse} is broader; {ckaji} (has).
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
