@@ -40,8 +40,6 @@
       smuvelckivla: standard;being normal, conform;compliance
     - setsta: $x_1=st_1$ is direct / directly $x_2=st_2=se_3$, with single / clear relationship / step $x_3=se_1$ of type $x_4=se_2$; $x_1$ is straightforward / without layered interruption.
     - setseldicra: $x_1=d_2=st_1$ is indirect / indirectly $x_2=d_1=se_3$, with layers / steps $x_3=se_1$ of type / material / manifestation $x_4=se_2$ separate / interrupted from the direct layer due to quality $x_5=d_3$.
-    - lo mutcu zo'u: ci'o'ei: convert arbitrary bridi to UI
-    - lo mutcu zo'u: ma'o'ei: With meaning / function.  Take the cmavo preceding as the selma'o, and convert the arbitrary bridi following it to give it meaning or function.
     - lo mutcu zo'u: jbovlaste ilmen's lo'oi
     - koi'au: karncau modal, 1st place (individually; separately) with individuals …
     - sekoi'au: karncau modal, 2nd place (individually; separately) separately from …
@@ -134,7 +132,6 @@
     - juxyjicla: $x_1=ji_1$ scrambles / mangles $x_2=ji_2=ju_1$ by standard $x_3=ju_3$.
     - jbovlaste Qimar: damvaxtu'u: t1 is a pipe for inhaling burned substance d1 used by v1 made of material t2.
     - jbovlaste selpahi: si'au: evidential for {simlu} (UI2)
-    - xu'ai: evidential: I declare - I submit
     - jbovalste noralujv: tanbargu: b1 is a rainbow at location b2=t2, made of water droplets b3.
     - jbovlaste xsznix: zukyde'a: z1=d1 is hesitant/is reluctant/hesitates/lingers in employing means/taking action z2=d4 because of z3, waiting until d2 at state d3
     - sai'au: evidential: I guess
@@ -284,11 +281,6 @@
 
       {be} is only for the first attachment, and {bei} is only for non-first attachments.  {bei'i} is valid for either the first or subsequent attachments, and is terminated with {be'o}.  See also {bei'e}, to effectively automatically apply {bei'i} to all following sumti until terminated with {be'o}; this also can be used after SEI cmavo to attach following sumti to the SEI cmavo without having to explicitly use {be} or {bei} to sumti that occur after the selbri (sumti preceding the selbri in the case of {sei} are already part of the SEI clause).
 
-    - .ui'ei: Convert arbitrary bridi to UI with the grammar of {sei}.
-      nonce UI;manual UI from bridi
-      nonce;UI
-
-      Equivalent synonym for {ci'o'ei}, converting bridis to UI; both words are shorthand for «.ui {ma'o'ei}».  For a grammar closer to sumti, see also {ki'ai}, which uses COI2 rather than SEI, which can convert cmevla, selbri, and zoi quotes; this permits the shorter version of e.g. «ki'ai .xm. mi pensi» rather than e.g. «.ui'ei me la .xm. mi pensi».  For conversion to selbri, see {tai'i}.  See also {ju'a'ei} for nonce evidentials (e.g. «ju'a'ei simlu» for «si'au» (‘it seems …’)).  Note that after SEI, selbri auto-terminate with {se'u} once a sumti is found, unless it is attached with {be} or {bei} (or {bei'i}); however, {bei'e} may be used after a SEI cmavo to still apply the following sumti, with effectively automatic {bei'i} application.  For converting bridi to arbitrary existing grammar, see {ma'o'ei}.
     - lo multcu zo'u: very briefly thought of samca'adatni; give it some better thinking through and consider if you want a different word, and then provide a good-quality definition. software
     - multcu.i ai'ai: comparative reality emphasis; even.
       selma'o: UI5
@@ -446,29 +438,61 @@
     - multcu: valsi seva'u lo purci be la xorlo me zo lo .iku'i mi na djuno lokaukei mi djica lonu jmina ti .i to va'i lodu'u xukau co'e kei sa'unai
     - multcu: lu saunai cu jibni: zo'oi verbosely .i zo'oi succinctly .i zo cu'u'u xu .iku'i zo'oi evidential la'a jenai zo'oi discursive
     - multcu: lu barta zifre <turni <sidbo>> li'u seka'ai lo notci
-    - multcu: lo'ei: generic / nonce «lo»-type constructor with the grammar of «lo SEI»; «lo mu'a'ei».
-      selma'o: LOhEI
-      notci: To create a custom «lo», you can say «lo'ei <bridi> se'u broda».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.  (Due to its location in the grammar, «lo'ei» often but not always needs an explicit «se'u» terminator, unlike many other «mu'a'ei» shorthands.)
 
-      ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
-    - multcu: la'e'ei: generic / nonce «la'e»-type constructor with the grammar of «la'e SEI»; «la'e mu'a'ei».
+    - ci'o'ei: Convert arbitrary bridi to UI with the grammar of {sei} (deprecated in favor of «ui'ei»).
+      selma'o: SEI
+      notci:
+        Deprecated in favor of {ui'ei}, a more idiomatic choice of word when it is available.  This general mechanism facilitates more general bridging between simple bridi and a specific feature of Lojban grammar, aiding in providing for a more minimal grammar foundation.  {ci'o'ei} can convert to UI arbitrary bridi, allowing the creation of new attitudinals.  Example: «.i ci'o'ei gleki do snada .iji'a .ui».  «{ci'o'ei} broda» is a shorter version of «.{ui} {ma'o'ei} broda».
+
+        ni'o See also {ma'o'ei} (generalized {ci'o'ei} that attaches to an arbitrary cmavo), {ki'ai} (sumti/cmevla to UI (similar grammar to that of {coi} rather than {sei})), {sa'ei} ({ki'ai} except for onomatopoeia), {tai'i} ({ki'ai} restricted to phenomimes), {ci'oi} ({ki'ai} restricted to psychomimes).
+    - ma'o'ei: With meaning / function.  Take the cmavo preceding as the selma'o, and convert the arbitrary bridi following it to give it meaning or function.
+      selma'o: SEI
+      notci:
+        Nonce / generic cmavo creation for existing grammar.  This can be used to convert arbitrary meaning (or cmavo, represented in a bridi) to a desired selma'o.  This is {sei} specialized to changing the meaning of the cmavo or word preceding {ma'o'ei} while preserving its grammar.  (See also {ui'ei} for a specialization of {ma'o'ei} to UI.  See {ju'a'ei} likewise for UI2.)
+
+        ni'o (See {ze'ei} for a similar word restricted to a single word only rather than general bridi to express semantics (and with opposite order, perhaps like tanru) to coin nonce cmavo without allocating new experimental forms.)
+
+        ni'o This general mechanism facilitates more general bridging between simple bridi and a specific feature of Lojban grammar, aiding in providing for a more minimal grammar foundation.
+
+        ni'o Example: «.i .ui ma'o'ei xajmi mi se snuti .i va'i .u'i .i ca'e zo .u'i se smuni lu« .ui ma'o'ei xajmi »li'u».
+      vlakla: se krasi lo me zo ma'o be le'oi loka rafsi be'o joi zo sei
+      smuvelckivla: nonce cmavo, nonce word
+    - .ui'ei: Convert arbitrary bridi to UI with the grammar of {sei}.
+      selma'o: UIhEI
+      smuvelckivla: nonce UI;manual UI from bridi, nonce;UI
+      notci: Converts bridis to UI; shorthand for «.ui {ma'o'ei}».  For a grammar closer to sumti rather than SEI, see also {ki'ai}, which uses COI2 rather than SEI, which can convert cmevla, selbri, and zoi quotes; this permits the shorter version of e.g. «ki'ai .xm. mi pensi» rather than e.g. «.ui'ei me la .xm. mi pensi».  For conversion to selbri, see {tai'i}.  See also {ju'a'ei} for nonce evidentials (e.g. «ju'a'ei simlu» for «si'au» (‘it seems …’)).  Note that after SEI, selbri auto-terminate with {se'u} once a sumti is found, unless it is attached with {be} or {bei} (or {bei'i}); however, {bei'e} may be used after a SEI cmavo to still apply the following sumti, with effectively automatic {bei'i} application.  For converting bridi to arbitrary existing grammar, see {ma'o'ei}.
+    - lo'ei: generic / nonce «lo»-type constructor with the grammar of «lo SEI»; «lo mu'a'ei».
+      selma'o: LOhEI
+      notci:
+To create a custom «lo», you can say «lo'ei BRIDI se'u broda».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}, {lo'u'a}.  (Due to its location in the grammar, «lo'ei» often but not always needs an explicit «se'u» terminator, unlike many other «mu'a'ei» shorthands.)
+
+ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+      smuvelckivla: nonce LO;manual LO from bridi, nonce;LO
+      vlakra: zo lo joi zo sei
+    - la'e'ei: generic / nonce «la'e»-type constructor with the grammar of «la'e SEI»; «la'e mu'a'ei».
       selma'o: LAhEhEI
-      notci: To create a custom sumti convertor like «la'e», you can say «la'e'ei <bridi> <sumti>».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
-    - multcu: lo'u'a: «lo» with a focus on truthfulness and non-groupness; old-style «lo».
+      notci:
+        To create a custom sumti convertor / qualifier like «la'e», you can say «la'e'ei BRIDI SUMTI».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+
+        ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+      smuvelckivla: nonce LAhE;manual LAhE from bridi, nonce;LAhE
+      vlakra: zo la'e joi zo sei
+    - lo'u'a: «lo» with a focus on truthfulness and non-groupness; old-style «lo».
       selma'o: LE
-      notci: A gadri/descriptor under this proposed model: since «lo» is
-      generic, «le» can focus more on specificity, non-groupness, and on it
-      being more of a description than the description necessarily being true
-      (non-veridical rather than vague veridicalness and rather than
-      veridical), and «lo'u'a» compared to «lo» focuses on non-groupness and
-      truthfulness.  «lo'u'a» also adds non-setness (although the individual
-      itself can be a set).  Suggestion: «lo» may still have connotations of
-      «lo'u'a»; for a strictly pure «lo» consider using «zo'e noi», which can
-      be individuals, masses, sets, and novel types of sumti.  See also:
-      «ma'o'ei», xorlo language mod, and «karncau» and related conveniences
-      with LAhE, BAI, and other grammar for ‘each’ / individuality focus.
+      notci: A gadri/descriptor under this proposed model: since «lo» is generic, «le» can focus more on specificity, non-groupness, and on it being more of a description than the description necessarily being true (non-veridical rather than vague veridicalness and rather than veridical), and «lo'u'a» compared to «lo» focuses on non-groupness and truthfulness.  «lo'u'a» also adds non-setness (although the individual itself can be a set).  Suggestion: «lo» may still have connotations of «lo'u'a»; for a strictly pure «lo» consider using «zo'e noi», which can be individuals, masses, sets, and novel types of sumti.  See also: «ma'o'ei», xorlo language mod, and «karncau» and related conveniences with LAhE, BAI, and other grammar for ‘each’ / individuality focus.
       vlakra: se krasi zo lo joi zo lu'a
-    - multcu: 
+      smuvelckivla: individuals that really are, old lo;old-style lo
+    - xu'ai: evidential: I declare - I submit
+    - multcu: evidential: I declare - I submit; «ju'a'ei xusra»
+      notci:
+        A shorter version of {ju'a} {ma'o'ei} {xusra} (or {ju'a'ei} {xusra}).
+
+        ni'o See also {ca'e} (I define - I conform (proposed «nai» interpretation)) {si'au}, as in {ju'a} {ma'o'ei} {simlu}.
+
+
+        As in a causal declaration.  A shorter version of {ju'a} {ma'o'ei} {xusra} (or {ju'a'ei} {xusra}).
+
+        ni'o See also {ca'e} (I define - I conform (proposed «nai» interpretation)) {si'au}, as in {ju'a} {ma'o'ei} {simlu}.
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
