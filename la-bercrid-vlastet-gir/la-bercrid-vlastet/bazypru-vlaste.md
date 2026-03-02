@@ -497,7 +497,10 @@
       smuvelckivla: I submit;evidential
     - ri'arxu'a: $x_1=xu_1$ declares/specifies $x_2=xu_2=r_1$ causing $x_3=r_2$.
       smuvelckivla: declare;causal declaration, specify;declare
-      notci: The gismu {xusra} is broader than just declarations.  See also: {xu'ai} (I declare), {xu'asmu} (define), {ki'irxu'a} (assign / designate), {te'iski} (synonym), {tinbe} (obey / conform), {javni}, {catni}, {ponse}.
+      notci: The gismu {xusra} is broader than just declarations.  This definition is meant to narrow down or modify {xusra} for a more declarative, active, authoritative sense, e.g. as in xusra's ‘[can be used for epistemology of authority]’, rather than mere claims or witnesses.  See also: {zgaxu'a} (claim), {xu'ai} (I declare), {xu'asmu} (define), {ki'irxu'a} (assign / designate), {te'iski} (synonym), {tinbe} (obey / conform), {javni}, {catni}, {ponse}.
+    - zgaxu'a: $x_1=xu_1=z_1$ claims/asserts/states/witnesses/deduces/infers/[observes]/testifies/bears witness that $x_2=xu_2=z_2$ using senses/means $x_3=z_3$ under conditions $x_4=z_4$ conforming to $x_5$ (e.g. objective reality, epistimology, logical source, standard, subjective source).
+      smuvelckivla: claim (deductive, inductive, or observational), assert (claim), state (claim), witness;claim, bear witness;claim, testify;cleam
+      notci: The gismu {xusra} is broader than just claims.  This definition is meant to take the more responsive or passive sense of the concept.  See also: {ri'arxu'a} (declare).
     - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
       smuvelckivla: consent;permission, license;consent, permit;ownership
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
