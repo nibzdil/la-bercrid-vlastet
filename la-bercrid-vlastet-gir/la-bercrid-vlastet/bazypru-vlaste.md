@@ -463,15 +463,15 @@
     - lo'ei: generic / nonce «lo»-type constructor with the grammar of «lo SEI»; «lo mu'a'ei».
       selma'o: LOhEI
       notci:
-To create a custom «lo», you can say «lo'ei BRIDI se'u broda».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}, {lo'u'a}.  (Due to its location in the grammar, «lo'ei» often but not always needs an explicit «se'u» terminator, unlike many other «mu'a'ei» shorthands.)
+        To create a custom «lo», you can say «lo'ei ⟨bridi⟩ se'u broda».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}, {lo'u'a}.  (Due to its location in the grammar, «lo'ei» often but not always needs an explicit «se'u» terminator, unlike many other «mu'a'ei» shorthands.)
 
-ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+        ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce LO;manual LO from bridi, nonce;LO
       vlakra: zo lo joi zo sei
     - la'e'ei: generic / nonce «la'e»-type constructor with the grammar of «la'e SEI»; «la'e mu'a'ei».
       selma'o: LAhEhEI
       notci:
-        To create a custom sumti convertor / qualifier like «la'e», you can say «la'e'ei BRIDI SUMTI».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+        To create a custom sumti convertor / qualifier like «la'e», you can say «la'e'ei ⟨bridi⟩ ⟨sumti⟩».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
 
         ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce LAhE;manual LAhE from bridi, nonce;LAhE
