@@ -80,7 +80,6 @@
     - $x_1=p_1$ is a level / world / mini-world / map / world-part / universe, of universe $x_2=p_2=m_1$, with domain / sphere $x_3=m_2$ (for $x_1$) characterized by / defined by rules $x_4=m_3$ (for $x_1$), with parent universe of domain / sphere $x_5$ (for $x_2$) characterized by / defined by rules $x_6$ (for $x_2$)).
     - pairlai: $x_1=k_1=p_2$ has score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$; $x_2$ is the score / rank of $x_1$ according to judge $x_3$.
     - sfapailai: $x_1=k_1=p_2=s_2$ has penalty / is penalized with penalty / judgement $x_2=k_2=p_3=s_4$ for infraction $x_3=s_3$ by judge / evaluator / ranking $x_4=k_3=p_1=s_1$; $x_2$ is a penalty.
-    - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
     - posxu'a: $x_1=xu_1=p_1$ claims ownership of $x_2=xu_2=p_2$ under property rights standard / law / custom / system of private exclusion / system of rights $x_3=p_3$; $x_1$ claims $x_2$.
     - naltelgau: $x_1=g_1$ unlocks lock $x_2=g_2=s_1$, a lock / seal of / for sealing $x_3=s_2$ with/by locking mechanism $x_4=s_3$.
     - zasyde'agau: $x_1=g_1$ pauses / makes to temporarily wait $x_2=g_2=d_1=z_1=z_2$ for / until $x_3=d_2$ at state $x_4=d_3$ before resuming / continuing / starting $x_5=d_4$ (activity / process), (with temporariness standard / expectant $x_6=z_3$); $x_1$ pauses / delays $x_2$.
@@ -482,17 +481,26 @@ ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a 
       notci: A gadri/descriptor under this proposed model: since «lo» is generic, «le» can focus more on specificity, non-groupness, and on it being more of a description than the description necessarily being true (non-veridical rather than vague veridicalness and rather than veridical), and «lo'u'a» compared to «lo» focuses on non-groupness and truthfulness.  «lo'u'a» also adds non-setness (although the individual itself can be a set).  Suggestion: «lo» may still have connotations of «lo'u'a»; for a strictly pure «lo» consider using «zo'e noi», which can be individuals, masses, sets, and novel types of sumti.  See also: «ma'o'ei», xorlo language mod, and «karncau» and related conveniences with LAhE, BAI, and other grammar for ‘each’ / individuality focus.
       vlakra: se krasi zo lo joi zo lu'a
       smuvelckivla: individuals that really are, old lo;old-style lo
-    - xu'ai: evidential: I declare - I submit
-    - multcu: evidential: I declare - I submit; «ju'a'ei xusra»
+    - xu'ai: evidential: I declare - I submit; «ju'a'ei ri'arxu'a»
       notci:
-        A shorter version of {ju'a} {ma'o'ei} {xusra} (or {ju'a'ei} {xusra}).
+        As in a causal declaration.  Also ‘let’ as in ‘let there be’.  A shorter version of {ju'a} {ma'o'ei} {ri'arxu'a} (or {ju'a'ei} {ri'arxu'a}).
 
-        ni'o See also {ca'e} (I define - I conform (proposed «nai» interpretation)) {si'au}, as in {ju'a} {ma'o'ei} {simlu}.
+        ni'o See also {ca'e} (I define - I conform (proposed «nai» interpretation)), {ri'arxu'a} (declare), {si'au} (it seems; as in {ju'a} {ma'o'ei} {simlu}).
+      vlakra: zo ri'arxu'a
+      smuvelckivla: let;let there be, I declare;evidential
+    - xu'ainai: evidential: I declare - I submit; «ju'a'ei ri'arxu'a»
+      notci:
+        As in a causal declaration.  Also ‘let’ as in ‘let there be’.  A shorter version of {ju'a} {ma'o'ei} {ri'arxu'a} (or {ju'a'ei} {ri'arxu'a}).
 
-
-        As in a causal declaration.  A shorter version of {ju'a} {ma'o'ei} {xusra} (or {ju'a'ei} {xusra}).
-
-        ni'o See also {ca'e} (I define - I conform (proposed «nai» interpretation)) {si'au}, as in {ju'a} {ma'o'ei} {simlu}.
+        ni'o See also {ca'e} (I define - I conform (proposed «nai» interpretation)), {ri'arxu'a} (declare), {si'au} (it seems; as in {ju'a} {ma'o'ei} {simlu}).
+      vlakra: zo ri'arxu'a
+      smuvelckivla: I submit;evidential
+    - ri'arxu'a: $x_1=xu_1$ declares/specifies $x_2=xu_2=r_1$ causing $x_3=r_2$.
+      smuvelckivla: declare;causal declaration, specify;declare
+      notci: The gismu {xusra} is broader than just declarations.  See also: {xu'ai} (I declare), {xu'asmu} (define), {ki'irxu'a} (assign / designate), {te'iski} (synonym), {tinbe} (obey / conform), {javni}, {catni}, {ponse}.
+    - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
+      smuvelckivla: consent;permission, license;consent, permit;ownership
+      multcu co vimcu: Consent; $x_2$ does not violate property rights or ownership of $x_1$ under $ponse_3$.  See also {_po'e} (), {flapo'e} (legal or ideological ownership, especially with property rights), {ra'erpo'e} (ownership as in effective control; could be legitimate or illegitmate under some $_po'e_3$), as the gismu {ponse} is broader; {ckaji} (has).
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
