@@ -445,6 +445,30 @@
     - multcu: zo ka'ergaufa'e: disable
     - multcu: valsi seva'u lo purci be la xorlo me zo lo .iku'i mi na djuno lokaukei mi djica lonu jmina ti .i to va'i lodu'u xukau co'e kei sa'unai
     - multcu: lu saunai cu jibni: zo'oi verbosely .i zo'oi succinctly .i zo cu'u'u xu .iku'i zo'oi evidential la'a jenai zo'oi discursive
+    - multcu: lu barta zifre <turni <sidbo>> li'u seka'ai lo notci
+    - multcu: lo'ei: generic / nonce «lo»-type constructor with the grammar of «lo SEI»; «lo mu'a'ei».
+      selma'o: LOhEI
+      notci: To create a custom «lo», you can say «lo'ei <bridi> se'u broda».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.  (Due to its location in the grammar, «lo'ei» often but not always needs an explicit «se'u» terminator, unlike many other «mu'a'ei» shorthands.)
+
+      ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+    - multcu: la'e'ei: generic / nonce «la'e»-type constructor with the grammar of «la'e SEI»; «la'e mu'a'ei».
+      selma'o: LAhEhEI
+      notci: To create a custom sumti convertor like «la'e», you can say «la'e'ei <bridi> <sumti>».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+    - multcu: lo'u'a: «lo» with a focus on truthfulness and non-groupness; old-style «lo».
+      selma'o: LE
+      notci: A gadri/descriptor under this proposed model: since «lo» is
+      generic, «le» can focus more on specificity, non-groupness, and on it
+      being more of a description than the description necessarily being true
+      (non-veridical rather than vague veridicalness and rather than
+      veridical), and «lo'u'a» compared to «lo» focuses on non-groupness and
+      truthfulness.  «lo'u'a» also adds non-setness (although the individual
+      itself can be a set).  Suggestion: «lo» may still have connotations of
+      «lo'u'a»; for a strictly pure «lo» consider using «zo'e noi», which can
+      be individuals, masses, sets, and novel types of sumti.  See also:
+      «ma'o'ei», xorlo language mod, and «karncau» and related conveniences
+      with LAhE, BAI, and other grammar for ‘each’ / individuality focus.
+      vlakra: se krasi zo lo joi zo lu'a
+    - multcu: 
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
