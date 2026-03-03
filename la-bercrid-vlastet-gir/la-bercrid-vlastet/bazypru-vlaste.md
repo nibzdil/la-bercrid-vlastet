@@ -280,11 +280,6 @@
 
       See also: {ke'a}.
 
-    - bei'i: hybrid {be} and {bei}: sumti link to attached sumti to a selbri, repeatable, valid for both first and subsequent attachments.
-      link first or subsequent sumti;link sumti to selbri
-
-      {be} is only for the first attachment, and {bei} is only for non-first attachments.  {bei'i} is valid for either the first or subsequent attachments, and is terminated with {be'o}.  See also {bei'e}, to effectively automatically apply {bei'i} to all following sumti until terminated with {be'o}; this also can be used after SEI cmavo to attach following sumti to the SEI cmavo without having to explicitly use {be} or {bei} to sumti that occur after the selbri (sumti preceding the selbri in the case of {sei} are already part of the SEI clause).
-
     - lo multcu zo'u: very briefly thought of samca'adatni; give it some better thinking through and consider if you want a different word, and then provide a good-quality definition. software
     - multcu.i ai'ai: comparative reality emphasis; even.
       selma'o: UI5
@@ -358,7 +353,7 @@
     - jonzba: $x_1=z_1$ composes $x_2=z_2=j_1$ out of $x_3=z_3=j_1$ and $x_4=z_3=j_2$ merged with structure / by means / in way / at locus $x_5=j_3$.
       smuvelckivla: compose;make by merging, composition;compose
       stuzi smuvelckivla: composer;maker by merging, composite;first composite, constituent;second constituent
-      notci: For a composition of non-pairs, {jonzba} can be nested like functional List, or places $x_2$ and $x_3$ can be merged allowing a single place to specify the constituents, or either can be deleted ({zi'o}).  Alternatively, either can be constructed to be interpreted to represent multiple constituents (e.g. with a mass), and either place can be split into multiple places.  See also: {krapagzba} (construct), {jonzba} (decompose), {selgumgau} (combine).
+      notci: For a composition of non-pairs, {jonzba} can be nested like functional List, or places $x_2$ and $x_3$ can be merged (see {joi'u'i}) allowing a single place to specify the constituents, or either can be deleted ({zi'o}).  Alternatively, either can be constructed to be interpreted to represent multiple constituents (e.g. with a mass), and either place can be split into multiple places.  See also: {krapagzba} (construct), {jonzba} (decompose), {selgumgau} (combine).
     - jonzbafa'e: $x_1=z_1$ decomposes $x_2=z_2=j_1$ into $x_3=z_3=j_1$ and $x_4=z_3=j_2$ merged with structure / by means / in way / at locus $x_5=j_3$.
       smuvelckivla: decompose;separate into components, decomposition;decompose
       notci: See also: {jonzba} (compose).
@@ -544,17 +539,22 @@
         ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce JA;manual JA from bridi, nonce;JA
       vlakra: zo la'e joi zo sei
-
-
     - plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
       notci:
         For agentive application / applying, consider using {gau} or adding a suffix of {gau} to prepend an x1 agent place.
 
         ni'o Contraction: {pli'aje}.
-      smuvelckivla: application;functional, from application of
+      smuvelckivla: application;functional, from application of;functional
     - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
       notci: Contraction of {plipu'ija'e}.
-      smuvelckivla: application;functional, from application of
+      smuvelckivla: application;functional, from application of;functional
+    - bei'i: hybrid {be} and {bei}: sumti link to attached sumti to a selbri, repeatable, valid for both first and subsequent attachments.  Can also appear immediately after gadri like {lo}.
+      selma'o: BEIhI
+      notci:
+        {be} is only for the first attachment, and {bei} is only for non-first attachments.  {bei'i} is valid for either the first or subsequent attachments, and is terminated with {be'o}.  See also {bei'e}, to automatically apply {bei'i} to all following sumti until terminated with {be'o}; this also can be used after SEI cmavo to attach following sumti to the SEI cmavo without having to explicitly use {be} or {bei} to sumti that occur after the selbri (sumti preceding the selbri in the case of {sei} are already part of the SEI clause).
+
+        ni'o {bei'i} additionally can add a link immediately after a gadri like {lo} before the description, with the result being as though the links were concatenated.  e.g. «lo bei'i ko'a [be'o] broda be ko'e bei bai ko'i [be'o]» means «lo broda be ko'a bei ko'e bei bai ko'i».  Experimental grammar mod: {be} also supports this function.
+      smuvelckivla: link first or subsequent sumti;link sumti to selbri, gadri early link
     - joi'ei: generic / nonce «joi»-type constructor with the grammar of «joi'ei SEI»; «joi mu'a'ei».
       selma'o: JOIhEI
       notci:
@@ -562,10 +562,11 @@
 
         ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce JOI;manual JOI from bridi, nonce;JOI
-    - joi'u'i: merge sumti into a single sumti / apply termset to manipulator
+    - joi'u'i: merge sumti into a single sumti / apply termset to manipulator.
       selma'o: JOIhUhI
-      notci: Terminated by «nu'u».  «joi'u'i» starts a termset and has 3 forms: 1) «joi'u'i ko'a ko'e ko'i … [nu'u]» means «ko'a joi ko'e joi ko'i».  2) «joi'u'i ce ko'a ko'e ko'i … [nu'u]» means «ko'a ce ko'e ce ko'i».  3) «joi'u'i broda ko'a ko'e ko'i … [nu'u]» means apply the termset «broda», which can be a custom function or handler ({me} can raise a sumti for this use); and similarly «joi'u'i be fo'a ko'a ko'e ko'i … [nu'u]» means «joi'u'i me fo'a ko'a ko'e ko'i … [nu'u]».  See also {ce'ei} («joi'u'i ce»), {joi'ei} («joi mu'a'ei»), {plipu'ija'e} (‘from application of’).
+      notci: Terminated by «nu'u».  «joi'u'i» starts a termset and has 3 forms: 1) «joi'u'i ko'a ko'e ko'i … [nu'u]» means «ko'a joi ko'e joi ko'i» (the termset can be empty; {nu'u} terminates).  2) «joi'u'i ce ko'a ko'e ko'i … [nu'u]» means «ko'a ce ko'e ce ko'i».  3) «joi'u'i broda ko'a ko'e ko'i … [nu'u]» means apply the termset «broda», which can be a custom function or handler ({me} can raise a sumti for this use); and similarly «joi'u'i be fo'a ko'a ko'e ko'i … [nu'u]» means «joi'u'i me fo'a ko'a ko'e ko'i … [nu'u]» (you can also use {bei'i}).  See also {ce'ei} («joi'u'i ce»), {joi'ei} («joi mu'a'ei»), {plipu'ija'e} (‘from application of’).
       smuvelckivla: merge sumti, merge termset;merge sumti, apply termset to manipulator
+      vlakra: joi'u'i zo joi zo nu'i
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
