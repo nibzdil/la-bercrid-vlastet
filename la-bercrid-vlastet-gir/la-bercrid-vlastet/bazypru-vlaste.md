@@ -12,6 +12,19 @@
                 - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
                 - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
                 - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
+- vlaste (vocabulary): "bangu: jbo":
+    - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
+      notci:
+        fa'orma'o fi ma'oi ce'ei fa zo {kei'oi}
+
+        ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o cu te gafygau .i panra fi ti
+      selma'o: CEhEI
+    - kei'oi: ma'orfa'o fi ma'oi CEhEI
+      selma'o: KEIhOI
+      notci:
+        ko catlu fu'oi ji'a zo {ce'ei}
+
+        ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o be fi zo ce'ei cu te gafygau fava'iteka'a zo kei'u .i panra fi ti
 - vlaste (vocabulary): "bangu: en":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
     - stoveipa'o: $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$; $x_1$ is a commit.
@@ -483,18 +496,21 @@
       notci:
         A gadri/descriptor under this proposed model: since «lo» is generic, «le» can focus more on specificity, non-groupness, and on it being more of a description than the description necessarily being true (non-veridical rather than vague veridicalness and rather than veridical), and «lo'u'a» compared to «lo» focuses on non-groupness and truthfulness.  «lo'u'a» also adds non-setness (although the individual itself can be a set).  Suggestion: «lo» may still have connotations of «lo'u'a»; for a strictly pure «lo» consider using «zo'e noi», which can be individuals, masses, sets, and novel types of sumti.  See also: «ma'o'ei», xorlo language mod, and «karncau» and related conveniences with LAhE, BAI, and other grammar for ‘each’ / individuality focus.
 
-        ni'o Example: if a person, who is sitting inside a room, is in the middle of a room's walls (or a point in the middle of a square's four corners ({kurfa})), then while «lo prenu cu midju lo bitmu pe le kumfa» may be technically true, its connotation is false, since there may be greater emphasis on the person being actually inside of the walls, whereas «zo'e noi bitmu pe la kumfa» avoids that connotation, and «lo prenu cu midju lo'u'a bitmu pe le kumfa» means the person is inside each wall / a wall.  «lo prenu cu midju loi bitmu pe le kumfa» or «lo prenu cu midju lo gunma be lo bitmu pe le kumfa» may be more precise, as the object being discussed is the whole group of walls, perhaps as a certain type of group in terms of how it is used or interpreted, as in «lo prenu cu midju lo girzu be lo bitmu pe le kumfa sekai loka marji stuzi», so using a mass to signal alternative logic can be used to express this.  However, under this interpretation of individuality, to use the LLG CLL's example, three people carrying a piano implies each person was carrying the piano, even if the individuals happened to be in relation to each other, or even if they happened to be carrying the piano at the same time, so «lo'u'a» can be used here while still being true (see also {sepli} to communicate separate carrying, and {krefu} and {ke'u'ai} (e.g. «ke'u'ai lo sepli») to talk about the instances / whether it was at the same time, or {kancau} to communicate carrying alone, or {karncau} to use an alternative interpretation of individuality, one that has a stronger focus on separateness).
+        ni'o Example: if a person, who is sitting inside a room, is in the middle of a room's walls (or a point in the middle of a square's four corners ({kurfa})), then while «lo prenu cu midju lo bitmu pe le kumfa» may be technically true, its connotation is false, since there may be greater emphasis on the person being actually inside of the walls, whereas «zo'e noi bitmu pe la kumfa» avoids that connotation, and «lo prenu cu midju lo'u'a bitmu pe le kumfa» means the person is inside each wall / a wall.  «lo prenu cu midju loi bitmu pe le kumfa» or «lo prenu cu midju lo gunma be lo bitmu pe le kumfa» may be more precise, as the object being discussed is the whole group of walls, perhaps as a certain type of group in terms of how it is used or interpreted, as in «lo prenu cu midju lo girzu be lo bitmu pe le kumfa sekai loka marji stuzi», so using a mass to signal alternative logic can be used to express this.  However, under this interpretation of individuality, to use the LLG CLL's example, three people carrying a piano implies each person was carrying the piano, even if the individuals happened to be in relation to each other, or even if they happened to be carrying the piano at the same time, so «lo'u'a» can be used here while still being true (see also {sepli} to communicate separate carrying, and {krefu} and {kei'u} (e.g. «kei'u lo sepli») to talk about the instances / whether it was at the same time, or {kancau} to communicate carrying alone, or {karncau} to use an alternative interpretation of individuality, one that has a stronger focus on separateness).
       vlakra: se krasi zo lo joi zo lu'a
       smuvelckivla: individuals that really are, old lo;old-style lo
-    - ke'u'ai: krefu modal, 1st place (in instance / at time); in instance / case …
+    - kei'u: krefu modal, 1st place (in instance / at time); in instance / case …
       selma'o: BAI
       notci: Example: «lo prenu be kei'u lo sepli cu bevri le pipno» means the people, at separate times, carried the piano.  «lo prenu be kei'u lo mintu cu bevri le pipno» means the people carried the piano at the same time / in the same instance.  See also: {lo'u'a}, {ke'u}.
       smuvelckivla: in instance, in case;in instance, at time;in instance
-    - seke'u'ai: krefu modal, 2nd place; an instance of …
+    - sekei'u: krefu modal, 2nd place; an instance of …
       selma'o: BAI*
       smuvelckivla: an instance of
-    - teke'u'ai: krefu modal, 3rd place; for the …'th time
+    - tekei'u: krefu modal, 3rd place; for the …'th time
       selma'o: BAI*
+    - ma'orfa'o: $x_1=f_1$ is a terminator of cmavo $x_2=f_2=c_1$ of selma'o $x_3=c_2$ (of $x_2$) of selma'o $x_4$ (of $x_1$) (with cmavo meaning/function $x_5=c_3$ (of $x_2$) in usage (language) $x_6=c_4$ (of $x_2$)).
+      terminator;of a cmavo/selma'o.
+      notci: See alse: {famyma'o} (termating cmavo that has selma'o …)
     - xu'ai: evidential: I declare - I submit; «ju'a'ei ri'arxu'a»
       notci:
         As in a causal declaration.  Also ‘let’ as in ‘let there be’.  A shorter version of {ju'a} {ma'o'ei} {ri'arxu'a} (or {ju'a'ei} {ri'arxu'a}).
@@ -517,6 +533,8 @@
       notci: The gismu {xusra} is broader than just claims.  This definition is meant to take the more responsive or passive sense of the concept.  See also: {ri'arxu'a} (declare).
     - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
       smuvelckivla: consent;permission, license;consent, permit;ownership
+    - kei'oi: Terminator for {ce'ei} and other cmavo that merge or manipulate multiple sumti.
+      vlakra: zo kei joi lo terle'o be fi loka pagbu bei fe zo be'o joi zo ku'o joi zo lo'o joi lo morna krefu .i ta'o tu'e zo me'u cu milxe frica .i ku'i la'a zo me'o puzo'e se fairgau ji'u zo mekso .i ji'a zo ku je zo ke'u cu frica tu'u
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
