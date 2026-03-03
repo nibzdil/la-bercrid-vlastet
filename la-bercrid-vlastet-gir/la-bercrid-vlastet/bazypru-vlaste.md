@@ -14,17 +14,11 @@
                 - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
 - vlaste (vocabulary): "bangu: jbo":
     - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
+      selma'o: NUhI
       notci:
-        fa'orma'o fi ma'oi ce'ei fa zo {kei'oi}
+        fa'orma'o fi ma'oi ce'ei fa zo {nu'u}
 
         ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o cu te gafygau .i panra fi ti
-      selma'o: CEhEI
-    - kei'oi: ma'orfa'o fi ma'oi CEhEI
-      selma'o: KEIhOI
-      notci:
-        ko catlu fu'oi ji'a zo {ce'ei}
-
-        ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o be fi zo ce'ei cu te gafygau fava'iteka'a zo kei'u .i panra fi ti
 - vlaste (vocabulary): "bangu: en":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
     - stoveipa'o: $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$; $x_1$ is a commit.
@@ -207,7 +201,6 @@
     - semai'ai: ki'irmapti modal, 2nd place (relational correspondence) as …
     - temai'ai: ki'irmapti modal, 3rd place (relational correspondence) corresponding in property / aspect …
     - vemai'ai: ki'irmapti modal, 4th place (relational correspondence) corresponding by standard …
-    - plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
     - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
     - fa'u'i: sumti place tag: apply arbitrary sumti application or termset
     - jbovlaste jongausib: setpistabno: $s_1=p_2=t_1$ is a quantity of/contains/is made of graphene.
@@ -533,8 +526,46 @@
       notci: The gismu {xusra} is broader than just claims.  This definition is meant to take the more responsive or passive sense of the concept.  See also: {ri'arxu'a} (declare).
     - po'ecru: $x_1=c_1=p_1$ consents to / licenses / gives permission / consent for $x_2=c_2=p_2$ under conditions / terms $x_3=c_3$ under property rights standard / law / custom / system of private exclusion / system of negative rights / system of rights $x_4=p_3$; $x_1$ consents to / gives license for $x_2$.
       smuvelckivla: consent;permission, license;consent, permit;ownership
-    - kei'oi: Terminator for {ce'ei} and other cmavo that merge or manipulate multiple sumti.
-      vlakra: zo kei joi lo terle'o be fi loka pagbu bei fe zo be'o joi zo ku'o joi zo lo'o joi lo morna krefu .i ta'o tu'e zo me'u cu milxe frica .i ku'i la'a zo me'o puzo'e se fairgau ji'u zo mekso .i ji'a zo ku je zo ke'u cu frica tu'u
+    - du lo bazypru: jai'ei: generic / nonce «la'e»-type constructor with the grammar of «jai SEI»; «jai mu'a'ei».
+      selma'o: JAIhEI
+      notci:
+        With enough {jai} variants, it might be convenient to allocate a shorthand for «jai mu'a'ei».
+
+        ni'o See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+
+        ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+      smuvelckivla: nonce JAI;manual JAI from bridi, nonce;JAI
+      vlakra: zo la'e joi zo sei
+    - du lo bazypru: je'ei: generic / nonce «la'e»-type constructor with the grammar of «la'e SEI»; «je mu'a'ei».
+      selma'o: JEhEI
+      notci:
+        To create a custom logical connective like «je», you can say «je'ei ⟨bridi⟩ ⟨sumti⟩».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+
+        ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+      smuvelckivla: nonce JA;manual JA from bridi, nonce;JA
+      vlakra: zo la'e joi zo sei
+
+
+    - plipu'ija'e: $x_1=j_1=pu_1=pi_1=pi_3$ is the result / output of application of [function]/[selbri] $x_2=j_2=pu_2=pi_2$ to [input]/[sumti]/[application]/[termset] $x_3=pu_3$.
+      notci:
+        For agentive application / applying, consider using {gau} or adding a suffix of {gau} to prepend an x1 agent place.
+
+        ni'o Contraction: {pli'aje}.
+      smuvelckivla: application;functional, from application of
+    - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
+      notci: Contraction of {plipu'ija'e}.
+      smuvelckivla: application;functional, from application of
+    - joi'ei: generic / nonce «joi»-type constructor with the grammar of «joi'ei SEI»; «joi mu'a'ei».
+      selma'o: JOIhEI
+      notci:
+        To create a custom non-logical connective like «joi», you can say «joi'ei ⟨bridi⟩ ⟨sumti⟩».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+
+        ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
+      smuvelckivla: nonce JOI;manual JOI from bridi, nonce;JOI
+    - joi'u'i: merge sumti into a single sumti / apply termset to manipulator
+      selma'o: JOIhUhI
+      notci: Terminated by «nu'u».  «joi'u'i» starts a termset and has 3 forms: 1) «joi'u'i ko'a ko'e ko'i … [nu'u]» means «ko'a joi ko'e joi ko'i».  2) «joi'u'i ce ko'a ko'e ko'i … [nu'u]» means «ko'a ce ko'e ce ko'i».  3) «joi'u'i broda ko'a ko'e ko'i … [nu'u]» means apply the termset «broda», which can be a custom function or handler ({me} can raise a sumti for this use); and similarly «joi'u'i be fo'a ko'a ko'e ko'i … [nu'u]» means «joi'u'i me fo'a ko'a ko'e ko'i … [nu'u]».  See also {ce'ei} («joi'u'i ce»), {joi'ei} («joi mu'a'ei»), {plipu'ija'e} (‘from application of’).
+      smuvelckivla: merge sumti, merge termset;merge sumti, apply termset to manipulator
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
