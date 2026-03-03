@@ -19,6 +19,8 @@
         fa'orma'o fi ma'oi ce'ei fa zo {nu'u}
 
         ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o cu te gafygau .i panra fi ti
+
+        ni'o ko catlu fu'oi ji'a zo {joi'u'i} noi sucta
 - vlaste (vocabulary): "bangu: en":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
     - stoveipa'o: $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$; $x_1$ is a commit.
@@ -562,11 +564,16 @@
 
         ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce JOI;manual JOI from bridi, nonce;JOI
-    - joi'u'i: merge sumti into a single sumti / apply termset to manipulator.
+    - joi'u'i: merge sumti into a single sumti / apply termset to manipulator; split place.
       selma'o: JOIhUhI
-      notci: Terminated by «nu'u».  «joi'u'i» starts a termset and has 3 forms: 1) «joi'u'i ko'a ko'e ko'i … [nu'u]» means «ko'a joi ko'e joi ko'i» (the termset can be empty; {nu'u} terminates).  2) «joi'u'i ce ko'a ko'e ko'i … [nu'u]» means «ko'a ce ko'e ce ko'i».  3) «joi'u'i broda ko'a ko'e ko'i … [nu'u]» means apply the termset «broda», which can be a custom function or handler ({me} can raise a sumti for this use); and similarly «joi'u'i be fo'a ko'a ko'e ko'i … [nu'u]» means «joi'u'i me fo'a ko'a ko'e ko'i … [nu'u]» (you can also use {bei'i}).  See also {ce'ei} («joi'u'i ce»), {joi'ei} («joi mu'a'ei»), {plipu'ija'e} (‘from application of’).
-      smuvelckivla: merge sumti, merge termset;merge sumti, apply termset to manipulator
+      notci: Terminated by «nu'u».  «joi'u'i» starts a termset and has 3 forms: 1) «joi'u'i ko'a ko'e ko'i … [nu'u]» means «ko'a joi ko'e joi ko'i» (the termset can be empty; {nu'u} terminates).  2) «joi'u'i ce ko'a ko'e ko'i … [nu'u]» means «ko'a ce ko'e ce ko'i».  3) «joi'u'i broda ko'a ko'e ko'i … [nu'u]» means apply the termset «broda», which can be a custom function or handler ({me} can raise a sumti for this use); and similarly «joi'u'i be fo'a [be'o] ko'a ko'e ko'i … [nu'u]» means «joi'u'i me fo'a ko'a ko'e ko'i … [nu'u]» (you can also use {bei'i}).  See also {pi'a'e} (converse of {joi'u'i}), {ce'ei} («joi'u'i ce»), {joi'ei} («joi mu'a'ei»), {plipu'ija'e} (‘from application of’).
+      smuvelckivla: merge sumti, merge termset;merge sumti, apply termset to manipulator, split place
       vlakra: joi'u'i zo joi zo nu'i
+    - pi'a'e: fill multiple places from a single sumti representation; splat sumti.
+      selma'o: PIhAhE
+      smuvelckivla: splat sumti;splat single sumti
+      vlakra: zo pli'aje
+      notci: Similar grammar to {la'e}, but can fill zero or more places.  To specify a custom applier or application function fo'a to ko'a, you can use «pi'a'e be fo'a [be'o] ko'a», «pi'a'e bei'i fo'a [be'o] ko'a», and «pi'a'e me fo'a [me'u] ko'a».  See also: {joi'u'i} (merge sumti), e.g. «broda pi'a'e joi'u'i ce'o ko'a ko'e ko'i» (as in «broda ko'a ko'e ko'i»), however alternative representations, of different types, of possibly tagged terms are possible.
     - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
