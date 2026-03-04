@@ -564,6 +564,7 @@
 
         ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce JOI;manual JOI from bridi, nonce;JOI
+    - multcu: lonu jmina lo notci zo'ei zo joi'u'i sema'ai lodu'u ny notci cylyly panopiremu
     - joi'u'i: merge sumti into a single sumti / apply termset to manipulator; split place.
       selma'o: JOIhUhI
       notci: Terminated by «nu'u».  «joi'u'i» starts a termset and has 3 forms: 1) «joi'u'i ko'a ko'e ko'i … [nu'u]» means «ko'a joi ko'e joi ko'i» (the termset can be empty; {nu'u} terminates).  2) «joi'u'i ce ko'a ko'e ko'i … [nu'u]» means «ko'a ce ko'e ce ko'i».  3) «joi'u'i broda ko'a ko'e ko'i … [nu'u]» means apply the termset «broda», which can be a custom function or handler ({me} can raise a sumti for this use); and similarly «joi'u'i be fo'a [be'o] ko'a ko'e ko'i … [nu'u]» means «joi'u'i me fo'a ko'a ko'e ko'i … [nu'u]» (you can also use {bei'i}).  See also {pi'a'e} (converse of {joi'u'i}), {ce'ei} («joi'u'i ce»), {joi'ei} («joi mu'a'ei»), {plipu'ija'e} (‘from application of’).
@@ -574,7 +575,19 @@
       smuvelckivla: splat sumti;splat single sumti
       vlakra: zo pli'aje
       notci: Similar grammar to {la'e}, but can fill zero or more places.  To specify a custom applier or application function fo'a to ko'a, you can use «pi'a'e be fo'a [be'o] ko'a», «pi'a'e bei'i fo'a [be'o] ko'a», and «pi'a'e me fo'a [me'u] ko'a».  See also: {joi'u'i} (merge sumti), e.g. «broda pi'a'e joi'u'i ce'o ko'a ko'e ko'i» (as in «broda ko'a ko'e ko'i»), however alternative representations, of different types, of possibly tagged terms are possible.
-    - multcu.i seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
+    - zarti'i: $x_1=s_1=z_1$ recommends $x_2=s_2=z_2$ to $x_3=s_3$.
+      smuvelckivla: recommend
+    - multcu: tcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai», «se cabna» ({se} used for tense)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: See also: {pavtcinysumtcita} (modal), {reltcinysumtcita} (tense)
+      smuvelckivla: modal;sumtcita, tense;sumtcita
+    - multcu: pavtcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai») for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: See also: {reltcinysumtcita} (tense), {tcinysumtcita} (modal/tense)
+      smuvelckivla: modal;sumtcita
+    - multcu: reltcinysumtcita: $x_1=tcit_1=s_3$ is a tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: See also: {pavtcinysumtcita} (modal), {tcinysumtcita} (modal/tense)
+      smuvelckivla: tense;sumtcita
+    - multcu VI LO GALRAIPAU: ki'u: _
+    - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
       $x_1=t_1=c_2$ is a script / 
