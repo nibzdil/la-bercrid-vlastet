@@ -73,7 +73,6 @@
     - tema'ai: mansa modal, 3rd place (satisfying evaluator) satisfying in property …
     - kancau: $x_1=c_1=k_1$ is separate from / not with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is individual / alone / separate.
     - ciplanli: $x_1=l_1$ experiments on / experimentally analyzes $x_2=l_2=c_3$ to find or test for $x_3=c_2$ by means / test $x_4=l_3=c_1$.  (At least partly inspired by old definition, but I polished it up.)
-    - cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
     - jbovlaste tiljan: pliri'a: $r_1=p_1$ applies $r_2=p_2$ to $r_3=p_3$.
     - cu'e'o: Separate top-level sumti or selbri.
     - zmabazlai: $x_1=k_1=b_1=z_1$ is plenty of $x_2=z_3$ for purpose $x_3=b_3$ under conditions $x_4=b_4$ with quantity (of $x_1$) $x_5=l_2$ and excess $x_6=z_4$ on scale $x_7=l_3$; $x_1$ is an abundance of $x_2$; $x_1$, in quantity $x_5$, is more than enough (by amount / substance $x_6$).
@@ -380,9 +379,12 @@
     - selgumgaufa'e: $x_1=ga_1$ decombines / [individualizes] into parts / individuals $x_2=gu_1$ $x_3=gu_2$; $x_1$ decombines $x_3$ [joint whole] into [components] $x_2$.
       smuvelckivla: decombine;separate, uncombine;decombine, individualize;decombine
       notci: See also: {selgumgau} (combine).
-    - jbimau: $x_1=z_1=j_1$ is closer than $x_2=z_2$ to $x_3=j_2$ is in property / quantity $x_4=j_3$ by amount / excess $x_5=z_4$.
+    - jbimau: $x_1=z_1=j_1$ is closer than $x_2=z_2$ is to $x_3=j_2$ in property / quantity $x_4=j_3$ by amount / excess $x_5=z_4$.
       notci: {jbimau} uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$; see also {fi'o}).  See also: {jbirai}.
       smuvelckivla: closer;location, nearer;location
+    - jbime'a: $x_1=m_1=j_1$ is less close than $x_2=m_2$ is to $x_3=j_2$ in property / quantity $x_4=j_3$ by amount $x_5=m_4$.
+      notci: {jbime'a} uses «-me'a» to insert $mleca_2$ at $x_2$ (and append $mleca_4$; see also {fi'o}).  See also: {jbimau}.
+      smuvelckivla: less close;location, less near;location
     - jbirai: $x_1=t_1=j_1$ is closest to $x_2=j_2$ in property / quantity $x_3=j_3$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; among $x_5$, $x_1$ is closest to $x_2$.
       notci: See also: {jbimau}.
       smuvelckivla: closest;location, nearest;location
@@ -577,6 +579,16 @@
       notci: Similar grammar to {la'e}, but can fill zero or more places.  To specify a custom applier or application function fo'a to ko'a, you can use «pi'a'e be fo'a [be'o] ko'a», «pi'a'e bei'i fo'a [be'o] ko'a», and «pi'a'e me fo'a [me'u] ko'a».  See also: {joi'u'i} (merge sumti), e.g. «broda pi'a'e joi'u'i ce'o ko'a ko'e ko'i» (as in «broda ko'a ko'e ko'i»), however alternative representations, of different types, of possibly tagged terms are possible.
     - zarti'i: $x_1=s_1=z_1$ recommends $x_2=s_2=z_2$ to $x_3=s_3$.
       smuvelckivla: recommend
+    - satcymau: $x_1=z_1=s_1$ is more exact/precise than $x_2=z_2$ is in property / quantity $x_3=s_3$ by amount / excess $x_4=z_4$.
+      notci: {satcymau} uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$; see also {fi'o}) (this lujvo construction also adapts $zmadu_3$ to $satci_2$ rather than a relationship that includes it, making it slightly less regular, since it's much more useful and the alternative doesn't seem very useful; see also the difference between {zmanei} and {nelmau}).  See also: {satcyme'a}.
+      smuvelckivla: more exact;precision, more precise;precision
+    - satcyme'a: $x_1=m_1=s_1$ is less exact/precise than $x_2=m_2$ is in property / quantity $x_3=s_3$ by amount $x_4=m_4$.
+      notci: {satcyme'a} uses «-me'a» to insert $mleca_2$ at $x_2$ (and append $mleca_4$; see also {fi'o}) (this lujvo construction also adapts $zmadu_3$ to $satci_2$ rather than a relationship that includes it, making it slightly less regular, since it's much more useful and the alternative doesn't seem very useful; see also the difference between {zmanei} and {nelmau}).  See also: {satcymau}.
+      smuvelckivla: less exact;precision, less precise;precision
+    - multcu: cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
+      smuvelckivla: update;catch up
+      stuzi smuvelckivla: update;catch up, catch up; bring current
+      notci: See also: {ningau}.
     - multcu: tcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai», «se cabna» ({se} used for tense)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
       notci: See also: {pavtcinysumtcita} (modal), {reltcinysumtcita} (tense)
       smuvelckivla: modal;sumtcita, tense;sumtcita
@@ -586,7 +598,43 @@
     - multcu: reltcinysumtcita: $x_1=tcit_1=s_3$ is a tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
       notci: See also: {pavtcinysumtcita} (modal), {tcinysumtcita} (modal/tense)
       smuvelckivla: tense;sumtcita
-    - multcu VI LO GALRAIPAU: ki'u: _
+    - multcu VI LO GALRAIPAU: kei'u: _
+    - multcu: zo kelterfrata'o
+    - multcu: zo favyke'u
+    - multcu: zo datnyvi'u
+    - multcu: zo rucra'e
+    - multcu: zo refgau
+    - multcu: zo favytcita
+    - multcu: zo velva'isnada
+    - multcu: zo tortraji
+    - multcu: zo fa'ormu'ogau
+    - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
+    - multcu: zo geirga'a .i ko judrei le jersi .i notci .i ka'e se smuni lo simsa drata ki'u lonu cmalu
+    - multcu: (zo sa'orgau)
+    - multcu: zo refcfagau (to la'a je zo cfake'ugau toi)
+    - multcu: (zo fargau)
+    - multcu: (zo zengau)
+    - multcu: (zo julra'o (to jmina xy 3 toi jecu vimcu fi lo liste))
+    - multcu: ja'ormupli: 
+    - multcu: mlajerna: 
+    - multcu: nalma'ufa'o: 
+    - multcu: lo valsi seva'u zo pu'o je zo ca'o je zo ba'o
+    - multcu: mulkai: 
+    - multcu: minbakfu: 
+    - multcu: plicu'i: 
+    - multcu: zo'inrai: 
+    - multcu: vabytai: 
+    - multcu: narselju'o: 
+    - multcu: vidnyselclu: (to jmina xy 3 toi jecu vimcu fi lo liste)
+    - multcu: nalcando: 
+    - multcu: tolcando: 
+    - multcu: vidnyselsatci: 
+    - multcu: sedyta'uvidni: 
+    - multcu: vidnycintygau: (to zo'oi render .ui'ei cumki toi)
+    - multcu: ra'irxulgau: 
+    - multcu: vinti'e: (to jmina lo sumti nu lasna kei jecu vimcu fi lo liste toi)
+    - multcu: sircimde: 
+    - multcu: lairdu'i: 
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
