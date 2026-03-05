@@ -83,11 +83,10 @@
     - lutpoi: $x_1=po_1=pl_1$ is a course / pathed sequence to $x_2=pl_2$ from $x_3=pl_3$ via / defined by steps / stages / including $x_4=po_3=pl_4$ ordered by / sequenced by / listed by $x_5=po_2$.
     - selgrebi'u: $x_1=b_1=p_2$ is a barrier / walled medium separating / protecting $x_2=b_2=p_3$ from $x_3=b_3=p_4$ but allowing passage by $x_4=p_1$ in environment / structure $x_5=b_4$.
     - pipmulkla: $x_1=k_1=p_1$ lands on / at $x_2=k_2=p_2$ from origin $x_3=k_3=p_3$ from route $x_4=k_4$ by means $x_5=k_5$ having reached height $x_6=p_4$ with propellent $x_7=p_5$ by standard $x_8=m_3$.
-    - jajyjai: $x_1=jg_1$ grabs $x_2=jg_2=jm_1$ towards $x_3=jm_3$ away from $x_4=jm_4$ with $x_5=jg_3$ (part of $x_1$) at locus $x_6=jg_4$ (part of $x_2$).
     - caltaiboi: $x_1=b_1=t_2$ is a sphere / ellipsoid with geometric shape $x_2=t_1=c_1$ occupied by / made of $x_3=b_2=c_2$.
     - $x_1=p_1$ is a level / world / mini-world / map / world-part / universe, of universe $x_2=p_2=m_1$, with domain / sphere $x_3=m_2$ (for $x_1$) characterized by / defined by rules $x_4=m_3$ (for $x_1$), with parent universe of domain / sphere $x_5$ (for $x_2$) characterized by / defined by rules $x_6$ (for $x_2$)).
     - pairlai: $x_1=k_1=p_2$ has score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$; $x_2$ is the score / rank of $x_1$ according to judge $x_3$.
-    - sfapailai: $x_1=k_1=p_2=s_2$ has penalty / is penalized with penalty / judgement $x_2=k_2=p_3=s_4$ for infraction $x_3=s_3$ by judge / evaluator / ranking $x_4=k_3=p_1=s_1$; $x_2$ is a penalty.
+      smuvelckivla: score;judgement, rank;score, judgement;evaluation
     - posxu'a: $x_1=xu_1=p_1$ claims ownership of $x_2=xu_2=p_2$ under property rights standard / law / custom / system of private exclusion / system of rights $x_3=p_3$; $x_1$ claims $x_2$.
     - naltelgau: $x_1=g_1$ unlocks lock $x_2=g_2=s_1$, a lock / seal of / for sealing $x_3=s_2$ with/by locking mechanism $x_4=s_3$.
     - zasyde'agau: $x_1=g_1$ pauses / makes to temporarily wait $x_2=g_2=d_1=z_1=z_2$ for / until $x_3=d_2$ at state $x_4=d_3$ before resuming / continuing / starting $x_5=d_4$ (activity / process), (with temporariness standard / expectant $x_6=z_3$); $x_1$ pauses / delays $x_2$.
@@ -102,7 +101,6 @@
     - kritikti'i: $x_1=stid_1=stik_1$ is a hint / clue for / that $x_2=stid_2=stik_2=k_2$ (belief / declaration / state / discovery) to $x_3=stid_3=k_1$ (person / believer) for / about $x_4=k_3$ (topic or subject of clue) with clue strength / clarity / amount $x_5=stik_3$; $x_1$ is a hint that $x_2$ to $x_3$ about $x_4$ of strength / size $x_5$.
     - cadyselcu'a: $x_1=cu_2$ is the default / choice when not overridden by $x_2=cu_1=ca_2$ among alternatives / options $x_3=cu_3$.
     - bityzba: $x_1=b_1=z_1$ ensures $x_2=z_2=b_2$ is true / the case by doing / with means / with proof $x_3=z_3$; $x_1$ makes certain $x_2$.
-    - kupkla: $x_1=kl_1=ku_1$ reaches $x_2=kl_2=ku_2$ from $x_3=kl_3$ via route $x_4=kl_4$ using means / vehicle $x_5=kl_5$.
     - tu'e'ei: General-purpose left-bracket for arbitrary grouping of Lojban text; start highlight / selection marker.
     - tu'u'o: General-purpose right-bracket for arbitrary grouping of Lojban text; end highlight / selection marker.
     - pruma'ufa'o: $x_1=f_1=p_1$ is an abortion / premature end of $x_2=f_2=m_1$ before maturity $x_3=m_2$; $x_2$ aborts / is aborted / ends pre-maturely.
@@ -426,11 +424,11 @@
       selma'o: UI3
       notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
       smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
-    - multu.i la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
+    - multcu.i la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
       selma'o: UI3a
       notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
       smuvelckivla: omittable text;square bracketed text
-    - multu.i ko pensi le vi nu gafygau: la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
+    - multcu.i ko pensi le vi nu gafygau: la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
       selma'o: UI3a
       notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.  See also: {li'oi} (alternative option with slightly different definition).
       smuvelckivla: omittable text;square bracketed text
@@ -585,6 +583,27 @@
     - satcyme'a: $x_1=m_1=s_1$ is less exact/precise than $x_2=m_2$ is in property / quantity $x_3=s_3$ by amount $x_4=m_4$.
       notci: {satcyme'a} uses «-me'a» to insert $mleca_2$ at $x_2$ (and append $mleca_4$; see also {fi'o}) (this lujvo construction also adapts $zmadu_3$ to $satci_2$ rather than a relationship that includes it, making it slightly less regular, since it's much more useful and the alternative doesn't seem very useful; see also the difference between {zmanei} and {nelmau}).  See also: {satcymau}.
       smuvelckivla: less exact;precision, less precise;precision
+    - sfapailai: $x_1=k_1=p_2=s_2$ has penalty / is penalized with penalty / judgement $x_2=k_2=p_3=s_4$ for infraction $x_3=s_3$ by judge / evaluator / ranking $x_4=k_3=p_1=s_1$; $x_2$ is a penalty.
+      smuvelckivla: penalty;judgement
+      stuzi smuvelckivla: penalty;judgement, penalizer;judgement
+    - pairlairai: $x_1=k_1=p_2$ has superlative score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; $x_2$ is a record / top score / rank of $x_1$ according to judge $x_3$.
+      notci: See also: {pairlai}.
+      smuvelckivla: record;top score, top rank;top score
+    - vabmau: $x_1=z_1=v_1$ is a greater context / part of an envirnoment/surroundings/ambience than $x_2=z_2$ is of $x_3=v_2$ by amount/excess $x_4=z_4$.
+      notci: {vabmau} uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$; see also {fi'o}).  See also: {tei'i}, {steci}.
+      smuvelckivla: particularly;greater context, especially;greater context
+    - jajyjai: $x_1=jg_1$ grabs $x_2=jg_2=jm_1$ towards $x_3=jm_3$ away from $x_4=jm_4$ with $x_5=jg_3$ (part of $x_1$) at locus $x_6=jg_4$ (part of $x_2$).
+      smuvelckivla: grab;collect
+      stuzi smuvelckivla: grabber;collector
+    - kupkla: $x_1=kl_1=ku_1$ reaches $x_2=kl_2=ku_2$ from $x_3=kl_3$ via route $x_4=kl_4$ using means / vehicle $x_5=kl_5$.
+      smuvelckivla: reach;extend
+      stuzi smuvelckivla: reach;extension
+    - multcu: lecyvelfarvi: $x_1=f_4=l_1$ is advanced; $x_1$ is in a late stage of development
+      smuvelckivla: advanced;_
+    - multcu: co'ei: add seltau to a bridi after sumti
+      notci: «co'ei» lets you add a seltau like «co», but after the sumti
+      following the selbri instead of before.  «co'ei» takes everything to the
+      left of it and groups it as though by repeated application of «bei'i», e.g. «ko'a broda ko'e ko'i co'ei brode ko'o ko'u» means «ko'a broda be ko'e bei ko'i co brode ko'o ko'u».  _ se <supports se>.  Note: «co'ei» needs at least one sumti before it, or it cannot be used (but you could instead use «co»).  This also, like «cu», can obviate a need for «ku».
     - multcu: cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
       smuvelckivla: update;catch up
       stuzi smuvelckivla: update;catch up, catch up; bring current
@@ -602,7 +621,7 @@
     - multcu: zo kelterfrata'o
     - multcu: zo favyke'u
     - multcu: zo datnyvi'u
-    - multcu: zo rucra'e
+    - multcu: rucra'e: continue
     - multcu: zo refgau
     - multcu: zo favytcita
     - multcu: zo velva'isnada
@@ -635,6 +654,51 @@
     - multcu: vinti'e: (to jmina lo sumti nu lasna kei jecu vimcu fi lo liste toi)
     - multcu: sircimde: 
     - multcu: lairdu'i: 
+    - multcu: fekcai: 
+    - multcu: nulnandu: 
+    - multcu: nornandu: 
+    - multcu: bracre: 
+    - multcu: nalbi'o pamoi: zo'oi original
+    - multcu: ranxlu: zo'oi gentle
+    - multcu: kelcrgolfo: 
+    - multcu: lujnandu: zo'oi tricky
+    - multcu: djambalaia: 
+    - multcu: cmajanli: zo'oi bump
+    - multcu: trocre: oz'oi mastery
+    - multcu: samxa'eda'egau: zo'oi click
+    - multcu: daxjanli: zoi zy hit (collide) zy
+    - multcu: sukydre: zo'oi cliff ja zoi zy suddenly raised surfance zy (to ko catlu ne'i le me la neverbal co'e toi)
+    - multcu: suktoldre: zo'oi drop
+    - multcu: crezenctu: zo'oi training
+    - multcu: drejmina: zoi zy build/accumulate/add zy ja zoi zy accumulation zy
+    - multcu: niljuntysutra: zo'oi momentum
+    - multcu: sa'orgau: zo'oi tilt
+    - multcu: fa'ormu'ogau: zo'oi finish
+    - multcu: nilsutyze'agau: zo'oi accelerate
+    - multcu: ra'irjai: zo'oi hold: $x_1$ holds $x_2$ with $x_3$ (of $x_1$) at locus $x_4$ (of $x_2$) over duration/interval $x_5$.
+    - multcu: cumrai: 
+    - multcu: crucu'i: zo'o zy get to zy
+      notci: See also: {gaurtcini}, {jidge}.
+    - multcu: sutmau: zo'oi faster
+    - multcu: narjbi: zo'oi away
+    - multcu: sutyjdika: zoi gy slow down gy
+    - multcu: tacysakli: zo'oi lick
+    - multcu: ciplanli: zo'oi experimentation
+    - multcu: refmirjanli: zo'oi rebound
+    - multcu: tronalka'e: zo'oi uncontrollably
+    - multcu: velklalu'a: zo'oi passage
+    - multcu: narcpana: zo'oi off
+    - multcu: namkeigau: zo'oi puzzling
+    - multcu: palgau: zo'oi profitable
+    - multcu: nunmu'u: zoi gy motion / movement zy
+    - multcu: nilmu'u: zo'oi movement
+    - multcu: cmajalgau: zo'oi bumper
+    - multcu: velvi'u: ko'oi ralte jecuku'i vy4 vy1 simbasti
+    - multcu: xelklacpana: zo'oi aboard
+    - multcu: bityzba: zo'o gy ensure / make sure gy
+    - multcu: ba'arlu'a: zo'oi trail
+    - multcu: nilsutra: zo'oi speed
+    - multcu: cpugau: zoi zy pulls through zy ja lo simsa
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
