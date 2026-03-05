@@ -481,6 +481,11 @@
     - karncau: $x_1=c_1=k_1$ is individual / separate from / not with $x_2=c_2=k_2$ in state/condition/enterprise $x_3=k_3$; $x_1$ is individual / alone / separate.
       smuvelckivla: each;individual, individual;separate, non-pluralistically;sumti, separate;from, with singular logic;sumti
       notci: A fu'ivla synonym variant of {kancau}, specialized for the purpose of specifying individuality and application of singular logic with {lu'a'ei} and denying/excluding massness (see {loi}) for this sumti or, similarly, plurality and application of plural logic (or visa versa with {to'e} (or {no'e} for either singular or plural)).  «lu'a'ei karncau le prenu cu bevri le pipno» means ‘Each person individually carried the piano’, closer to pre-xorlo CLL {lo} - it may sound odd if the 3 persons carried the piano at the same time, since it was a statement with explicit individuality.  «{lu'a'au}» makes a sumti individualistic, and is equivalent to «{lu'a'ei} {karncau}».  For less rigorous shortcuts to express (non-)individuality, the modal {koi'au} can be used (e.g. «le {koi'au} prenu»), as well as {terle'o} to express ‘as individuals’ (see {le'oi} for more information on this idiom); {karncau} especially with {lu'a'ei} is meant to be fully explicit (alias: {lu'a'au}).  See also: {tolykarncau}, {norykarncau}.  Note: this word is a fu'ivla and not a lujvo in morphology, since ‘n’ would not be needed to hyphenate 2 rafsi ‘kar’ and ‘cau’.
+    - lu'a'au: «lu'a'ei karncau»; each individual …
+      selma'o: LAhE
+      notci: Shorthand for «{lu'a'ei} {karncau}»; the sumti are seen as individuals or separate (see also {le'oi}).  See also: {lu'o'au}.
+      vlakra: zo lu'a'ei joi zo karncau
+      smuvelckivla: each;separate individual, individually;each
     - lo'u'a: «lo» with a focus on truthfulness and non-groupness; old-style «lo».
       selma'o: LE
       notci:
@@ -598,12 +603,34 @@
     - kupkla: $x_1=kl_1=ku_1$ reaches $x_2=kl_2=ku_2$ from $x_3=kl_3$ via route $x_4=kl_4$ using means / vehicle $x_5=kl_5$.
       smuvelckivla: reach;extend
       stuzi smuvelckivla: reach;extension
-    - multcu: lecyvelfarvi: $x_1=f_4=l_1$ is advanced; $x_1$ is in a late stage of development
-      smuvelckivla: advanced;_
-    - multcu: co'ei: add seltau to a bridi after sumti.
-      selma'o: COhEI
-      notci: «co'ei» lets you add a seltau like «co», but after the sumti following the selbri instead of before.  «co'ei» takes everything to the left of it and groups it as though by repeated application of «bei'i», e.g. «ko'a broda ko'e ko'i co'ei brode ko'o ko'u» means «ko'a broda be ko'e bei ko'i co brode ko'o ko'u».  «co'ei» supports «se» right before it, which makes «co'ei» behave similarly except as though without «co» in the similar example, and even attaches the x1 to the left of «co'ei» to the new top-level seltau, e.g. «ko'a broda ko'e ko'i seco'ei brode ko'o ko'u» means «broda be fa ko'a bei ko'e bei ko'i brode ko'o ko'u».  Note: «co'ei» needs at least one sumti before it, or it cannot be used (but you could instead use «co»).  This also, like «cu», can obviate a need for «ku».  See also: {co'ai} (fill seltau places), {co'au} (switch to seltau places), {co'e'o} (merge seltau and tertau places), {co'o'e} (elliptical choice of seltau vs tertau), {cu}.
+    - lecyvelfavne'i: $x_1=n_1$ is advanced; $x_1$ is in a late stage of development $x_2=n_2=f_4=l_1$ towards later/higher stages $x_3=f_2$ from earlier/lower stages $x_4=f_3$ in subject/development $x_5=f_1$, advanced by standard $x_6=l_2$.
+      smuvelckivla: advanced;in a late stage of development
+    - co'ei'au: add seltau to a bridi after sumti.
+      selma'o: COhEIhAU
+      notci: «co'ei'au» lets you add a seltau like «co», but after the sumti following the selbri instead of before.  «co'ei'au» takes everything to the left of it and groups it as though by repeated application of «bei'i», e.g. «ko'a broda ko'e ko'i co'ei'au brode ko'o ko'u» means «ko'a broda be ko'e bei ko'i co brode ko'o ko'u».  «co'ei'au» supports «se» right before it, which makes «co'ei'au» behave similarly except as though without «co» in the similar example, and even attaches the x1 to the left of «co'ei'au» to the new top-level seltau, e.g. «ko'a broda ko'e ko'i seco'ei'au brode ko'o ko'u» means «broda be fa ko'a bei ko'e bei ko'i brode ko'o ko'u».  Note: «co'ei'au» needs at least one sumti before it, or it cannot be used (but you could instead use «co»).  This also, like «cu», can obviate a need for «ku».  See also: {co'ai} (fill seltau places), {co'au} (switch to seltau places), {co'e'o} (merge seltau and tertau places), {co'o'e} (elliptical choice of seltau vs tertau), {cu}.
       smuvelckivla: late seltau
+      vlakra: .e'u zo co'ei joi zo vau
+
+    - darsyli'u: $x_1=l_1=d_1$ is an adventurer, adventuring in adventure/undertaking $x_2=l_2=d_2$ using means $x_3=l_3$.
+      smuvelckivla: adventure;daring undertaking
+      stuzi smuvelckivla: adventurer;one who adventures, adventure;daring
+    - tecyvla: $x_1=v_1$ is a jargon/term from specialized area of knowledge $x_2=s_2$ meaning/causing $x_3=v_2=s_1$ in language $x_4=v_3$, among [specialized] topics / disciplines $x_5=s_3$; $x_1$ is a technical term.
+      notci: (In part inspired by tiljan's earlier definition.)
+      smuvelckivla: jargon;specialized term, technical term;specialized term
+    - turtai: $x_1=t_1=s_1$ is a format / layout of $x_2=t_2=s_2$.
+      smuvelckivla: format;structured arrangement, layout;format
+    - lo'a'au: descriptor: each; «lu'a'au lo»
+      selma'o: LE
+      notci: Alternative interpretation of individuality, with a stronger focus on the individuals and/or being separate.  See also: {lu'a'au} (same meaning as {lo'a'au} but with LAhE grammar), {lo'u'a} (old-style {lo}).
+      vlakra: zo lo joi zo lu'a'au
+      smuvelckivla: each;descriptor of individuals
+    - tcinyra'igau: $x_1=g_1$ holds / maintains $x_2=t_1$ [state/property of $x_3$] in $x_3=t_2$ over interval $x_4=r_2$; $x_1$ reserves $x_3$ for $x_2$.
+      notci: See also: {ra'irgau} (maintain/preserve), {fairgau} (allocate), {gusta} (restaurant), {snicne} (variable).
+      smuvelckivla: hold;reserve, reserve;maintain situation
+    - multcu: ra'erkai: $x_1=c_1=r_1$ remains / continues to be/have $x_2=c_2=r_2$.
+      smuvelckivla: remains;continues to be/have
+      notci: See also: {stali} (stays).
+    - multcu: _: zo'oi radius
     - multcu: cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
       smuvelckivla: update;catch up
       stuzi smuvelckivla: update;catch up, catch up; bring current
@@ -699,6 +726,28 @@
     - multcu: ba'arlu'a: zo'oi trail
     - multcu: nilsutra: zo'oi speed
     - multcu: cpugau: zoi zy pulls through zy ja lo simsa
+    - multcu: sraflu: zo'oi buoys
+    - multcu: (selbei): zo'oi cargo
+    - multcu: toltcnici: zo'oi mess
+    - multcu: klagau: zoi zy take you to zy
+    - multcu: fagdaptutra: zo'oi inferno
+    - multcu: tu'ampe: $x_1$ is a thwomp / hard-hitting obstacle hitting $x_2$, a thwomp at location / in level $x_3$ of type $x_4$ in context / game $x_5$.
+      tecyvla: la'oi Neverball
+    - multcu: kanpycizra: zo'oi oddity
+    - multcu: sa'ortsina: zo'oi ramp
+    - multcu: cinkyce'u: zo'oi swarm
+    - multcu: kelcrtenise: zo'oi tennis
+    - multcu: crucauzva: zo'oi tresspasser
+    - multcu: (selji'a): zo'oi prize
+    - multcu: plicu'i: zoi zy available / [up for grabs] zy
+    - multcu: dactrnedevede: zo'oi UFO
+    - multcu: ka'ergau: zoi zy enable (specific sense); make x1 able to do x2 under conditions x3 zy
+    - multcu: xaurfarvi: $x_1=f_1$ progresses towards $x_2=f_2=xa_1$ from $x_3=f_3$ through stages $x_4=f_4$, progress by standard $x_6=xa_3$, for $x_5=xa_2$ [especially $x_1$].
+      notci: Inspired by tijlan's earlier definition, this primarily adds a ‘standard’ (e.g. as in {manri}) place to allow for subjective differences in judgement (or possibly objective claims by filling in objective reality for this place (see {fatci})).  Additionally, a benificiary place is provided, as for instance in tug-of-war, one team's progress toward their goal may entail another team's regression, or in a competitive / non-cooperative scenario of multiple parties.  See also: {crakla} (advance/proceed), {lecyvelfavne'i} (advanced).
+      smuvelckivla: progress;become better
+    - multcu: relcimdykoi: zo'oi edge
+    - multcu: (filrai): zo'oi easiest
+    - multcu: simbasygau: 
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
