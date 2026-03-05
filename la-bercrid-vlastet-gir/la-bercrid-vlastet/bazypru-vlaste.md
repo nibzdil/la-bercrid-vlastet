@@ -627,9 +627,6 @@
     - tcinyra'igau: $x_1=g_1$ holds / maintains $x_2=t_1$ [state/property of $x_3$] in $x_3=t_2$ over interval $x_4=r_2$; $x_1$ reserves $x_3$ for $x_2$.
       notci: See also: {ra'irgau} (maintain/preserve), {fairgau} (allocate), {gusta} (restaurant), {snicne} (variable).
       smuvelckivla: hold;reserve, reserve;maintain situation
-    - multcu: stakai: $x_1=c_1$ remains / continues to be/have / is still $x_2=c_2=s_1$.
-      smuvelckivla: remains;continues to be/have
-      notci: See also: {stali} (stays), {ralte}, {ranji}.
     - multcu: _: zo'oi radius
     - multcu: cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
       smuvelckivla: update;catch up
