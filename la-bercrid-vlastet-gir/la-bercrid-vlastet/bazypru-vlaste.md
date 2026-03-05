@@ -600,11 +600,10 @@
       stuzi smuvelckivla: reach;extension
     - multcu: lecyvelfarvi: $x_1=f_4=l_1$ is advanced; $x_1$ is in a late stage of development
       smuvelckivla: advanced;_
-    - multcu: co'ei: add seltau to a bridi after sumti
+    - multcu: co'ei: add seltau to a bridi after sumti.
       selma'o: COhEI
-      notci: «co'ei» lets you add a seltau like «co», but after the sumti
-      following the selbri instead of before.  «co'ei» takes everything to the
-      left of it and groups it as though by repeated application of «bei'i», e.g. «ko'a broda ko'e ko'i co'ei brode ko'o ko'u» means «ko'a broda be ko'e bei ko'i co brode ko'o ko'u».  «co'ei» supports «se» right before it, which makes «co'ei» behave similarly except as though without «co» in the similar example, and even attaches the x1 to the left of «co'ei» to the new top-level seltau, e.g. «ko'a broda ko'e ko'i seco'ei brode ko'o ko'u» means «broda be fa ko'a bei ko'e bei ko'i brode ko'o ko'u».  Note: «co'ei» needs at least one sumti before it, or it cannot be used (but you could instead use «co»).  This also, like «cu», can obviate a need for «ku».  See also: {co'ai} (fill seltau places), {co'au} (switch to seltau places), {co'e'o} (merge seltau and tertau places), {co'o'e} (elliptical choice of seltau vs tertau), {cu}.
+      notci: «co'ei» lets you add a seltau like «co», but after the sumti following the selbri instead of before.  «co'ei» takes everything to the left of it and groups it as though by repeated application of «bei'i», e.g. «ko'a broda ko'e ko'i co'ei brode ko'o ko'u» means «ko'a broda be ko'e bei ko'i co brode ko'o ko'u».  «co'ei» supports «se» right before it, which makes «co'ei» behave similarly except as though without «co» in the similar example, and even attaches the x1 to the left of «co'ei» to the new top-level seltau, e.g. «ko'a broda ko'e ko'i seco'ei brode ko'o ko'u» means «broda be fa ko'a bei ko'e bei ko'i brode ko'o ko'u».  Note: «co'ei» needs at least one sumti before it, or it cannot be used (but you could instead use «co»).  This also, like «cu», can obviate a need for «ku».  See also: {co'ai} (fill seltau places), {co'au} (switch to seltau places), {co'e'o} (merge seltau and tertau places), {co'o'e} (elliptical choice of seltau vs tertau), {cu}.
+      smuvelckivla: late seltau
     - multcu: cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
       smuvelckivla: update;catch up
       stuzi smuvelckivla: update;catch up, catch up; bring current
