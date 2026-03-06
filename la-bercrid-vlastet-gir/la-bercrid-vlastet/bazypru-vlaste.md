@@ -282,10 +282,6 @@
       See also: {ke'a}.
 
     - lo multcu zo'u: very briefly thought of samca'adatni; give it some better thinking through and consider if you want a different word, and then provide a good-quality definition. software
-    - multcu.i ai'ai: comparative reality emphasis; even.
-      selma'o: UI5
-      smuvelckivla: even;comparative reality emphasis
-      notci: «.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene».
     - fu'oi: indicates attachment of the following to the next instead of, as normal, previous construct.
       selma'o: UI9
       notci: Place before UI to indicate it applies to the next construct rather than the previous.  See also {fu'e}…{fu'o}, {to}…{toi}, {tu'e'ei}…{tu'u'o}.
@@ -593,8 +589,8 @@
     - sfapailai: $x_1=k_1=p_2=s_2$ has penalty / is penalized with penalty / judgement $x_2=k_2=p_3=s_4$ for infraction $x_3=s_3$ by judge / evaluator / ranking $x_4=k_3=p_1=s_1$; $x_2$ is a penalty.
       smuvelckivla: penalty;judgement
       stuzi smuvelckivla: penalty;judgement, penalizer;judgement
-    - pairlairai: $x_1=k_1=p_2$ has superlative score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; $x_2$ is a record / top score / rank of $x_1$ according to judge $x_3$.
-      notci: See also: {pairlai}.
+    - multcu: pairlairai: $x_1=k_1=p_2$ has superlative score / ranking / judgement $x_2=k_2=p_3$ according to judge / evaluator / ranking $x_3=k_3=p_1$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; $x_2$ is a record / top score / rank of $x_1$ according to judge $x_3$.
+      notci: (<_ slighty less regular, since x1 wouldn't make much sense_>).  See also: {pairlai}.
       smuvelckivla: record;top score, top rank;top score
     - vabmau: $x_1=z_1=v_1$ is a greater context / part of an envirnoment/surroundings/ambience than $x_2=z_2$ is of $x_3=v_2$ by amount/excess $x_4=z_4$.
       notci: {vabmau} uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$; see also {fi'o}).  See also: {tei'i}, {steci}.
@@ -809,14 +805,47 @@
     - multcu: fi'o na'e jagri'a: zo'o zy. anyway;regardless .zy.
     - multcu: jmina be fi zo zencpa: notci: See also: {prali}.
     - multcu: multcu: stufa'i: stuzi smuvelckivla: lo pamoi du .e'u zo'oi oriented
-    - multcu: kelcrsurfe: $x_1$ surfs $x_2$.
+    - multcu: kelcrsurfa: $x_1$ surfs $x_2$.
       smuvelckivla: surf
-      vlakra: _ ko viska le notci de'i li 2026-03-06
-    - multcu: ci'arlerpoi: $x_1=p_1=l_1=c_1$ is text 
+      vlakra: _ ko viska le notci de'i li 2026-03-05
+    - multcu: ci'arlerpoi: $x_1=p_1=l_1$ is text / written letter writing _
       smuvelckivla: text
       notci: 
-    - multcu: selcalgau: omit .i .ua ba'o mu'o se finti
-    - multcu _: depending on
+    - multcu _: zoy zy. depending on .zy.
+    - multcu: kairgau: $x_1=g_1$ makes $x_2=c_1$ $x_3=c_2$.
+      smuvelckivla: make;cause to be
+    - multcu: sujyfri: $x_1=l_1$ is experienced in / has accumulated experience $x_2=l_2=s_1=s_2$, from individual experiences $x_3=s_3$.
+      smuvelckivla: experienced;has experience
+    - multcu: kelfau: zo'oi gameplay (to zo'oi ‘sportsplay’ je zo'e toi)
+    - ai'ai: discursive: comparative reality emphasis; even.
+      selma'o: UI3b
+      smuvelckivla: even;comparative reality emphasis
+      notci: «.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene».
+      vlakra: lu« karbi fatci »li'u
+    - rai'ai: discursive: naturally; of course; «.ui'ei rarna»
+      selma'o: UI3
+      smuvelckivla; naturally;of course, of course
+      vlakra: zo rarna
+      notci: See also: {uenai} (expectation), {ju'o}, {li'a}.
+    - multcu: jai'o: discursive: showing/[explaining] - it is shown that; «.ui'ei jarco»
+      selma'o: UI3
+      smuvelckivla: showing;discursive, explaining;showing
+      vlakra: zo
+      notci: Example: ‘My list has three items: red, green, and blue.’ with «.ijai'o» or «jai'onai .i».  See also: {xu'ai}, {semu'u}, {jai'oi}, {ja'o}, {ciksi}.
+    - multcu: jai'onai: discursive: showing/[explaining] - it is shown that; «.ui'ei jarco»
+      selma'o: UI*3
+      smuvelckivla: showing;discursive, explaining;showing
+      vlakra: zo
+      notci: Example: ‘My list has three items: red, green, and blue.’ with «.ijai'o» or «jai'onai .i».  See also: {xu'ai}, {semu'u}, {jai'oi}, {ja'o}, {ciksi}.
+    - jai'oi: jarco modal, 1st place; showed / exhibited / demonstrated by …
+      selma'o: BAI
+      notci: In e.g. ‘One thing is certain: you'll want to arrive early.’, «.ijai'oibo» is one way to express the meaning of the colon, to indicate that the second bridi shows that or what one thing is certain, where the second ‘shows’ the first.  See also: {mu'u}, {jai'o}.
+      smuvelckivla: showed by, exhibited by, demonstrated by
+    - sejai'oi: jarco modal, 2nd place; showing / exhibiting / demonstrating …
+      selma'o: BAI*
+      smuvelckivla: showing, ehxbiting, demonstrating
+    - tejai'oi: jarco modal, 3rd place; audience of showing …
+      selma'o: BAI*
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
