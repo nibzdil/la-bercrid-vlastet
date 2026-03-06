@@ -141,7 +141,6 @@
     - jbovlaste xsznix: zukyde'a: z1=d1 is hesitant/is reluctant/hesitates/lingers in employing means/taking action z2=d4 because of z3, waiting until d2 at state d3
     - sai'au: evidential: I guess
     - ju'a'ei: Evidential builder; convert arbitrary bridi to UI2 with the grammar of {sei}.
-    - temsaxygau: $x_1=g_1$ synchronizes / times $x_2=g_2=s_1=t_1$ with $x_3=s_2$ in property / aspect / way $x_4=s_3$ from time / event $x_5=t_2$ to time / event $x_6=t_3$.
     - sikyju'e: $x_1=j_1=s_1$ is a web / spider's web / network or interconnected structure resembling a web, produced by $x_2=s_2$, allowing passage of / including $x_3=j_2$, prohibiting passage of / excluding $x_4=j_3$, web properties $x_5=j_4$.
     - ki'irxu'a: $x_1=xu_1$ assigns / attributes $x_3=c_1$ to $x_2=c_2$ with relationship $x_4=xu_2=c_3$; $x_1$ designates $x_2$ as $x_3$.
 
@@ -301,7 +300,7 @@
       notci: Shortened version of {kanpyvampla}, which is more a complete word for ‘strategy’ and more recommended.  See also {kanpe}.
     - kanpyvampla: $x_1=p_1$ strategizes strategy $x_2=p_2$ for [composite/whole] goal(s) $x_3=p_3$, assigning value/worth $x_4=v_1$ to $x_5=v_2$ by judge(s) $x_6=v_3$ for [individual] goal(s)/use(s)/appreciation(s) $x_7=v_4$, with predictors $x_8=k_1$ judging the probability/odds/likelihood of $x_9=k_2$ as $x_{10}=k_3$.
       smuvelckivla: strategy;value plan
-      notci: This word captures the essence of strategy: a value/goal plan with probability theory.  A shortened version of this word is {vampla}, but {kanpyvampla} is more complete and more recommended.  For more immediate, short-term, or static tactics, see {velva'itadjil}.
+      notci: This word captures the essence of strategy: a value/goal plan with probability theory.  A shortened version of this word is {vampla}, but {kanpyvampla} is more complete and more recommended.  For more immediate, short-term, or static tactics, see {velva'itadji}.
     - velva'itadji: $x_1=t_1=v_2$ is a tactic / technique for accomplishing $x_2=t_2=v_4$ under conditions $x_3=t_3$, with value / usefulness $x_4=t_1$ to $x_5=t_3$.
       smuvelckivla: tactic;technique
       notci: See also {kanpyvampla} (‘strategy’).
@@ -625,8 +624,18 @@
       vlakra: zo lo joi zo lu'a'au
       smuvelckivla: each;descriptor of individuals
     - tcinyra'igau: $x_1=g_1$ holds / maintains $x_2=t_1$ [state/property of $x_3$] in $x_3=t_2$ over interval $x_4=r_2$; $x_1$ reserves $x_3$ for $x_2$.
-      notci: See also: {ra'irgau} (maintain/preserve), {fairgau} (allocate), {gusta} (restaurant), {snicne} (variable).
+      notci: See also: {ra'irgau} (maintain/preserve), {fairgau} (allocate), {gusta} (restaurant), {snicne} (variable), {stagau} (to keep something in a state or with something (can also be «loka {zasti}» or {jetnu} for a style that has $stali_1$ as an event)), {stali} (stay), {ralte} (retain), {ranji}.
       smuvelckivla: hold;reserve, reserve;maintain situation
+    - dactrneseceve: $x_1$ is a UFO flying in/at $x_2$ and unidentified by $x_3$.
+      vlakra: lu« na'e se cmesanji ke vofli dacti »li'u
+      notci: See also: {cmesanji}.
+      smuvelckivla: UFO;unidentified flying object
+    - temsaxygau: $x_1=g_1$ synchronizes / times $x_2=g_2=s_1=t_1$ with $x_3=s_2$ in property / aspect / way $x_4=s_3$ from time / event $x_5=t_2$ to time / event $x_6=t_3$.
+      smuvelckivla: synchronize, time;synchronize
+    - multcu: irbite: $x_1$ ribbits expressing $x_2$.
+      notci: See also: {cmoni}.
+      smuvelckivla: ribbit;utter
+      multcu: notci: la'o ly. Pacific Tree Frog .ly.
     - multcu: stagau: $x_1=$ _
       notci: See also: {ralte}.
       smuvelckivla: keep;to keep something in a state
@@ -747,7 +756,12 @@
       smuvelckivla: progress;become better
     - multcu: relcimdykoi: zo'oi edge
     - multcu: (filrai): zo'oi easiest
-    - multcu: simbasygau: 
+    - multcu: (selma'e): zo'oi ride
+    - multcu: keslo'i: zo'oi spaceship
+    - multcu: simbasygau: zo'oi exchange/swap
+    - multcu: racyju'i: $x_1=j_1$ is careful with $x_2=j_2=r_1$, fragile in $x_3=r_2$; $x_1$ is careful with $x_2$ with respect to $x_3$.
+      notci: Based on vensa's earlier definition.
+      smuvelckivla: careful;attentive to something fragile
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
