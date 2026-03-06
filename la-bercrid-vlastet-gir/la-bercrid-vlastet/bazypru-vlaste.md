@@ -620,9 +620,24 @@
       smuvelckivla: format;structured arrangement, layout;format
     - lo'a'au: descriptor: each; «lu'a'au lo»
       selma'o: LE
-      notci: Alternative interpretation of individuality, with a stronger focus on the individuals and/or being separate.  See also: {lu'a'au} (same meaning as {lo'a'au} but with LAhE grammar), {lo'u'a} (old-style {lo}).
-      vlakra: zo lo joi zo lu'a'au
+      notci: Alternative interpretation of individuality, with a stronger focus on the individuals and/or being separate.  See also: {lu'a'au} (LAhE grammar), {lo'u'a} (old-style {lo}), {le'a'au} ({lo'a'au} but for {le}), {la'a'au} ({lo'a'au} but for {la}).
+      vlakra: zo lu'a'au joi zo lo
       smuvelckivla: each;descriptor of individuals
+    - le'a'au: descriptor: each of the; «lu'a'au le»
+      selma'o: LE
+      notci: Alternative interpretation of individuality, with a stronger focus on the individuals and/or being separate.  See also: {lu'a'au} (LAhE grammar), {lo'a'au} ({le'a'au} but for {lo}), {la'a'au} ({le'a'au} but for {la}).
+      vlakra: zo lu'a'au joi zo le
+      smuvelckivla: each of the;descriptor of individuals
+    - la'a'au: descriptor: each of the ones named; «lu'a'au la»
+      selma'o: LE
+      notci: Alternative interpretation of individuality, with a stronger focus on the individuals and/or being separate.  See also: {lu'a'au} (LAhE grammar), {lo'a'au} ({la'a'au} but for {lo}), {le'a'au} ({la'a'au} but for {le}).
+      vlakra: zo lu'a'au joi zo la
+      smuvelckivla: each named;descriptor of individuals
+    - nilbramapti: $x_1=m_1$ fits on/in / has appropriate size for $x_2=m_2$ by standard $x_3=m_4$.
+      smuvelckivla: fit;size fits
+      vlakra: zo nilbra joi zo mapti
+    - sukykunti: $x_1=k_1=s_2$ is a gap / empty [space/time], void of $x_2=k_2$, in $x_3=s_3$.
+      smuvelckivla: gap;emptiness
     - tcinyra'igau: $x_1=g_1$ holds / maintains $x_2=t_1$ [state/property of $x_3$] in $x_3=t_2$ over interval $x_4=r_2$; $x_1$ reserves $x_3$ for $x_2$.
       notci: See also: {ra'irgau} (maintain/preserve), {fairgau} (allocate), {gusta} (restaurant), {snicne} (variable), {stagau} (to keep something in a state or with something (can also be «loka {zasti}» or {jetnu} for a style that has $stali_1$ as an event)), {stali} (stay), {ralte} (retain), {ranji}.
       smuvelckivla: hold;reserve, reserve;maintain situation
@@ -758,7 +773,6 @@
     - multcu: (filrai): zo'oi easiest
     - multcu: (selma'e): zo'oi ride
     - multcu: keslo'i: zo'oi spaceship
-    - multcu: simbasygau: zo'oi exchange/swap
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
