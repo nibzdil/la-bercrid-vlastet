@@ -75,6 +75,9 @@
     - ciplanli: $x_1=l_1$ experiments on / experimentally analyzes $x_2=l_2=c_3$ to find or test for $x_3=c_2$ by means / test $x_4=l_3=c_1$.  (At least partly inspired by old definition, but I polished it up.)
     - jbovlaste tiljan: pliri'a: $r_1=p_1$ applies $r_2=p_2$ to $r_3=p_3$.
     - cu'e'o: Separate top-level sumti or selbri.
+      selma'o: CUhEhO
+      notci: This optional, elidable marker can be used to force terminators in order to conveniently return to the top-level / main bridi e.g. to add a modal, tense, or other sumti at the end of a sentence after a deep right-branch.  It does not require anything on either side, but if there is, the right-hand side must be at the top-level (thus forcing terminators in order to return to the top-level).  It also can force {vau} terminators for GIhA.  It can also be used as an idiom to append UI at the end of the sentence while attaching emphasis on the whole sentence, e.g. with «{cu'e'o}({vau}).{ui}».  Synonym: {i'au}.
+      multcu: vlakra: zo cu joi zo be'o
     - zmabazlai: $x_1=k_1=b_1=z_1$ is plenty of $x_2=z_3$ for purpose $x_3=b_3$ under conditions $x_4=b_4$ with quantity (of $x_1$) $x_5=l_2$ and excess $x_6=z_4$ on scale $x_7=l_3$; $x_1$ is an abundance of $x_2$; $x_1$, in quantity $x_5$, is more than enough (by amount / substance $x_6$).
     - bimrurklaji: $x_1=k_1=s_2$ is a hall / corridor / long passageway at $x_2=k_2$ accessing / connecting $x_3=k_3$ with surrounding walls / barriers / separators / covers / borders $x_4=s_1=b_1$ in direction(s) / dimension(s) / plane $x_5=s_3$, with interior $x_6=b_2$ and exterior $x_7=b_3$ in / of structure / environment $x_8=b_4$.
     - bimrurklaji: $x_1=k_1=s_2$ is a hall / corridor / long passageway at $x_2=k_2$ accessing / connecting $x_3=k_3$ with surrounding walls / barriers / separators / covers / borders $x_4=s_1=b_1$ in direction(s) / dimension(s) / plane $x_5=s_3$, with interior $x_6=b_2$ and exterior $x_7=b_3$ in / of structure / environment $x_8=b_4$.
@@ -95,12 +98,12 @@
     - refcfagau: $x_1=g_1$ restarts $x_2=g_2=c_1=k_2$, with repetition / recurrence / instance $x_3=k_1$, for the $x_4=k_3$'rd time.
     - jbovlaste me'au: abstract sumti predicate to selbri conversion; combine with {la'e} for general conversion from strings.
     - jbovlaste me'ei: inverse of {me'au}.
-    - kelcrdaumtce: $x_1$ (players / mass) plays checkers in game / instance $x_2$, with checkers standard / variant $x_3$.
     - kelcrtcesranjmu: $x_1$ (players / mass) plays chess in game / instance $x_2$, with chess standard / variant $x_3$.
     - jbovlaste rlpowell: kanpe: _
     - kritikti'i: $x_1=stid_1=stik_1$ is a hint / clue for / that $x_2=stid_2=stik_2=k_2$ (belief / declaration / state / discovery) to $x_3=stid_3=k_1$ (person / believer) for / about $x_4=k_3$ (topic or subject of clue) with clue strength / clarity / amount $x_5=stik_3$; $x_1$ is a hint that $x_2$ to $x_3$ about $x_4$ of strength / size $x_5$.
     - cadyselcu'a: $x_1=cu_2$ is the default / choice when not overridden by $x_2=cu_1=ca_2$ among alternatives / options $x_3=cu_3$.
     - bityzba: $x_1=b_1=z_1$ ensures $x_2=z_2=b_2$ is true / the case by doing / with means / with proof $x_3=z_3$; $x_1$ makes certain $x_2$.
+      smuvelckivla: ensure;make sure
     - tu'e'ei: General-purpose left-bracket for arbitrary grouping of Lojban text; start highlight / selection marker.
     - tu'u'o: General-purpose right-bracket for arbitrary grouping of Lojban text; end highlight / selection marker.
     - pruma'ufa'o: $x_1=f_1=p_1$ is an abortion / premature end of $x_2=f_2=m_1$ before maturity $x_3=m_2$; $x_2$ aborts / is aborted / ends pre-maturely.
@@ -647,6 +650,14 @@
       smuvelckivla: UFO;unidentified flying object
     - temsaxygau: $x_1=g_1$ synchronizes / times $x_2=g_2=s_1=t_1$ with $x_3=s_2$ in property / aspect / way $x_4=s_3$ from time / event $x_5=t_2$ to time / event $x_6=t_3$.
       smuvelckivla: synchronize, time;synchronize
+    - di'irdji: $x_1=d_1$ wants money $x_2=d_2=j_1$ issued by / of type/currency $x_3=j_2$ for purpose $x_4=d_3$.
+      notci: See also: {du'edji} (greed), {palydji} (profit-driven), {prali} (profit).
+      smuvelckivla: greed;wants money
+    - palydji: $x_1=d_1$ wants profit / gain $x_2=d_2=p_2$ for $x_3=p_2$ (not necessarily $x_1$) resulting from [profitable] $x_4=p_3$ for purpose $x_5=d_3$; $x_1$ is profit-driven / for-profit.
+      notci: See also: {di'irdji} (wants money).
+      smuvelckivla: profit-driven;wants profit, for-profit;profit-driven, for profit;for-profit
+    - multcu: zukte lasna: zo'oi committed
+    - multcu: martinbe lasna: zo'oi committed
     - multcu: irbite: $x_1$ ribbits expressing $x_2$.
       notci: See also: {cmoni}.
       smuvelckivla: ribbit;utter
@@ -746,7 +757,6 @@
     - multcu: cmajalgau: zo'oi bumper
     - multcu: velvi'u: ko'oi ralte jecuku'i vy4 vy1 simbasti
     - multcu: xelklacpana: zo'oi aboard
-    - multcu: bityzba: zo'o gy ensure / make sure gy
     - multcu: ba'arlu'a: zo'oi trail
     - multcu: nilsutra: zo'oi speed
     - multcu: cpugau: zoi zy pulls through zy ja lo simsa
@@ -773,9 +783,44 @@
     - multcu: (filrai): zo'oi easiest
     - multcu: (selma'e): zo'oi ride
     - multcu: keslo'i: zo'oi spaceship
+    - multcu: tcikyze'a: zo'oi delay
+    - multcu: jakmau: zo'oi narrower
+    - multcu: sa'ormau: zo'oi steeper (to notci .i zo'o zy less regular zy toi)
+    - multcu: xandi'i: zo'oi cash (to vimcu fi lo liste toi)
+    - multcu: galmau: zo'oi upper
+    - multcu: filmau: zo'oi easier
+    - multcu: cmamau: zo'oi smaller
+    - multcu: bramau: zo'oi bigger
+    - multcu: ju'a'ei remoi nu pensi: zoi zy on second thought zy
+    - multcu: dizmau: zo'oi lower
+    - multcu: temke'u: zo'i time (to zoi zy this time zy toi)
+    - multcu: tolxarnu: zo'oi willing
+    - multcu: farsni: zo'oi arrow
+      notci: See also: {strelka} (Russian source).  (to vimcu fi lo liste toi)
+    - multcu: kelcrdaumtce: $x_1$ (players / mass) plays checkers in game / instance $x_2$, with checkers standard / variant $x_3$.
+      multcu: vlakra: macnu se krasi lo vrici bangu
+    - multcu: narxanka: zo'oi calm
+    - multcu: _: zo'oi insomnia (to .e'u ko catlu zo stuxadlaxterbi'a toi)
+    - multcu: djunoi: (to zoi jmina zo'oi tip .i vlakra toi)
+    - multcu: cliva se grekla: zo'oi exit
+    - multcu: gapnitfa'e: (to vimcu fi lo liste toi)
+    - multcu: xu do djica lonu gasnu da sera'a zo mo'isro
+    - multcu: nunji'e lifri ne'i: zoi zy. living in .zy.
+    - multcu: fi'o na'e jagri'a: zo'o zy. anyway;regardless .zy.
+    - multcu: jmina be fi zo zencpa: notci: See also: {prali}.
+    - multcu: multcu: stufa'i: stuzi smuvelckivla: lo pamoi du .e'u zo'oi oriented
+    - multcu: kelcrsurfe: $x_1$ surfs $x_2$.
+      smuvelckivla: surf
+      vlakra: _ ko viska le notci de'i li 2026-03-06
+    - multcu: ci'arlerpoi: $x_1=p_1=l_1=c_1$ is text 
+      smuvelckivla: text
+      notci: 
+    - multcu: selcalgau: omit .i .ua ba'o mu'o se finti
+    - multcu _: depending on
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
       $x_1=t_1=c_2$ is a script / 
       tinbe ?
       ju'ocu'i balvi
+    - multcu: lonu casnu zo xu'i
