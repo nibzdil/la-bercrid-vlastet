@@ -759,9 +759,6 @@
     - multcu: (selma'e): zo'oi ride
     - multcu: keslo'i: zo'oi spaceship
     - multcu: simbasygau: zo'oi exchange/swap
-    - multcu: racyju'i: $x_1=j_1$ is careful with $x_2=j_2=r_1$, fragile in $x_3=r_2$; $x_1$ is careful with $x_2$ with respect to $x_3$.
-      notci: Based on vensa's earlier definition.
-      smuvelckivla: careful;attentive to something fragile
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
