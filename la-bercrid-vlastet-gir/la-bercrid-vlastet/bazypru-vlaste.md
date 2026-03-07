@@ -428,7 +428,7 @@
       smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
     - la'i'a: omittable text / speech / words; one sense of ‘[]’ square brackets (bracketed text).
       selma'o: UI3a
-      notci: Alternative: {li'oi}.  Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
+      notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.  See also {li'oi}, which is very similar to {la'i'a} but also claims that the result would still be grammatical if the construct {li'oi} applies to is removed, whereas {la'i'a} does not necessarily make this claim.
       smuvelckivla: omittable text;square bracketed text
       vlakra: zo na'i'a joi zo lu
     - multcu.i ko pensi le vi nu gafygau: la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
@@ -879,6 +879,10 @@
       smuvelckivla: trade-off;compromise
       notci: See also {kanpyvampla} (strategy), {simbasti} (swapped).
     - multcu: rapygau
+    - multcu: _: me zo'oi aformentioned brivla .i notci: See also bi'unai .i ji'a xu zo ui
+    - multcu: _: IIRC
+    - multcu: _: IIUC
+    - multcu: _: zoizy if I'm not mistaken zy 
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
