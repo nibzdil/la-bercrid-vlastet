@@ -23,7 +23,11 @@
         ni'o ko catlu fu'oi ji'a zo {joi'u'i} noi sucta
 - vlaste (vocabulary): "bangu: en":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
-    - stoveipa'o: $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$; $x_1$ is a commit.
+      smuvelckivla: initial;first
+      stuzi smuvelckivla: initial;first
+    - stoveipa'o: $x_1$ is a commit of $x_2$ about $x_3$ in $x_4$; $x_1=p_1=v_1=s_1$ is a snapshot / record / commit / revision / immutable tag / versioned reference / document / sub-hierarchy of data $x_2=v_2$, about / pertaining to $x_3=v_3$, in repository / data storage / medium (especially of a hierarchy / graph of immutable data / snapshots) $x_4=p_2=v_4$, immutable and static / unchanging in property $x_5=s_2$ (can vary in precision and degree of immutability) in response to stimulus / conditions $x_6=s_3$.
+      notci: If in the context of VCS, this can be used to refer to e.g. git commits or darcs patches / snapshots.
+      smuvelckivla: snapshot;repository, record;repository, commit;repository, revision;repository
     - multcu: $x_1=n_1=m_1$ is to-do / needs completion in property $x_2=n_2=m_2$ by judge / standard $x_4=m_3$ for purpose / state $x_5=n_3$; $x_1$ is TODO.
     - skidatni: $x_1=d_1=s_1=s_4$ is metadata / annotation about / describing $x_2=d_2=s_2$ to interpreter / audience $x_3=s_3$, gathered by method $x_4=d_3$.
     - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
@@ -319,7 +323,7 @@
       smuvelckivla: elliptical place structure conversion
     - co'au: change place structure basis of a tanru to the seltau (repeatable).
       selma'o: SE
-      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, even if {co} is used (12.2, 5.8) (e.g., «cidja co carmi be loka titla» is not equivalent to «cidja co carmi loka titla», which might require a more poetic interpretation).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text).
+      notci: Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, even if {co} is used (12.2, 5.8) (e.g., «cidja coke carmi be loka titla» is not equivalent to «cidja co carmi loka titla», which might require a more poetic interpretation).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text).
       smuvelckivla: use seltau place structure as basis
     - co'e'o: indicate that the seltau can also modify the tertau's place.
       selma'o: SE
@@ -422,10 +426,11 @@
       selma'o: UI3
       notci: {lu'i'u} is like adding quotes to an expression in English, while preserving the grammar, as in scare quotes.  {fu'e}{lu'i'u}…{fu'o} can be used to manually indicate the scope.  {fu'oi}{lu'i'u} can be used to attach to the following rather than previous construct.  See also {cu'u}.
       smuvelckivla: quoted expression;scare quotes, scare quotes:distance, quote unquote;in-place grammar, air quotes;quoted expression
-    - multcu.i la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
+    - la'i'a: omittable text / speech / words; one sense of ‘[]’ square brackets (bracketed text).
       selma'o: UI3a
-      notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
+      notci: Alternative: {li'oi}.  Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.
       smuvelckivla: omittable text;square bracketed text
+      vlakra: zo na'i'a joi zo lu
     - multcu.i ko pensi le vi nu gafygau: la'i'a: omittable text; one sense of ‘[]’ square brackets (bracketed text).
       selma'o: UI3a
       notci: Can be used with quotations.  See also {sa'a} for editor-inserted material, and {na'i'a} of UI3b, which can be used like {po'o} except to express optionality, rather than uniqueness.  See also: {li'oi} (alternative option with slightly different definition).
@@ -681,7 +686,6 @@
     - multcu: zo datnyvi'u
     - multcu: rucra'e: continue
     - multcu: zo refgau
-    - multcu: zo favytcita
     - multcu: zo velva'isnada
     - multcu: zo tortraji
     - multcu: zo fa'ormu'ogau
@@ -827,25 +831,54 @@
       smuvelckivla; naturally;of course, of course
       vlakra: zo rarna
       notci: See also: {uenai} (expectation), {ju'o}, {li'a}.
-    - multcu: jai'o: discursive: showing/[explaining] - it is shown that; «.ui'ei jarco»
+    - jai'o: discursive: showing/[explaining] - it is shown that
       selma'o: UI3
       smuvelckivla: showing;discursive, explaining;showing
-      vlakra: zo
-      notci: Example: ‘My list has three items: red, green, and blue.’ with «.ijai'o» or «jai'onai .i».  See also: {xu'ai}, {semu'u}, {jai'oi}, {ja'o}, {ciksi}.
-    - multcu: jai'onai: discursive: showing/[explaining] - it is shown that; «.ui'ei jarco»
+      vlakra: zo jarco
+      notci: «.ui'ei jarco».  See also: {xu'a}, {xu'ai}, {semu'u}, {jai'oi}, {ja'o}, {ciksi}.
+    - jai'onai: discursive: showing/[explaining] - it is shown that
       selma'o: UI*3
-      smuvelckivla: showing;discursive, explaining;showing
-      vlakra: zo
-      notci: Example: ‘My list has three items: red, green, and blue.’ with «.ijai'o» or «jai'onai .i».  See also: {xu'ai}, {semu'u}, {jai'oi}, {ja'o}, {ciksi}.
+      vlakra: zo jarco
+      notci: «.ui'ei jarco».  See also: {xu'a}, {xu'ai}, {semu'u}, {jai'oi}, {ja'o}, {ciksi}.
+      smuvelckivla: as shown;it is shown that
+    - je'i'a: discursive: attach/bind the following to this.
+      selma'o: UI3b
+      vlakra: zo jersi joi zo lasna
+      notci: Example: ‘My list has three items: 8, 3, and 4.’ with «le mi liste cu se cmima ci dacti je'i'a .i li bi joi li ci joi li vo».  See also: {jai'oi}, {lasna} (consider {sei} or other annotations or grammatical structures like {poi} or simple predicates to distinguish e.g. type bindings and definition bindings (e.g. as in Lean) as $lasna_4$), {zo'u}, {jai'o}, {joi'u'i}.
+      smuvelckivla: colon punctuation;discursive
     - jai'oi: jarco modal, 1st place; showed / exhibited / demonstrated by …
       selma'o: BAI
-      notci: In e.g. ‘One thing is certain: you'll want to arrive early.’, «.ijai'oibo» is one way to express the meaning of the colon, to indicate that the second bridi shows that or what one thing is certain, where the second ‘shows’ the first.  See also: {mu'u}, {jai'o}.
+      notci: In e.g. ‘One thing is certain: you'll want to arrive early.’, «.ijai'oibo» is one way to express the meaning of the colon, to indicate that the second bridi shows that or what one thing is certain, where the second ‘shows’ the first.  See also: {mu'u}, {je'i'a}, {jai'o}.
       smuvelckivla: showed by, exhibited by, demonstrated by
+      vlakra: zo jarco
     - sejai'oi: jarco modal, 2nd place; showing / exhibiting / demonstrating …
       selma'o: BAI*
-      smuvelckivla: showing, ehxbiting, demonstrating
+      smuvelckivla: showing, exhibiting, demonstrating
+      vlakra: zo jarco
     - tejai'oi: jarco modal, 3rd place; audience of showing …
       selma'o: BAI*
+      vlakra: zo jarco
+    - multcu: _: zo'oi establish
+    - multcu: momfa'i: the order of something, like a sequence.
+      notci: See also: {porsi}.  Note this word is a bit more specific in that it focuses on the order.
+    - snikemsamtermi'e: $x_1=m_3=si_1$ is software / symbolic computational instructions on / for / executed by hardware / computer / architecture $x_2=m_2=sk_1=si_2$ interpreted by $x_3=m_1=si_3$ [e.g. $x_2$].
+      smuvelckivla: software;symbolic computational instructions, software;computer software
+      notci: {vo'e'e} can form a short-scope reflexive, even inside descriptors (e.g. «lo snikemsamtermi'e be fi vo'e'e» for bare-metal without a processor manual).
+      stuzi smuvelckivla: software;symbolic computational instructions, hardware;executor of software, interpretor;software
+    - fukpo'e: $x_1=p_1$ owns copyright over $x_2=p_2=f_2$ under law/custom $x_3=p_3$; $x_2$ is copyrighted.
+      notci: Example: «.i se fukpo'e de'i li © 2026 la. ric. .i po'ecru …».  See also: {po'ecru} (consent), {ponse} (own).
+      smuvelckivla: copyright;owning an intellectual property
+    - favytcita: $x_1=t_1$ is a version label / tag of $x_2=t_2$ [e.g. commit hash / specific executable / document] of / within $x_3=f_1$ [e.g. general document / project / repository].
+      notci: If desired, append $farvi$'s last 3 places.  See also: {stoveipa'o} (commit), {velfarvi}.
+      smuvelckivla: version;tag
+    - multcu: simxu ke vamji gunta
+    - multcu: simkemvamgunta: $x_1=g_1
+    - multcu: simxu vamji bo gunta tcini
+    - multcu: simxu vamji bo basti tcini
+    - multcu: simvamborbastcini: $x_1=t_1$ is a trade-off, a situation in which increasing one quality or quantity decreases another, between $x_2=b_1=v_2=s_1$ (possibly a mass) and $x_3=b_2=v_2=s_1$ to [judge/subject] $x_4=v_3$ in matter/decision/strategy $x_5=t_2=b_3=v_4$.
+      smuvelckivla: trade-off;compromise
+      notci: See also {kanpyvampla} (strategy), {simbasti} (swapped).
+    - multcu: rapygau
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
