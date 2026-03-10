@@ -883,6 +883,7 @@
     - multcu: _: IIRC
     - multcu: _: IIUC
     - multcu: _: zoizy if I'm not mistaken zy 
+    - multcu: nutcru: ko jmina le sumti nu lasna
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
       se ciska tarmi ?
       selci'atai ?
@@ -890,3 +891,14 @@
       tinbe ?
       ju'ocu'i balvi
     - multcu: lonu casnu zo xu'i
+    - multcu: le'ai .i zo'oi focus
+    - multcu: zo sutmau (to vimcu fi lo liste toi)
+    - multcu: pe'au si pe'o'e: zo to'o'e jecuku'i le'oi loka me'oi UI3c co'e kei seba'i zo'oi TO
+    - pe'oi: indicate possibly alternative / elliptical application.
+      selma'o UI3c
+      notci:
+        This adds an option to be less careful about terminators, and to, in a more freeform manner, add text or applications, e.g. with {be}, while indicating that e.g. the actual part linked could be what is literally seen, or it could be something else; it is left vague and elliptical.  Can be used to add clauses or other structures that might be most accurately applied with other terminators or elsewhere in the whole grammatical structure, allowing one to be less careful about how many terminators are applied in a nested bridi, if they wish to be imprecise about application or location.
+
+        ni'o This is {to'o'e}…{toi} but as UI3c.  See also: {pe'a} (metaphorical), {pe'ai} (non-technical), {pe'au} (‘or something’).
+      vlakra: zo pe'a joi zo to'o'e joi zo toi
+      smuvelckivla: elliptical application;unspecified location
