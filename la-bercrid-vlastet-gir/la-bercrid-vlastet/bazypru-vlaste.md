@@ -970,3 +970,4 @@
       smuvelckivla: elliptical application;unspecified location
     - multcu: zo'oi break
     - multcu: zo'oi kei'u .i ko gunka .i remei
+    - multcu: _: zo'oi nevermind
