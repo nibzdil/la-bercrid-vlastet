@@ -778,20 +778,24 @@
     - tortadji: $x_1=ta_1=to_1$ is a shortcut / trick for doing $x_2=ta_2$ under conditions $x_3=ta_3$ saving on $x_4=to_2$ by standard / compared to $x_5=to_3$.
       smuvelckivla: shortcut;method that omits steps, trick;quick way of doing something
     - multcu: sa'orgau: $x_1=g_1$ tilts / slants / leans $x_2=s_1$ at angle $x_3=s_2$ to horizon / frame $x_4=s_3$.
-      notci: Agentive {salpo}.  Example: «mi sa'orgau le loldi li 45 jy vo'e'e» (I tilt the floor by 45 degrees).
+      notci: Agentive {salpo}.  Example: «mi morji lodu'u mi sa'orgau le loldi li 30 jy vo'e'e.a'a'e» (I remember that I tilt the floor by 30 degrees).
       smuvelckivla: tilt;make angled, slant;make slanted, lean;make sloped
-    - multcu: _: discursive: static/specific/unchanging - dynamic/mutable/variable/slightly different/vaguer
+    - a'a'e: discursive: static/specific/unchanging - dynamic/mutable/variable/slightly different/vaguer.
       selma'o: UI3
-      notci: This involves the concept of how ‘mutable’ or changing something is.  In «mi sa'orgau le loldi li 45 jy vo'e'e_nai» (I tilt the floor by 45 degrees), «vo'e'e» refers to the $x_2$, but an old version of $x_2$; the tilt is ‘by’ 45 degrees even when filling in at ‘at angle’ place because the frame of reference is itself - but obviously not non-dynamically itself, which would not make sense in this usage.  A sumti could refer to an imprecise category of values that are different at different points in time.  This may be like referring to a git or darcs repository, but in a dynamic sense, the sumti doesn't have to be tied to a particular revision, but each time the sumti appears it can be instatniated with a different revision, but in a static sense you are emphasizing that likely more of the context is not changing, as in traditional definitions of the law of non-contradition.  In differential equations, it can be useful to define differentials as actually functions of a given ‘base’, e.g. dy for a given x as dy(Δx, x), especially when writing proofs involving lim(\Δx. …, 0).  Δx would be a ‘hidden’ part of the context that might vary.  Another analagy is FRP, which self-mutating functions or time-varying values.
+      notci: This involves the concept of how ‘mutable’ or changing something is.  In «mi morji lodu'u mi sa'orgau le loldi li 45 jy vo'e'e.a'a'enai» (I tilt the floor by 45 degrees), «vo'e'e» refers to the $x_2$, but an old version of $x_2$; the tilt is ‘by’ 45 degrees even when filling in at ‘at angle’ place because the frame of reference is itself - but obviously not non-dynamically itself, which would not make sense in this usage.  A sumti could refer to an imprecise category of values that are different at different points in time.  This may be like referring to a git or darcs repository, but in a dynamic sense, the sumti doesn't have to be tied to a particular revision, but each time the sumti appears it can be instatniated with a different revision, but in a static sense you are emphasizing that likely more of the context is not changing, as in traditional definitions of the law of non-contradition.  A git branch would be less dynamic than a git repo but more dynamic than a git tag.  In differential equations, it can be useful to define differentials as actually functions of a given ‘base’, e.g. dy for a given x as dy(Δx, x), especially when writing proofs involving lim(λΔx → …, 0).  Δx would be a ‘hidden’ part of the context that might vary.  Another analagy is FRP, with self-mutating functions or time-varying values.  See also: {vabysto} (static), {vabycne} (dynamic).
       smuvelckivla: static;discursive, dynamic;discursive
-    - multcu: vabysto: $x_1=s_1=v_2$ is static in property $x_2=s_2$ in response to stimulus/conditions $x_3=s_3=v_1$.
-      notci: See also: {vabycne} (dynamic), {_} (static discursive).
+      vlakra: zo .a'a joi zo .e'i
+    - a'a'enai: discursive: static/specific/unchanging - dynamic/mutable/variable/slightly different/vaguer.
+      selma'o: UI3
+      notci: This involves the concept of how ‘mutable’ or changing something is.  In «mi morji lodu'u mi sa'orgau le loldi li 45 jy vo'e'e.a'a'enai» (I tilt the floor by 45 degrees), «vo'e'e» refers to the $x_2$, but an old version of $x_2$; the tilt is ‘by’ 45 degrees even when filling in at ‘at angle’ place because the frame of reference is itself - but obviously not non-dynamically itself, which would not make sense in this usage.  A sumti could refer to an imprecise category of values that are different at different points in time.  This may be like referring to a git or darcs repository, but in a dynamic sense, the sumti doesn't have to be tied to a particular revision, but each time the sumti appears it can be instatniated with a different revision, but in a static sense you are emphasizing that likely more of the context is not changing, as in traditional definitions of the law of non-contradition.  A git branch would be less dynamic than a git repo but more dynamic than a git tag.  In differential equations, it can be useful to define differentials as actually functions of a given ‘base’, e.g. dy for a given x as dy(Δx, x), especially when writing proofs involving lim(λΔx → …, 0).  Δx would be a ‘hidden’ part of the context that might vary.  Another analagy is FRP, with self-mutating functions or time-varying values.  See also: {vabysto} (static), {vabycne} (dynamic).
+      smuvelckivla: dynamic;discursive
+      vlakra: zo .a'a joi zo .e'i
+    - vabysto: $x_1=s_1=v_2$ is static in property $x_2=s_2$ in response to stimulus/conditions $x_3=s_3=v_1$.
+      notci: See also: {vabycne} (dynamic), {a'a'e} (static discursive).
       smuvelckivla: static;unchanging
-    - multcu: vabycne: $x_1=c_1=v_2$ is static in property $x_2=c_2$ in amount/degree $x_3=c_3$ in response to stimulus/conditions $x_3=c_4=v_1$.
-      notci: See also: {vabysto} (static), {_nai} (dynamic discursive).
+    - vabycne: $x_1=c_1=v_2$ is dynamic in property $x_2=c_2$ in amount/degree $x_3=c_3$ in response to stimulus/conditions $x_3=c_4=v_1$.
+      notci: See also: {vabysto} (static), {a'a'enai} (dynamic discursive).
       smuvelckivla: dynamic;unchanging
-    - multcu: vanbi stodi
-    - multcu: vanbi cenba
     - multcu: zo velva'isnada
     - multcu: zo fa'ormu'ogau
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
