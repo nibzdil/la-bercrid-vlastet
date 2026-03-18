@@ -972,4 +972,6 @@
     - multcu: zo'oi kei'u .i ko gunka .i remei
     - multcu: _: zo'oi nevermind
     - multcu: self like (sevzi simsa): zo'oi fellow (e.g. ‘fellow Lojbanists’)
+      smuvelckivla: fellow;_
     - multcu: zo'oi aformentioned: _
+      smuvelckivla: aformentioned;_, so;_
