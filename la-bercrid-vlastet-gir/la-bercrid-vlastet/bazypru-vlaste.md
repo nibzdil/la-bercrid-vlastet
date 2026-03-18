@@ -353,10 +353,15 @@
       slabu: notci: Somewhat similar to {co'ai} but as SE rather than COhAI (like a FA, which is also sticky); {co'au} affects the tanru and always picks a seltau or tertau .  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, even if {co} is used (12.2, 5.8) (e.g., «cidja coke carmi be loka titla» is not equivalent to «cidja co carmi loka titla», which might require a more poetic interpretation).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text).
       slabu: notci: Somewhat similar to {co'ai} but as SE rather than COhAI ({co'ai} is like a FA, which is also sticky); {co'au} affects the attached tanru and always picks a seltau or tertau overriding any {co} that is inside, but {co} outside can still have its sumti-filling effect.  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, but if {co} is used, the seltau is (12.2, 5.8).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (like FA that applies to the remaining attached sumti; but works more like an inverse of {co}'s place structure basis effect rather than specifically choosing the seltau or tertau), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text), {pe'oi} (flexible grammar interpretation).
       notci:
-        {co'ai} but as SE rather than COhAI ({co'ai} is like a FA, which is also sticky); {co'au} affects the attached tanru and picks the left rather than the right tanru unit for the place structure basis, meaning the seltau without {co}, and the tertau with {co}, overriding {co}'s normal place structure basis described in CLL 5.8 where sumti to the right (but not left) are not filled into the normal selbri but to the right tanru unit which is the seltau when {co} is used (note that if a tanru is outside an inner {co'au} selbri, the tanru's place structure basis is used, not necessarily the inner one which happens to have {co'au}).  Because it is SE and not FA, {co'au} affects all sumti, changing the place structure basis for them all, whereas without {co'au}, the presence of {co} only affects sumti to the right of the selbri.  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau (note that all sumti are affected regardless of the location of {co'au}, so long as it attaches to the bridi used).  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, but if {co} is used, the seltau is (12.2, 5.8).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  «co'au» focuses ‘in’ on the left tanru unit, and «co'au» pops back out; composed together they are an identity SE; but you cannot e.g. say «co'aunai co'au» to go to the left with «co'au» and then go to the right with «co'aunai», since «co'aunai» does not go to the right but pops back out as an inverse, so you cannot go ‘left, right, left’, since only the left units of a tanru tree are accessible with «co'au» alone, not branches from a right node (note that «co'au» starts at the outermost level in case «co'au»'s applied-to tanru is a nested «co», whereas «co'ai» is perhaps better thought of starting from the current place structure basis, i.e. from the innermost level; this happens to mean that «co'auku» can be convenient for skipping all levels of «co», which would require multiple applications of «co'ai»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (like FA that applies to the remaining attached sumti; perhaps it could even be FA), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text), {pe'oi} (flexible grammar interpretation).
+        {co'ai} but as SE rather than COhAI ({co'ai} is like a FA, which is also sticky); {co'au} affects the attached tanru and picks the left rather than the right tanru unit for the place structure basis, meaning the seltau without {co}, and the tertau with {co}, overriding {co}'s normal place structure basis described in CLL 5.8 where sumti to the right (but not left) are not filled into the normal selbri but to the right tanru unit which is the seltau when {co} is used (note that if a tanru is outside an inner {co'au} selbri, the tanru's place structure basis is used, not necessarily the inner one which happens to have {co'au}).  Because it is SE and not FA, {co'au} affects all sumti, changing the place structure basis for them all, whereas without {co'au}, the presence of {co} only affects sumti to the right of the selbri.  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau (note that all sumti are affected regardless of the location of {co'au}, so long as it attaches to the bridi used).
+
+        ni'o Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, but if {co} is used, the seltau is (12.2, 5.8).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  «co'au» focuses ‘in’ on the left tanru unit, and «co'au» pops back out; composed together they are an identity SE; but you cannot e.g. say «co'aunai co'au» to go to the left with «co'au» and then go to the right with «co'aunai», since «co'aunai» does not go to the right but pops back out as an inverse, so you cannot go ‘left, right, left’, since only the left units of a tanru tree are accessible with «co'au» alone, not branches from a right node (note that «co'au» starts at the outermost level in case «co'au»'s applied-to tanru is a nested «co», whereas «co'ai» is perhaps better thought of as starting from the current place structure basis, i.e. from the innermost level; this happens to mean that «co'auku» can be convenient for skipping all levels of «co», which would require multiple applications of «co'ai»).
+
+        ni'o However, a third experimental grammar feature permits using {bo} to apply SE to {co'au} (otherwise «seco'au» would mean a composition of SE: perform «se» to «co'au broda», i.e. perform «co'au» and then «se»; but «seboco'au» is a single SE operation/function, meaning it's the right branch/tanru unit rather than left), although given the complexity of managing multiple levels of tanru, this feature might be rarely used (see also {do'e} and {pe'oi}).
 
         ni'o A couple practical conveniences affecting choice of «co'auku» vs «co'ai» is that «co'auku» is only needed once for a nested «co», whereas «co'ai» may be easier if you want to start from the inner bridi and are already mentally primed to start from it, and secondly «co'auku» also affects x1 and sumti to the left of the selbri whereas «co'ai» doesn't (when not placed at the beginning), useful e.g. in «ko'a cu co'auku lakne co du zo zasti» (‘it's likely ‘there is’’), where {ko'a} fills «du» with «co'au», but with «co'ai zo zasti» ko'a would fill x1.  «co'auku» and «co'ai» both work without «co», still selecting the left tanru unit rather than the right.
-      As practical conveniences, «co'auku» rather than «co'ai» 
+
+        ni'o See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (like FA that applies to the remaining attached sumti; perhaps it could even be FA), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text), {pe'oi} (flexible grammar interpretation).
       smuvelckivla: left unit;use left tanru unit as place structure basis
     - co'e'o: indicate that the seltau can also modify the tertau's place.
       selma'o: SE
@@ -750,14 +755,44 @@
       smuvelckivla: gamepad;console controller, controller;video game console controller
     - geirga'a: $x_1=gr_1=gl_1$ is a joystick / orienter controlling $x_2=gr_2=gl_2$.
       smuvelckivla: joystick, orienter;joystick
-    - multcu: zo geirga'a .i ko judrei le jersi .i notci .i ka'e se smuni lo simsa drata ki'u lonu cmalu
-    - multcu: zo kelterfrata'o
-    - multcu: zo favyke'u
-    - multcu: zo datnyvi'u
-    - multcu: rucra'e: continue
-    - multcu: zo refgau
+    - favyke'u: $x_1=k_1$ is a redevelopment / replay of $x_2=k_2=f_1$ developing / evolving into $x_3=f_2$ from $x_4=f_3$ through stages $x_5=f_4$ for the $x_6=k_3$'rd time.
+      notci: See also: {jarco}, {vreji}.
+      smuvelckivla: redevelopment;evolve again, replay;redevelopment
+    - datnyvi'u: $x_1=v_1$ deletes / removes data $x_2=v_2=d_1$ from $x_3=v_3$ leaving $x_4=v_4$.
+      smuvelcikvla: delete;remove data
+    - rucra'e: $x_1=r_1=p_1$ (e.g. event, process) continues in $x_2=r_2$.
+      notci: See also: {rucra'egau} (continue (agentive)), {crakla} (advance/proceed), {xaurfarvi} (progress), {tcinyra'e} (continue).
+      smuvelckivla: continue;keep process
+    - tcinyra'e: $x_1=r_1=t_1$ (e.g. state / property) continues in $x_2=r_2=t_2$.
+      notci: See also: {tcinyra'egau} (continue (agentive)), {crakla} (advance/proceed), {xaurfarvi} (progress), {rucra'e} (continue).
+      smuvelckivla: continue;keep state
+    - refgau: $x_1=g_1$ repeats $x_3=k_2$ for the $x_4=k_3$rd time as $x_2=k_2$; $x_1$ instantiates, through $x_2$, $x_3$.
+      notci: Agentive {krefu}.  See also: {rapygau} (repeat).
+      smuvelckivla: repeat;re-instance instantiate;make instance
+    - rapygau: $x_1=g_1$ repeats $x_2=r_1$ for a total of $x_3=r_2$ occurrences.
+      notci: Agentive {rapli}.  See also: {rapygau} (instantiate).
+      smuvelckivla: repeat;make repeat
+    - kairgau: $x_1=g_1$ makes $x_2=c_1$ $x_3=c_2$; $x_1$ causes $x_2$ to be $x_3$.
+      notci: Agentive {ckaji}.  See also: {binxo} (become), {bixygau}.
+      smuvelckivla: make;cause to be
+    - tortadji: $x_1=ta_1=to_1$ is a shortcut / trick for doing $x_2=ta_2$ under conditions $x_3=ta_3$ saving on $x_4=to_2$ by standard / compared to $x_5=to_3$.
+      smuvelckivla: shortcut;method that omits steps, trick;quick way of doing something
+    - multcu: sa'orgau: $x_1=g_1$ tilts / slants / leans $x_2=s_1$ at angle $x_3=s_2$ to horizon / frame $x_4=s_3$.
+      notci: Agentive {salpo}.  Example: «mi sa'orgau le loldi li 45 jy vo'e'e» (I tilt the floor by 45 degrees).
+      smuvelckivla: tilt;make angled, slant;make slanted, lean;make sloped
+    - multcu: _: discursive: static/specific/unchanging - dynamic/mutable/variable/slightly different/vaguer
+      selma'o: UI3
+      notci: This involves the concept of how ‘mutable’ or changing something is.  In «mi sa'orgau le loldi li 45 jy vo'e'e_nai» (I tilt the floor by 45 degrees), «vo'e'e» refers to the $x_2$, but an old version of $x_2$; the tilt is ‘by’ 45 degrees even when filling in at ‘at angle’ place because the frame of reference is itself - but obviously not non-dynamically itself, which would not make sense in this usage.  A sumti could refer to an imprecise category of values that are different at different points in time.  This may be like referring to a git or darcs repository, but in a dynamic sense, the sumti doesn't have to be tied to a particular revision, but each time the sumti appears it can be instatniated with a different revision, but in a static sense you are emphasizing that likely more of the context is not changing, as in traditional definitions of the law of non-contradition.  In differential equations, it can be useful to define differentials as actually functions of a given ‘base’, e.g. dy for a given x as dy(Δx, x), especially when writing proofs involving lim(\Δx. …, 0).  Δx would be a ‘hidden’ part of the context that might vary.  Another analagy is FRP, which self-mutating functions or time-varying values.
+      smuvelckivla: static;discursive, dynamic;discursive
+    - multcu: vabysto: $x_1=s_1=v_2$ is static in property $x_2=s_2$ in response to stimulus/conditions $x_3=s_3=v_1$.
+      notci: See also: {vabycne} (dynamic), {_} (static discursive).
+      smuvelckivla: static;unchanging
+    - multcu: vabycne: $x_1=c_1=v_2$ is static in property $x_2=c_2$ in amount/degree $x_3=c_3$ in response to stimulus/conditions $x_3=c_4=v_1$.
+      notci: See also: {vabysto} (static), {_nai} (dynamic discursive).
+      smuvelckivla: dynamic;unchanging
+    - multcu: vanbi stodi
+    - multcu: vanbi cenba
     - multcu: zo velva'isnada
-    - multcu: zo tortraji
     - multcu: zo fa'ormu'ogau
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
     - multcu: (zo sa'orgau)
@@ -885,8 +920,6 @@
       smuvelckivla: text
       notci: 
     - multcu _: zoy zy. depending on .zy.
-    - multcu: kairgau: $x_1=g_1$ makes $x_2=c_1$ $x_3=c_2$.
-      smuvelckivla: make;cause to be
     - multcu: sujyfri: $x_1=l_1$ is experienced in / has accumulated experience $x_2=l_2=s_1=s_2$, from individual experiences $x_3=s_3$.
       smuvelckivla: experienced;has experience
     - multcu: kelfau: zo'oi gameplay (to zo'oi ‘sportsplay’ je zo'e toi)
