@@ -21,6 +21,16 @@
         ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o cu te gafygau .i panra fi ti
 
         ni'o ko catlu fu'oi ji'a zo {joi'u'i} noi sucta
+    - kei'u: reltcinysumtcita zo krefu joi $x_1$ .i smuni du lu« fi'o krefu »li'u .i ca ko'a .i va'o ko'a poi krefu
+      selma'o: BAI
+      notci: lo mupli je'i'a: .i lu« lo prenu be kei'u lo sepli cu bevri le pipno »li'u se smuni lodu'u le prenu ca lo drata temci cu bevri le pipno .i lu« lo prenu be kei'u lo mintu cu bevri le pipno »li'u cu se smuni lodu'u le prenu cu bevri le pipno ca lo mintu temci .i ji'a lu« .i mi troci kei'u lo cnino »li'u cu se smuni lodu'u mi reftoi .i ko catlu fu'oiji'a zo {lo'u'a} je zo {ke'u}
+      smuvelckivla: fi'o krefu;pavytcinysumtcita
+    - sekei'u: reltcinysumtcita zo krefu joi $x_2$ .i smuni du lu« fi'o se krefu »li'u .i krefu ko'a jacu mupli ko'a jacu ca'o lo cnino temci
+      selma'o: BAI*
+      smuvelckivla: fi'o se krefu;pavytcinysumtcita
+    - tekei'u: reltcinysumtcita zo krefu joi $x_3$ .i smuni du lu« fi'o te krefu »li'u .i me ko'a va'e lo na'e balvi se rapli ckilu .i xokau moi semu'uku
+      selma'o: BAI*
+      smuvelckivla: fi'o te krefu;pavytcinysumtcita
 - vlaste (vocabulary): "bangu: en":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
       smuvelckivla: initial;first
@@ -66,7 +76,6 @@
         ni'o If desired, the semantics can be specified in more detail, such as declaring or importing a language feature, complete language, language dialect or variation, dictionary, semantics, or other language standard or specification or open source fork with {baunpli}, e.g. ({sei}) {baupli} {be} {la} {mulno} {ke} {lojbo} {bangu}, or something more precise and versioned.
 
         ni'o See also {sema'ai} (‘such that’).
-    - to'o'e: Apply Lojban text to an unspecified point in text.
     - ma'ai: mansa modal, 1st place (satisfying evaluator) satisfied by …
     - sema'ai: mansa modal, 2nd place (satisfying evaluator) such that …
       smuvelckivla: such that;which satisfies
@@ -106,6 +115,8 @@
     - jbovlaste rlpowell: kanpe: _
     - kritikti'i: $x_1=stid_1=stik_1$ is a hint / clue for / that $x_2=stid_2=stik_2=k_2$ (belief / declaration / state / discovery) to $x_3=stid_3=k_1$ (person / believer) for / about $x_4=k_3$ (topic or subject of clue) with clue strength / clarity / amount $x_5=stik_3$; $x_1$ is a hint that $x_2$ to $x_3$ about $x_4$ of strength / size $x_5$.
     - cadyselcu'a: $x_1=cu_2$ is the default / choice when not overridden by $x_2=cu_1=ca_2$ among alternatives / options $x_3=cu_3$.
+      smuvelckivla: default;choice
+      stuzi smuvelckivla: default;choice
     - bityzba: $x_1=b_1=z_1$ ensures $x_2=z_2=b_2$ is true / the case by doing / with means / with proof $x_3=z_3$; $x_1$ makes certain $x_2$.
       smuvelckivla: ensure;make sure
     - tu'e'ei: General-purpose left-bracket for arbitrary grouping of Lojban text; start highlight / selection marker.
@@ -257,7 +268,23 @@
     - do'e'e'au'i: tanru / contextual place structures; idiomatic tanru; «sei baunpli be la terbricnetau».
     - do'e'o'au'i: place-structure-stable tanru (CLL tanru place structure); «sei baunpli be la terbristotau».
     - do'e'e: tanru / contextual place structures; idiomatic tanru; contraction of «do'e'e'au'i».
+      multcu: vlakra: se krasi zo do'e joi zo cenba noi rafsi pagbu zo terbricnetau
+      multcu: smuvelckivla: place-structure-dynamic tanru;baunpli declaration, idiomatic tanru;baunpli declaration
+      notci:
+        In the CLL Lojban standard (section 2.9), the tertau / final component determines the place structure.  The language feature / extension {terbricnetau} allows tanru to modify the place structure rather than just the meaning, and also opens the place structure up a bit to context as well (e.g. with constructs for specifying dialects or dictionary modes - see also {baunpli} to ‘import’ a dictionary as well).  When used / enabled, this allows affected tanru to function a little closer to lujvo, permitting context to allow some tanru to act more like idioms; indeed even the {seltau} may be a dictionary or qualified import name.  Disabling this with {terbristotau} ensures tanru are ordinary CLL tanru with respect to place structure.
+
+        ni'o Generally, scope is by default short ({ve'i'ai}) and affecting the preceding cmavo group like UI attachment / emphasis, but it can alternatively be medium scope or for the whole top-level bridi; and it can be with long scope for ‘sticky’ / permanent attachment, with {ve'u'ai}.  Scope can also be precisely and explicitly declared with a full {baunpli} declaration, especially with x3.  Even within a tanru, {ke} or {bo}-like connectors can be used to enable and disable this feature for multiple different specific tanru at the same time that are nested within a larger, composite tanru.  With unspecified scope, generally by default {ve'i'ai} is used, which can affect a top-level bridi by appearing after «.i», except if scope in unspecified (e.g. there is no {ve'i'ai}-like expression or equivalent) and it appears alone with nothing else in a {bridi}, then a long-scope (sticky/permanent) of {ve'u'ai} may be inferred instead of {ve'i'ai}.  See also {tu'e'ei}, {tu'u'o}.
+
+        ni'o «{do'e'e}» is a contraction of «{do'e'e'au'i}» which ＝＝ «sei {baunpli} be la {terbricnetau}».  «{do'e'o}» is a contraction of «{do'e'o'au'i}» which ＝＝ «sei {baunpli} be la {terbristotau}».  See also: {do'o'e}.
     - do'e'o: place-structure-stable tanru (CLL tanru place structure); contraction of «do'e'o'au'i».
+      multcu: vlakra: se krasi zo do'e joi zo stodi noi rafsi pagbu zo terbristotau
+      multcu: smuvelckivla: place-structure-stable tanru;baunpli declaration
+      notci:
+        In the CLL Lojban standard (section 2.9), the tertau / final component determines the place structure.  The language feature / extension {terbricnetau} allows tanru to modify the place structure rather than just the meaning, and also opens the place structure up a bit to context as well (e.g. with constructs for specifying dialects or dictionary modes - see also {baunpli} to ‘import’ a dictionary as well).  When used / enabled, this allows affected tanru to function a little closer to lujvo, permitting context to allow some tanru to act more like idioms; indeed even the {seltau} may be a dictionary or qualified import name.  Disabling this with {terbristotau} ensures tanru are ordinary CLL tanru with respect to place structure.
+
+        ni'o Generally, scope is by default short ({ve'i'ai}) and affecting the preceding cmavo group like UI attachment / emphasis, but it can alternatively be medium scope or for the whole top-level bridi; and it can be with long scope for ‘sticky’ / permanent attachment, with {ve'u'ai}.  Scope can also be precisely and explicitly declared with a full {baunpli} declaration, especially with x3.  Even within a tanru, {ke} or {bo}-like connectors can be used to enable and disable this feature for multiple different specific tanru at the same time that are nested within a larger, composite tanru.  With unspecified scope, generally by default {ve'i'ai} is used, which can affect a top-level bridi by appearing after «.i», except if scope in unspecified (e.g. there is no {ve'i'ai}-like expression or equivalent) and it appears alone with nothing else in a {bridi}, then a long-scope (sticky/permanent) of {ve'u'ai} may be inferred instead of {ve'i'ai}.  See also {tu'e'ei}, {tu'u'o}.
+
+        ni'o «{do'e'e}» is a contraction of «{do'e'e'au'i}» which ＝＝ «sei {baunpli} be la {terbricnetau}».  «{do'e'o}» is a contraction of «{do'e'o'au'i}» which ＝＝ «sei {baunpli} be la {terbristotau}».  See also: {do'o'e}.
     - narbilga: $x_1=b_1$ is not bound/obliged to/does not have the duty to do/be $x_2=b_2$ in/by standard/agreement $x_3=b_3$; $x_2$ is optional / non-mandatory / non-obligatory to $x_1$ under $x_3$.
     - na'i'a: discursive: optionally.
     - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
@@ -388,6 +415,12 @@
     - jbirai: $x_1=t_1=j_1$ is closest to $x_2=j_2$ in property / quantity $x_3=j_3$ toward extreme / as xth-most $x_4=t_3$ among $x_5=t_4$; among $x_5$, $x_1$ is closest to $x_2$.
       notci: See also: {jbimau}.
       smuvelckivla: closest;location, nearest;location
+    - maujbi: $x_1=j_1$ is closer to $x_2=j_2=z_1$ than ($x_1$ is to) $x_3=z_2$ in property / quantity $x_4=j_3$ by amount / excess $x_5=z_4$.
+      notci: This is not {jbimau}, which uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$), and means ‘closer to something than something else is’.  {maujbi} means ‘closer to something than something’.  The former compares $x_1$; the latter compares $x_2$.
+      smuvelckivla: closer;than it is to
+    - djimau: $x_1=z_1=d_1$ is a greater wanter than $x_2=z_2$ is of $x_3=d_2$ for purpose $x_4=d_3$ by amount / excess $x_5=z_4$.
+      notci: See also {maudji} for ‘prefer’.  {djimau}, like {jbimau}, uses «-mau» to insert $zmadu_2$ at $x_2$ (and append $zmadu_4$; see also {fi'o}).
+      smuvelckivla: greater wanter of
     - selsi'ame'a: $x_1=s_2=m_1$ is less esteemed/respected/venerated/highly regarded than $x_2=m_2$ by $x_3=s_1$ [object of respect] by margin $x_4=m_4$.
       notci: This follows the pattern of «-me'a» inserting what $x_1$ is compared to into $x_2$ (and appending $m_4$).  While it is still possible to choose an alternative place structure, for different place structures consider inserting «me'a» elsewhere.
       smuvelckivla: less esteemed;respected
@@ -500,7 +533,7 @@
     - kei'u: krefu modal, 1st place (in instance / at time); in instance / case …
       selma'o: BAI
       notci: Example: «lo prenu be kei'u lo sepli cu bevri le pipno» means the people, at separate times, carried the piano.  «lo prenu be kei'u lo mintu cu bevri le pipno» means the people carried the piano at the same time / in the same instance.  See also: {lo'u'a}, {ke'u}.
-      smuvelckivla: in instance, in case;in instance, at time;in instance
+      multcu: smuvelckivla: in instance, in case;in instance, at time;in instance, again
     - sekei'u: krefu modal, 2nd place; an instance of …
       selma'o: BAI*
       smuvelckivla: an instance of
@@ -657,30 +690,61 @@
     - palydji: $x_1=d_1$ wants profit / gain $x_2=d_2=p_2$ for $x_3=p_2$ (not necessarily $x_1$) resulting from [profitable] $x_4=p_3$ for purpose $x_5=d_3$; $x_1$ is profit-driven / for-profit.
       notci: See also: {di'irdji} (wants money).
       smuvelckivla: profit-driven;wants profit, for-profit;profit-driven, for profit;for-profit
-    - multcu: zukte lasna: zo'oi committed
-    - multcu: martinbe lasna: zo'oi committed
+    - multcu: zukla'a: $x_1=l_1$ commits $x_2=l_2=z_1$ (can be $x_1$) to [action] $x_3=l_3=z_2$ for purpose/goal/end $x_4=z_3$ with commitment type / by means / [pledge] $x_5=l_4$; $x_2$ is committed.
+      multcu: xu l_2 ce'o l_3 ji l_3 je'o l_2
+      multcu: xu do djica zo lacri
+      notci: Example: «mi mi zukla'a lonu _».
     - multcu: irbite: $x_1$ ribbits expressing $x_2$.
-      notci: See also: {cmoni}.
+      notci: See also: {cmoni}, {sudakrisi} {rergila}.
       smuvelckivla: ribbit;utter
       multcu: notci: la'o ly. Pacific Tree Frog .ly.
+    - multcu: rergila: $x_1$ is a Pacific Tree Frog (if Pseudacris) / [Pseudacris] regilla / Royal Snowfly of subspecies / race / type $x_2$.
+      notci: Synonym: «jutnregila».  «sudakrisi rergila» is Pacific Tree Frog (Baird & Girard, 1852).  {do'e'e} isn't needed for binomial nomenclature (scientific naming) tanru.  $x_2$ is normally below species, not above (see {sele'a}).  This is a foreign import of ‘regilla’ in binomial nomenclature, with often Latin roots.  The tanru can technically (but improbably) be interpreted in alternative ways; tanru is not necessarily restricted here.  To explicitly indicate this taxonomical usage of tanru, you can use «kepe'ainai sudakrisi rergila» (see {pe'ainai}).  Finally, you can also say {surdakrisi zei rergila}.
+      smuvelckivla: Pacific Tree Frog;Pseudacris regilla
+    - multcu: sudakrisi: _
+    - multcu: sudakrisi zei rergila: _
     - multcu: stagau: $x_1=$ _
       notci: See also: {ralte}.
       smuvelckivla: keep;to keep something in a state
     - multcu: _: zo'oi radius
-    - multcu: cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
+    - cabybixygau: $x_1=g_1$ updates / makes current $x_2=b_1$ to $x_3=c_2$; $x_1$ makes $x_2$ catch up with $x_3$ at / under conditions / when $x_4=b_3$.
       smuvelckivla: update;catch up
-      stuzi smuvelckivla: update;catch up, catch up; bring current
-      notci: See also: {ningau}.
-    - multcu: tcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai», «se cabna» ({se} used for tense)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
-      notci: See also: {pavtcinysumtcita} (modal), {reltcinysumtcita} (tense)
+      stuzi smuvelckivla: update;catch up, catch up;bring current
+      notci: Example: «ko ko cabybixygau le trene lonu purci lonu cliva le tcana».  See also: {ningau}.
+    - tcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai», «se cabna» ({se} used for tense)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: See also: {pavytcinysumtcita} (modal), {reltcinysumtcita} (tense).
       smuvelckivla: modal;sumtcita, tense;sumtcita
-    - multcu: pavtcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai») for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
-      notci: See also: {reltcinysumtcita} (tense), {tcinysumtcita} (modal/tense)
+    - pavytcinysumtcita: $x_1=tcit_1=s_3$ is a modal (BAI, «fi'o broda», etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «bai») for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: See also: {reltcinysumtcita} (tense), {tcinysumtcita} (modal/tense).
       smuvelckivla: modal;sumtcita
-    - multcu: reltcinysumtcita: $x_1=tcit_1=s_3$ is a tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
-      notci: See also: {pavtcinysumtcita} (modal), {tcinysumtcita} (modal/tense)
+    - reltcinysumtcita: $x_1=tcit_1=s_3$ is a tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) relative to $x_3$ (default) (e.g. «mi» or the bridi) for sumti $x_4=tcit_2=s_1$ of selbri $x_5=s_2$.
+      notci: $x_3$ is essentially the default tense object when it is {zo'u'i}, which CLL specifies is generally the speaker / ‘me’ (e.g. the $x_1$ of «se purci» for «pu broda»), but can refer to the bridi (e.g. «mi pu'o broda»), perhaps creating a ‘higher bridi’ in relation to the ‘inner’ bridi of «mi broda», or alternatively modifying it to refer to the time interval before (the time interval that is «purci») «mi broda» (note, however, that «mi broda pu'o lonu brode» means that you broda  until  brode, so under this interpretation there is an assymetry (by $x_3$) between «mi pu'o broda» ＝ «mi broda pu'oku» ＝ «mi broda pu'ozo'u'i», and «mi broda pu'o ko'a», which means ‘I broda until it’, like «mi broda pu'ozo'u'au».  {zo'e} can be {zo'u'i} (default) as a hint, but {zo'e} can also represent an arbitrary sumti; {zo'u'au} is generally {zo'e} except non-default, so here «mi broda pu'ozo'u'au» means «mi broda pu'o ko'a» and such like.).  Suggestion: given the traditional use of e.g. «caku», «caku» can be understood to mean «cazo'eku» that especially means «cazo'u'iku» given this context but technically can also mean «cazo'u'au» or «cako'a»; «cazo'u'iku» is a more explicit «caku», as is «ca[tu'a]mi». See also: {zo'u'i} (default sumti), {zo'u'au} (non-default sumti), {pavtcinysumtcita} (modal), {tcinysumtcita} (modal/tense).
       smuvelckivla: tense;sumtcita
+    - zo'u'i: pro-sumti: a default sumti value for this place in the relationship.
+      selma'o: KOhA7
+      notci: This is not {zo'e}, but is specifically the default sumti.  See also: {zo'u'au} (non-default but otherwise elliptical sumti), {zo'e} (elliptical/unspecified sumti, which can be the default), {zu'i} (typical sumti), {zi'o} (deleted sumti), {di'oi} (default sumti, especially according to the selbri's definition), {di'au} (default sumti, by context and discourse rather than necessarily a selbri's definition), cadyselcu'a (default).
+      vlakra: zo zo'e joi zo zu'i
+      smuvelckivla: default sumti
+    - zo'u'au: pro-sumti: non-default elliptical/unspecified value
+      selma'o: KOhA7
+      vlakra: zo zo'e joi zo zu'i joi zo claxu
+      smuvelckivla: non-default elliptical sumti
+      notci: Non-default but otherwise elliptical/unspecified sumti.  See also: {zo'u'i} (default sumti).
     - multcu VI LO GALRAIPAU: kei'u: _
+    - kei'u lo cnino: again / anew.
+      smuvelckivla: again;in a new instance, anew;in a repeated instance
+    - kei'u lo mintu: in the same instance / [at the same time / simultaneously].
+      notci: See also: {ca lo mintu} (at the same time / simultaneously), {kei'u lo cnino} (again), {lo'a'au}.
+      smuvelckivla: same instance;in the same instance
+    - ca lo mintu: at the same time / simultaneously.
+      notci: See also: {cabna}, {kei'u lo mintu}.
+      smuvelckivla: simultaneously;at the same time
+    - kelterfrata'o: $x_1=t_1=f_3$ is a gamepad / console controller for player $x_2=f_2=k_1$ of games / console $x_3=f_1=k_2$ of gamepad type / material $x_4=t_2$ with controls / connection $x_5=f_4$.
+      notci: Input device in the form of a gamepad.  Can also be used for applications other than video games.
+      smuvelckivla: gamepad;console controller, controller;video game console controller
+    - geirga'a: $x_1=gr_1=gl_1$ is a joystick / orienter controlling $x_2=gr_2=gl_2$.
+      smuvelckivla: joystick, orienter;joystick
+    - multcu: zo geirga'a .i ko judrei le jersi .i notci .i ka'e se smuni lo simsa drata ki'u lonu cmalu
     - multcu: zo kelterfrata'o
     - multcu: zo favyke'u
     - multcu: zo datnyvi'u
@@ -690,7 +754,6 @@
     - multcu: zo tortraji
     - multcu: zo fa'ormu'ogau
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
-    - multcu: zo geirga'a .i ko judrei le jersi .i notci .i ka'e se smuni lo simsa drata ki'u lonu cmalu
     - multcu: (zo sa'orgau)
     - multcu: zo refcfagau (to la'a je zo cfake'ugau toi)
     - multcu: (zo fargau)
@@ -893,7 +956,10 @@
     - multcu: lonu casnu zo xu'i
     - multcu: le'ai .i zo'oi focus
     - multcu: zo sutmau (to vimcu fi lo liste toi)
-    - multcu: pe'au si pe'o'e: zo to'o'e jecuku'i le'oi loka me'oi UI3c co'e kei seba'i zo'oi TO
+    - to'o'e: Apply Lojban text to an unspecified point in text.
+      selma'o: TO
+      notci: Can be used to apply e.g. {be} applications or {noi} relative clauses in alternative locations without specifying what they modify.  Same grammar as {to}…{toi}.  See also: {pe'oi} (same concept, but as UI3c (technically for UI3c the grammatical structure must otherwise still be valid, even if it's indicated to be more flexibly interpreted)).
+      smuvelckivla: elliptical application;parenthetical
     - pe'oi: indicate possibly alternative / elliptical application.
       selma'o UI3c
       notci:
@@ -902,3 +968,5 @@
         ni'o This is {to'o'e}…{toi} but as UI3c.  See also: {pe'a} (metaphorical), {pe'ai} (non-technical), {pe'au} (‘or something’).
       vlakra: zo pe'a joi zo to'o'e joi zo toi
       smuvelckivla: elliptical application;unspecified location
+    - multcu: zo'oi break
+    - multcu: zo'oi kei'u .i ko gunka .i remei
