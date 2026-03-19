@@ -63,7 +63,7 @@
     - martinbe: $x_1=t_1=m_2$ conforms to / is compliant with standard $x_3=t_3=m_1$ with rules $x_2=t_2=m_3$; $x_1$ is standard.
       smuvelckivla: standard;being normal, conformant;conforming to a standard
       stuzi smuvelckivla: conform;compliance
-      notci: Synonym: {marmansa}.  See also: {marbartu} (experimental), {ca'irselzau} (official, by an owner of a standard through the owner's authority).
+      notci: Synonym: {marmansa}.  See also: {marbartu} (experimental), {ca'irselzau} (official, e.g. by an owner of a standard through the owner's authority).
     - multcu: marmansa: <setese martinbe> xu
     - setsta: $x_1=st_1$ is direct / directly $x_2=st_2=se_3$, with single / clear relationship / step $x_3=se_1$ of type $x_4=se_2$; $x_1$ is straightforward / without layered interruption.
     - setseldicra: $x_1=d_2=st_1$ is indirect / indirectly $x_2=d_1=se_3$, with layers / steps $x_3=se_1$ of type / material / manifestation $x_4=se_2$ separate / interrupted from the direct layer due to quality $x_5=d_3$.
