@@ -1,6 +1,7 @@
 - skidatni (meta):
     - notci (notes):
-        - fukfadmupli (template):
+        - multcu: pe'udo'u jurpei co fanva fi la'oi yaml ja zo'e
+        - fukfadmupli pe'ai (template):
             - vlaste (vocabulary):
                 - li'enrai: x1=l1=t1 is initial in property x2=r2 in sequence x3=l3
                 - bazpru: x1 is tentative for purpose/satisfier x2 under conditions x3; x1 is a work-in-progress or placeholder; x1 is not yet processed.
@@ -12,7 +13,52 @@
                 - toltcila: $x_1=tc_1$ is a summary / overview / abstract / brief / the big picture of $x_2=tc_2$.
                 - po'ecru: Owner/proprietor x1=p1 grants consent for x2=p2=c2 (co-owner / renter / permitted state) under conditions x3=c3 under law/custom/standard x4=p3
                 - multcu: x1=m1 needs completion in property x2=m2=n2 by judge/standard x3=m3 for purpose/state 43=n3; x1 is TODO
-- vlaste (vocabulary): "bangu: jbo":
+- fukfadmupli:
+    - jvaiso fi li 639-3:
+        xu'asmu: {{cadyselcu'a xu'asmu}}
+        notci: {{notci ziljmina}}
+        smuvelckivla: {{cadyselcu'a smuvelckivla}}
+        tecyvla: {{cadyselcu'a tecyvla}}
+        datni:
+          - "{{cadyselcu'a xu'asmu}}": $x_1$ is the {{bangu cmene}} language identified by ISO 639-3 code ‘{{mifra}}’ (bairyn's ISO 639-3 language fu'ivla encoding).
+            "{{cadyselcu'a tecyvla}}": jvaiso fi li 639-3
+            "{{cadyselcu'a smuvelckivla}}": {{bangu cmene}};ISO 639-3, {{mifra}};ISO 639-3
+            "{{notci ziljmina}}":
+              (For possibly more up-to-date notes, please see {bangejebo'iso}.)
+
+              ni'o This algorithm constructs ISO 639-3 fu'ivla from the 3-letter code representing the language, like ‘eng’ for English.  To decode, after «bang», from the left, take all consonants and vowels.  Then, from the left, remove vowels that are not immediately after an apostrophe («'») until there are 3 consonants and vowels.  Except that there's another layer described in the next paragraph, this is the decoded 3-letter code.
+
+              ni'o ISO 639-1 uses the English alphabet, a-z.  In encoding, «e»s are used as filler vowels, and an eliminated «u» (as in «bu») is used to encode h, q, and w, as «xu», «ku», and «vu».  (Thus, if there is an encoded vowel after a non-Lojban consonant, it is encoded as e.g. «ku'a», for ‘qa’; if not, it is encoded as «ku», for ‘q’.)  Note that the Lojban base character (e.g. «x» for ‘h’) is used to determine C vs V.  In the encoding, consonants are not adjacent even the result would be a valid fu'ivla, which simplifies the encoding.
+
+              ni'o 8 cases:
+              VVV: banga'a'a    (e.g. aaa: «banga'a'a»)
+              VVC: banga'aba    (e.g. aab: «banga'aba»)
+              VCV: bangaba      (e.g. ara: «bangara»)
+              VCC: bange'abebe  (e.g. eng: «bange'enege»)
+              CVV: bangeba'a    (e.g. deu: «bangede'u»)
+              CVC: bangebe'abe  (e.g. hin: «bangexu'ine»)
+              CCV: bangebeba    (e.g. zho: «bangezexu'o»)
+              CCC: bangebebebe  (e.g. jpn: «bangejepene»)
+
+              ni'o Note VCC and CVC require «e'a» since they include an encoded vowel in the eliminated initial vowel positions.
+
+              ni'o Finally, each word has a duplicate that adds a suffix of «-'iso» (acronym chosen based on website https://iso.org/).  Where the need or desire arises to construct a fu'ivla with a ‘bang’ prefix that collides with this encoding for an arbitrary XXX code (this encoding does take up a large portion of fu'ivla space after all), the encoded fu'ivla may be replaced with the given fu'ivla; thus not all encodings are present using this encoding.  Those desiring to have a greater level of equal treatment to ISO 639-3 languages may opt to always use the «-'iso» variant.  (Before decoding, check for this specific suffix.  If there were a final «'iso» in the encoding (although the encoded codes are only 3 characters long, so this doesn't come up for ISO 639-3), then a «'iso» at the end of the final word always means the special «-'iso» suffix, thus in such a case it would have to end in «'iso'iso», to escape the encoded ‘iso’ ending, and this word would have no shortened fu'ivla that lacks the «-'iso» suffix.)
+
+              ni'o Also, alternative encodings have also already been proposed and submitted as definitions.  They sometimes use «u» instead of «e» as a filler vowel, a fu'ivlaized «y» (which can be in lujvo).  These encoding are different from bairyn's ISO 639-1 language fu'ivla encoding (or another suitable name for it), which might be considered an evolution of the general pattern.
+        sarcu:
+          - {{valsi}}
+          - {{mifra}}
+          - {{bangu cmene}}
+    # datcme fo lu« pli'aje: jvaiso fi li 639-3 »li'u
+    - jvaiso bangu: "pli'aje: jvaiso fi li 639-3"
+    - jvaiso bangu co remei:
+        - "pli'aje: jvaiso bangu":
+          # se jicmu la'oi Nix joi zo'oi final joi zo'oi prev .i lo me zoi zy. Nix Overlays .zy. .i va'i lo me'a'o my. Nix Overlays .my.
+          - multcu: {{}}: 
+- vlaste (vocabulary): "pli'aje: bangu: jbo":
+    # pilno ke zo valsi joi zo xu'asmu ke'e gi'ai jenai le tortadji ki'u lodu'u zo pli'aje cu ckiku valsi
+    - valsi: pli'aje
+      xu'asmu: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
     - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
       selma'o: NUhI
       notci:
@@ -31,7 +77,7 @@
     - tekei'u: reltcinysumtcita zo krefu joi $x_3$ .i smuni du lu« fi'o te krefu »li'u .i me ko'a va'e lo na'e balvi se rapli ckilu .i xokau moi semu'uku
       selma'o: BAI*
       smuvelckivla: fi'o te krefu;pavytcinysumtcita
-- vlaste (vocabulary): "bangu: en":
+- vlaste (vocabulary): "pli'aje: bangu: eng":
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
       smuvelckivla: initial;first
       stuzi smuvelckivla: initial;first
@@ -40,8 +86,14 @@
       smuvelckivla: snapshot;repository, record;repository, commit;repository, revision;repository
     - multcu: $x_1=n_1=m_1$ is to-do / needs completion in property $x_2=n_2=m_2$ by judge / standard $x_4=m_3$ for purpose / state $x_5=n_3$; $x_1$ is TODO.
     - skidatni: $x_1=d_1=s_1=s_4$ is metadata / annotation about / describing $x_2=d_2=s_2$ to interpreter / audience $x_3=s_3$, gathered by method $x_4=d_3$.
+      smuvelckivla: metadata;describing data, annotation;describing data
+      stuzi smuvelckivla: metadata;describing data, annotation;describing data
+      notci: Synonym: {cmetydatni}.
+    - multcu: cmetydatni
     - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
     - fukfadmupli: $x_1=m_1=fa_1=fu_2$ is a template / prototype / role-model of property $x_2=m_2=fa_2$ for derivatives / influenced $x_3=m_3=fa_3=fu_1$ in form / medium $x_4=fu_3$ made by method $x_5=fu_4$.
+      smuvelckivla: template;example, prototype;template, role-model;template
+      stuzi smuvelckivla: template;example, prototype;template, role-model;template
     - xu'asmu: $x_1=s_1=xu_2$ is a definition of $x_2=s_2=xu_2$ given by / according to $x_3=s_3=xu_3$.
 
       Synonym: {smuki'ixu'a} (to define).
@@ -221,7 +273,6 @@
     - semai'ai: ki'irmapti modal, 2nd place (relational correspondence) as …
     - temai'ai: ki'irmapti modal, 3rd place (relational correspondence) corresponding in property / aspect …
     - vemai'ai: ki'irmapti modal, 4th place (relational correspondence) corresponding by standard …
-    - pli'aje: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
     - fa'u'i: sumti place tag: apply arbitrary sumti application or termset
     - jbovlaste jongausib: setpistabno: $s_1=p_2=t_1$ is a quantity of/contains/is made of graphene.
     - jbovlaste jongausib: pistabno: $p_2=t_1$ is a quantity of/contains/is made of graphite.
@@ -714,7 +765,7 @@
       smuvelckivla: ribbit;utter
       multcu: notci: la'o ly. Pacific Tree Frog .ly.
     - multcu: rergila: $x_1$ is a Pacific Tree Frog (if Pseudacris) / [Pseudacris] regilla / Royal Snowfly of subspecies / race / type $x_2$.
-      notci: Synonym: «jutnregila».  «sudakrisi rergila» is Pacific Tree Frog (Baird & Girard, 1852).  {do'e'e} isn't needed for binomial nomenclature (scientific naming) tanru.  $x_2$ is normally below species, not above (see {sele'a}).  This is a foreign import of ‘regilla’ in binomial nomenclature, with often Latin roots.  The tanru can technically (but improbably) be interpreted in alternative ways; tanru is not necessarily restricted here.  To explicitly indicate this taxonomical usage of tanru, you can use «kepe'ainai sudakrisi rergila» (see {pe'ainai}).  Finally, you can also say {surdakrisi zei rergila}.
+      notci: Synonym: «jutnregila».  «sudakrisi rergila» (or «sudakrisi co'i'o rergila») is Pacific Tree Frog (Baird & Girard, 1852).  {do'e'e} isn't needed for binomial nomenclature (scientific naming) tanru.  $x_2$ is normally below species, not above (see {sele'a}).  This is a foreign import of ‘regilla’ in binomial nomenclature, with often Latin roots.  The tanru can technically (but improbably) be interpreted in alternative ways; tanru is not necessarily restricted here.  To explicitly indicate this taxonomical usage of tanru, you can use «kepe'ainai sudakrisi rergila» (see {pe'ainai}).  Finally, you can also say {surdakrisi zei rergila}.
       smuvelckivla: Pacific Tree Frog;Pseudacris regilla
     - multcu: sudakrisi: _
     - multcu: sudakrisi zei rergila: _
@@ -834,9 +885,12 @@
     - multcu: bracre: 
     - multcu: nalbi'o pamoi: zo'oi original
     - multcu: ranxlu: zo'oi gentle
-    - multcu: kelcrgolfo: $x_1$ (players / mass) plays golf in game / instance $x_2$, with golf standard / variant $x_3$.
+    - slabu: multcu: kelcrgolfo: $x_1$ (players / mass) plays golf in game / instance $x_2$, with golf standard / variant $x_3$.
       multcu: vlakra: macnu se krasi lo vrici bangu
       notci: ?: $x_2$ is the game / sport of golf (xu cmima?)
+    - multcu: kelcrgolfo: $x_1$ is golf, the sport played by $x_2$ (players / mass) in game / instance $x_3$, with golf standard / variant $x_4$.
+      multcu: vlakra: macnu se krasi lo vrici bangu
+      notci: See also: {kelci}, {ficfu'i} (variant), {fi'o}.
     - multcu: lujnandu: zo'oi tricky
     - djambalaia: $x_1$ is jambalaya (savory rice dish) with protein $x_2$ and vegetables / rice / spices / tomato $x_3$.
       smuvelckivla: jambalaya;dish
@@ -914,6 +968,7 @@
       notci: See also: {strelka} (Russian source).  (to vimcu fi lo liste toi)
     - multcu: kelcrdaumtce: $x_1$ (players / mass) plays checkers in game / instance $x_2$, with checkers standard / variant $x_3$.
       multcu: vlakra: macnu se krasi lo vrici bangu
+      multcu: ko viska zo kelcrgolfo pe'u
     - multcu: narxanka: zo'oi calm
     - multcu: _: zo'oi insomnia (to .e'u ko catlu zo stuxadlaxterbi'a toi)
     - multcu: djunoi: (to zoi jmina zo'oi tip .i vlakra toi)
@@ -1035,3 +1090,39 @@
       selma'o: UI*3
       notci: {bi'a} indicates an emphasized word, {zi'a} indicates a nonce word, {ci'ai} indicates an experimental utterance, and {gi'ai} indicates an experimental grammar.  See also: {marbartu} (experimental), {martinbe} (standard).
       smuvelckivla: conformant;grammar discursive
+    - multcu: ko catlu lo notci be de'i li 2026-03-19 .i bangu fu'ivla
+    - me'a'o: delimited possibly non-Lojban selbri; «me'au la'e zoi».
+      selma'o: ZOI
+      vlakra: zo la'o joi zo me'oi
+      notci: See also: {me'oi}.
+      smuvelckivla: foreign selbri
+    - co'i'o: non-logical connective: namespace connective / ‘.’.
+      selma'o: JOI
+      notci: The left-operand can be a dictionary / dialect / standard, a namespace (as in Lean), a domain name label pe'ainai (part between dots) (Java order), something that can be accessed (like ‘.’ or ‘ ˆ.’ in Haskell lenses), and similar constructs.  {co'i'o} is a general ‘dot’ operator that can mean all of these.  See also: {joi'ei} (nonce connective).
+      vlakra: zo co joi zo pi (tota'o jabo zo pi'e toi) joi zo bo
+      smuvelckivla: namespace;connective, dot operator;namespace
+    - "pli'aje: jvaiso bangu co remei":
+        - valsi: bangejebo
+          mifra: jbo
+          bangu cmene: Lojban
+        - valsi: bangezexu'o
+          mifra: zho
+          bangu cmene: Chinese
+        - valsi: bange'enege
+          mifra: eng
+          bangu cmene: English
+        - valsi: bangexu'ine
+          mifra: hin
+          bangu cmene: Hindi
+        - valsi: bangesepa
+          mifra: spa
+          bangu cmene: Spanish, Castilian
+        - valsi: bangere'use
+          mifra: rus
+          bangu cmene: Russian
+        - valsi: bangara
+          mifra: ara
+          bangu cmene: Arabic
+        - valsi: bangejepene
+          mifra: jpn
+          bangu cmene: Japanese
