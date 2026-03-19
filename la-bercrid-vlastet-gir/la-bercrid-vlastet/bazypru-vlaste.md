@@ -972,7 +972,7 @@
       notci: {vo'e'e} can form a short-scope reflexive, even inside descriptors (e.g. «lo snikemsamtermi'e be fi vo'e'e» for bare-metal without a processor manual).
       stuzi smuvelckivla: software;symbolic computational instructions, hardware;executor of software, interpretor;software
     - fukpo'e: $x_1=p_1$ owns copyright over $x_2=p_2=f_2$ under law/custom $x_3=p_3$; $x_2$ is copyrighted.
-      notci: Example: «.i se fukpo'e de'i li © 2026 la. ric. .i po'ecru …».  See also: {po'ecru} (consent), {ponse} (own).
+      notci: Example: «se fukpo'e de'i li © 2026 la. ric. .i po'ecru …».  See also: {po'ecru} (consent), {ponse} (own).
       smuvelckivla: copyright;owning an intellectual property
     - favytcita: $x_1=t_1$ is a version label / tag of $x_2=t_2$ [e.g. commit hash / specific executable / document] of / within $x_3=f_1$ [e.g. general document / project / repository].
       notci: If desired, append $farvi$'s last 3 places.  See also: {stoveipa'o} (commit), {velfarvi}.
