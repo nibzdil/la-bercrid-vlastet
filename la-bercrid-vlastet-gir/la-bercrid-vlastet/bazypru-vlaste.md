@@ -16,13 +16,15 @@
 - fukfadmupli:
     - jvaiso fi li 639-3:
         xu'asmu: {{cadyselcu'a xu'asmu}}
-        notci: {{notci ziljmina}}
+        notci: {{notci cadyselcu'a}}
         smuvelckivla: {{cadyselcu'a smuvelckivla}}
         tecyvla: {{cadyselcu'a tecyvla}}
         datni:
           - "{{cadyselcu'a xu'asmu}}": $x_1$ is the {{bangu cmene}} language identified by ISO 639-3 code ‘{{mifra}}’ (bairyn's ISO 639-3 language fu'ivla encoding).
             "{{cadyselcu'a tecyvla}}": jvaiso fi li 639-3
             "{{cadyselcu'a smuvelckivla}}": {{bangu cmene}};ISO 639-3, {{mifra}};ISO 639-3
+            "{{notci cadyselcu'a}}": {{notci co cmalu}}
+            "{{notci co cmalu}}": See the notes in {bangejebo'iso} for information about the encoding used in this definition.
             "{{notci ziljmina}}":
               (For possibly more up-to-date notes, please see {bangejebo'iso}.)
 
@@ -42,7 +44,7 @@
 
               ni'o Note VCC and CVC require «e'a» since they include an encoded vowel in the eliminated initial vowel positions.
 
-              ni'o Finally, each word has a duplicate that adds a suffix of «-'iso» (acronym chosen based on website https://iso.org/).  Where the need or desire arises to construct a fu'ivla with a ‘bang’ prefix that collides with this encoding for an arbitrary XXX code (this encoding does take up a large portion of fu'ivla space after all), the encoded fu'ivla may be replaced with the given fu'ivla; thus not all encodings are present using this encoding.  Those desiring to have a greater level of equal treatment to ISO 639-3 languages may opt to always use the «-'iso» variant.  (Before decoding, check for this specific suffix.  If there were a final «'iso» in the encoding (although the encoded codes are only 3 characters long, so this doesn't come up for ISO 639-3), then a «'iso» at the end of the final word always means the special «-'iso» suffix, thus in such a case it would have to end in «'iso'iso», to escape the encoded ‘iso’ ending, and this word would have no shortened fu'ivla that lacks the «-'iso» suffix.)
+              ni'o Finally, each word has a duplicate that adds a suffix of «-'iso» (acronym chosen based on website https://iso.org/).  Where the need or desire arises to construct a fu'ivla with a ‘bang’ prefix that collides with this encoding for an arbitrary XXX code (this encoding does take up a large portion of fu'ivla space after all), the encoded fu'ivla may be replaced with the given fu'ivla; thus not all shortened encodings are present using this encoding (unless a dictionary or word set is used with {co'i'o} to qualify the selbri).  Those desiring to have a greater level of equal treatment to ISO 639-3 languages may opt to always use the «-'iso» variant.  (Before decoding, check for this specific suffix.  If there were a final «'iso» in the encoding (although the encoded codes are only 3 characters long, so this doesn't come up for ISO 639-3), then a «'iso» at the end of the final word always means the special «-'iso» suffix, thus in such a case it would have to end in «'iso'iso», to escape the encoded ‘iso’ ending, and this word would have no shortened fu'ivla that lacks the «-'iso» suffix.)
 
               ni'o Also, alternative encodings have also already been proposed and submitted as definitions.  They sometimes use «u» instead of «e» as a filler vowel, a fu'ivlaized «y» (which can be in lujvo).  These encoding are different from bairyn's ISO 639-1 language fu'ivla encoding (or another suitable name for it), which might be considered an evolution of the general pattern.
         sarcu:
@@ -1105,6 +1107,7 @@
         - valsi: bangejebo
           mifra: jbo
           bangu cmene: Lojban
+          notci: {{notci ziljmina}}
         - valsi: bangezexu'o
           mifra: zho
           bangu cmene: Chinese
