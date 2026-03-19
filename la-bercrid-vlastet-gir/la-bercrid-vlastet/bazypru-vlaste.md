@@ -54,13 +54,42 @@
     # datcme fo lu« pli'aje: jvaiso fi li 639-3 »li'u
     - jvaiso bangu: "pli'aje: jvaiso fi li 639-3"
     - jvaiso bangu co remei:
+        # se jicmu la'oi Nix joi zo'oi final joi zo'oi prev .i lo me zoi zy. Nix Overlays .zy. .i va'i lo me'a'o my. Nix Overlays .my.
+        # .i plicu'i fa lu romoi li'u joi zo prula'i
         - "pli'aje: jvaiso bangu":
-          # se jicmu la'oi Nix joi zo'oi final joi zo'oi prev .i lo me zoi zy. Nix Overlays .zy. .i va'i lo me'a'o my. Nix Overlays .my.
-          - multcu: {{}}: 
+          - valsi: {{prula'i co'i'o valsi}}'iso
+        - "pli'aje: jvaiso bangu":
+          - valsi: {{prula'i co'i'o valsi}}
 - vlaste (vocabulary): "pli'aje: bangu: jbo":
     # pilno ke zo valsi joi zo xu'asmu ke'e gi'ai jenai le tortadji ki'u lodu'u zo pli'aje cu ckiku valsi
     - valsi: pli'aje
       xu'asmu: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
+    - "pli'aje: jvaiso bangu co remei":
+        - valsi: bangejebo
+          mifra: jbo
+          bangu cmene: Lojban
+          notci: {{notci ziljmina}}
+        - valsi: bangezexu'o
+          mifra: zho
+          bangu cmene: Chinese
+        - valsi: bange'enege
+          mifra: eng
+          bangu cmene: English
+        - valsi: bangexu'ine
+          mifra: hin
+          bangu cmene: Hindi
+        - valsi: bangesepa
+          mifra: spa
+          bangu cmene: Spanish, Castilian
+        - valsi: bangere'use
+          mifra: rus
+          bangu cmene: Russian
+        - valsi: bangara
+          mifra: ara
+          bangu cmene: Arabic
+        - valsi: bangejepene
+          mifra: jpn
+          bangu cmene: Japanese
     - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
       selma'o: NUhI
       notci:
@@ -1103,29 +1132,3 @@
       notci: The left-operand can be a dictionary / dialect / standard, a namespace (as in Lean), a domain name label pe'ainai (part between dots) (Java order), something that can be accessed (like ‘.’ or ‘ ˆ.’ in Haskell lenses), and similar constructs.  {co'i'o} is a general ‘dot’ operator that can mean all of these.  See also: {joi'ei} (nonce connective).
       vlakra: zo co joi zo pi (tota'o jabo zo pi'e toi) joi zo bo
       smuvelckivla: namespace;connective, dot operator;namespace
-    - "pli'aje: jvaiso bangu co remei":
-        - valsi: bangejebo
-          mifra: jbo
-          bangu cmene: Lojban
-          notci: {{notci ziljmina}}
-        - valsi: bangezexu'o
-          mifra: zho
-          bangu cmene: Chinese
-        - valsi: bange'enege
-          mifra: eng
-          bangu cmene: English
-        - valsi: bangexu'ine
-          mifra: hin
-          bangu cmene: Hindi
-        - valsi: bangesepa
-          mifra: spa
-          bangu cmene: Spanish, Castilian
-        - valsi: bangere'use
-          mifra: rus
-          bangu cmene: Russian
-        - valsi: bangara
-          mifra: ara
-          bangu cmene: Arabic
-        - valsi: bangejepene
-          mifra: jpn
-          bangu cmene: Japanese
