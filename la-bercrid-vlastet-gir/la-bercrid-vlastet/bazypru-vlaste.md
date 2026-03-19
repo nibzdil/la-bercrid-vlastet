@@ -59,8 +59,12 @@
     - lo mutcu zo'u: vo'a'e'i: {vo'a} but innermost _complete bridi_; sequence to {vo'u'a'e'i}
     - fraseljimca: $x_1=j_2=f_1$ is a switch with branches / for toggling $x_2=j_1=f_2$ triggered by $x_3=f_3$ under conditions $x_4=f_4$.
     - marbartu: $x_1=b_1=m_2$ does not conform to / obey standard $x_2=b_2=m_2$ with rules $x_3=m_3$; $x_1$ is nonstandard / experimental / non-comformant.
+      smuvelckivla: experimental;nonstandard, nonstandard
     - martinbe: $x_1=t_1=m_2$ conforms to / is compliant with standard $x_3=t_3=m_1$ with rules $x_2=t_2=m_3$; $x_1$ is standard.
-      smuvelckivla: standard;being normal, conform;compliance
+      smuvelckivla: standard;being normal, conformant;conforming to a standard
+      stuzi smuvelckivla: conform;compliance
+      notci: Synonym: {marmansa}.  See also: {marbartu} (experimental), {ca'irselzau} (official, by an owner of a standard through the owner's authority).
+    - multcu: marmansa: <setese martinbe> xu
     - setsta: $x_1=st_1$ is direct / directly $x_2=st_2=se_3$, with single / clear relationship / step $x_3=se_1$ of type $x_4=se_2$; $x_1$ is straightforward / without layered interruption.
     - setseldicra: $x_1=d_2=st_1$ is indirect / indirectly $x_2=d_1=se_3$, with layers / steps $x_3=se_1$ of type / material / manifestation $x_4=se_2$ separate / interrupted from the direct layer due to quality $x_5=d_3$.
     - lo mutcu zo'u: jbovlaste ilmen's lo'oi
@@ -1021,3 +1025,13 @@
       smuvelckivla: fellow;_
     - multcu: zo'oi aformentioned: _
       smuvelckivla: aformentioned;_, so;_
+    - multcu: _: true tense (relative to selbri).
+    - gi'ai: discursive: experimental grammar - conformant grammar.  Indicates experimental grammar relative to some standard or dialect.
+      selma'o: UI3
+      notci: {bi'a} indicates an emphasized word, {zi'a} indicates a nonce word, {ci'ai} indicates an experimental utterance, and {gi'ai} indicates an experimental grammar.  See also: {marbartu} (experimental), {martinbe} (standard).
+      vlakra: zo gerna joi zo bi'a joi zo zi'a joi zo ci'ai
+      smuvelckivla: experimental;grammar discursive, conformant;grammar discursive
+    - gi'ainai: discursive: experimental grammar - conformant grammar.  Indicates experimental grammar relative to some standard or dialect.
+      selma'o: UI*3
+      notci: {bi'a} indicates an emphasized word, {zi'a} indicates a nonce word, {ci'ai} indicates an experimental utterance, and {gi'ai} indicates an experimental grammar.  See also: {marbartu} (experimental), {martinbe} (standard).
+      smuvelckivla: conformant;grammar discursive
