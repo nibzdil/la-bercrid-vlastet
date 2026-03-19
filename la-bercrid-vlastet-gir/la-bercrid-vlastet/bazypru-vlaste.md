@@ -111,7 +111,7 @@
     - refcfagau: $x_1=g_1$ restarts $x_2=g_2=c_1=k_2$, with repetition / recurrence / instance $x_3=k_1$, for the $x_4=k_3$'rd time.
     - jbovlaste me'au: abstract sumti predicate to selbri conversion; combine with {la'e} for general conversion from strings.
     - jbovlaste me'ei: inverse of {me'au}.
-    - kelcrtcesranjmu: $x_1$ (players / mass) plays chess in game / instance $x_2$, with chess standard / variant $x_3$.
+    - multcu: kelcrtcesranjmu: $x_1$ (players / mass) plays chess in game / instance $x_2$, with chess standard / variant $x_3$.
     - jbovlaste rlpowell: kanpe: _
     - kritikti'i: $x_1=stid_1=stik_1$ is a hint / clue for / that $x_2=stid_2=stik_2=k_2$ (belief / declaration / state / discovery) to $x_3=stid_3=k_1$ (person / believer) for / about $x_4=k_3$ (topic or subject of clue) with clue strength / clarity / amount $x_5=stik_3$; $x_1$ is a hint that $x_2$ to $x_3$ about $x_4$ of strength / size $x_5$.
     - cadyselcu'a: $x_1=cu_2$ is the default / choice when not overridden by $x_2=cu_1=ca_2$ among alternatives / options $x_3=cu_3$.
@@ -777,7 +777,7 @@
       smuvelckivla: make;cause to be
     - tortadji: $x_1=ta_1=to_1$ is a shortcut / trick for doing $x_2=ta_2$ under conditions $x_3=ta_3$ saving on $x_4=to_2$ by standard / compared to $x_5=to_3$.
       smuvelckivla: shortcut;method that omits steps, trick;quick way of doing something
-    - multcu: sa'orgau: $x_1=g_1$ tilts / slants / leans $x_2=s_1$ at angle $x_3=s_2$ to horizon / frame $x_4=s_3$.
+    - sa'orgau: $x_1=g_1$ tilts / slants / leans $x_2=s_1$ at angle $x_3=s_2$ to horizon / frame $x_4=s_3$.
       notci: Agentive {salpo}.  Example: «mi morji lodu'u mi sa'orgau le loldi li 30 jy vo'e'e.a'a'e» (I remember that I tilt the floor by 30 degrees).
       smuvelckivla: tilt;make angled, slant;make slanted, lean;make sloped
     - a'a'e: discursive: static/specific/unchanging - dynamic/mutable/variable/slightly different/vaguer.
@@ -799,7 +799,6 @@
     - multcu: zo velva'isnada
     - multcu: zo fa'ormu'ogau
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
-    - multcu: (zo sa'orgau)
     - multcu: zo refcfagau (to la'a je zo cfake'ugau toi)
     - multcu: (zo fargau)
     - multcu: (zo zengau)
@@ -825,14 +824,18 @@
     - multcu: sircimde: 
     - multcu: lairdu'i: 
     - multcu: fekcai: 
-    - multcu: nulnandu: 
+    - multcu: nulnandu: $x_1=na_1=nu_1$ is of intermediate difficulty to $x_2=na_2$ under conditions $x_3=na_3$.
+      smuvelckivla: intermediate difficulty;medium difficulty
     - multcu: nornandu: 
     - multcu: bracre: 
     - multcu: nalbi'o pamoi: zo'oi original
     - multcu: ranxlu: zo'oi gentle
-    - multcu: kelcrgolfo: 
+    - multcu: kelcrgolfo: $x_1$ (players / mass) plays golf in game / instance $x_2$, with golf standard / variant $x_3$.
+      multcu: vlakra: macnu se krasi lo vrici bangu
+      notci: ?: $x_2$ is the game / sport of golf (xu cmima?)
     - multcu: lujnandu: zo'oi tricky
-    - multcu: djambalaia: 
+    - djambalaia: $x_1$ is jambalaya (savory rice dish) with protein $x_2$ and vegetables / rice / spices / tomato $x_3$.
+      smuvelckivla: jambalaya;dish
     - multcu: cmajanli: zo'oi bump
     - multcu: trocre: oz'oi mastery
     - multcu: samxa'eda'egau: zo'oi click
