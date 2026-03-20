@@ -1191,6 +1191,7 @@
       smuvelckivla: switch language;change language
     - multcu: zoi'o: start a quote while changing to another language; «lu fu'oisa'a bau'o».
       selma'o: ZOIhO
+      smuvelckivla: switched language quote;zoi'o
       notci:
         It is up to the switched-to language to determine when the language switches back after terminating, like caller-saved vs callee-saved registers in assembly (who is responsible for preserving a register's value?); or like an encoding that gives up control when switching to a nested encoding and leaves responsibility or the option to switch back, to the inner encoding; or like a jump call to code that promises to jump back to a given function pointer.  A parser would need to have as a dependency support for the inner language so it knows when to switch back, and it would need to know what language it was, possibly by being told or specified in another statement or by another mechanism, or being configured with a setting.
 
@@ -1215,19 +1216,27 @@
         ni'o See also: {bau'o} (switch language), {la'oi} (selbri quote and switch language), {me'ai'o} (selbri quote and switch language), {jo'au} (switch language with COI grammar), {} (change / jump back to previous language), {} (pop back to outer language).
     - multcu: lai'o: start a name quote while changing to another language.
       notci: This is {zoi'o} but for {la'o}.  It works as «la mezoi'o».  See the notes in {zoi'o} for the language-switch style of foreign quotes.  See also: {la'o}, {la'oi}.
+      smuvelckivla: switched language name;zoi'o
     - multcu: me'ai'o: foreign quoted selbri while changing to another language.
       notci: This is {zoi'o} but for selbri.  It works as «me'au la'e zoi'o».  See the notes in {zoi'o} for the language-switch style of foreign quotes.  See also: {me'a'o}, {me'oi}.
+      smuvelckivla: switched language selbri;zoi'o
     - multcu: jo'au'u: Change / jump back to previous language; «jo'au lo prula'i».
       notci: This shortcut jumps back to the previous language set by either {bau'o} or {jo'au}.  This is like ‘cd -’, not ‘popd’; like a jump and not a call in assembly.  (Technically two stacks can be maintained by other mechanisms.).  This might not be a commonly used feature, but like Identity, it allows {zoi'o} to switch back after being terminated by {li'u}.  See also: {jo'au'i} (push current language), {zoi'o} (quote and change language).
       vlakra: zo jo'au joi zo purci
+      smuvelckivla; previous language;switch to previous language
     - multcu: jo'au'i: duplicate top of the jo'au'i language stack.
-      notci: This obscure feature pushes the current language on the jo'au'i language stack, like a DUP on some RPN calculators.  {jo'au'inai} pops (removes) the language at the top of the stack.  Neither switches the language by themselves.  «jo'au'i jo'au …» is a call rather than switch to another language (like call vs jump in assembly), and «jo'au'inai jo'au lo galraipau» (if still in Lojban with a dialect that includes {jo'au'i}) pops back to the outer language.  See also: {bau'o} (language switch), {jo'au} (switch to language), {zoi'o} (quote and language switch).  Additionally, see also {jo'au'e} (shortcut to a push-call language switch (from «nenri»)), {jo'au'a} (shortcut to a pop back to outer language (from «bartu»)).
+      selma'o: JOhAUhI
+      notci: This obscure feature pushes the current language on the jo'au'i language stack, like a DUP on some RPN calculators.  {jo'au'inai} pops (removes) the language at the top of the stack.  Neither switches the language by themselves.  «jo'au'i jo'au …» is a call rather than switch to another language (like call vs jump in assembly), and «jo'au'inai jo'au lo galraipau» (if still in Lojban with a dialect that includes {jo'au'i}) pops back to the outer language.  Alternatively, so does «jo'au'inai jo'au lo sevzi [be lo galraipau]».  {jo'au} sets (changes / mutates) the top of the stack; normally the top of the stack is the currently used language, so it is good practice to explicitly switch back to the top of the stack after it is done being manipulated.  See also: {bau'o} (language switch), {jo'au} (switch to language), {zoi'o} (quote and language switch).  Additionally, see also {jo'au'e} (shortcut to a push-call language switch (from «nenri»)), {jo'au'a} (shortcut to a pop back to outer language (from «bartu»)).
       vlakra: zo jo'au joi zo fukpi
+      smuvelckivla: dup language;jo'au'i
     - multcu: jo'au'e: change to an inner language; «ju'au'i jo'au».
       selma'o: COI3
       notci: See {jo'au'i} for information on this mechanism.  See also: {jo'au} (switch language to), {bau'o} (switch language).
       vlakra: zo jo'au joi zo nenri
+      smuvelckivla: to inner language;jo'au'i
     - multcu: jo'au'a: pop back to the outer language; «jo'au'inai jo'au lo galraipau».
       selma'o: BAUhO
       notci: See {jo'au'i} for information on this mechanism.  See also: {zoi'o} (quote and language switch), {jo'au} (switch language to).
+      vlakra: zo jo'au joi zo bartu
+      smuvelckivla: pop language;jo'au'i
     - multcu: turtaimu'o: zo'oi formatted
