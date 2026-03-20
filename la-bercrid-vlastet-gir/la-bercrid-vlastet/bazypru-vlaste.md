@@ -104,6 +104,26 @@
         - "pli'aje: jvaiso bangu":
           - valsi: {{prula'i co'i'o valsi}}
 - vlaste (vocabulary): "pli'aje: bangu: jbo":
+    - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
+      selma'o: NUhI
+      notci:
+        fa'orma'o fi ma'oi ce'ei fa zo {nu'u}
+
+        ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o cu te gafygau .i panra fi ti
+
+        ni'o ko catlu fu'oi ji'a zo {joi'u'i} noi sucta
+    - kei'u: reltcinysumtcita zo krefu joi $x_1$ .i smuni du lu« fi'o krefu »li'u .i ca ko'a .i va'o ko'a poi krefu
+      selma'o: BAI
+      notci: lo mupli je'i'a: .i lu« lo prenu be kei'u lo sepli cu bevri le pipno »li'u se smuni lodu'u le prenu ca lo drata temci cu bevri le pipno .i lu« lo prenu be kei'u lo mintu cu bevri le pipno »li'u cu se smuni lodu'u le prenu cu bevri le pipno ca lo mintu temci .i ji'a lu« .i mi troci kei'u lo cnino »li'u cu se smuni lodu'u mi reftoi .i ko catlu fu'oiji'a zo {lo'u'a} je zo {ke'u}
+      smuvelckivla: fi'o krefu;pavytcinysumtcita
+    - sekei'u: reltcinysumtcita zo krefu joi $x_2$ .i smuni du lu« fi'o se krefu »li'u .i krefu ko'a jacu mupli ko'a jacu ca'o lo cnino temci
+      selma'o: BAI*
+      smuvelckivla: fi'o se krefu;pavytcinysumtcita
+    - tekei'u: reltcinysumtcita zo krefu joi $x_3$ .i smuni du lu« fi'o te krefu »li'u .i me ko'a va'e lo na'e balvi se rapli ckilu .i xokau moi semu'uku
+      selma'o: BAI*
+      smuvelckivla: fi'o te krefu;pavytcinysumtcita
+
+- vlaste (vocabulary): "pli'aje: bangu: eng":
     # pilno ke zo valsi joi zo xu'asmu ke'e gi'ai jenai le tortadji ki'u lodu'u zo pli'aje cu ckiku valsi
     - valsi: pli'aje
       xu'asmu: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
@@ -137,25 +157,30 @@
         - valsi: bangejepene
           mifra: jpn
           bangu cmene: Japanese
-    - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
-      selma'o: NUhI
-      notci:
-        fa'orma'o fi ma'oi ce'ei fa zo {nu'u}
-
-        ni'o se krasi lo xu'asmu poi se finti la ractu .i lokau ma'orfa'o cu te gafygau .i panra fi ti
-
-        ni'o ko catlu fu'oi ji'a zo {joi'u'i} noi sucta
-    - kei'u: reltcinysumtcita zo krefu joi $x_1$ .i smuni du lu« fi'o krefu »li'u .i ca ko'a .i va'o ko'a poi krefu
-      selma'o: BAI
-      notci: lo mupli je'i'a: .i lu« lo prenu be kei'u lo sepli cu bevri le pipno »li'u se smuni lodu'u le prenu ca lo drata temci cu bevri le pipno .i lu« lo prenu be kei'u lo mintu cu bevri le pipno »li'u cu se smuni lodu'u le prenu cu bevri le pipno ca lo mintu temci .i ji'a lu« .i mi troci kei'u lo cnino »li'u cu se smuni lodu'u mi reftoi .i ko catlu fu'oiji'a zo {lo'u'a} je zo {ke'u}
-      smuvelckivla: fi'o krefu;pavytcinysumtcita
-    - sekei'u: reltcinysumtcita zo krefu joi $x_2$ .i smuni du lu« fi'o se krefu »li'u .i krefu ko'a jacu mupli ko'a jacu ca'o lo cnino temci
-      selma'o: BAI*
-      smuvelckivla: fi'o se krefu;pavytcinysumtcita
-    - tekei'u: reltcinysumtcita zo krefu joi $x_3$ .i smuni du lu« fi'o te krefu »li'u .i me ko'a va'e lo na'e balvi se rapli ckilu .i xokau moi semu'uku
-      selma'o: BAI*
-      smuvelckivla: fi'o te krefu;pavytcinysumtcita
-- vlaste (vocabulary): "pli'aje: bangu: eng":
+    - gugde'usa'iso: $x_1$ is the country United States of America identified by ISO 3166 code ‘USA’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: United States of America;ISO 3166, USA;ISO 3166
+    - gugde'usa: $x_1$ is the country United States of America identified by ISO 3166 code ‘USA’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: United States of America;ISO 3166, USA;ISO 3166
+    - gugdarege'iso: $x_1$ is the country Argentina identified by ISO 3166 code ‘ARG’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: Argentina;ISO 3166, ARG;ISO 3166
+    - gugdarege: $x_1$ is the country Argentina identified by ISO 3166 code ‘ARG’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: Argentina;ISO 3166, ARG;ISO 3166
+    - gugde'ukere'iso: $x_1$ is the country Ukraine identified by ISO 3166 code ‘UKR’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: Ukraine;ISO 3166, UKR;ISO 3166
+    - gugde'ukere: $x_1$ is the country Ukraine identified by ISO 3166 code ‘UKR’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: Ukraine;ISO 3166, UKR;ISO 3166
+    - gugdisere'iso: $x_1$ is the country Israel identified by ISO 3166 code ‘ISR’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: Israel;ISO 3166, ISR;ISO 3166
+    - gugdisere: $x_1$ is the country Israel identified by ISO 3166 code ‘ISR’.
+      notci: This uses the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding.  For more information on this encoding, see the notes in {bangejebo'iso}.
+      smuvelckivla: Israel;ISO 3166, ISR;ISO 3166
     - li'enrai: $x_1=t_1=l_1$ is initial / first / [top leader] in property $x_2=t_2$, toward extreme / as xth-most initial $x_3=t_3$, in sequence / set $x_4=t_4=l_2$.
       smuvelckivla: initial;first
       stuzi smuvelckivla: initial;first
