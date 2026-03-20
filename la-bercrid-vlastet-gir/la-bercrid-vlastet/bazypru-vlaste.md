@@ -1267,4 +1267,10 @@
       notci: See {jo'au'i} for information on this mechanism.  See also: {zoi'o} (quote and language switch), {jo'au} (switch language to).
       vlakra: zo jo'au joi zo bartu
       smuvelckivla: pop language;jo'au'i
+    - clupei: $x_1=p_1$ is thoughtful / [careful] about $x_2=c_1=p_2$ with considerations / details $x_3=c_2$.
+      smuvelckivla: thoughtful;with consideration
+      notci: See also: {racyju'i} (careful).
+    - multcu: ki'irkri: $x_1=k_1$ considers / deems / regards $x_2=c_1$ as $x_3=c_2$.
+      notci: See also: {ki'irxu'a} (assign to / attribute to / designate)
+      smuvelckivla: consider;deem, deem, regard;deem
     - multcu: turtaimu'o: zo'oi formatted
