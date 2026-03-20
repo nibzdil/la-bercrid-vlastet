@@ -1273,6 +1273,6 @@
     - kaikri: $x_1=k_1$ considers / deems / regards $x_2=c_1$ as $x_3=c_2$.
       notci: See also: {ki'irxu'a} (assign to / attribute to / designate).
       smuvelckivla: consider;deem, deem, regard;deem
-    - slabu: multcu: turtaikai: $x_1=c_1=t_2=s_2$ is formatted with / has format $x_2=c_2=t_1=s_1$.
+    - slabu: turtaikai: $x_1=c_1=t_2=s_2$ is formatted with / has format $x_2=c_2=t_1=s_1$.
       notci: See also: {se turtai}.
       smuvelckivla: formatted;has format
