@@ -1043,9 +1043,27 @@
     - multcu: sa'ortsina: zo'oi ramp
     - multcu: cinkyce'u: zo'oi swarm
     - multcu: kelcrtenise: zo'oi tennis
-    - multcu: crucauzva: zo'oi tresspasser
+    - crucauzva: $x_1=z_1$ trespasses on/at $x_2=z_2$ without the consent of $x_3=cu_1$ under law / custom $x_4$.
+      notci: See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A more explicit word with essentially the same meaning is {po'ercrucauzva}.
+      smuvelckivla: trespass;being present without consent
+    - po'ercrucauzva: $x_1=z_1$ trespasses on/at $x_2=z_2=p_2$ without the consent of $x_3=cu_1=p_1$ under law / custom $x_4=p_3$.
+      notci: See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A shorterned version is {crucauzva}.
+      smuvelckivla: trespass;being present without the owner's consent
+    - crucaule'a: $x_1=l_1$ steals $x_2=l_2$ from $x_3=l_3$ without the consent of $x_4=cu_1$ (e.g. $x_3$) under law / custom $x_5$.
+      notci: See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A more explicit word with essentially the same meaning is {po'ercrucauzva}.
+      smuvelckivla: steal;take without consent
+    - po'ercrucaule'a: $x_1=l_1$ steals $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1$ (e.g. $x_3$) under law / custom $x_5=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
+      notci: If the owner has the right to control use and exclude others (e.g. for a service or in the case of digital piracy), $x_2$ may be an event.  $x_3$ may be a trustee e.g. if $x_3$ is not $x_4$.  See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A shorterned version is {crucauzva}.  {po'ecrucaule'a} may also be divided into a theft that includes a tangible or direct loss ({jdikykemcrucaule'a}), and a theft that doesn't ({naljdikykemcrucaule'a}).
+      smuvelckivla: steal;take without consent of the owner
+    - jdikykemcrucaule'a: $x_1=l_1$ steals tangible [good] $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1=j_1$ (e.g. $x_3$) resulting in loss $x_5=j_2$ by amount $x_6=j_3$ under law / custom $x_7=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
+      notci: To confirm or emphasize that this does not cover thefts of non-tangible property, consider {setsta} (direct) or {zasti} as a seltau in a tanru.  For theft as a general concept, see {po'ercrucaule'a}.  {jdikykemcrucaule'a} is a type of theft that involves tangible loss.
+      smuvelckivla: tangible loss theft
+    - naljdikykemcrucaule'a: $x_1=l_1$ steals intangible $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1=j_1$ (e.g. $x_3$) not resulting in direct or tangible loss $x_5=j_2$ under law / custom $x_6=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
+      notci: A violation of ownership or rights that does not result in a direct or tangible loss (e.g. using someone else's blender or pirating).  For theft as a general concept, see {po'ercrucaule'a}.
+      smuvelckivla: non-tangible loss theft
+    - multcu: zilnalpo'e: $x_1=p_2$ is ownerless / permissionless under law / custom $x_2=p_3$.
+      smuvelckivla: ownerless;not owned, permissionless;not needing consent
     - multcu: (selji'a): zo'oi prize
-    - multcu: plicu'i: zoi zy available / [up for grabs] zy
     - multcu: dactrnedevede: zo'oi UFO
     - multcu: ka'ergau: zoi zy enable (specific sense); make x1 able to do x2 under conditions x3 zy
     - multcu: xaurfarvi: $x_1=f_1$ progresses towards $x_2=f_2=xa_1$ from $x_3=f_3$ through stages $x_4=f_4$, progress by standard $x_6=xa_3$, for $x_5=xa_2$ [especially $x_1$].
@@ -1181,6 +1199,7 @@
     - multcu: _: zo'oi nevermind
     - multcu: self like (sevzi simsa): zo'oi fellow (e.g. ‘fellow Lojbanists’)
       smuvelckivla: fellow;_
+    - multcu: zo'oi mention: _
     - multcu: zo'oi aformentioned: _
       smuvelckivla: aformentioned;_, so;_
     - multcu: _: true tense (relative to selbri).
@@ -1222,7 +1241,7 @@
 
         ​
 
-        ni'o This happens to also make it convenient to switch to a language such as ‘English with an implied terminator not explicitly expressed that is inferred by context that switches/pops back to the previous language’, enabling a ‘«zoi» without delimiters’, or alternatively a «zoi» with delimiters specified by the inner, internal language.  This can be a convenient way to shorten foreign quotes in regular speech, even if it involves a trade-off of more implicit languages used (although it can also be used with languages that have very explicit rtules for managing language switches).  Part of the trade-off if used in non-logical languages is that the terminator is now the responsibility of the inner language, meaning an important part of the grammar now depends on the inner language's context and meaning-dependent grammar.  This can be avoided with explicit use of {zoi}.
+        ni'o This happens to also make it convenient to switch to a language such as ‘English with an implied terminator not explicitly expressed that is inferred by context that switches/pops back to the previous language’, enabling a ‘«zoi» without delimiters’, or alternatively a «zoi» with delimiters specified by the inner, internal language.  This can be a convenient way to shorten foreign quotes in regular speech, even if it involves a trade-off of more implicit languages used (although it can also be used with languages that have very explicit rules for managing language switches).  Part of the trade-off if used in non-logical languages is that the terminator is now the responsibility of the inner language, meaning an important part of the grammar now depends on the inner language's context and meaning-dependent grammar.  This can be avoided with explicit use of {zoi}.
 
         ​
 
