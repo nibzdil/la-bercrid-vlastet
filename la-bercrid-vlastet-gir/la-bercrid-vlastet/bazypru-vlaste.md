@@ -26,8 +26,6 @@
             "{{notci cadyselcu'a}}": {{notci co cmalu}}
             "{{notci co cmalu}}": See the notes in {bangejebo'iso} for information about the encoding used in this definition.
             "{{notci ziljmina}}":
-              (For possibly more up-to-date notes, please see {bangejebo'iso}.)
-
               ni'o This algorithm constructs ISO 639-3 fu'ivla from the 3-letter code representing the language, like ‘eng’ for English.  To decode, after «bang», from the left, take all consonants and vowels.  Then, from the left, remove vowels that are not immediately after an apostrophe («'») until there are 3 consonants and vowels.  Except that there's another layer described in the next paragraph, this is the decoded 3-letter code.
 
               ni'o ISO 639-1 uses the English alphabet, a-z.  In encoding, «e»s are used as filler vowels, and an eliminated «u» (as in «bu») is used to encode h, q, and w, as «xu», «ku», and «vu».  (Thus, if there is an encoded vowel after a non-Lojban consonant, it is encoded as e.g. «ku'a», for ‘qa’; if not, it is encoded as «ku», for ‘q’.)  Note that the Lojban base character (e.g. «x» for ‘h’) is used to determine C vs V.  In the encoding, consonants are not adjacent even if the result would be a valid fu'ivla, which simplifies the encoding.
@@ -42,11 +40,13 @@
               CCV: bangebeba    (e.g. zho: «bangezexu'o»)
               CCC: bangebebebe  (e.g. jpn: «bangejepene»)
 
-              ni'o Note VCC and CVC require «e'a» since they include an encoded vowel in the eliminated initial vowel positions.
+              ni'o Note VVC, VCC, and CVC require «e'a» since they include an encoded vowel in the eliminated initial vowel positions.  Additionally, the shortcut to use «a» in place of «e'a» is not possible in VCV, CVV, and CCV if the consonant requires a «bu» modifier, which is encoded by an eliminated «u».  Thus it would need to be e.g. «bangebu'a'a» rather than «bangeba'a».
 
-              ni'o Finally, each word has a duplicate that adds a suffix of «-'iso» (acronym chosen based on website https://iso.org/).  Where the need or desire arises to construct a fu'ivla with a ‘bang’ prefix that collides with this encoding for an arbitrary XXX code (this encoding does take up a large portion of fu'ivla space after all), the encoded fu'ivla may be replaced with the given fu'ivla; thus not all shortened encodings are present using this encoding (unless a dictionary or word set is used with {co'i'o} to qualify the selbri).  Those desiring to have a greater level of equal treatment to ISO 639-3 languages may opt to always use the «-'iso» variant.  (Before decoding, check for this specific suffix.  If there were a final «'iso» in the encoding (although the encoded codes are only 3 characters long, so this doesn't come up for ISO 639-3), then a «'iso» at the end of the final word always means the special «-'iso» suffix, thus in such a case it would have to end in «'iso'iso», to escape the encoded ‘iso’ ending, and this word would have no shortened fu'ivla that lacks the «-'iso» suffix.)
+              ni'o Finally, each word has a duplicate that adds a suffix of «-'iso» (acronym chosen based on website https://iso.org/).  Where the need or desire arises to construct a fu'ivla with a «bang» prefix that collides with this encoding for an arbitrary XXX code (this encoding does take up a large portion of fu'ivla space after all), the encoded fu'ivla may be replaced with the given fu'ivla; thus not all shortened encodings are present using this encoding (unless a dictionary or word set is used with {co'i'o} to qualify the selbri).  Those desiring to have a greater level of equal treatment to ISO 639-3 languages may opt to always use the «-'iso» variant.  (Before decoding, check for this specific suffix.  If there were a final «'iso» in the encoding (although the encoded codes are only 3 characters long, so this doesn't come up for ISO 639-3), then a «'iso» at the end of the final word always means the special «-'iso» suffix, thus in such a case it would have to end in «'iso'iso», to escape the encoded ‘iso’ ending, and this word would have no shortened fu'ivla that lacks the «-'iso» suffix.)
 
-              ni'o Also, alternative encodings have also already been proposed and submitted as definitions.  They sometimes use «u» instead of «e» as a filler vowel, a fu'ivlaized «y» (which can be in lujvo).  These encoding are different from bairyn's ISO 639-1 language fu'ivla encoding (or another suitable name for it), which might be considered an evolution of the general pattern.
+              ni'o Note on variants: it is possible to use a variable-width variant of this encoding in other contexts.  In the variable-width variant of bairyn's ISO 639-3 language fu'ivla encoding, instead of a minimum of 3 characters there is an infinite minimum, so all «e»s and «u»s must be escaped with an apostrophe before it, and all unescaped «e»s and «u»s have their usual affect: «e» as a fillar vowel is eliminated, and «u» applies «bu».  Furthermore, «zu» (from «zoi») is specially defined to switch to / start an alternative encoding (e.g. freeform text, or a different encoding specified as being contained in this one).  It is up to the alternative encoding to determine how, when, and if the encoding switches back (like {zoi'o}).  «lu» (from «li», not «lu») is specially defined to start a number sequence that is spelled out, which can optionally return back to the regular encoding with an explicit «lo'o» or with non-numeric text (it's not PA, a number, a lerfu (although «[']y[']» cannot go into fu'ivla without turning it into a lujvo that possibly contains a fu'ivla as one of its components), or ME (ME sumti MOI can be used in Lojban for complicated mekso behind MOI)).  «mu» (from «mifra») starts a hex encoded single arbitrary unicode codepoint until a non-hex-encoding character is found, or «boi» is found, or the end of the word is reached.  Another version for fixed-widths other than 3 applies the same rules but instead of eliminating vowels up to the last 3 characters, it's up to the last n characters, which can save on length by reducing the number of ‘e'’ escapes.  «e» is intended to be close to «y» (IPA [ɛ] vs [ə]).  To preserve isomorphity, when using a fixed-width encoding, there should be no redundant «e'a» escapes when the direct vowel «a» is available (decoders might emit a warning if this is not followed).
+
+              ni'o Also, alternative encodings have also already been proposed and submitted as definitions.  They sometimes use «u» instead of «e» as a filler vowel, a fu'ivlaized «y» (which can be in lujvo).  These encodings are different from bairyn's ISO 639-1 language fu'ivla encoding (or another suitable name for it), which might be considered an evolution of the general pattern.  However, this encoding follows a consistent encoding and decoding pattern, similar to Lojban's audio-visual isomorphism, based on principles that here facilitate careful construction of quality words.
         sarcu:
           - {{valsi}}
           - {{mifra}}
@@ -64,11 +64,15 @@
     # pilno ke zo valsi joi zo xu'asmu ke'e gi'ai jenai le tortadji ki'u lodu'u zo pli'aje cu ckiku valsi
     - valsi: pli'aje
       xu'asmu: $x_1$ is the result / output of application of [function]/[selbri] $x_2$ to [input]/[sumti]/[application]/[termset] $x_3$.
-    - "pli'aje: jvaiso bangu co remei":
-        - valsi: bangejebo
+    - "pli'aje: jvaiso bangu":
+        - valsi: bangejebo'iso
           mifra: jbo
           bangu cmene: Lojban
           notci: {{notci ziljmina}}
+        - valsi: bangejebo
+          mifra: jbo
+          bangu cmene: Lojban
+    - "pli'aje: jvaiso bangu co remei":
         - valsi: bangezexu'o
           mifra: zho
           bangu cmene: Chinese
@@ -1137,3 +1141,39 @@
     - multcu: _: zo'oi IIRC
     - multcu: _: zo'oi IIUC
     - multcu: _: zo'e je ma
+    - multcu: bau'o: switch language.
+      selma'o: BAUhO
+      notci: Indicates the language is switched at this point in text to another language (possibly, however, just another dialect or even a simple change of grammar feature).  It is up to the new language to decide if, how, and when the language switches back.  See also: {jo'au} (switch language with COI grammar), {zoi'o} (quote and switch language), {lai'o} (name quote and switch language), and {me'ai'o} (selbri quote and switch language).
+      vlakra: 
+      smuvelckivla: switch language;change language
+    - multcu: zoi'o: start a quote while changing to another language; «lu fu'oisa'a bau'o».
+      selma'o: ZOIhO
+      notci:
+        It is up to the switched-to language to determine when the language switches back after terminating, like caller-saved vs callee-saved registers in assembly (who is responsible for preserving a register's value?); or like an encoding that gives up control when switching to a nested encoding and leaves responsibility or the option to switch back, to the inner encoding; or like a jump call to code that promises to jump back to a given function pointer.  A parser would need to have as a dependency support for the inner language so it knows when to switch back, and it would need to know what language it was, possibly by being told or specified in another statement or by another mechanism, or being configured with a setting.
+
+        ni'o This happens to also make it convenient to switch to a language such as ‘English with an implied terminator not explicitly expressed that is inferred by context that switches/pops back to the previous language’, enabling a ‘«zoi» without delimiters’, or alternatively a «zoi» with delimiters specified by the inner, internal language.  This can be a convenient way to shorten foreign quotes in regular speech, even if it involves a trade-off of more implicit languages used (although it can also be used with languages that have very explicit rtules for managing language switches).
+
+        ni'o To specify what language is switched to, the inner coding can be chosen as and specified to be a small wrapper encoding that starts with the language (like a header) and then switches to it.
+
+        ni'o {zoi'o} is followed by «.»; this permits other words starting with «zoi'o» to also exist without being turned into an immediate «zoi'o» application.
+
+        ni'o Normally the inner/new language has the terminator, not the outer language.  However, if the new language is Lojban, {li'u} technically terminates {zoi'o}, and then {ju'au'u} switches back to the previous language (or you could merely terminate {zoi'o} but continue in the new language).  Additionally, {zoi'o} can be complemented with {jo'au'i} to add a stack manipulation rather than directly switching the current language like {bau'o}.
+
+        ni'o See also: {bau'o} (switch language), {la'oi} (selbri quote and switch language), {me'ai'o} (selbri quote and switch language), {jo'au} (switch language with COI grammar), {} (change / jump back to previous language), {} (pop back to outer language).
+    - multcu: lai'o: start a name quote while changing to another language.
+      notci: This is {zoi'o} but for {la'o}.  It works as «la mezoi'o».  See the notes in {zoi'o} for the language-switch style of foreign quotes.  See also: {la'o}, {la'oi}.
+    - multcu: me'ai'o: foreign quoted selbri while changing to another language.
+      notci: This is {zoi'o} but for selbri.  It works as «me'au la'e zoi'o».  See the notes in {zoi'o} for the language-switch style of foreign quotes.  See also: {me'a'o}, {me'oi}.
+    - multcu: jo'au'u: Change / jump back to previous language; «jo'au lo prula'i».
+      notci: This shortcut jumps back to the previous language set by either {bau'o} or {jo'au}.  This is like ‘cd -’, not ‘popd’; like a jump and not a call in assembly.  (Technically two stacks can be maintained by other mechanisms.).  This might not be a commonly used feature, but like Identity, it allows {zoi'o} to switch back after being terminated by {li'u}.  See also: {jo'au'i} (push current language), {zoi'o} (quote and change language).
+      vlakra: zo jo'au joi zo purci
+    - multcu: jo'au'i: duplicate top of the jo'au'i language stack.
+      notci: This obscure feature pushes the current language on the jo'au'i language stack, like a DUP on some RPN calculators.  {jo'au'inai} pops (removes) the language at the top of the stack.  Neither switches the language by themselves.  «jo'au'i jo'au …» is a call rather than switch to another language (like call vs jump in assembly), and «jo'au'inai jo'au lo galraipau» (if still in Lojban with a dialect that includes {jo'au'i}) pops back to the outer language.  See also: {bau'o} (language switch), {jo'au} (switch to language), {zoi'o} (quote and language switch).  Additionally, see also {jo'au'e} (shortcut to a push-call language switch (from «nenri»)), {jo'au'a} (shortcut to a pop back to outer language (from «bartu»)).
+      vlakra: zo jo'au joi zo fukpi
+    - multcu: jo'au'e: change to an inner language; «ju'au'i jo'au».
+      selma'o: COI3
+      notci: See {jo'au'i} for information on this mechanism.  See also: {jo'au} (switch language to), {bau'o} (switch language).
+      vlakra: zo jo'au joi zo nenri
+    - multcu: jo'au'a: pop back to the outer language; «jo'au'inai jo'au lo galraipau».
+      selma'o: BAUhO
+      notci: See {jo'au'i} for information on this mechanism.  See also: {zoi'o} (quote and language switch), {jo'au} (switch language to).
