@@ -30,11 +30,11 @@
 
               ni'o This algorithm constructs ISO 639-3 fu'ivla from the 3-letter code representing the language, like ‘eng’ for English.  To decode, after «bang», from the left, take all consonants and vowels.  Then, from the left, remove vowels that are not immediately after an apostrophe («'») until there are 3 consonants and vowels.  Except that there's another layer described in the next paragraph, this is the decoded 3-letter code.
 
-              ni'o ISO 639-1 uses the English alphabet, a-z.  In encoding, «e»s are used as filler vowels, and an eliminated «u» (as in «bu») is used to encode h, q, and w, as «xu», «ku», and «vu».  (Thus, if there is an encoded vowel after a non-Lojban consonant, it is encoded as e.g. «ku'a», for ‘qa’; if not, it is encoded as «ku», for ‘q’.)  Note that the Lojban base character (e.g. «x» for ‘h’) is used to determine C vs V.  In the encoding, consonants are not adjacent even the result would be a valid fu'ivla, which simplifies the encoding.
+              ni'o ISO 639-1 uses the English alphabet, a-z.  In encoding, «e»s are used as filler vowels, and an eliminated «u» (as in «bu») is used to encode h, q, and w, as «xu», «ku», and «vu».  (Thus, if there is an encoded vowel after a non-Lojban consonant, it is encoded as e.g. «ku'a», for ‘qa’; if not, it is encoded as «ku», for ‘q’.)  Note that the Lojban base character (e.g. «x» for ‘h’) is used to determine C vs V.  In the encoding, consonants are not adjacent even if the result would be a valid fu'ivla, which simplifies the encoding.
 
               ni'o 8 cases:
               VVV: banga'a'a    (e.g. aaa: «banga'a'a»)
-              VVC: banga'aba    (e.g. aab: «banga'aba»)
+              VVC: bange'a'abe  (e.g. aab: «bange'a'abe»)
               VCV: bangaba      (e.g. ara: «bangara»)
               VCC: bange'abebe  (e.g. eng: «bange'enege»)
               CVV: bangeba'a    (e.g. deu: «bangede'u»)
@@ -698,7 +698,7 @@
     - joi'ei: generic / nonce «joi»-type constructor with the grammar of «joi'ei SEI»; «joi mu'a'ei».
       selma'o: JOIhEI
       notci:
-        To create a custom non-logical connective like «joi», you can say «joi'ei ⟨bridi⟩ ⟨sumti⟩».  See also: {ui'ei}, {ju'a'ei}, {ma'o'ei}.
+        To create a custom non-logical connective like «joi», you can say «joi'ei ⟨bridi⟩ ⟨sumti⟩».  See also: {ui'ei} (nonce UI), {ju'a'ei} (nonce evidential), {ma'o'ei} (nonce cmavo), {joi'u'i} (merge sumti).
 
         ni'o Note that in Lojban grammar, «sei ko'a ko'e broda ko'i» means «sei ko'a ko'e broda se'u ko'i».  To keep sumti after «broda» attached, use either «bei'e» or «be».
       smuvelckivla: nonce JOI;manual JOI from bridi, nonce;JOI
@@ -1132,3 +1132,8 @@
       notci: The left-operand can be a dictionary / dialect / standard, a namespace (as in Lean), a domain name label pe'ainai (part between dots) (Java order), something that can be accessed (like ‘.’ or ‘ ˆ.’ in Haskell lenses), and similar constructs.  {co'i'o} is a general ‘dot’ operator that can mean all of these.  See also: {joi'ei} (nonce connective).
       vlakra: zo co joi zo pi (tota'o jabo zo pi'e toi) joi zo bo
       smuvelckivla: namespace;connective, dot operator;namespace
+    - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
+      smuvelckivla: available;able to be used, up for grabs;available
+    - multcu: _: zo'oi IIRC
+    - multcu: _: zo'oi IIUC
+    - multcu: _: zo'e je ma
