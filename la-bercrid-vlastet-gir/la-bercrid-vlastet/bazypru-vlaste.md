@@ -1300,3 +1300,31 @@
     - slabu: turtaikai: $x_1=c_1=t_2=s_2$ is formatted with / has format $x_2=c_2=t_1=s_1$.
       notci: See also: {se turtai}.
       smuvelckivla: formatted;has format
+    - slabu: zifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for $x_2=z_1$ to have liberty $x_3=s_2=z_2$ under conditions $x_4=z_3$ against opposition / interferers $x_5=s_3$, a libertarian by means / in way $x_6=s_4$.
+      notci: For specifically libertarian in sense of adherent to the political ideology, see {turzifsra}.
+      smuvelckivla: libertarian;freedom advocate
+    - slabu: turzifsra: $x_1=s_1$ is a libertarian / political advocate for freedom in aspect $x_2$.
+      notci: See also: {zifsra}, {turzifsrasi'o} (libertarianism).
+      smuvelckivla: libertarian;politics
+    - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
+      notci: For specifically libertarian in sense of adherent to the political ideology, see {turzifsra}.
+      smuvelckivla: libertarian;freedom advocate
+    - turzifsra: $x_1=s_1$ is a libertarian / political advocate for freedom in aspect $x_2$.
+      notci: See also: {nunzifsra} (general libertarian), {turzifsrasi'o} (libertarianism).
+      smuvelckivla: libertarian;politics
+    - turzifsrasi'o: $x_1=si_1$ is libertarianism according to $x_2=si_3$.
+      notci: See also: {nunzifsra} (general libertarian), {turzifsra} (libertarian).
+      smuvelckivla: libertarianism;political ideology
+    - xlacru: $x_1=c_1$ tolerates / puts up with $x_2=c_2=xl_1$ under conditions $x_3=c_3$, it being bad for $x_4=xl_2$ by standard $x_5=xl_3$.
+      notci: See also: {nu}, {ni}, {renvi}, {o'o}.
+      smuvelckivla: tolerate;put up with
+    - toi'u: discursive: yes (overriding) - yes (repeating) - no (overriding).  Affirmative / negative.
+      selma'o: UI3
+      notci: «toi'u» turns a negative question into a positive.  «toi'ucu'i» affirms what was said (Is it true?  It is true.  Is it not true?  It is not true).  «toi'unai» states the negative; if the subject or question was negative then it is repeated.  «toi'u»'s scale does not negate what was said; for that see {foi'acu'i}.  {toi'u} and {foi'a} can be applicable from a classical (as opposed to constructive) math point of view.  See also: {go'i}, {je'u}, {jetnu}, {ja'i}, {na'i}.
+      vlakra: zo jetnu joi zo go'i joi zo .ui
+      smuvelckivla: affirmer;discursive, affirmative;discursive, yes;affirmative
+    - foi'a discursive: no (overriding) - no (contradicting) - yes (overriding).  Negative / affirmative.
+      selma'o: UI3
+      notci: The opposite of {toi'u}.  {foi'a} inverts the truth value and then applies {toi'u}.
+      vlakra: zo jitfa joi zo go'i joi zo .ui
+      smuvelckivla: negative;discursive, negative;not affirmative, no;negative
