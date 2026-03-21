@@ -1323,8 +1323,10 @@
       notci: «toi'u» turns a negative question into a positive.  «toi'ucu'i» affirms what was said (Is it true?  It is true.  Is it not true?  It is not true).  «toi'unai» states the negative; if the subject or question was negative then it is repeated.  «toi'u»'s scale does not negate what was said; for that see {foi'acu'i}.  {toi'u} and {foi'a} can be applicable from a classical (as opposed to constructive) math point of view.  See also: {go'i}, {je'u}, {jetnu}, {ja'i}, {na'i}.
       vlakra: zo jetnu joi zo go'i joi zo .ui
       smuvelckivla: affirmer;discursive, affirmative;discursive, yes;affirmative
-    - foi'a discursive: no (overriding) - no (contradicting) - yes (overriding).  Negative / affirmative.
+    - foi'a: discursive: no (overriding) - no (contradicting) - yes (overriding).  Negative / affirmative.
       selma'o: UI3
       notci: The opposite of {toi'u}.  {foi'a} inverts the truth value and then applies {toi'u}.
       vlakra: zo jitfa joi zo go'i joi zo .ui
       smuvelckivla: negative;discursive, negative;not affirmative, no;negative
+    - multcu: tradition: ji'a cumki fa lonu jmina va'o zo'oi conservativism
+    - multcu: progressivism
