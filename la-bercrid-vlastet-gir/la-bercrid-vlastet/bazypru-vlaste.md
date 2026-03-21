@@ -1345,8 +1345,12 @@
       vlakra: zo mlana joi zo ru'u .i ji'a zo mlana joi zo zu'a joi zo ri'u
       smuvelckivla: to the side of;tense
       notci: Especially «zu'a ja ri'u».  Ordinary bridi and minimal grammar can also be used for complex uses beyond cmavo shortcuts.  See also {mlana}, {ne'a} (next to), {fi'o} (for general modal construction), {ma'o'ei} (nonce cmavo), {ca'e} (I define), {jo'au} (switch language).
-    - multcu: poi'ai, noi'oi, voi'ai; … ku'o; «fi'o _» yyy «fi'o briga'i» yyyyy «sema'ai zo'e poi» yyy «fi'o du be me'ei nei zo'e poi»
-      notci: Note: {noi'oi} was chosen since {noi'ai} was already proposed for
-      osmething else and was not wanted to collide with it.
-      notci: {poi'ai} is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
-      (due to not wantig to collide with this word that was already proposed)
+    - poi'ai: restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e poi».
+      notci: {poi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
+      smuvelckivla: restrictive bridi clause
+    - noi'oi: non-restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e noi».
+      notci: {noi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
+      smuvelckivla: incidental bridi clause
+    - voi'ai: non-veridical restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e voi».
+      notci: {voi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
+      smuvelckivla: descriptive bridi clause
