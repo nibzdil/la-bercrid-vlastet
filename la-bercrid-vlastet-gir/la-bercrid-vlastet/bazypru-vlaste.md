@@ -1345,3 +1345,7 @@
       vlakra: zo mlana joi zo ru'u .i ji'a zo mlana joi zo zu'a joi zo ri'u
       smuvelckivla: to the side of;tense
       notci: Especially «zu'a ja ri'u».  Ordinary bridi and minimal grammar can also be used for complex uses beyond cmavo shortcuts.  See also {mlana}, {ne'a} (next to), {fi'o} (for general modal construction), {ma'o'ei} (nonce cmavo), {ca'e} (I define), {jo'au} (switch language).
+    - multcu: poi'ai, noi'oi, voi'ai; … ku'o; «fi'o _» yyy «fi'o briga'i» yyyyy «sema'ai zo'e poi» yyy «fi'o du be me'ei nei zo'e poi»
+      notci: Note: {noi'oi} was chosen since {noi'ai} was already proposed for
+      osmething else and was not wanted to collide with it.
+      notci: {poi'ai} is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
