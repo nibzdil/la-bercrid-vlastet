@@ -1330,3 +1330,10 @@
       smuvelckivla: negative;discursive, negative;not affirmative, no;negative
     - multcu: tradition: ji'a cumki fa lonu jmina va'o zo'oi conservativism
     - multcu: progressivism
+    - multcu: yyyy ko catlu seva'o lo detri poi li 2026-03-21 lo notci .i lu'e nyrytybypyny
+    - mojdju: $x_1=s_1$ is a memory aid / something that helps $x_2=s_2=m_1$ remember $x_3=s_3=m_2$ about $x_4=m_3$; $x_1$ rings a bell.
+      notci: See also: {pormojdju} (mnemonic), {mojgau} (remind), {mojgaunoi} (reminder).
+      smuvelckivla: memory aid;something that aids in remembering, rings a bell;memory aid
+    - pormojdju: $x_1=s_1=p_1$ is a mnemonic with order $x_2=p_2$ of components $x_3=p_3$ that helps $x_4=s_2=m_1$ remember $x_5=s_3=m_2$ about $x_6=m_3$.
+      notci: See also: {mojdju} (memory aid).
+      smuvelckivla: mnemonic;sequence of something that helps one remember
