@@ -1338,4 +1338,10 @@
       notci: See also: {mojdju} (memory aid).
       smuvelckivla: mnemonic;sequence of something that helps one remember
     - le pormojdju po'u me'o nyrytybypyny: mnemonic for memorizing original FAhA3 in sequence.
-      notci: In English, perhaps ‘near it, by penetration’ may aid in the memorization of «joi'u'i ce'o zo ne'a zo re'o zo te'e zo bu'u zo pa'o zo ne'i [nu'u]».
+      notci: In English, perhaps ‘near it, by penetration’ may aid in the memorization of «joi'u'i ce'o zo ne'a zo re'o zo te'e zo bu'u zo pa'o zo ne'i [nu'u]».  In Lojban, perhaps «nenri ta'i bi pagre nu nerkla lo kubli», which also happens to describe the original FAhA2 cmavo seen as 6 sides of a cube plus {ru'u} and experimental {ma'a'u} (to the side of).
+      smuvelckivla: FAhA3 mneumonic;phrase
+    - ma'a'u: location tense/direction: to the side of …
+      selma'o: FAhA2
+      vlakra: zo mlana joi zo ru'u .i ji'a zo mlana joi zo zu'a joi zo ri'u
+      smuvelckivla: to the side of;tense
+      notci: Especially «zu'a ja ri'u».  Ordinary bridi and minimal grammar can also be used for complex uses beyond cmavo shortcuts.  See also {mlana}, {ne'a} (next to), {fi'o} (for general modal construction), {ma'o'ei} (nonce cmavo), {ca'e} (I define), {jo'au} (switch language).
