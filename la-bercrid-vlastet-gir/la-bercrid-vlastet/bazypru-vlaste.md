@@ -1053,16 +1053,21 @@
       notci: See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A more explicit word with essentially the same meaning is {po'ercrucauzva}.
       smuvelckivla: steal;take without consent
     - po'ercrucaule'a: $x_1=l_1$ steals $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1$ (e.g. $x_3$) under law / custom $x_5=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
-      notci: If the owner has the right to control use and exclude others (e.g. for a service or in the case of digital piracy), $x_2$ may be an event.  $x_3$ may be a trustee e.g. if $x_3$ is not $x_4$.  See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A shorterned version is {crucauzva}.  {po'ecrucaule'a} may also be divided into a theft that includes a tangible or direct loss ({jdikykemcrucaule'a}), and a theft that doesn't ({naljdikykemcrucaule'a}).
+      notci: If the owner has the right to control use and exclude others (e.g. for a service or in the case of digital piracy), $x_2$ may be an event.  $x_3$ may be a trustee e.g. if $x_3$ is not $x_4$.  See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A shorterned version is {crucaule'a}.  {po'ecrucaule'a} may also be divided into a theft that includes a tangible or direct loss ({jdikykemcrucaule'a}), and a theft that doesn't ({naljdikykemcrucaule'a}).  The general concept {po'ercrucaule'a} refers to a violation of ownership or rights (e.g. a taking away of part of one's rights).
       smuvelckivla: steal;take without consent of the owner
+      stuzi smuvelckivla: thief;one who steals
     - jdikykemcrucaule'a: $x_1=l_1$ steals tangible [good] $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1=j_1$ (e.g. $x_3$) resulting in loss $x_5=j_2$ by amount $x_6=j_3$ under law / custom $x_7=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
       notci: To confirm or emphasize that this does not cover thefts of non-tangible property, consider {setsta} (direct) or {zasti} as a seltau in a tanru.  For theft as a general concept, see {po'ercrucaule'a}.  {jdikykemcrucaule'a} is a type of theft that involves tangible loss.
       smuvelckivla: tangible loss theft
     - naljdikykemcrucaule'a: $x_1=l_1$ steals intangible $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1=j_1$ (e.g. $x_3$) not resulting in direct or tangible loss $x_5=j_2$ under law / custom $x_6=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
       notci: A violation of ownership or rights that does not result in a direct or tangible loss (e.g. using someone else's blender or pirating).  For theft as a general concept, see {po'ercrucaule'a}.
       smuvelckivla: non-tangible loss theft
-    - multcu: zilnalpo'e: $x_1=p_2$ is ownerless / permissionless under law / custom $x_2=p_3$.
-      smuvelckivla: ownerless;not owned, permissionless;not needing consent
+    - zilnalpo'e: $x_1=p_2$ is ownerless / permissionless under law / custom $x_2=p_3$.
+      smuvelckivla: ownerless;unowned, permissionless;not needing consent
+      notci: See also {gubni} (public), {turni} (government), {nalselpo'e} (ownerless).
+    - nalselpo'e: $x_1=p_2$ is not owned by $x_2=p_1$ under law / custom $x_3=p_3$; $x_1=p_2$ is ownerless / permissionless.
+      smuvelckivla: ownerless;not owned, permissionless;not needing owner's consent
+      notci: See also {gubni} (public), {turni} (government), {nalselpo'e} (ownerless).
     - multcu: (selji'a): zo'oi prize
     - multcu: dactrnedevede: zo'oi UFO
     - multcu: ka'ergau: zoi zy enable (specific sense); make x1 able to do x2 under conditions x3 zy
