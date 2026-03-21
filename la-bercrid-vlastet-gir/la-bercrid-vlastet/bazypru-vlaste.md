@@ -1337,3 +1337,5 @@
     - pormojdju: $x_1=s_1=p_1$ is a mnemonic with order $x_2=p_2$ of components $x_3=p_3$ that helps $x_4=s_2=m_1$ remember $x_5=s_3=m_2$ about $x_6=m_3$.
       notci: See also: {mojdju} (memory aid).
       smuvelckivla: mnemonic;sequence of something that helps one remember
+    - le pormojdju po'u lu'e nyrytybypyny: mnemonic for memorizing original FAhA3 in sequence.
+      notci: In English, perhaps ‘near it, by penetration’ may aid in the memorization of «joi'u'i ce'o zo ne'a zo re'o zo te'e zo bu'u zo pa'o zo ne'i».
