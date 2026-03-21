@@ -1349,3 +1349,4 @@
       notci: Note: {noi'oi} was chosen since {noi'ai} was already proposed for
       osmething else and was not wanted to collide with it.
       notci: {poi'ai} is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
+      (due to not wantig to collide with this word that was already proposed)
