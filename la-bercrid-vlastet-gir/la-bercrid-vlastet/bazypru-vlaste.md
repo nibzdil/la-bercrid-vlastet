@@ -1345,11 +1345,6 @@
       vlakra: zo mlana joi zo ru'u .i ji'a zo mlana joi zo zu'a joi zo ri'u
       smuvelckivla: to the side of;tense
       notci: Especially «zu'a ja ri'u».  Ordinary bridi and minimal grammar can also be used for complex uses beyond cmavo shortcuts.  See also {mlana}, {ne'a} (next to), {fi'o} (for general modal construction), {ma'o'ei} (nonce cmavo), {ca'e} (I define), {jo'au} (switch language).
-    - slabu: noi'oi: non-restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e noi».
-      selma'o: 
-      notci: {noi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
-      slabu: cmeta notci: zo noi'ai zo nai'oi ka'e simbasti
-      smuvelckivla: incidental bridi clause
     - poi'ai: restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e poi».
       selma'o: POIhAI
       notci: {poi} but for bridi.  {poi'ai}, {noi'ai}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
