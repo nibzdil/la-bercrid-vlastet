@@ -1401,3 +1401,4 @@
       smuvelckivla: despite motive;in spite of motive
       notci: "See also: {ki'u'oi}, {ni'i'oi}, {ri'a'oi}, {da'inai}."
     - multcu: zo'oi picky, zoizy too picky zy
+    - multcu: zo'oi missing
