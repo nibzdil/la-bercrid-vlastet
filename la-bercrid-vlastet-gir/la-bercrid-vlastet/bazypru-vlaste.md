@@ -1345,12 +1345,39 @@
       vlakra: zo mlana joi zo ru'u .i ji'a zo mlana joi zo zu'a joi zo ri'u
       smuvelckivla: to the side of;tense
       notci: Especially «zu'a ja ri'u».  Ordinary bridi and minimal grammar can also be used for complex uses beyond cmavo shortcuts.  See also {mlana}, {ne'a} (next to), {fi'o} (for general modal construction), {ma'o'ei} (nonce cmavo), {ca'e} (I define), {jo'au} (switch language).
-    - poi'ai: restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e poi».
-      notci: {poi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
-      smuvelckivla: restrictive bridi clause
-    - noi'oi: non-restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e noi».
+    - slabu: noi'oi: non-restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e noi».
+      selma'o: 
       notci: {noi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
+      slabu: cmeta notci: zo noi'ai zo nai'oi ka'e simbasti
       smuvelckivla: incidental bridi clause
+    - poi'ai: restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e poi».
+      selma'o: POIhAI
+      notci: {poi} but for bridi.  {poi'ai}, {noi'ai}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
+      smuvelckivla: restrictive bridi clause
+      vlakra: zo poi joi zo fai jabo zo bai
+    - noi'ai: non-restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e noi».
+      selma'o: POIhAI
+      notci: {noi} but for bridi.  {poi'ai}, {noi'ai}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {noi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
+      smuvelckivla: incidental bridi clause
+      vlakra: zo noi joi zo fai jabo zo bai
     - voi'ai: non-veridical restrictive relative clause on bridi; «fi'o du be me'ei nei zo'e voi».
-      notci: {voi} but for bridi.  {poi'ai}, {noi'oi}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {poi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.  Note that {noi'oi} is irregular due to not wanting to collide with this word {noi'ai} that was already proposed.
+      selma'o: POIhAI
+      notci: {voi} but for bridi.  {poi'ai}, {noi'ai}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {voi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed.
       smuvelckivla: descriptive bridi clause
+      vlakra: zo voi joi zo fai jabo zo bai
+    - ki'u'oi: tolki'u modal, first place; despite the reason …
+      selma'o: BAI
+      smuvelckivla: despite reason;in spite of reason
+      notci: See also: {ni'i'oi}, {ri'a'oi}, {mu'i'oi}, {da'inai}.
+    - ni'i'oi: tolni'i modal, first place; despite logically sufficient condition …
+      selma'o: BAI
+      smuvelckivla: despite sufficient condition;in spite of logically sufficient condition, despite logical cause;in spite of logical cause
+      notci: See also: {ki'u'oi}, {ri'a'oi}, {mu'i'oi}, {da'inai}.
+    - ri'a'oi: tolri'a modal, first place; despite the cause …
+      selma'o: BAI
+      smuvelckivla: despite cause;in spite of cause
+      notci: See also: {ki'u'oi}, {ni'i'oi}, {mu'i'oi}, {da'inai}.
+    - mu'i'oi: tolmu'i modal, first place; despite the motive …
+      selma'o: BAI
+      smuvelckivla: despite motive;in spite of motive
+      notci: See also: {ki'u'oi}, {ni'i'oi}, {ri'a'oi}, {da'inai}.
