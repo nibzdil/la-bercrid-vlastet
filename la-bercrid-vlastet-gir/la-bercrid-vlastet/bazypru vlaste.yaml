@@ -802,7 +802,7 @@
       smuvelckivla: splat sumti;splat single sumti
       vlakra: zo pli'aje
       notci: "Similar grammar to {la'e}, but can fill zero or more places.  To specify a custom applier or application function fo'a to ko'a, you can use «pi'a'e be fo'a [be'o] ko'a», «pi'a'e bei'i fo'a [be'o] ko'a», and «pi'a'e me fo'a [me'u] ko'a».  See also: {joi'u'i} (merge sumti), e.g. «broda pi'a'e joi'u'i ce'o ko'a ko'e ko'i» (as in «broda ko'a ko'e ko'i»), however alternative representations, of different types, of possibly tagged terms are possible."
-    - MULTCU: "zo pi'a'e zo fa'u'i .i ko catlu .i xu do djica zo fa'u'i poi le'oi lerfu valsi"
+    - ~~~multcu: "zo pi'a'e zo fa'u'i .i ko catlu .i xu do djica zo fa'u'i poi le'oi lerfu valsi"
     - zarti'i: $x_1=s_1=z_1$ recommends $x_2=s_2=z_2$ to $x_3=s_3$.
       smuvelckivla: recommend
     - satcymau: $x_1=z_1=s_1$ is more exact/precise than $x_2=z_2$ is in property / quantity $x_3=s_3$ by amount / excess $x_4=z_4$.
