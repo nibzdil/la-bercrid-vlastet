@@ -98,7 +98,7 @@
     - jvaiso bangu: "pli'aje: jvaiso fi li 639-3"
     - jvaiso bangu co remei:
         # se jicmu la'oi Nix joi zo'oi final joi zo'oi prev .i lo me zoi zy. Nix Overlays .zy. .i va'i lo me'a'o my. Nix Overlays .my.
-        # .i plicu'i fa lu romoi li'u joi zo prula'i
+        # .i selplifrika'e fa lu romoi li'u joi zo prula'i
         #
         # ni'o lo notci poi srana zo pli'aje je'i'a: so'o proga co me
         # la'oi yaml cu se sarcu lonu steci nu pilno kei va'o lo pluja ckiku
@@ -800,16 +800,19 @@
       selma'o: PIhAhE
       smuvelckivla: splat sumti;splat single sumti
       vlakra: zo pli'aje
-      notci: "Similar grammar to {la'e}, but can fill zero or more places.  To specify a custom applier or application function fo'a to ko'a, you can use «pi'a'e be fo'a [be'o] ko'a», «pi'a'e bei'i fo'a [be'o] ko'a», and «pi'a'e me fo'a [me'u] ko'a».  See also: {joi'u'i} (merge sumti), e.g. «broda pi'a'e joi'u'i ce'o ko'a ko'e ko'i» (as in «broda ko'a ko'e ko'i»), however alternative representations, of different types, of possibly tagged terms are possible."
+      notci: "Similar grammar to {la'e}, but can fill zero or more places.  To specify a custom applier or application function fo'a to ko'a, you can use «pi'a'e be fo'a [be'o] ko'a», «pi'a'e bei'i fo'a [be'o] ko'a», and «pi'a'e me fo'a [me'u] ko'a».  See also: {joi'u'i} (merge sumti), e.g. «broda pi'a'e joi'u'i ce'o ko'a ko'e ko'i» (as in «broda ko'a ko'e ko'i»), however alternative representations, of different types, of possibly tagged terms are possible.  {fa'u'i} is {pi'a'e} but as FA rather than like LAhE, a subtle distinction."
     - fa'u'i: "sumti place tag: apply arbitrary sumti application or termset"
       selma'o: FA
       sumti place tag: apply arbitrary sumti application or termset
       notci: |
-        One use is to apply a termset bundled as a single sumti (e.g. with {sumpoi} or {lo}{du'u}).  Additionally, the sumti following {fa'u'i} can also include in its bundle an alternative method of how the (rest of the) sumti is meant to be applied (optionally with brevity with {ju'e}, {joi}, {ju'e}{ma'o'ei}, or a bridi).  How the application is done can be specified metalinguistically (see also {baunpli}), separately, or as metadata inside the sumti.
+        This is {pi'a'e} (see {joi'u'i} and {pi'a'e}) but as FA rather than like LAhE, a subtle distinction.
+
+        ni'o One use is to apply a termset bundled as a single sumti (e.g. with {joi'u'i}, {sumpoi}, {lo}{du'u}, or another mechanism).  Additionally, the sumti following {fa'u'i} can also include in its bundle an alternative method of how the (rest of the) sumti is meant to be applied (optionally with brevity with {ju'e}, {joi}, {ju'e}{ma'o'ei}, or a bridi).  How the application is done can be specified metalinguistically (see also {baunpli}), separately, or as metadata inside the sumti.
 
         ni'o See also: {lo'oi}, for one possible way to analogize {se} for {fa'u'i}; {pli'aje}.
 
-        ni'o Etymology: {fa} and {nu'i}.
+        ni'o Etymology: {fa} and {nu'i}.  Note that {joi'u'i} builds a composite sumti like a termset, and {fa'u'i} applies it.  {fa'u'i} is a little less regular in its word formation since whereas {joi'u'i} might be seen as signalling the start of a termset, {fa'u'i} doesn't, but instead applies a termset.
+      vlakra: zo fa joi zo nu'i
     - ~~~multcu: zo fa'u'i
     - zarti'i: $x_1=s_1=z_1$ recommends $x_2=s_2=z_2$ to $x_3=s_3$.
       smuvelckivla: recommend
@@ -993,7 +996,6 @@
     - multcu: lo valsi seva'u zo pu'o je zo ca'o je zo ba'o
     - multcu: "mulkai: "
     - multcu: "minbakfu: "
-    - multcu: "plicu'i: "
     - multcu: "zo'inrai: "
     - multcu: "vabytai: "
     - multcu: "narselju'o: "
@@ -1257,8 +1259,6 @@
       notci: "The left-operand can be a dictionary / dialect / standard, a namespace (as in Lean), a domain name label pe'ainai (part between dots) (Java order), something that can be accessed (like ‘.’ or ‘ ˆ.’ in Haskell lenses), and similar constructs.  {co'i'o} is a general ‘dot’ operator that can mean all of these.  See also: {joi'ei} (nonce connective)."
       vlakra: zo co joi zo pi (tota'o jabo zo pi'e toi) joi zo bo
       smuvelckivla: namespace;connective, dot operator;namespace
-    - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
-      smuvelckivla: available;able to be used, up for grabs;available
     - multcu: "_: zo'oi IIRC"
     - multcu: "_: zo'oi IIUC"
     - multcu: "_: zo'e je ma"
@@ -1392,21 +1392,64 @@
       notci: "{voi} but for bridi.  {poi'ai}, {noi'ai}, and {voi'ai} are bridi variants of {poi}, {noi}, and {voi}.  {voi'ai} etc. is terminated by {ku'o}{ku} and has a grammar like FA with respect to where it is placed."
       smuvelckivla: descriptive bridi clause
       vlakra: zo voi joi zo fai jabo zo bai
-    - ki'u'oi: tolki'u modal, first place; despite the reason …
+    - ki'u'oi: tolki'u modal, first place; despite the reason …; «to'eki'u».
       selma'o: BAI
       smuvelckivla: despite reason;in spite of reason
       notci: "See also: {ni'i'oi}, {ri'a'oi}, {mu'i'oi}, {da'inai}."
-    - ni'i'oi: tolni'i modal, first place; despite logically sufficient condition …
+    - ni'i'oi: tolni'i modal, first place; despite logically sufficient condition …; «to'eni'i».
       selma'o: BAI
       smuvelckivla: despite sufficient condition;in spite of logically sufficient condition, despite logical cause;in spite of logical cause
       notci: "See also: {ki'u'oi}, {ri'a'oi}, {mu'i'oi}, {da'inai}."
-    - ri'a'oi: tolri'a modal, first place; despite the cause …
+    - ri'a'oi: tolri'a modal, first place; despite the cause …; «to'eri'a».
       selma'o: BAI
       smuvelckivla: despite cause;in spite of cause
       notci: "See also: {ki'u'oi}, {ni'i'oi}, {mu'i'oi}, {da'inai}."
-    - mu'i'oi: tolmu'i modal, first place; despite the motive …
+    - mu'i'oi: tolmu'i modal, first place; despite the motive …; «to'emu'i».
       selma'o: BAI
       smuvelckivla: despite motive;in spite of motive
       notci: "See also: {ki'u'oi}, {ni'i'oi}, {ri'a'oi}, {da'inai}."
+    - to'eki'u: to'e krinu modal, first place; despite reason …
+      selma'o: BAI*
+      smuvelckivla: despite reason;in spite of reason, despite reason;compound modal
+      notci: "See also: {tolki'u}, {to'eni'i}, {to'eri'a}, {to'emu'i}, {da'inai}."
+    - to'eni'i: to'e nibli modal, first place; despite logically sufficient condition …
+      selma'o: BAI*
+      smuvelckivla: despite sufficient condition;in spite of logically sufficient condition, despite sufficient condition;compound modal, despite logical cause;in spite of logical cause
+      notci: "See also: {tolni'i}, {to'eki'u}, {to'eri'a}, {to'emu'i}, {da'inai}."
+    - to'eri'a: to'e rinka modal, first place; despite cause …
+      selma'o: BAI*
+      smuvelckivla: despite cause;in spite of cause, despite cause;compound modal
+      notci: "See also: {tolri'a}, {to'eki'u}, {to'eni'i}, {to'emu'i}, {da'inai}."
+    - to'emu'i: to'e mukti modal, first place; despite motive …
+      selma'o: BAI*
+      smuvelckivla: despite motive;in spite of motive, despite motive;compound modal
+      notci: "See also: {tolmu'i}, {to'eki'u}, {to'eni'i}, {to'eri'a}, {da'inai}."
     - multcu: zo'oi picky, zoizy too picky zy
     - multcu: zo'oi missing
+    - multcu: _: zo'oi etc
+    - ~~~~~~~~
+      ~~~multcu .i ko jmina lu« to'eki'u »li'u je lo me'oi etc
+    - multcu: zo fu'i'a jenai zo fa'u'i xu
+    - multlcu: xu do nelci zo xi'i .i zo xi'i mo
+    - multcu: xi'a: superscript
+      selma'o: XI
+      vlakra: zo xi joi zo gapru .ija zo xi joi zo jamfu
+    - multcu: xi'ei: nonce free modifier
+      selma'o: XIhEI
+    - multcu: |
+        jmanoi: $x_1=n_1=j_1$ is a footnote for $x_2=n_2=j_2$.
+        smuvelckivla: footnote
+    - slabu:
+        plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
+        smuvelckivla: available;able to be used, up for grabs;available
+    - multcu: zo slabu cu ambigu ne'i le datnyvei .i ta'o cmeta
+    - plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility.
+      notci: See also: {selplifrika'e} (available).
+      smuvelckivla: might use;usage is a possibility
+    - frika'e: $x_1=k_1=l_1$ is able to undergo / experience $x_2=k_2=l_2$ under conditions $x_3=k_3$; $x_1$ is $x_2$-able.
+      smuvelckivla: able to be;can be acted upon, -able;able to undergo
+      notci: E.g. see {selplifrika'e} for an application in a lujvo.  See also: {ifkakne} (synonym).
+    - selplifrika'e: $x_1=p_2=k_1=l_1$ is usable / available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=k_3$; $x_1$ is up for grabs.
+      smuvelckivla: available;able to be used, up for grabs;available, available;capable of being used
+    - selcuxfrika'e: $x_1=c_2=k_1=l_1$ is an option / selectable / choosable to $x_2=c_1$ among options $x_3=c_3$ under conditions $x_4=k_3$.
+      smuvelckivla: option;something that can be chosen, selectable;option, chosable;option
