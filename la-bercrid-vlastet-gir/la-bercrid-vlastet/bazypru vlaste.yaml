@@ -456,6 +456,10 @@
         ni'o «{do'e'e}» is a contraction of «{do'e'e'au'i}» which ＝＝ «sei {baunpli} be la {terbricnetau}».  «{do'e'o}» is a contraction of «{do'e'o'au'i}» which ＝＝ «sei {baunpli} be la {terbristotau}».  See also: {do'o'e}.
     - narbilga: $x_1=b_1$ is not bound/obliged to/does not have the duty to do/be $x_2=b_2$ in/by standard/agreement $x_3=b_3$; $x_2$ is optional / non-mandatory / non-obligatory to $x_1$ under $x_3$.
     - na'i'a: "discursive: optionally."
+      selma'o: UI3b
+      notci: "Also ‘omittably’.  See also: {ji'a}, {po'o}, {si'a}, {narbilga}, {to}…{toi}, {fu'e}…{fu'o}, {tu'e'ei}…{tu'u'o}.  Equivalent to «{ji'a} {ma'o'ei} {narbilga} [{se'u}]»."
+      smuvelckivla: optionally;non-obligatory, optionally;omittably
+      vlakra: zo narbilga
     - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
     - multcu: "lo multcu zo'u: zaucpe: $x_1=c_1$ applies for [job] / [school] / requests approval of / [proposes] $x_2=c_2=z_2$ from $x_3=c_3=z_1$ in manner / form / with application $x_4=c_4$."
       multcu: apply;request approval
@@ -1441,15 +1445,39 @@
         smuvelckivla: footnote
     - slabu:
         plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
+        plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility.
         smuvelckivla: available;able to be used, up for grabs;available
+    - slabu:
+      - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
+        notci: Deprecated in favor of {selplifrika'e} (ellision of {se} (CLL 12.9 rule of thumb) and {frika'e}).  See also: {selplifrika'e} (available).
+        smuvelckivla: might use;usage is a possibility
+        plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
+        notci: See also: {selplifrika'e} (available).
+        smuvelckivla: available;able to be used, up for grabs;available, available;use is possible, available;might be used
+      - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
+        notci: Deprecated in favor of alternate {plicu'i} definition.
+        smuvelckivla: available;able to be used, up for grabs;available, available;use is possible, available;might be used
     - multcu: zo slabu cu ambigu ne'i le datnyvei .i ta'o cmeta
-    - plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility.
+    - plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility under conditions $x_4=c_2$; $x_2$ is available to $x_1$.
       notci: See also: {selplifrika'e} (available).
-      smuvelckivla: might use;usage is a possibility
+      smuvelckivla: available;might use
+    - cuxycu'i: $x_1=cux_1$ might choose $x_2=cux_2$ among options $x_3=cux_3$; $x_1$ choosing $x_2$ is a possibility under conditions $x_4=cum_2$; $x_2$ is an option.
+      notci: See also: {selcuxfrika'e} (option).
+      smuvelckivla: option;might choose
     - frika'e: $x_1=k_1=l_1$ is able to undergo / experience $x_2=k_2=l_2$ under conditions $x_3=k_3$; $x_1$ is $x_2$-able.
       smuvelckivla: able to be;can be acted upon, -able;able to undergo
       notci: E.g. see {selplifrika'e} for an application in a lujvo.  See also: {ifkakne} (synonym).
     - selplifrika'e: $x_1=p_2=k_1=l_1$ is usable / available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=k_3$; $x_1$ is up for grabs.
       smuvelckivla: available;able to be used, up for grabs;available, available;capable of being used
     - selcuxfrika'e: $x_1=c_2=k_1=l_1$ is an option / selectable / choosable to $x_2=c_1$ among options $x_3=c_3$ under conditions $x_4=k_3$.
-      smuvelckivla: option;something that can be chosen, selectable;option, chosable;option
+      smuvelckivla: option;something that can be chosen, selectable;option, choosable;option
+    - slabu: |
+      - plika'e: $x_1$ can run on …_; $x_1$ is able to run.
+        vlakra: lu« ka'e bajra »li'u .ije lu« kakne co bajra »li'u
+    - gafka'e: $x_1=k_1=g_1$ (event) can change $x_2=g_2$ into $x_3=g_3$; $x_1$ is capable of modifying $x_2$ into $x_3$ under conditions $x_4=k_3$.
+      vlakra: lu« ka'e galfi »li'u .ije lu« kakne co galfi »li'u
+      smuvelckivla: can change;is capable of modifying
+    - bi'orka'e: $x_1=k_1=b_1$ can become $x_2=b_2$ under conditions $x_3=k_3=b_3$; $x_1$ has potential $x_2$.
+      vlakra: lu« ka'e binxo »li'u .ije lu« binxo co galfi »li'u
+      smuvelckivla: can become;is capable of becoming, potential;can become
+      notci: See also: {tcinyza'i} (potential).
