@@ -1193,7 +1193,7 @@
       notci: "{vo'e'e} can form a short-scope reflexive, even inside descriptors (e.g. «lo snikemsamtermi'e be fi vo'e'e» for bare-metal without a processor manual)."
       stuzi smuvelckivla: software;symbolic computational instructions, hardware;executor of software, interpretor;software
     - fukpo'e: $x_1=p_1$ owns copyright over $x_2=p_2=f_2$ under law/custom $x_3=p_3$; $x_2$ is copyrighted.
-      notci: "Example: «se fukpo'e de'i li © 2026 la. ric. .i po'ecru …».  See also: {po'ecru} (consent), {ponse} (own)."
+      notci: "Example: «se fukpo'e de'i li © 2026 la. rif. .i po'ecru …».  See also: {po'ecru} (consent), {ponse} (own)."
       smuvelckivla: copyright;owning an intellectual property
     - favytcita: $x_1=t_1$ is a version label / tag of $x_2=t_2$ [e.g. commit hash / specific executable / document] of / within $x_3=f_1$ [e.g. general document / project / repository].
       notci: "If desired, append $farvi$'s last 3 places.  See also: {stoveipa'o} (commit), {velfarvi}."
@@ -1342,15 +1342,6 @@
         turzifsra: $x_1=s_1$ is a libertarian / political advocate for freedom in aspect $x_2$.
         notci: "See also: {zifsra}, {turzifsrasi'o} (libertarianism)."
         smuvelckivla: libertarian;politics
-    - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
-      notci: For specifically libertarian in sense of adherent to the political ideology, see {turzifsra}.
-      smuvelckivla: libertarian;freedom advocate
-    - turzifsra: $x_1=s_1$ is a libertarian / political advocate for freedom in aspect $x_2$.
-      notci: "See also: {nunzifsra} (general libertarian), {turzifsrasi'o} (libertarianism)."
-      smuvelckivla: libertarian;politics
-    - turzifsrasi'o: $x_1=si_1$ is libertarianism according to $x_2=si_3$.
-      notci: "See also: {nunzifsra} (general libertarian), {turzifsra} (libertarian)."
-      smuvelckivla: libertarianism;political ideology
     - xlacru: $x_1=c_1$ tolerates / puts up with $x_2=c_2=xl_1$ under conditions $x_3=c_3$, it being bad for $x_4=xl_2$ by standard $x_5=xl_3$.
       notci: "See also: {nu}, {ni}, {renvi}, {o'o}."
       smuvelckivla: tolerate;put up with
@@ -1493,33 +1484,48 @@
       - multcu: by'o: null BY
         notci: "If the grammar requires BY, a null can semantically be treated as though it didn't exist, e.g. starting starting a lerfu string as in «by'opaby broda».  Note «me ko'a moi» is grammatical.  See also: {by'e} (elliptical BY), {tu'o} (null mekso operand)."
         smuvelckivla: null BY
-    - multcu: sivypo'e: $x_1=p_1=s_2$ owns private property $x_2=p_2=s_1$ under law/custom $x_3=p_3$; $x_2$ is proprietary.
+    - multcu: _: effectively/practically
+    - multcu: tol_: theoretically
+    - multcu: examine 
+    - slabu:
+      - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
+        notci: For specifically libertarian in sense of adherent to the political ideology, see {truzifsra}.
+        smuvelckivla: libertarian;freedom advocate
+      - turzifsra: $x_1=s_1$ is a libertarian / political advocate for freedom in aspect $x_2$.
+        notci: "See also: {nunzifsra} (general libertarian), {truzifsrasi'o} (libertarianism), {ri'ukralytrusra} (libertarian), {krali} (right), {ri'urkrali}/{badykrali} (negative right)."
+        smuvelckivla: libertarian;politics
+      - turzifsrasi'o: $x_1=si_1$ is libertarianism according to $x_2=si_3$.
+        notci: "See also: {nunzifsra} (general libertarian), {truzifsra} (libertarian), {ri'ukralytrusrasi'o} (libertarianism), {krali} (right), {ri'urkrali}/{badykrali} (negative right)."
+        smuvelckivla: libertarianism;political ideology
+    - praselva'i: $x_1=v_2=c_1$ is a productive good / asset / something of value that produces / can result in acquiring $x_2=c_1$ by process $x_3=c_2$; $x_1$ is capital, a good that can produce goods, and of value $x_4=v_1$ to $x_5=v_3$ for use/end $x_6=v_4$.
+      smuvelckivla: capital;productive good
+      notci: See also: {prasivyci'e} (capitalism), {jdini} (money).
+    - slabu:
+        praselva'isi'o: $x_1=s_1$ is capitalism according to $x_1=s_3$; $x_1$ in the economic system or belief based on private ownership of 
+        smuvelckivla: capitalism;economic system or belief
+        notci: See also: {selsivypo'e}.
+    - prasivyci'e: $x_1=c_1$ is capitalism by standard $x_2$; $x_1$ is an economic system based on private ownership of productive goods.
+      notci: See also: {praselva'i} (capital), {pragubyci'e} (socialism).
+      smuvelckivla: capitalism;economic system
+    - pragubyci'e: $x_1=c_1$ is socialism by standard $x_2$; $x_1$ is an economic system based on social ownership of the means of production.
+      notci: See also: {praselva'i} (capital), {prasivyci'e} (capitalism).
+      smuvelckivla: socialism;economic system
+    - ri'ukralytrusra: $x_1=s_1$ is a libertarian / negative-rights supporter / believer in aspect $x_2$; $x_1$ is libertarian.
+      notci: "See also: {ri'ukralytrusrasi'o} (libertarianism), {ri'urkrali}/{badykrali} (negative right), {krali} (right)."
+      smuvelckivla: libertarian;politics, libertarian;negative rights supporter
+    - ri'ukralytrusrasi'o: $x_1=si_1$ is libertarianism according to $x_2=si_3$.
+      notci: "See also: {ri'ukralytrusra} (libertarian), {ri'ukralytrusraklu} (libertarian culture), {krali} (right), {ri'urkrali}/{badykrali} (negative right)."
+      smuvelckivla: libertarianism;political ideology, libertarianism;negative rights political ideology
+    - ri'ukralytrusraklu: $x_1=ku_1$ is the libertarian culture of $x_2=ku_2$.
+      notci: "See also: {ri'ukralytrusra} (libertarian), {ri'ukralytrusrasi'o} (libertarianism), {krali} (right), {ri'urkrali}/{badykrali} (negative right)."
+      smuvelckivla: libertarianism;culture
+    - zoi'oi: nestable zoi; foreign quote that can be nested.
+      notci: "Like {zoi}, except if, for «zoi'oi X», «zoi'oi X» is again found in the foreign quote, then two rather than one more Xs need to be found to close the quote.  {zoi'oi} looks for a nested {zoi'oi} with the same delimiter, and accepts it if it has a pause before it.  That is the only additional control {zoi'oi} takes over the inner text, but otherwise it is allowed to be freeform like for {zoi}.  For consistency, users may opt to always use {zoi'oi} with a pause before it, as in «.zoi'oi», although it's not neceessary at the outer level.  A quick, general technique to remember for nestable foreign quotes is to start it with «.zoi'oifa'o.» and end it with «.fa'o.», although the delimiter can be personalized as well.  An alternative, general delimiter is «zy.», if the possible presence of «zy.» in the text is not an issue, is also available.  Otherwise, a longer alternative general delimiter also is «zoi'oi'a'o» (from {zoi'oi} and {fa'o} or {fanmo}).  Additionally, selecting a lerfu to represent the language of the inner text can also be a common pattern.  {zoi'oi} is like Haskell's nestable multi-line comments.  See also: {zoi}, {zoi'oi'au} (unnestable {zoi}), {zoi'o}."
+      smuvelckivla: nestable zoi;nestable foreign quote, zoi;nestable foreign quote
+    - zoi'oi'au: unnestable zoi; foreign quote that cannot be nested.
+      notci: "Currently this is a duplicate of {zoi}.  However, by allocating a word that specifically precludes nestability, if the grammar is ever updated, or if a dialect is chosen that modifies {zoi} to be {zoi'oi}, then {zoi'oi'au} allows access to old-style {zoi}.  See also: {zoi'oi} (nestable {zoi})."
+      smuvelckivla: unnestable zoi;unnestable foreign quote
+    - selsivypo'e: $x_1=p_1=s_2$ owns private property $x_2=p_2=s_1$ under law/custom $x_3=p_3$; $x_2$ is proprietary.
       smuvelckivla: proprietary;owns private property
       stuzi smuvelckivla: proprietor;private property, private property;something privately owned
-      notci: Note on lujvo construction: «sivni»'s «se» was elided to an asymmetrical lujvo as the alternative is unlikely to be as useful for a lujvo of this shortness, and if needed perhaps a modifier could be added for a longer lujvo, comparing length of word with frequency and value.
-    - multcu: zoi'oi: nestable zoi; foreign quote that can be nested.
-      notci: Like {zoi}, except if, for «zoi'oi X», «zoi'oi X» is again found
-      in the foreign quote, then two rather than one more Xs need to be found
-      to close the quote.  {zoi'oi} looks for a nested {zoi'oi} with the same
-      delimiter, and accepts it if it has a pause before it.  That is the only
-      additional control {zoi'oi} takes over the inner text, but otherwise it
-      is allowed to be freeform like for {zoi}.  For consistency, users may opt
-      to always use {zoi'oi} with a pause before it, as in «.zoi'oi», although
-      it's not neceessary at the outer level.  A quick, general technique to
-      remember for nestable foreign quotes is to start it with «.zoi'oifa'o.»
-      and end it with «.fa'o.», although the delimiter can be personalized as
-      well.  An alternative, general delimiter is «zy.», if the possible
-      presence of «zy.» in the text is not an issue, is also available.
-      Otherwise, a longer alternative general delimiter also is «zoi'oi'a'o»
-      (from {zoi'oi} and {fa'o} or {fanmo}).  Additionally, selecting a lerfu
-      to represent the language of the inner text can also be a common pattern.
-      {zoi'oi} is like Haskell's nestable multi-line comments.  See also:
-      {zoi}, {zoi'oi'au} (unnestable {zoi}), {zoi'o}.
-      smuvelckivla: nestable zoi;nestable foreign quote, zoi;nestable foreign quote
-    - multcu: zoi'oi'au: unnestable zoi; foreign quote that cannot be nested.
-      notci: Currently this is a duplicate of {zoi}.  However, by allocating a
-      word that specifically precludes nestability, if the grammar is ever
-      updated, or if a dialect is chosen that modifies {zoi} to be {zoi'oi},
-      then {zoi'oi'au} allows access to old-style {zoi}.  See also: {zoi'oi}
-      (nestable {zoi}).
-      smuvelckivla: unnestable zoi;unnestable foreign quote
+      notci: Technically, a private owner can freely give all usage rights as in the case of open source software, e.g. «po'ecru fi la'oi MIT», where an ownership translates into effective non-ownership.  If not specified, whether this is consented to or not might be implied by context, as in the notion of implied consent in some cultures.  See also: {tcinyra'igau} (e.g. «lo se po'ecru cu te tcinyra'igau»/«ro krali cu te tcinyra'igau»), {fingubni} (open source), {po'ecru} (consent), {fukpo'e} (copyright), {krasi} (right), {praselva'i} (capital).
