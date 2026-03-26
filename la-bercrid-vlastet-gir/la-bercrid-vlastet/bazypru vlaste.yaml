@@ -1493,9 +1493,10 @@
       - multcu: by'o: null BY
         notci: "If the grammar requires BY, a null can semantically be treated as though it didn't exist, e.g. starting starting a lerfu string as in «by'opaby broda».  Note «me ko'a moi» is grammatical.  See also: {by'e} (elliptical BY), {tu'o} (null mekso operand)."
         smuvelckivla: null BY
-    - multcu: fukpo'e mupli .i zo rif cu basti zo ric
     - multcu: sivypo'e: $x_1=p_1=s_2$ owns private property $x_2=p_2=s_1$ under law/custom $x_3=p_3$; $x_2$ is proprietary.
-      smuvelckivla: proprietary;private property, 
+      smuvelckivla: proprietary;owns private property
+      stuzi smuvelckivla: proprietor;private property, private property;something privately owned
+      notci: Note on lujvo construction: «sivni»'s «se» was elided to an asymmetrical lujvo as the alternative is unlikely to be as useful for a lujvo of this shortness, and if needed perhaps a modifier could be added for a longer lujvo, comparing length of word with frequency and value.
     - multcu: zoi'oi: nestable zoi; foreign quote that can be nested.
       notci: Like {zoi}, except if, for «zoi'oi X», «zoi'oi X» is again found
       in the foreign quote, then two rather than one more Xs need to be found
@@ -1505,13 +1506,16 @@
       is allowed to be freeform like for {zoi}.  For consistency, users may opt
       to always use {zoi'oi} with a pause before it, as in «.zoi'oi», although
       it's not neceessary at the outer level.  A quick, general technique to
-      remember for nestable foreign quotes is to start it with «.zoi'oizy.» and
-      end it with «.zy.», although the delimiter can be personalized as well.
-      An alternative general delimiter may be «zoi'oi'a'o» (from {fa'o} for
-      {fanmo}), permitting «.zy.» in the text; alternatively, {fa'o} may also
-      be used as a delimiter.  This is like Haskell's nestable multi-line
-      comments.  See also: {zoi}, {zoi'oi'au} (unnestable {zoi}), {zoi'o}.
-      smuvelckivla: nestable zoi;nestable foreign quote
+      remember for nestable foreign quotes is to start it with «.zoi'oifa'o.»
+      and end it with «.fa'o.», although the delimiter can be personalized as
+      well.  An alternative, general delimiter is «zy.», if the possible
+      presence of «zy.» in the text is not an issue, is also available.
+      Otherwise, a longer alternative general delimiter also is «zoi'oi'a'o»
+      (from {zoi'oi} and {fa'o} or {fanmo}).  Additionally, selecting a lerfu
+      to represent the language of the inner text can also be a common pattern.
+      {zoi'oi} is like Haskell's nestable multi-line comments.  See also:
+      {zoi}, {zoi'oi'au} (unnestable {zoi}), {zoi'o}.
+      smuvelckivla: nestable zoi;nestable foreign quote, zoi;nestable foreign quote
     - multcu: zoi'oi'au: unnestable zoi; foreign quote that cannot be nested.
       notci: Currently this is a duplicate of {zoi}.  However, by allocating a
       word that specifically precludes nestability, if the grammar is ever
