@@ -350,7 +350,10 @@
     - nupmulgau: $x_1=g_1$ follows through / is faithful on / fulfills / makes good on $x_2=n_1$'s promise / claim / threat of $x_3=g_2=m_1=n_2$ to $x_4=n_3$ in aspect $x_5=m_2$ by standard $x_6=m_3$.
     - nupmu'o: $x_1=n_1$'s promise of $x_2=m_1=n_2$ to $x_3=n_3$ is fulfilled in aspect $x_4=m_2$ by standard $x_5=m_3$; $x_1$ is faithful.
     - ra'erprogau: $x_1=g_1=f_1=r_1$ cancels / revokes / invalidates / withdraws from / [reverses] $x_2=g_2=f_2=r_2$ about / concerning $x_3=f_3$.
+      smuvelckivla: cancel;abort, invalidate;cancel, revoke;cancel
     - nupra'eprogau: $x_1=g_1=f_1$ cancels promise / renounces / reneges / repudiates / abandons $x_2=r_1=n_1$'s promise / threat of $x_3=g_2=r_2=n_2$ to $x_4=n_3$ about / concerning $x_5=f_3$.
+      notci: "See also: {ra'erprogau} for a general word for ‘cancel’."
+      smuvelckivla: repudiate;cancel promise, renege;repudiate, renounce;repudiate, abandon;repudiate
     - zmanonpuksajyfri: $x_1=l_1=s_1=p_2$ experience pleasure / hedonic positive experience / qualia $x_2=l_2=s_2=p_1=z_1=z_3$ to degree $x_3=z_4$ (relative to hedonic zero) under conditions $x_4=p_3$; $x_2$ is pleasure.
     - mecnonjvecorsajyfri: $x_1=l_1=s_1=c_1$ experience suffering / pain / hedonic negative experience / qualia $x_2=l_2=s_1=c_2=m_1=m_3$ to degree $x_3=m_4$ (relative to hedonic zero); $x_2$ is (the experience of) suffering.
     - baunpli: $x_1=p_1=b_2$ uses language / language feature / complete language / language dialect or variation / dictionary / semantics / other language standard or specification or open source fork $x_2=p_2=b_1$ with scope / for text / purpose / to express / communicate $x_3=p_3=b_3$; $x_1$ is using / declaring language / language extension $x_2$.
@@ -1552,3 +1555,16 @@
       notci: E.g. the natural numbers are non-negative integers.
     - multcu: vricymanri: $x_1=m_1$ is a manri for $x_2=m_2$ with rules $x_3=m_3$, with subjective $x_4$, standard $x_5$, basis for comparison $x_6$, frame of reference $x_7$, context $x_8$, and perspective/worldview $x_9$, in situation $x_10$.
       multcu: .e'u finti lo fu'ivla (to zo vricrmanri toi)
+    - multcu: .i rafsi zo za'u .i zo'oi multi- bau la glico
+    - multcu: xagmaugau zo sirgazgau
+    - multcu: dralanli: $x_1=l_1$ verifies / ascertains / validates / checks that $x_2=l_2=d_1$ is so / correct / valid in property/aspect $x_3=d_2$ in situation $x_4=d_3$ by standard $x_5=d_4$ by means / method / technique / system $x_6=l_3$.
+      smuvelckivla: verify;check validity of, validate;check validity of, 
+    - multcu: sirganzu: $x_1=g_1$ aligns / arranges linearly $x_2=g_2$ into aligned / alignment $x_3=g_3$, aligned between / with $x_4=s_2$ and $x_5=s_3$, by system/principle(s) $x_6=g_4$.
+      smuvelckivla: align;arrange linearly
+      slabu:
+        stuzi smuvelckivla: aligner;arrange linearly, aligned;something that one aligns, aligned;something that is aligned, alignment;something _
+    - multcu: drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
+      smuvelckivla: accumulate;build cumulatively
+    - multcu: fairfatygau: $x_1=g_1$ deallocates / unreserves / frees / takes back $x_2=fatr_1$ from $x_3=fatr_2$ with shares/portions $x_4=fatr_3$.
+      smuvelckivla: deallocate;free resource, unreserve;deallocate, free;deallocate, take back;deallocate
+      notci: See also: {tcinyra'igau} (hold), {fairgau} (allocate / distribute)
