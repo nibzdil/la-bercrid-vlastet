@@ -1541,3 +1541,12 @@
     - srakrali: $x_1=k_1$ is the positive right of / owned by $x_2=k_2$ to obligate $x_3=s_1$ to obligation / action $x_4=s_2$ by standard / under law / custom $x_5=k_3$; $x_2$ has the right to (tu'a) $x_4$ in the sense of active obligation.
       notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {ri'urkrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law).
       smuvelckivla: positive right;right to obligate
+    - nonmau: $x_1=z_1$ is greater than 0 in property/quantity $x_2=z_3$ by amount/excess $x_3=z_4$; $x_1$ is positive.
+      smuvelckivla: positive;greater than zero
+    - nonme'a: $x_1=m_1$ is less than 0 in property/quantity $x_2=m_3$ by amount $x_3=m_4$; $x_1$ is negative.
+      smuvelckivla: negative;less than zero
+    - nonynalmau: $x_1=z_1$ is not greater than 0 in property/quantity $x_2=z_3$ by amount/excess $x_3=z_4$; $x_1$ is non-positive.
+      smuvelckivla: non-positive;not greater than zero
+    - nonynalme'a: $x_1=m_1$ is not less than 0 in property/quantity $x_2=m_3$ by amount $x_3=m_4$; $x_1$ is non-negative.
+      smuvelckivla: non-negative;not less than zero
+      notci: E.g. the natural numbers are non-negative integers.
