@@ -1535,7 +1535,9 @@
       notci: "Currently this is a duplicate of {zoi}.  However, by allocating a word that specifically precludes nestability, if the grammar is ever updated, or if a dialect is chosen that modifies {zoi} to be {zoi'oi}, then {zoi'oi'au} allows access to old-style {zoi}.  See also: {zoi'oi} (nestable {zoi})."
       smuvelckivla: unnestable zoi;unnestable foreign quote
       vlakra: zo zoi'oi joi zo claxu
-    - ri'urkrali: $x_1=k_1$ is a/the negative right of / owned by $x_2=k_2$ to exclude / restrain $x_3=r_1$, enforced by $x_4=r_2$, from $x_5=r_3$ by standard / under law / custom $x_6=k_3$; $x_2$ has the right to (tu'a) $x_5$ in the sense of non-interventionism rather than active obligation on another.
-      notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {srakrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (good), {flalu} (law).
+    - ri'urkrali: $x_1=k_1$ is a/the negative right of / owned by $x_2=k_2$ to exclude / restrain $x_3=r_1$ from $x_4=r_3$ by standard / under law / custom $x_5=k_3$; $x_2$ has the right to (tu'a) $x_4$ in the sense of non-interventionism rather than active obligation on another.
+      notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {srakrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law).
       smuvelckivla: negative right;right to exclude
-    - srakrali: $x_1=k_1$ is the positive right of / owned by $x_2=k_2$ to obligate $x_3=s_1$ 
+    - srakrali: $x_1=k_1$ is the positive right of / owned by $x_2=k_2$ to obligate $x_3=s_1$ to obligation / action $x_4=s_2$ by standard / under law / custom $x_5=k_3$; $x_2$ has the right to (tu'a) $x_4$ in the sense of active obligation.
+      notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {ri'urkrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law).
+      smuvelckivla: positive right;right to obligate
