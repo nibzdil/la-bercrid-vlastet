@@ -1520,7 +1520,7 @@
       stuzi smuvelckivla: proprietor;private property, private property;something privately owned
       notci: Technically, a private owner can freely give all usage rights as in the case of open source software, e.g. «po'ecru fi la'oi MIT», where an ownership translates into effective non-ownership.  If not specified, whether this is consented to or not might be implied by context, as in the notion of implied consent in some cultures.  See also: {tcinyra'igau} (e.g. «lo se po'ecru cu te tcinyra'igau»/«ro krali cu te tcinyra'igau»), {fingubni} (open source), {po'ecru} (consent), {fukpo'e} (copyright), {krasi} (right), {praselva'i} (capital), {ja'erkai} (effectively).
     - ri'urkralytrusra: $x_1=s_1$ is a libertarian / negative-rights/self-ownership/freedom supporter / believer in aspect $x_2$; $x_1$ is libertarian.
-      notci: "See also: {ri'urkralytrusrasi'o} (libertarianism), {ri'urkrali}/{badykrali} (negative right), {krali} (right), {pragubyci'e} (capitalism)."
+      notci: "See also: {ri'urkralytrusrasi'o} (libertarianism), {ri'urkrali}/{badykrali} (negative right), {krali} (right), {prasivyci'e} (capitalism)."
       smuvelckivla: libertarian;politics, libertarian;negative rights supporter, libertarian;self-ownership supporter, libertarian;freedom supporter
     - ri'urkralytrusrasi'o: $x_1=si_1$ is libertarianism according to $x_2=si_3$.
       notci: "See also: {ri'urkralytrusra} (libertarian), {ri'urkralytrusraklu} (libertarian culture), {krali} (right), {ri'urkrali}/{badykrali} (negative right)."
@@ -1535,3 +1535,7 @@
       notci: "Currently this is a duplicate of {zoi}.  However, by allocating a word that specifically precludes nestability, if the grammar is ever updated, or if a dialect is chosen that modifies {zoi} to be {zoi'oi}, then {zoi'oi'au} allows access to old-style {zoi}.  See also: {zoi'oi} (nestable {zoi})."
       smuvelckivla: unnestable zoi;unnestable foreign quote
       vlakra: zo zoi'oi joi zo claxu
+    - ri'urkrali: $x_1=k_1$ is a/the negative right of / owned by $x_2=k_2$ to exclude / restrain $x_3=r_1$, enforced by $x_4=r_2$, from $x_5=r_3$ by standard / under law / custom $x_6=k_3$; $x_2$ has the right to (tu'a) $x_5$ in the sense of non-interventionism rather than active obligation on another.
+      notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {srakrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (good), {flalu} (law).
+      smuvelckivla: negative right;right to exclude
+    - srakrali: $x_1=k_1$ is the positive right of / owned by $x_2=k_2$ to obligate $x_3=s_1$ 
