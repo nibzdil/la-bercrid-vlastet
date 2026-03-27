@@ -1202,7 +1202,7 @@
     - multcu: "simkemvamgunta: $x_1=g_1"
     - multcu: simxu vamji bo gunta tcini
     - multcu: simxu vamji bo basti tcini
-    - multcu: "simvamborbastcini: $x_1=t_1$ is a trade-off, a situation in which increasing one quality or quantity decreases another, between $x_2=b_1=v_2=s_1$ (possibly a mass) and $x_3=b_2=v_2=s_1$ to [judge/subject] $x_4=v_3$ in matter/decision/strategy $x_5=t_2=b_3=v_4$."
+    - simvamborbastcini: $x_1=t_1$ is a trade-off, a situation in which increasing one quality or quantity decreases another, between $x_2=b_1=v_2=s_1$ (possibly a mass) and $x_3=b_2=v_2=s_1$ to [judge/subject] $x_4=v_3$ in matter/decision/strategy $x_5=t_2=b_3=v_4$.
       smuvelckivla: trade-off;compromise
       notci: See also {kanpyvampla} (strategy), {simbasti} (swapped).
     - multcu: rapygau
@@ -1550,3 +1550,5 @@
     - nonynalme'a: $x_1=m_1$ is not less than 0 in property/quantity $x_2=m_3$ by amount $x_3=m_4$; $x_1$ is non-negative.
       smuvelckivla: non-negative;not less than zero
       notci: E.g. the natural numbers are non-negative integers.
+    - multcu: vricymanri: $x_1=m_1$ is a manri for $x_2=m_2$ with rules $x_3=m_3$, with subjective $x_4$, standard $x_5$, basis for comparison $x_6$, frame of reference $x_7$, context $x_8$, and perspective/worldview $x_9$.
+      multcu: .e'u finti lo fu'ivla (to zo vricrmanri toi)
