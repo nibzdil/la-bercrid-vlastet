@@ -292,7 +292,10 @@
     - tu'e'ei: General-purpose left-bracket for arbitrary grouping of Lojban text; start highlight / selection marker.
     - tu'u'o: General-purpose right-bracket for arbitrary grouping of Lojban text; end highlight / selection marker.
     - pruma'ufa'o: $x_1=f_1=p_1$ is an abortion / premature end of $x_2=f_2=m_1$ before maturity $x_3=m_2$; $x_2$ aborts / is aborted / ends pre-maturely.
-    - xakmu'o: $x_1=m_1=xa_2$ is exhausted / depleted / completely consumed by $x_2=xa_2$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
+    - slabu:
+        xakmu'o: $x_1=m_1=xa_2$ is exhausted / depleted / completely consumed by $x_2=xa_2$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
+        notci: "Examples: «le cidja selva'i zi co'a xakmu'o» - ‘The food resources will soon be exhausted’.  «mi tatpi jai xakmu'o lonu bajra» - ‘I'm exhausted from running’."
+        smuvelckivla: exhausted;used up, depleted;exhausted
     - selva'i: $x_1=v_2$ is a resource / good / asset / worthy / valuable to $x_3=v_3$ with value / worth $x_1=v_1$ for goal / use / end / appreciation / purpose / value / end-factor $x_4=v_4$; $x_1$ is a resource / is valued at / a good with value $x_2$ to $x_3$ for $x_4$.
     - velva'i: $x_1=v_4$ is a goal / use / end / appreciation / purpose / objective / value / value composite / end-factor, for which $x_2=v_2$ has value / worth $x_4=v_3$ to $x_3=v_1$; $x_1$ is a value / value composite.
     - terva'i: $x_1=v_3$ values $x_2=v_2$ as / at $x_3=v_1$ for goal / use / end / appreciation / purpose / value / end-factor $x_4=v_4$.
@@ -1568,3 +1571,10 @@
     - multcu: fairfatygau: $x_1=g_1$ deallocates / unreserves / frees / takes back $x_2=fatr_1$ from $x_3=fatr_2$ with shares/portions $x_4=fatr_3$.
       smuvelckivla: deallocate;free resource, unreserve;deallocate, free;deallocate, take back;deallocate
       notci: See also: {tcinyra'igau} (hold), {fairgau} (allocate / distribute)
+    - multcu: plixautci: zo'oi utility
+    - multcu: xakmu'o: $x_1=m_1=xa_2$ is exhausted / depleted / completely consumed by $x_2=xa_1$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
+      notci: "Examples: «le cidja selva'i zi co'a xakmu'o» - ‘The food resources will soon be exhausted’.  «mi tatpi jai xakmu'o lonu bajra» - ‘I'm exhausted from running’.  See also: {mulxaksu}.  lujvo construction note: {se} elided from the seltau to an asymmetrical lujvo since being consumed seems like a more likely candidate for «loka xaksu» being «mulno» than the alternative."
+      smuvelckivla: exhausted;used up, depleted;exhausted
+    - mulxaksu: $x_1=m_1=xa_2$ exhausts / fully depletes / completely consumed by $x_2=xa_2$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
+      notci: "See also: {}."
+      smuvelckivla: exhausted;used up, depleted;exhausted
