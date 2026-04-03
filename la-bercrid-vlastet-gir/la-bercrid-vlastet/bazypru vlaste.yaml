@@ -1583,3 +1583,34 @@
     - mulxaksu: $x_1=xa_1$ exhausts / fully depletes / completely consumes $x_2=xa_2$ by standard $x_3=m_3$; $x_2$ is all used up / has run out.
       notci: "See also: {selxakmu'o}, {xakmu'o}."
       smuvelckivla: exhaust;fully use up, deplete;exhaust
+    - multcu: ctake'u: re-examine
+    - multcu: |
+      - multcu: ___?: poi'u: $x_1$ is such that the contained bridi holds true of it.
+        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  Breaking backwards-compatibility may sometimes be a ,  See also: {mansa}.
+        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  For breaking backwards-compatibility,  ,  See also: {mansa}.
+        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  This assignment grants this word's availability to those who do not have a .  Additionally, multiple places are supported, not just $x_1$.  For breaking backwards-compatibility,  ,  See also: {mansa}, {zo'e poi}.
+        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  This assignment grants this word's availability to those who do not have a .  Additionally, multiple places are supported, not just $x_1$.  For breaking backwards-compatibility,  ,  See also: {mansa}, {zo'e poi}.
+        voi'u
+        vlakra: .e'u zo vo'a'e
+      - multcu: zo loi'u xu
+    - multcu: zo'ei zo vrokoi claxu xy 4
+    - multcu: zo vlatoldenmi: verbose
+    - multcu: xu zo tolkra: zo'oi target / zo'e
+    - multcu: xu zo na'e zei no: zo'oi non-zero
+    - multcu: jezyje'u: $x_1$ is the truth value / a boolean of $x_2$ under epistomology / system $x_3$.
+    - multcu: nalbilga: _
+    - multcu: zatcu'i: _
+    - multcu: vavbau: $x_1$ is the base-16 / hexadecimal encoding used by $x_2$ to interpret / express $x_3$.
+      smuvelckivla: hexadecimal;base-16 encoding
+      notci: When using the digits themselves, every base is base 10.  It is
+      more useful to use the last digit when not writing the number itself in
+      base 10.  (Here base 10 might be an implied default, overridden when using
+      non-base-10 characters like {vai}.)
+      multcu: xu ambigu .i xu do djica ti noi dacti
+    - multcu: vi'ursumji: $x_1=s_1=v_4$ is the mathematicall difference of $x_2=s_2=v_3$ and $x_3=s_3=v_2$; $x_1$ is $x_2$ minus $x_3$.
+      smuvelckivla: minus;subtraction, difference;mathematical
+    - multcu: mansydrata: $x_1=d_1=m_1$ is an alternative to $x_2=d_2=m_1$ for purpose $x_3=d_3=m_2$.
+      smuvelckivla: alternate;alternative, alternative;different satisfier
+    - multcu: prefintra: $x_1=t_2$ is the personal style / customization of $x_2=f_2$ customized / tailor-made for $x_3=f_3=p_1$ [person / purpose / traits] from basis / derived from $x_4=f_4$; $x_2$ is custom.
+      smuvelckivla: personal;custom, custom;personal style
+      notci: See also: {ficfu'i} (variant).
