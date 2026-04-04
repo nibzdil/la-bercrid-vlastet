@@ -1427,16 +1427,16 @@
       notci: "See also: {tolmu'i}, {to'eki'u}, {to'eni'i}, {to'eri'a}, {da'inai}."
     - multcu: zo'oi picky, zoizy too picky zy
     - multcu: zo'oi missing
-    - multcu: _: zo'oi etc
-    - ~~~~~~~~
-      ~~~multcu .i ko jmina lu« to'eki'u »li'u je lo me'oi etc
+    - multcu: "_: zo'oi etc"
     - multcu: zo fu'i'a jenai zo fa'u'i xu
     - multlcu: xu do nelci zo xi'i .i zo xi'i mo
-    - multcu: xi'a: superscript
-      selma'o: XI
-      vlakra: zo xi joi zo gapru .ija zo xi joi zo jamfu
-    - multcu: xi'ei: nonce free modifier
-      selma'o: XIhEI
+    - multcu: |
+        xi'a: superscript
+        selma'o: XI
+        vlakra: zo xi joi zo gapru .ija zo xi joi zo jamfu
+    - multcu: |
+        xi'ei: nonce free modifier
+        selma'o: XIhEI
     - multcu: |
         jmanoi: $x_1=n_1=j_1$ is a footnote for $x_2=n_2=j_2$.
         smuvelckivla: footnote
@@ -1446,53 +1446,54 @@
         smuvelckivla: available;able to be used, up for grabs;available
     - slabu:
       - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
-        notci: Deprecated in favor of {selplifrika'e} (ellision of {se} (CLL 12.9 rule of thumb) and {frika'e}).  See also: {selplifrika'e} (available).
+        notci: "Deprecated in favor of {selplifrika'e} (ellision of {se} (CLL 12.9 rule of thumb) and {frika'e}).  See also: {selplifrika'e} (available)."
         smuvelckivla: might use;usage is a possibility
         plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
-        notci: See also: {selplifrika'e} (available).
+        notci: "See also: {selplifrika'e} (available)."
         smuvelckivla: available;able to be used, up for grabs;available, available;use is possible, available;might be used
       - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
-        notci: Deprecated in favor of alternate {plicu'i} definition.
+        notci: "Deprecated in favor of alternate {plicu'i} definition."
         smuvelckivla: available;able to be used, up for grabs;available, available;use is possible, available;might be used
     - multcu: zo slabu cu ambigu ne'i le datnyvei .i ta'o cmeta
     - plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility under conditions $x_4=c_2$; $x_2$ is available to $x_1$.
-      notci: See also: {selplifrika'e} (available).
+      notci: "See also: {selplifrika'e} (available)."
       smuvelckivla: available;might use
     - cuxycu'i: $x_1=cux_1$ might choose $x_2=cux_2$ among options $x_3=cux_3$; $x_1$ choosing $x_2$ is a possibility under conditions $x_4=cum_2$; $x_2$ is an option.
-      notci: See also: {selcuxfrika'e} (option).
+      notci: "See also: {selcuxfrika'e} (option)."
       smuvelckivla: option;might choose
     - frika'e: $x_1=k_1=l_1$ is able to undergo / experience $x_2=k_2=l_2$ under conditions $x_3=k_3$; $x_1$ is $x_2$-able.
       smuvelckivla: able to be;can be acted upon, -able;able to undergo
-      notci: E.g. see {selplifrika'e} for an application in a lujvo.  See also: {ifkakne} (synonym).
+      notci: "E.g. see {selplifrika'e} for an application in a lujvo.  See also: {ifkakne} (synonym)."
     - selplifrika'e: $x_1=p_2=k_1=l_1$ is usable / available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=k_3$; $x_1$ is up for grabs.
       smuvelckivla: available;able to be used, up for grabs;available, available;capable of being used
     - selcuxfrika'e: $x_1=c_2=k_1=l_1$ is an option / selectable / choosable to $x_2=c_1$ among options $x_3=c_3$ under conditions $x_4=k_3$.
       smuvelckivla: option;something that can be chosen, selectable;option, choosable;option
     - slabu: |
-      - plika'e: $x_1$ can run on …_; $x_1$ is able to run.
-        vlakra: lu« ka'e bajra »li'u .ije lu« kakne co bajra »li'u
+        - plika'e: $x_1$ can run on …_; $x_1$ is able to run.
+          vlakra: lu« ka'e bajra »li'u .ije lu« kakne co bajra »li'u
     - gafka'e: $x_1=k_1=g_1$ (event) can change $x_2=g_2$ into $x_3=g_3$; $x_1$ is capable of modifying $x_2$ into $x_3$ under conditions $x_4=k_3$.
       vlakra: lu« ka'e galfi »li'u .ije lu« kakne co galfi »li'u
       smuvelckivla: can change;is capable of modifying
     - bi'orka'e: $x_1=k_1=b_1$ can become $x_2=b_2$ under conditions $x_3=k_3=b_3$; $x_1$ has potential $x_2$.
       vlakra: lu« ka'e binxo »li'u .ije lu« binxo co galfi »li'u
       smuvelckivla: can become;is capable of becoming, potential;can become
-      notci: See also: {tcinyza'i} (potential).
-    - multcu: _: discursive: realis - irrealis
-      vlakra: zo basti
-      notci: General realis .  See also: {da'i}.
-      cmeta: xu do djica ti .iji djica zo da'i po'o
+      notci: "See also: {tcinyza'i} (potential)."
+    - multcu: |
+        _: discursive: realis - irrealis
+        vlakra: zo basti
+        notci: General realis .  See also: {da'i}.
+        cmeta: xu do djica ti .iji djica zo da'i po'o
     - slabu .i zo bu'o'e: |
-      - multcu: by'e: elliptical BY
-        notci: "{xo'e} but for BY.  See also: {by'o} (null BY), {y'i} (elliptical connective)."
-        smuvelckivla: elliptical BY
+        - multcu: by'e: elliptical BY
+          notci: "{xo'e} but for BY.  See also: {by'o} (null BY), {y'i} (elliptical connective)."
+          smuvelckivla: elliptical BY
     - slabu .i zo tu'o: |
-      - multcu: by'o: null BY
-        notci: "If the grammar requires BY, a null can semantically be treated as though it didn't exist, e.g. starting starting a lerfu string as in «by'opaby broda».  Note «me ko'a moi» is grammatical.  See also: {by'e} (elliptical BY), {tu'o} (null mekso operand)."
-        smuvelckivla: null BY
-    - multcu: _: effectively/practically
-    - multcu: tol_: theoretically
-    - multcu: examine 
+        - multcu: by'o: null BY
+          notci: "If the grammar requires BY, a null can semantically be treated as though it didn't exist, e.g. starting starting a lerfu string as in «by'opaby broda».  Note «me ko'a moi» is grammatical.  See also: {by'e} (elliptical BY), {tu'o} (null mekso operand)."
+          smuvelckivla: null BY
+    - multcu: "_: effectively/practically"
+    - multcu: "tol_: theoretically"
+    - multcu: "examine "
     - slabu:
       - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
         notci: For specifically libertarian in sense of adherent to the political ideology, see {truzifsra}.
@@ -1507,16 +1508,16 @@
       smuvelckivla: effectively;has trait, in practice;effectively
     - praselva'i: $x_1=v_2=c_1$ is a productive good / asset / something of value that produces / can result in acquiring $x_2=c_2$ by process $x_3=c_3$; $x_1$ is capital, a good that can produce goods, and of value $x_4=v_1$ to $x_5=v_3$ for use/end $x_6=v_4$.
       smuvelckivla: capital;productive good
-      notci: See also: {prasivyci'e} (capitalism), {jdini} (money).
+      notci: "See also: {prasivyci'e} (capitalism), {jdini} (money)."
     - slabu:
         praselva'isi'o: $x_1=s_1$ is capitalism according to $x_1=s_3$; $x_1$ in the economic system or belief based on private ownership of 
         smuvelckivla: capitalism;economic system or belief
-        notci: See also: {selsivypo'e}.
+        notci: "See also: {selsivypo'e}."
     - prasivyci'e: $x_1=c_1$ is capitalism by standard $x_2$; $x_1$ is an economic system based on private ownership of productive goods.
-      notci: See also: {praselva'i} (capital), {pragubyci'e} (socialism), {selsivypo'e} (privately own).
+      notci: "See also: {praselva'i} (capital), {pragubyci'e} (socialism), {selsivypo'e} (privately own)."
       smuvelckivla: capitalism;economic system
     - pragubyci'e: $x_1=c_1$ is socialism by standard $x_2$; $x_1$ is an economic system based on social ownership of the means of production.
-      notci: See also: {praselva'i} (capital), {prasivyci'e} (capitalism).
+      notci: "See also: {praselva'i} (capital), {prasivyci'e} (capitalism)."
       smuvelckivla: socialism;economic system
     - plicru: $x_1=c_1$ allows $x_2=p_1$ to use/employ $x_3=p_2$ for purpose $x_4=p_3$ under conditions / terms $x_5=c_2$.
       smuvelckivla: allow;permit to use, give;share usage rights, donate;share usage rights
@@ -1524,7 +1525,7 @@
     - selsivypo'e: $x_1=p_1=s_2$ owns private property $x_2=p_2=s_1$ under law/custom $x_3=p_3$; $x_2$ is proprietary.
       smuvelckivla: proprietary;owns private property
       stuzi smuvelckivla: proprietor;private property, private property;something privately owned
-      notci: Technically, a private owner can freely give all usage rights as in the case of open source software, e.g. «po'ecru fi la'oi MIT», where an ownership translates into effective non-ownership.  If not specified, whether this is consented to or not might be implied by context, as in the notion of implied consent in some cultures.  See also: {tcinyra'igau} (e.g. «lo se po'ecru cu te tcinyra'igau»/«ro krali cu te tcinyra'igau»), {fingubni} (open source), {po'ecru} (consent), {fukpo'e} (copyright), {krasi} (right), {praselva'i} (capital), {ja'erkai} (effectively).
+      notci: "Technically, a private owner can freely give all usage rights as in the case of open source software, e.g. «po'ecru fi la'oi MIT», where an ownership translates into effective non-ownership.  If not specified, whether this is consented to or not might be implied by context, as in the notion of implied consent in some cultures.  See also: {tcinyra'igau} (e.g. «lo se po'ecru cu te tcinyra'igau»/«ro krali cu te tcinyra'igau»), {fingubni} (open source), {po'ecru} (consent), {fukpo'e} (copyright), {krasi} (right), {praselva'i} (capital), {ja'erkai} (effectively)."
     - ri'urkralytrusra: $x_1=s_1$ is a libertarian / negative-rights/self-ownership/freedom supporter / believer in aspect $x_2$; $x_1$ is libertarian.
       notci: "See also: {ri'urkralytrusrasi'o} (libertarianism), {ri'urkrali}/{badykrali} (negative right), {krali} (right), {prasivyci'e} (capitalism)."
       smuvelckivla: libertarian;politics, libertarian;negative rights supporter, libertarian;self-ownership supporter, libertarian;freedom supporter
@@ -1542,10 +1543,10 @@
       smuvelckivla: unnestable zoi;unnestable foreign quote
       vlakra: zo zoi'oi joi zo claxu
     - ri'urkrali: $x_1=k_1$ is a/the negative right of / owned by $x_2=k_2$ to exclude / restrain $x_3=r_1$ from $x_4=r_3$ by standard / under law / custom $x_5=k_3$; $x_2$ has the right to (tu'a) $x_4$ in the sense of non-interventionism rather than active obligation on another.
-      notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {srakrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law).
+      notci: "Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {srakrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law)."
       smuvelckivla: negative right;right to exclude
     - srakrali: $x_1=k_1$ is the positive right of / owned by $x_2=k_2$ to obligate $x_3=s_1$ to obligation / action $x_4=s_2$ by standard / under law / custom $x_5=k_3$; $x_2$ has the right to (tu'a) $x_4$ in the sense of active obligation.
-      notci: Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {ri'urkrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law).
+      notci: "Part of the negative rights vs. positive rights distinction.  E.g. negative rights: I have the right to not be prohibited from health care.  Positive rights: I have the right to obligate others to provide health care.  See also: {ri'urkrali} (positive right), {krali} (right), {ponse} (own), {bilga} (obliged), {marde} (morality), {flalu} (law)."
       smuvelckivla: positive right;right to obligate
     - nonmau: $x_1=z_1$ is greater than 0 in property/quantity $x_2=z_3$ by amount/excess $x_3=z_4$; $x_1$ is positive.
       smuvelckivla: positive;greater than zero
@@ -1556,22 +1557,28 @@
     - nonynalme'a: $x_1=m_1$ is not less than 0 in property/quantity $x_2=m_3$ by amount $x_3=m_4$; $x_1$ is non-negative.
       smuvelckivla: non-negative;not less than zero
       notci: E.g. the natural numbers are non-negative integers.
-    - multcu: vricymanri: $x_1=m_1$ is a manri for $x_2=m_2$ with rules $x_3=m_3$, with subjective $x_4$, standard $x_5$, basis for comparison $x_6$, frame of reference $x_7$, context $x_8$, and perspective/worldview $x_9$, in situation $x_10$.
-      multcu: .e'u finti lo fu'ivla (to zo vricrmanri toi)
+    - multcu: |
+        vricymanri: $x_1=m_1$ is a manri for $x_2=m_2$ with rules $x_3=m_3$, with subjective $x_4$, standard $x_5$, basis for comparison $x_6$, frame of reference $x_7$, context $x_8$, and perspective/worldview $x_9$, in situation $x_10$.
+        multcu: .e'u finti lo fu'ivla (to zo vricrmanri toi)
     - multcu: .i rafsi zo za'u .i zo'oi multi- bau la glico
     - multcu: xagmaugau zo sirgazgau
-    - multcu: dralanli: $x_1=l_1$ verifies / ascertains / validates / checks that $x_2=l_2=d_1$ is so / correct / valid in property/aspect $x_3=d_2$ in situation $x_4=d_3$ by standard $x_5=d_4$ by means / method / technique / system $x_6=l_3$.
-      smuvelckivla: verify;check validity of, validate;check validity of, 
-    - multcu: sirganzu: $x_1=g_1$ aligns / arranges linearly $x_2=g_2$ into aligned / alignment $x_3=g_3$, aligned between / with $x_4=s_2$ and $x_5=s_3$, by system/principle(s) $x_6=g_4$.
-      smuvelckivla: align;arrange linearly
-      slabu:
-        stuzi smuvelckivla: aligner;arrange linearly, aligned;something that one aligns, aligned;something that is aligned, alignment;something _
-    - multcu: drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
-      smuvelckivla: accumulate;build cumulatively
-    - multcu: fairfatygau: $x_1=g_1$ deallocates / unreserves / frees / takes back $x_2=fatr_1$ from $x_3=fatr_2$ with shares/portions $x_4=fatr_3$.
-      smuvelckivla: deallocate;free resource, unreserve;deallocate, free;deallocate, take back;deallocate
-      notci: See also: {tcinyra'igau} (hold), {fairgau} (allocate / distribute)
-    - multcu: plixautci: zo'oi utility
+    - multcu: |
+        dralanli: $x_1=l_1$ verifies / ascertains / validates / checks that $x_2=l_2=d_1$ is so / correct / valid in property/aspect $x_3=d_2$ in situation $x_4=d_3$ by standard $x_5=d_4$ by means / method / technique / system $x_6=l_3$.
+        smuvelckivla: verify;check validity of, validate;check validity of, 
+    - multcu: |
+        sirganzu: $x_1=g_1$ aligns / arranges linearly $x_2=g_2$ into aligned / alignment $x_3=g_3$, aligned between / with $x_4=s_2$ and $x_5=s_3$, by system/principle(s) $x_6=g_4$.
+        smuvelckivla: align;arrange linearly
+        slabu:
+          stuzi smuvelckivla: aligner;arrange linearly, aligned;something that one aligns, aligned;something that is aligned, alignment;something _
+    - multcu: |
+        drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
+        smuvelckivla: accumulate;build cumulatively
+    - multcu: |
+        fairfatygau: $x_1=g_1$ deallocates / unreserves / frees / takes back $x_2=fatr_1$ from $x_3=fatr_2$ with shares/portions $x_4=fatr_3$.
+        smuvelckivla: deallocate;free resource, unreserve;deallocate, free;deallocate, take back;deallocate
+        notci: "See also: {tcinyra'igau} (hold), {fairgau} (allocate / distribute)"
+    - multcu: |
+      plixautci: zo'oi utility
     - selxakmu'o: $x_1=m_1=xa_2$ is exhausted / depleted / completely consumed by $x_2=xa_1$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
       notci: "Examples: «le cidja selva'i zi co'a selxakmu'o» - ‘The food resources will soon be exhausted’.  «mi tatpi jai selxakmu'o lonu bajra» - ‘I'm exhausted from running’.  See also: {mulxaksu}, {xakmu'o}."
       smuvelckivla: exhausted;used up, depleted;exhausted
@@ -1583,34 +1590,37 @@
     - mulxaksu: $x_1=xa_1$ exhausts / fully depletes / completely consumes $x_2=xa_2$ by standard $x_3=m_3$; $x_2$ is all used up / has run out.
       notci: "See also: {selxakmu'o}, {xakmu'o}."
       smuvelckivla: exhaust;fully use up, deplete;exhaust
-    - multcu: ctake'u: re-examine
     - multcu: |
-      - multcu: ___?: poi'u: $x_1$ is such that the contained bridi holds true of it.
-        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  Breaking backwards-compatibility may sometimes be a ,  See also: {mansa}.
-        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  For breaking backwards-compatibility,  ,  See also: {mansa}.
-        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  This assignment grants this word's availability to those who do not have a .  Additionally, multiple places are supported, not just $x_1$.  For breaking backwards-compatibility,  ,  See also: {mansa}, {zo'e poi}.
-        notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  This assignment grants this word's availability to those who do not have a .  Additionally, multiple places are supported, not just $x_1$.  For breaking backwards-compatibility,  ,  See also: {mansa}, {zo'e poi}.
-        voi'u
-        vlakra: .e'u zo vo'a'e
-      - multcu: zo loi'u xu
-    - multcu: zo'ei zo vrokoi claxu xy 4
-    - multcu: zo vlatoldenmi: verbose
-    - multcu: xu zo tolkra: zo'oi target / zo'e
-    - multcu: xu zo na'e zei no: zo'oi non-zero
-    - multcu: jezyje'u: $x_1$ is the truth value / a boolean of $x_2$ under epistomology / system $x_3$.
-    - multcu: nalbilga: _
-    - multcu: zatcu'i: _
-    - multcu: vavbau: $x_1$ is the base-16 / hexadecimal encoding used by $x_2$ to interpret / express $x_3$.
-      smuvelckivla: hexadecimal;base-16 encoding
-      notci: When using the digits themselves, every base is base 10.  It is
-      more useful to use the last digit when not writing the number itself in
-      base 10.  (Here base 10 might be an implied default, overridden when using
-      non-base-10 characters like {vai}.)
-      multcu: xu ambigu .i xu do djica ti noi dacti
-    - multcu: vi'ursumji: $x_1=s_1=v_4$ is the mathematicall difference of $x_2=s_2=v_3$ and $x_3=s_3=v_2$; $x_1$ is $x_2$ minus $x_3$.
-      smuvelckivla: minus;subtraction, difference;mathematical
-    - multcu: mansydrata: $x_1=d_1=m_1$ is an alternative to $x_2=d_2=m_1$ for purpose $x_3=d_3=m_2$.
-      smuvelckivla: alternate;alternative, alternative;different satisfier
-    - multcu: prefintra: $x_1=t_2$ is the personal style / customization of $x_2=f_2$ customized / tailor-made for $x_3=f_3=p_1$ [person / purpose / traits] from basis / derived from $x_4=f_4$; $x_2$ is custom.
-      smuvelckivla: personal;custom, custom;personal style
-      notci: See also: {ficfu'i} (variant).
+        ctake'u: re-examine
+    - multcu: |
+        - multcu: ___?: poi'u: $x_1$ is such that the contained bridi holds true of it.
+          notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  Breaking backwards-compatibility may sometimes be a ,  See also: {mansa}.
+          notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  For breaking backwards-compatibility,  ,  See also: {mansa}.
+          notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  This assignment grants this word's availability to those who do not have a .  Additionally, multiple places are supported, not just $x_1$.  For breaking backwards-compatibility,  ,  See also: {mansa}, {zo'e poi}.
+          notci: This is Selpa'i's original new {voi} proposal re-assigned as {poi'u}; see ‘new voi’ proposal by la selpa'i for more information.  This assignment grants this word's availability to those who do not have a .  Additionally, multiple places are supported, not just $x_1$.  For breaking backwards-compatibility,  ,  See also: {mansa}, {zo'e poi}.
+          voi'u
+          vlakra: .e'u zo vo'a'e
+        - multcu: zo loi'u xu
+    - multcu: |
+        - multcu: zo'ei zo vrokoi claxu xy 4
+        - multcu: zo vlatoldenmi: verbose
+        - multcu: xu zo tolkra: zo'oi target / zo'e
+        - multcu: xu zo na'e zei no: zo'oi non-zero
+        - multcu: jezyje'u: $x_1$ is the truth value / a boolean of $x_2$ under epistomology / system $x_3$.
+        - multcu: nalbilga: _
+        - multcu: zatcu'i: _
+        - multcu: vavbau: $x_1$ is the base-16 / hexadecimal encoding used by $x_2$ to interpret / express $x_3$.
+          smuvelckivla: hexadecimal;base-16 encoding
+          notci: When using the digits themselves, every base is base 10.  It is
+          more useful to use the last digit when not writing the number itself in
+          base 10.  (Here base 10 might be an implied default, overridden when using
+          non-base-10 characters like {vai}.)
+          multcu: xu ambigu .i xu do djica ti noi dacti
+        - multcu: vi'ursumji: $x_1=s_1=v_4$ is the mathematicall difference of $x_2=s_2=v_3$ and $x_3=s_3=v_2$; $x_1$ is $x_2$ minus $x_3$.
+          smuvelckivla: minus;subtraction, difference;mathematical
+        - multcu: mansydrata: $x_1=d_1=m_1$ is an alternative to $x_2=d_2=m_1$ for purpose $x_3=d_3=m_2$.
+          smuvelckivla: alternate;alternative, alternative;different satisfier
+        - multcu: prefintra: $x_1=t_2$ is the personal style / customization of $x_2=f_2$ customized / tailor-made for $x_3=f_3=p_1$ [person / purpose / traits] from basis / derived from $x_4=f_4$; $x_2$ is custom.
+          smuvelckivla: personal;custom, custom;personal style
+          notci: See also: {ficfu'i} (variant).
+        - multcu: dinvelvi'u: remei .i ko jmina lo sumti nu lasna .ije ko jmina xy5 bi'o xy7
