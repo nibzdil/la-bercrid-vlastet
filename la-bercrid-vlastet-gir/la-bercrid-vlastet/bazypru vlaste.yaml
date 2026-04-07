@@ -521,7 +521,7 @@
       notci: "See also: {mleba'i}, {dibyxau}."
       smuvelckivla: splendid;excellent
       vlakra: macnu se krasi lo vrici bangu
-    - .i gundu'a: $x_1=d_1=g_1$ contributes work $x_2=d_2=g_2$ for value/goal/use/objective $x_3=g_3$ to [receiver]/[project] $x_4=d_3$.
+    - gundu'a: $x_1=d_1=g_1$ contributes work $x_2=d_2=g_2$ for value/goal/use/objective $x_3=g_3$ to [receiver]/[project] $x_4=d_3$.
       smuvelckivla: contribute;give a work
       stuzi smuvelckivla: contributor;giver of a work, contribution;a work given
     - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
@@ -926,8 +926,14 @@
       notci: "See also: {reltcinysumtcita} (tense), {tcinysumtcita} (modal/tense)."
       smuvelckivla: modal;sumtcita
     - reltcinysumtcita: $x_1=tcit_1=s_3$ is a tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) relative to $x_3$ (default) (e.g. «mi» or the bridi) for sumti $x_4=tcit_2=s_1$ of selbri $x_5=s_2$.
-      notci: "$x_3$ is essentially the default tense object when it is {zo'u'i}, which CLL specifies is generally the speaker / ‘me’ (e.g. the $x_1$ of «se purci» for «pu broda»), but can refer to the bridi (e.g. «mi pu'o broda»), perhaps creating a ‘higher bridi’ in relation to the ‘inner’ bridi of «mi broda», or alternatively modifying it to refer to the time interval before (the time interval that is «purci») «mi broda» (note, however, that «mi broda pu'o lonu brode» means that you broda  until  brode, so under this interpretation there is an assymetry (by $x_3$) between «mi pu'o broda» ＝ «mi broda pu'oku» ＝ «mi broda pu'ozo'u'i», and «mi broda pu'o ko'a», which means ‘I broda until it’, like «mi broda pu'ozo'u'au».  {zo'e} can be {zo'u'i} (default) as a hint, but {zo'e} can also represent an arbitrary sumti; {zo'u'au} is generally {zo'e} except non-default, so here «mi broda pu'ozo'u'au» means «mi broda pu'o ko'a» and such like.).  Suggestion: given the traditional use of e.g. «caku», «caku» can be understood to mean «cazo'eku» that especially means «cazo'u'iku» given this context but technically can also mean «cazo'u'au» or «cako'a»; «cazo'u'iku» is a more explicit «caku», as is «ca[tu'a]mi». See also: {zo'u'i} (default sumti), {zo'u'au} (non-default sumti), {pavtcinysumtcita} (modal), {tcinysumtcita} (modal/tense)."
+      notci: "$x_3$ is essentially the default tense object when it is {zo'u'i}, which CLL specifies is generally the speaker / ‘me’ (e.g. the $x_1$ of «se purci» for «pu broda»), but can refer to the bridi (e.g. «mi pu'o broda»), perhaps creating a ‘higher bridi’ in relation to the ‘inner’ bridi of «mi broda», or alternatively modifying it to refer to the time interval before (the time interval that is «purci») «mi broda» (note, however, that «mi broda pu'o lonu brode» means that you broda  until  brode, so under this interpretation there is an assymetry (by $x_3$) between «mi pu'o broda» ＝ «mi broda pu'oku» ＝ «mi broda pu'ozo'u'i», and «mi broda pu'o ko'a», which means ‘I broda until it’, like «mi broda pu'ozo'u'au».  {zo'e} can be {zo'u'i} (default) as a hint, but {zo'e} can also represent an arbitrary sumti; {zo'u'au} is generally {zo'e} except non-default, so here «mi broda pu'ozo'u'au» means «mi broda pu'o ko'a» and such like.).  Suggestion: given the traditional use of e.g. «caku», «caku» can be understood to mean «cazo'eku» that especially means «cazo'u'iku» given this context but technically can also mean «cazo'u'au» or «cako'a»; «cazo'u'iku» is a more explicit «caku», as is «ca[tu'a]mi». See also: {zo'u'i} (default sumti), {zo'u'au} (non-default sumti), {pavtcinysumtcita} (modal), {tcinysumtcita} (modal/tense), {na'onreltcinysumtcita}."
       smuvelckivla: tense;sumtcita
+    - multcu: na'onreltcinysumtcita: $x_1=tcit_1=s_3$ is a normal tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: "See also: {purnci'o}, {reltcinysumtcita}, {nalna'oreltcinysumtcita}."
+      smuvelckivla: normal tense;sumtcita
+    - multcu: nalna'oreltcinysumtcita: $x_1=tcit_1=s_3$ is an atypical tense (PU, etc.) of/based on/derived from $x_2=tcit_3=tcin_1$ (e.g. «se cabna» ({se} used for tense (see CLL 10.23)) for sumti $x_3=tcit_2=s_1$ of selbri $x_4=s_2$.
+      notci: "See also: {purnci'o}, {reltcinysumtcita}, {na'onreltcinysumtcita}."
+      smuvelckivla: atypical tense;sumtcita
     - zo'u'i: "pro-sumti: a default sumti value for this place in the relationship."
       selma'o: KOhA7
       notci: "This is not {zo'e}, but is specifically the default sumti.  See also: {zo'u'au} (non-default but otherwise elliptical sumti), {zo'e} (elliptical/unspecified sumti, which can be the default), {zu'i} (typical sumti), {zi'o} (deleted sumti), {di'oi} (default sumti, especially according to the selbri's definition), {di'au} (default sumti, by context and discourse rather than necessarily a selbri's definition), cadyselcu'a (default)."
@@ -993,18 +999,59 @@
     - vabycne: $x_1=c_1=v_2$ is dynamic in property $x_2=c_2$ in amount/degree $x_3=c_3$ in response to stimulus/conditions $x_3=c_4=v_1$.
       notci: "See also: {vabysto} (static), {a'a'enai} (dynamic discursive)."
       smuvelckivla: dynamic;unchanging
-    - multcu: zo velva'isnada
-    - multcu: zo fa'ormu'ogau
+    - multcu: velva'isnada: $x_1=s_1$ succeeds in goal $x_2=s_2$ as a result of / due to $x_3=s_3$, with ; $x_1$ makes a goal.
+      multcu: velva'isnada: $x_1=s_1$ succeeds in goal $x_2=s_2=v_4$ as a result of / due to $x_3=s_3=v_2$, goal of $x_4=v_3$, value [of $x_3$] of $x_5=v_1$; $x_1$ makes a goal.
+      multcu: velva'isnada: $x_1=s_1$ succeeds in goal $x_2=s_2=v_4$ as a result of / due to $x_3=s_3=v_2$, $x_4=v_3$ [e.g. $x_1$]'s goal, value [of $x_3$] of $x_5=v_1$; $x_1$ makes a goal.
+      multcu: velva'isnada: $x_1=s_1$ succeeds in goal $x_2=s_2=v_4$ as a result of / due to $x_3=s_3=v_2$, $x_4=v_3$ [e.g. $x_1$]'s goal, $x_3$'s value / amount of contribution / actionability / interchangeability being $x_5=v_1$; $x_1$ makes a goal.
+      smuvelckivla: goal;make a goal
+    - multcu: _: ko jdice va'o zo mulselfamgau
+    - multcu: zo fa'ormu'ogau .i la'a selbasygau va'o la'oi Neverball
+      fa'ormu'ogau: $x_1=g_1$ finishes $x_2=m_1=f_2$ with ending $x_3=f_1$; $x_1$ completes $x_2$ by standard $x_5$.
+    - multcu: mulselfamgau: $x_1=g_1$ finishes $x_2=f_1=m_1$ with ending $x_3=f_2$; $x_1$ completes $x_2$ in $x_4=m_2$ by standard $x_5=m_3$.
+      smuvelckivla: finish;complete, complete;make a wholesome end
+      notci: See also: {mulgau} (complete).
+    - multcu: selbasygau: $x_1=g_1$ replaces $x_2=b_2$ with $x_3=b_1$ for situation $x_4=b_3$.
+      smuvelckivla: replace;to make a substitute for
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
+      tocke'u: $x_1=k_1$ is $x_2=t_1$'s attempt of $x_3=t_2$ by means $x_4=t_3$ for the $x_5=k_3$th time.
+      smuvelckivla: attempt;an instance of retrying
+      notci: See also: {reftoi} (retry).
+    - multcu: reftoi: $x_1=t_1$ retries $x_2=t_2$ by means $x_3=t_3$ for the $x_4=k_3$th time.
+      notci: See also: {tocke'u} (attempt of).
+    - multcu: refcfagau: $x_1=g_1$ restarts $x_2=c_1$, for the $x_3=k_3$rd time.
+      smuvelckivla: restart;make to start again
     - multcu: zo refcfagau (to la'a je zo cfake'ugau toi)
+    - multcu: cfake'ugau: $x_1=g_1$ in doing $x_2=k_1$ restarts $x_3=k_2$ for the $x_4=k_3$rd time.
     - multcu: (zo fargau)
+    - multcu: fargau: $x_1=g_1$ aims, towards $x_2=f_1$, $x_3=f_3$ in manri $x_4$; $x_1$ aims $x_3$ at $x_2$.
+      smuvelckivla: aim;make to have direction of something
+      notci: This applies the typical pattern of the common «-gau» suffix to preserve the place structure and prepend an agent place.
     - multcu: (zo zengau)
     - multcu: (zo julra'o (to jmina xy 3 toi jecu vimcu fi lo liste))
     - multcu: "ja'ormupli: "
-    - multcu: "mlajerna: "
-    - multcu: "nalma'ufa'o: "
+    - multcu: ja'ormupli: $x_1=m_1=j_1$ is a demonstration of $x_2=m_2=j_2$ to $x_3=j_3$.
+      smuvelckivla: demonstration;something that shows something
+    - multcu: "mlajerna: $x_1=j_1$ earns bonus $x_2=j_2=m_1$ for $x_3=j_3$; $x_2$ is a bonus on top of $x_4=m_2$."
+      smuvelckivla: bonus;earn to the side
+      notci: "See also: {zilminxau} (bonus)."
+      multcu: xu do djica
+    - multcu: "zilminxau: $x_1=x_1=j_2 is an additional good / additionally good for $x_2=x_2$; $x_1$ is a bonus / extra benefit on top of $x_3=j_3$ by standard $x_4=x_3$."
+      smuvelckivla: bonus;additional good, benefit;extra beneficials
+      notci: "See also: {zilminxau} (earns bonus)."
+    - multcu: "nalma'ufa'o: $x_1=f_1$ is an immature end of $x_2=f_2=m_1$, lacking $x_3=m_2$."
+      notci: See also: {pruma'ufa'o} (abortion / premature end)
+      smuvelckivla: immature end
     - multcu: lo valsi seva'u zo pu'o je zo ca'o je zo ba'o
+    - multcu: purnci'o: $x_1$ is in the period before $x_2$, where $x_3$ is after, relative to default $x_4$ [bridi/speaker, default implicit outer bridi].
+      notci: brivla version of {pu'o}, {ca'o}, and {ba'o}.  These technically function a little differently from other tenses, where modals are {fi'o} of the $x_1$, normal tenses are {fi'o} of the $x_2$ and state the bridi is ‹modal› $x_2$ where $x_2$ defaults to «mi», and atypical tenses like {pu'o} instead defaults to the attached bridi, effectively producing a new outer bridi (which is then still $x_1$) that refers to the time period until the attached bridi.  See also: {nalna'oreltcinysumtcita}.
     - multcu: "mulkai: "
+      mulkai: $x_1=c_1=m_1$ is completely $x_2=c_2=m_2$ by standard $x_3=m_3$.
+      mulkai: $x_1=c_1=m_1$ is completed $x_2=c_2=m_2$ by standard $x_3=m_3$.
+      multcu: xu do djica lonu selbasygau kei va'o la'oi Neverball
+    - multcu: "mulkai: $x_1=c_1=m_1$ has completion $x_2=c_2=m_2$ by standard $x_3$; $x_1$ is completed."
+      notci: A tricky choice of lujvo.  This applies «-kai» like a past participle of «mulno».  This definition competes with alternatives such as instead applying «mul-» as a prefix to «ckafi» as in ‘$x_1$ is completely $x_2$’.  By this proposed choice of definitions, the «-kai» suffix takes priority, and the latter is moved to {kaircolmu'o}; however, lujvo construction follows guidelines only, and competing specifications are free to choose their own features, and users are free to choose their own dialects.
+    - multcu: "kaircolmu'o: $x_2=c_1=m_1$ is completely $x_2=c_2=m_2$ by standard $x_3$."
+      notci: $x_1$ has [mulno] $x_2$.  See also: {mulkai} (completed), a subtle difference.
     - multcu: "minbakfu: "
     - multcu: "zo'inrai: "
     - multcu: "vabytai: "
@@ -1624,3 +1671,11 @@
           smuvelckivla: personal;custom, custom;personal style
           notci: See also: {ficfu'i} (variant).
         - multcu: dinvelvi'u: remei .i ko jmina lo sumti nu lasna .ije ko jmina xy5 bi'o xy7
+    - mipygre: $x_1=p_1=m_1=m_2$ sneaks through $x_2=p_2$ to $x_3=p_3$ from $x_4=p_4$, hidden from $x_5=m_3$ by means $x_6=m_4$.
+      notci: Based on Qimar's contributions, this definition adds sumti links and decides to not drop the method of concealment or sneaking, and preserves vensa's smuvelckivla.
+      smuvelckivla: sneak through;pass secretly
+    - multcu: taflu'i: $x_1=l_1$ washes / launders $x_2=l_2=t_1$ of $x_3=l_3$ by $x_4=l_4$.
+    - multcu: e'i'a: attitudinal: guiding / leading - not guiding - following.
+      selma'o: UI1
+      vlakra: zo .e'u joi zo gidva
+      notci: See also: {.e'u} (suggestion), {xu'ai} (I declare), {ca'e} (I define), {gidva}, {selje'i}, {ko'oi}, {minde}.
