@@ -1006,10 +1006,11 @@
       smuvelckivla: goal;make a goal
     - multcu: _: ko jdice va'o zo mulselfamgau
     - multcu: zo fa'ormu'ogau .i la'a selbasygau va'o la'oi Neverball
-      fa'ormu'ogau: $x_1=g_1$ finishes $x_2=m_1=f_2$ with ending $x_3=f_1$; $x_1$ completes $x_2$ by standard $x_5$.
-    - multcu: mulselfamgau: $x_1=g_1$ finishes $x_2=f_1=m_1$ with ending $x_3=f_2$; $x_1$ completes $x_2$ in $x_4=m_2$ by standard $x_5=m_3$.
-      smuvelckivla: finish;complete, complete;make a wholesome end
-      notci: See also: {mulgau} (complete).
+      selfa'omulgau: $x_1=g_1$ finishes $x_2=m_1=f_2$ with ending $x_3=f_1$; $x_1$ completes $x_2$ in $x_4=m_2$ by standard $x_5=m_5$.
+    - slabu:
+        - multcu: mulselfamgau: $x_1=g_1$ finishes $x_2=f_1=m_1$ with ending $x_3=f_2$; $x_1$ completes $x_2$ in $x_4=m_2$ by standard $x_5=m_3$.
+          smuvelckivla: finish;complete, complete;make a wholesome end
+          notci: See also: {mulgau} (complete).
     - multcu: selbasygau: $x_1=g_1$ replaces $x_2=b_2$ with $x_3=b_1$ for situation $x_4=b_3$.
       smuvelckivla: replace;to make a substitute for
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
@@ -1052,8 +1053,13 @@
       notci: A tricky choice of lujvo.  This applies «-kai» like a past participle of «mulno».  This definition competes with alternatives such as instead applying «mul-» as a prefix to «ckafi» as in ‘$x_1$ is completely $x_2$’.  By this proposed choice of definitions, the «-kai» suffix takes priority, and the latter is moved to {kaircolmu'o}; however, lujvo construction follows guidelines only, and competing specifications are free to choose their own features, and users are free to choose their own dialects.
     - multcu: "kaircolmu'o: $x_2=c_1=m_1$ is completely $x_2=c_2=m_2$ by standard $x_3$."
       notci: $x_1$ has [mulno] $x_2$.  See also: {mulkai} (completed), a subtle difference.
-    - multcu: "minbakfu: "
+    - multcu: "minbakfu: ": $x_1=b_1=j_1$ is an add-on / extension / expansion pack adding $x_2=b_2=j_2$ in form $x_3=b_3$ to $x_4=j_3$, resulting in aggregate $x_5=j_4$.
+      smuvelckivla: add-on;additional package, extension;add-on
     - multcu: "zo'inrai: "
+    - multcu: "so'inrai: "
+      so'inrai: $x_1=t_1$ is most / greatest in quantity among $x_3=t_4$; $x_1$ is $x_2=t_3$rd-most in count among $x_4$.
+      notci: See also: {selylairai} (most).
+    - multcu: ___: .i zo selylairai la'acu'i na xagrai .i selylairai: $x_1=t_1=k_2$ is the greatest / most $x_2=
     - multcu: "vabytai: "
     - multcu: "narselju'o: "
     - multcu: "vidnyselclu: (to jmina xy 3 toi jecu vimcu fi lo liste)"
@@ -1679,3 +1685,14 @@
       selma'o: UI1
       vlakra: zo .e'u joi zo gidva
       notci: See also: {.e'u} (suggestion), {xu'ai} (I declare), {ca'e} (I define), {gidva}, {selje'i}, {ko'oi}, {minde}.
+    - multcu: "mapti: x1 matches x2 in x3 by standard x4."
+    - multcu: jorlnai: $x_1$ is an logical xclusive disjunction / XOR, stating that $x_2$ and $x_3$ are true and false or visa versa.
+      notci: See also: {kanxe}, {vlina}, {jetfrica}, {jetydu'i}, {jornja'ai}.
+      vlarka: lo'u« jonai »li'u
+    - multcu: jornja'ai: $x_1$ is a logical biconditional, stating that $x_2$ and $x_3$ are both true or both false.
+      notci: See also: {kanxe}, {vlina}, {jetfrica}, {jetydu'i}, {jorlnai}.
+      vlarka: lo'u« joja'ai »li'u
+    - multcu: nalmau: _
+      smuvelckivla: less than or equal to;not greater than
+    - multcu: nalme'a: _
+      smuvelckivla: less than or equal to;not greater than
