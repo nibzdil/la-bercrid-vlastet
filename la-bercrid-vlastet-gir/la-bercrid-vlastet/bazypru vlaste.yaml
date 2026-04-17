@@ -1060,8 +1060,15 @@
       so'inrai: $x_1=t_1$ is most / greatest in quantity among $x_3=t_4$; $x_1$ is $x_2=t_3$rd-most in count among $x_4$.
       notci: See also: {selylairai} (most).
     - multcu: ___: .i zo selylairai la'acu'i na xagrai .i selylairai: $x_1=t_1=k_2$ is the greatest / most $x_2=
-    - multcu: "vabytai: "
-    - multcu: "narselju'o: "
+    - multcu: "vabytai: $x_1=t_1=v_1$ is a theme / _ of $x_2=t_2=v_2$."
+      smuvelckivla: theme;environmental shape, subject;environmental shape
+    - nalterju'o: "$x_1=d_3$ is unknown / not known by $x_2=d_1$, lacking facts/knowledge $x_3=d_2$ under epistimology $x_3=d_4$."
+      smuvelckivla: unknown;not known subject
+      notci: See also: {nalserju'o} (unknown facts).
+    - nalselju'o: "That $x_1=d_2$ (facts) is unknown / not known by $x_2=d_1$, about subject $x_3=d_3$ under epistimology $x_3=d_4$."
+      smuvelckivla: unknown;not known facts
+      notci: See also: {nalserju'o} (unknown).
+    - multcu: "narselju'o: " - multcu .i ko basygau ne'i la neverbal
     - multcu: "vidnyselclu: (to jmina xy 3 toi jecu vimcu fi lo liste)"
     - multcu: "nalcando: "
     - multcu: "tolcando: "
@@ -1180,6 +1187,8 @@
     - multcu: "bramau: zo'oi bigger"
     - multcu: "ju'a'ei remoi nu pensi: zoi zy on second thought zy"
     - multcu: "dizmau: zo'oi lower"
+    - multcu: dizmau: $x_1=z_1=d_1$ is lower than $x_2=z_2$ is in frame of reference $x_3=d_2$ as compared with baseline/standard height $x_3=d_3$.
+      smuvelckivla: lower;more low than
     - multcu: "temke'u: zo'i time (to zoi zy this time zy toi)"
     - multcu: "tolxarnu: zo'oi willing"
     - multcu: "farsni: zo'oi arrow"
@@ -1696,3 +1705,8 @@
       smuvelckivla: less than or equal to;not greater than
     - multcu: nalme'a: _
       smuvelckivla: less than or equal to;not greater than
+    - multcu: jeznonmecnafygau: negate / sign flip
+      notci: See also: {ni'u zei nafygau}.
+    - multcu: ni'u zei nafygau: negate / sign flip
+      notci: See also: {ni'u zei nafygau}.
+    - multcu: la'oi https://mw.lojban.org/papri/experimental_rafsi .i ko jmina va'o zo za'u je zo ni'u je la'acu'i zo ma'u .i zo'oi multi-
