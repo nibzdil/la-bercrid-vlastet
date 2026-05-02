@@ -109,8 +109,10 @@
           :
           - valsi: "{{prula'i co'i'o valsi}}"
 - vlaste (vocabulary):
-    ? pli'aje: {bangu: jbo}
-      multcu: "finti: la bairyn"
+    ? pli'aje: {
+        bangu: jbo,
+        finti: la bairyn
+      }
     :
     - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
       selma'o: NUhI
