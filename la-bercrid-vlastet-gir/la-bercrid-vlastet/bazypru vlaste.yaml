@@ -633,7 +633,9 @@
     - tolpro: $x_1=f_1$ favors / supports / agrees with / is for $x_2=f_2$ about $x_3=f_3$.
       notci: "Non-neutral.  For consent, see {po'ecru}, which deals more closely with ownership and property rights.  It is possible to permit something you have ownership over while opposing it.  See also: «tugni», «zanru», «nalpro»."
       smuvelckivla: favor;doesn't oppose, supports;doesn't oppose, agrees with;doesn't oppose, is for;doesn't oppose
-    - nolpro: $x_1=f_1$ is passive / indifferent towards $x_2=f_2$ about $x_3=f_3$; $x_1$ is neither opposing nor in favor of $x_2$.
+    - nolpro: (Moved to {norpro}.)
+      notci: "Sorry, wrong rafsi."
+    - norpro: $x_1=f_1$ is passive / indifferent towards $x_2=f_2$ about $x_3=f_3$; $x_1$ is neither opposing nor in favor of $x_2$.
       notci: "Can be in action or thought.  See also: {nutli}, {cando}, {tugni}, {fapro}, {tolpro}, {nalpro}."
       smuvelckivla: passive;opposition, indifferent;opposition
     - tidyke'u: $x_1=k_1$ (event) is the instance/recurrence/repetition of $x_2=t_1$ [agent] reading $x_3=t_2$ [text] from surface/document/reading material $x_4=t_3$ for the $x_5=k_3$rd time; $x_2$ re-reads $x_3$ from $x_4$.
@@ -1051,7 +1053,7 @@
       multcu: xu do djica lonu selbasygau kei va'o la'oi Neverball
     - multcu: "mulkai: $x_1=c_1=m_1$ has completion $x_2=c_2=m_2$ by standard $x_3$; $x_1$ is completed."
       notci: A tricky choice of lujvo.  This applies «-kai» like a past participle of «mulno».  This definition competes with alternatives such as instead applying «mul-» as a prefix to «ckafi» as in ‘$x_1$ is completely $x_2$’.  By this proposed choice of definitions, the «-kai» suffix takes priority, and the latter is moved to {kaircolmu'o}; however, lujvo construction follows guidelines only, and competing specifications are free to choose their own features, and users are free to choose their own dialects.
-    - multcu: "kaircolmu'o: $x_2=c_1=m_1$ is completely $x_2=c_2=m_2$ by standard $x_3$."
+    - multcu: "kaircolmu'o: $x_1=c_1=m_1$ is completely $x_2=c_2=m_2$ by standard $x_3=m_3$."
       notci: $x_1$ has [mulno] $x_2$.  See also: {mulkai} (completed), a subtle difference.
     - multcu: "minbakfu: ": $x_1=b_1=j_1$ is an add-on / extension / expansion pack adding $x_2=b_2=j_2$ in form $x_3=b_3$ to $x_4=j_3$, resulting in aggregate $x_5=j_4$.
       smuvelckivla: add-on;additional package, extension;add-on
@@ -1062,10 +1064,10 @@
     - multcu: ___: .i zo selylairai la'acu'i na xagrai .i selylairai: $x_1=t_1=k_2$ is the greatest / most $x_2=
     - multcu: "vabytai: $x_1=t_1=v_1$ is a theme / _ of $x_2=t_2=v_2$."
       smuvelckivla: theme;environmental shape, subject;environmental shape
-    - nalterju'o: "$x_1=d_3$ is unknown / not known by $x_2=d_1$, lacking facts/knowledge $x_3=d_2$ under epistimology $x_3=d_4$."
+    - multcu: nalterju'o: "$x_1=d_3$ is unknown / not known by $x_2=d_1$, lacking facts/knowledge $x_3=d_2$ under epistimology $x_3=d_4$."
       smuvelckivla: unknown;not known subject
       notci: See also: {nalserju'o} (unknown facts).
-    - nalselju'o: "That $x_1=d_2$ (facts) is unknown / not known by $x_2=d_1$, about subject $x_3=d_3$ under epistimology $x_3=d_4$."
+    - multcu: nalselju'o: "That $x_1=d_2$ (facts) is unknown / not known by $x_2=d_1$, about subject $x_3=d_3$ under epistimology $x_3=d_4$."
       smuvelckivla: unknown;not known facts
       notci: See also: {nalserju'o} (unknown).
     - multcu: "narselju'o: " - multcu .i ko basygau ne'i la neverbal
