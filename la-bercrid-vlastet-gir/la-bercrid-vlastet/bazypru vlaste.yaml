@@ -204,6 +204,9 @@
       stuzi smuvelckivla: metadata;describing data, annotation;describing data
       notci: "Synonym: {cmetydatni}."
     - multcu: cmetydatni
+    - multcu: |
+      cmetydatni: $x_1=d_1=c_1$ is metadata of / about data $x_2=d_2=c_2$, gathered by method $x_3=d_3$ and sharing common structure $x_4=c_3$, with metadata features / keys / types $x_5=c_4$, according to $x_6=c_5$.
+      notci: _
     - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
     - fukfadmupli: $x_1=m_1=fa_1=fu_2$ is a template / prototype / role-model of property $x_2=m_2=fa_2$ for derivatives / influenced $x_3=m_3=fa_3=fu_1$ in form / medium $x_4=fu_3$ made by method $x_5=fu_4$.
       smuvelckivla: template;example, prototype;template, role-model;template
