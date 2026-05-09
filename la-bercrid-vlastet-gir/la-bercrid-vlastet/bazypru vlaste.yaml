@@ -222,7 +222,19 @@
     - xadysku: $x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
       smuvelckivla: gesture;non-verbal speech, gesticulate;gesture
     - multcu: "lo mutcu zo'u: farxadysku: point"
-    - multcu: "lo mutcu zo'u: le'oi: lenjo modal"
+    - le'oi: lenjo modal, 1st place (with lens; seen through view) accessed through interface; as …
+      selma'o: BAI
+      notci: |
+        {le'oi}: modal for {lenjo}.  Suitable for use as an option for one of the meanings of the English ‘as’, as in ‘in the role of’.  Inspired by Haskell lenses, analogous to this use.  {le'oi} is similar to {se}{tai}, meaning ‘in form’, and {fi'o} {te} {jvinu}.  {le'oi} focuses more on aspect than other types of correspondences, such using the more general modals {tai} (or {fi'o} {mapti} a bit more rigidly, possibly in a tanru) to express ‘as’, similarity, manners, conformance, proportionalities (suggestion: {fi'o} {te} {parbi} as in ‘for each’ or ‘per’), concurrence (e.g. in time), degree/extent (see {se}{la'u}, {du'i}, or {fi'o} {kuspe}), ‘in the sense of’ (see {fi'o} {smuni}), or other types.  Note: This proposed experimental cmavo costs 5 letters and a slot in 5-letter space, a relatively short word which can often be more efficiently allocated for more frequent, important, or fitting use.  Alternative, better designs or more efficient allocations can be proposed, possibly in a forked standard or dictionary.
+
+        ni'o Synonym: {setai}.  See also: {semai'ai} ({ki'irmapti}).
+
+        ni'o Example without modal: «lo terle'o be le spofu toknu bei loka nabypalne zbasu cu se vamji cmalu .ijeku'i lo terle'o be fi loka fagri cfagau cu mutce certu» - — As a pie-maker, the broken oven was of little worth, but as a fire starter, it was very good at it. ni'o Example with modal: «lo nacmei be le'oi loka se clalai cu pamei se cimde» — As a magnitude, a vector is one-dimensional.
+      smuvelckivla: as;in the role of, as;in role
+      mupli:
+        - lo terle'o be le spofu toknu bei loka nabypalne zbasu cu se vamji cmalu .ijeku'i lo terle'o be fi loka fagri cfagau cu mutce certu
+        - lo nacmei be le'oi loka se clalai cu pamei se cimde
+        - .i le cerda poi pu'o ponse cu ca ponse .i ka'e go'i .ije na ca'a go'i .i va'i le cerda cu ca ponse le'oi loka tcinyza'i
     - multcu: "lo mutcu zo'u: sai'a: simsa modal"
     - multcu: "lo mutcu zo'u: vo'a'e: {vo'a} but innermost scope even in descriptions; sequence to {vo'u'e}"
     - multcu: "lo mutcu zo'u: vo'a'ei: {vo'a} but outermost / main bridi of this sentence; sequence to {vo'u'a'ei}"
