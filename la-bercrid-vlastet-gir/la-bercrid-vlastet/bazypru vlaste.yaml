@@ -242,7 +242,11 @@
     - multcu: seva'o zo farsni .i xu zo'oi gy. direction of gy. .ijenai zo'oi gy.  direction towards gy. .ibabo ko jmina fi lo me'oi collection
     - multcu: _: $x_1$ is the direction _towards_ $x_2$ from $x_3$.
       _ farna
-    - farsni: _
+      klafa'a: $x_1=f_1=k_1$ is the direction towards (not direction of) $x_2=k_2$ from $x_3=k_3$ via route $x_4=k_4$ by means $x_5=k_5$ in frame of reference $x_6=f_3$.
+      notci: {fanra} means direction of something, not direction towards something, but {klafa'a} means direction towards something, or the direction of $x_3$ when it faces $x_2$.
+    - multcu: |
+      farsni: _
+      farsni: $x_1=s_1=f_2=f_3$ non-agentively/inanimately points at / indicates the direction toward $x_2=s_2=f_1$ to observer $x_3=s_3$ as being in the direction $x_4=x_2$.
       notci: This is based on and corrects rlpowell's previous definition: farna_1 is the direction of, not the direction towards, farna_2, i.e. farna_2 is towards farna_1.  The pointer is towards the thing pointed at; it isn't necessarily the direction of the pointed at thing itself.
       smuvelckivla: _
     - multcu: "lo multcu zo'u: farxadysku: point"
