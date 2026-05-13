@@ -205,7 +205,7 @@
       notci: "Synonym: {cmetydatni}."
     - cmetydatni: $x_1=d_1=c_1$ is metadata of / about data $x_2=d_2=c_2$, gathered by method $x_3=d_3$ and sharing common structure $x_4=c_3$, with metadata features / keys / types $x_5=c_4$, according to $x_6=c_5$.
       smuvelckivla: metadata;data of data
-      notci: Synonym: {skidatni}.
+      notci: "Synonym: {skidatni}."
     - bazypru: $x_1=p_1$ is tentative for purpose / satisfier $x_2=b_2$ under conditions $x_3=b_3$, before sufficiency $x_4=p_2$; $x_1$ is a work-in-progress or placeholder; $x_1$ is not yet processed.
     - fukfadmupli: $x_1=m_1=fa_1=fu_2$ is a template / prototype / role-model of property $x_2=m_2=fa_2$ for derivatives / influenced $x_3=m_3=fa_3=fu_1$ in form / medium $x_4=fu_3$ made by method $x_5=fu_4$.
       smuvelckivla: template;example, prototype;template, role-model;template
@@ -218,13 +218,40 @@
       smuvelckivla: factor;cause
       stuzi smuvelckivla: factor;cause
     - multcu: "(lo multcu zo'u: ¿xu jagri'a pensi stidi?) jbofu'ivlafavytsi: x1=fu1=v1=fu'ivla1=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3). (ji'a nitcu lo nu jmina lumci ja spali)"
+      multcu: |
+      jbofu'ivlafavytsi: $x_1=t_1=t_3=fa_2=v_1=fu'ivla_1$ is a fu'ivla synonym variant meaning $x_2=v_2=fu'ivla_2$ based on lujvo/word $x_3=t_2=fa_3=fu'ivla_4$, with meaning understood by / to / dictionary $x_4=v_3=fu'ivla_3$.
+      notci: Consider distinguishability vs semantic similarity as well.
     - multcu: "lo mutcu zo'u: lo valsi be lo xe fanva be zo'oi submit"
       multcu: xu lu setca benji li'u .i xu zo se'arbe'i .i foi'a na go'i .i zo setca .i lakne fa lodu'u se zasti lo xagmau .i xu zo sukbe'i
-    - multcu: "lo mutcu zo'u: farsni: arrow"
-    - multcu: xu zo farle'u: arrow
+      multcu: |
+      zu'erbe'i: $x_1=b_1=z_1$ submits / puts forth / sends / enters $x_2=b_2$ to/into $x_3=b_3$ for purpose $x_3=z_3$ from origin $x_4=b_4$ via means/medium $x_5=b_5$.
+      smuvelckivla: submit;put forward for a purpose
+      notci: See also: {benji}, {stidi}.
+    - multcu: "xu zo farle'u: arrow"
+    - multcu: |
+      slabu: |
+        farle'u: $x_1$ is an arrow / direction symbol _...
+        farle'u: $x_1=l_1=f_2$ is an arrow / direction symbol _...
+        selfarle'u: $x_1=l_1=f_2$ is an arrow / direction symbol 
+        notci: {se} elided from the seltau.  See also: {farsni}.
+      selfarle'u: $x_1=l_1=f_2$ is an arrow / direction symbol of alphabet/character-set $x_2=l_2$ representing direction / pointing towards $x_3=l_3=f_1$ from origin/in frame of reference $x_4=f_3$.
+      notci: See also: {farsni}.
+      smuvelckivla: arrow;direction symbol
     - xadysku: $x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
       smuvelckivla: gesture;non-verbal speech, gesticulate;gesture
-    - multcu: "lo mutcu zo'u: farxadysku: point"
+    - multcu: seva'o zo farsni .i xu zo'oi gy. direction of gy. .ijenai zo'oi gy.  direction towards gy. .ibabo ko jmina fi lo me'oi collection
+    - multcu: _: $x_1$ is the direction _towards_ $x_2$ from $x_3$.
+      _ farna
+    - farsni: _
+      notci: This is based on and corrects rlpowell's previous definition: farna_1 is the direction of, not the direction towards, farna_2, i.e. farna_2 is towards farna_1.  The pointer is towards the thing pointed at; it isn't necessarily the direction of the pointed at thing itself.
+      smuvelckivla: _
+    - multcu: "lo multcu zo'u: farxadysku: point"
+      multcu: |
+      farxadysku: $x_1=c_1$ gesturally points in direction $x_2=c_2=f_1$ of $x_3=f_2$ to audience $x_4=c_3$ through body $x_5=xa_1=f_3$ of $x_6=xa_2$.
+      multcu: TODO $x_2$ and $x_3$ pointing in direction or direction of you or the thing?
+      farxadysku: $x_1=c_1$ gesturally points at / towards / in direction $x_2=c_2=f_1$ to audience $x_3=c_3$, through body $x_4=c_4=xa_1=f_2$ of $x_5=xa_2$ (especially $x_1$), with direction relative to $x_6=f_3$ (especially $x_4$ i.e. the one pointing; can also be $x_3$).
+      notci: See also: {farsni} (point), {farle'u} (arrow).  $x_6$ is the frame of reference for $x_2$ (e.g. ‘is the person in font of me I'm talking to pointing to their left or to my left?’, which can also be expressed through {zunle}_2).
+      smuvelckivla: point;gestural point, _
     - le'oi: lenjo modal, 1st place (with lens; seen through view) accessed through interface; as …
       selma'o: BAI
       notci: |
@@ -1764,3 +1791,6 @@
     - multcu: "ni'u zei nafygau: negate / sign flip"
       notci: "See also: {ni'u zei nafygau}."
     - multcu: la'oi https://mw.lojban.org/papri/experimental_rafsi .i ko jmina va'o zo za'u je zo ni'u je la'acu'i zo ma'u .i zo'oi multi-
+    - multcu: "_: zo'oi trust"
+      xu ti: krilacri
+      .ua pumo'u co'e: _
