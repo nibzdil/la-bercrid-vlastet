@@ -254,14 +254,16 @@
       smuvelckivla: ‘point;directional, non-agentive’
       stuzi smuvelckivla: ‘pointer;directional, non-agentive’
     - multcu: |
-      farja'o: 
+      farja'o: $x_1=j_1=f_2=f_3$ shows the direction toward $x_2=f_1$ to audience $x_3=j_3$, that direction being $x_4=x_2$.
       notci: |
-        This is based on and intended to improve noralujv's previous definition: 
+        This is based on and intended to improve noralujv's previous definition: farna_1 is the direction of, not the direction toward, farna_2, i.e. farna_2 is toward farna_1.  The pointer is toward the thing pointed at; it isn't necessarily the direction of the pointed at thing itself.  This definition removes the confusion of or ambiguity between ‘direction of’ with ‘direction toward’.  To better preserve the original definition, a redundant direction place is added as $x_4$.  See also: {klafa'a} (direction toward, rather than direction of / facing).
 
         ni'o $f_3$ defaults to the $x_1$; in other words the direction (i.e. $x_4$) is relative to the $x_1$ place.  Cf. {farsni}, {degja'o}.
       smuvelckivla: show direction, ‘to indicate something; [point]’
       multcu: .i zo farja'o .i do djica lonu gasnu ma
       multcu~~~~~~~~~~~~~~~~~~~~ .i la'a lo romoi multcu sera'a ti .i xu lonu jmina zo klafarja'o .i xu lonu jmina lo co'e be zo farja'o .i co'e
+      multcu .i le ciksi cu jai se zu'edji lonu se smuni lodu'u zoizy.  direction toward .zy. .i seni'ibo mi djica lonu cikrygau .i ko jmina lo co'e be zo farja'o .i ku'i xu le smuni cu du zo'e pe zoizy. direction of .zy.
+      multcu .i xu meli fanra_1 cu nibli du lo me'oi direction
     - multcu: "lo multcu zo'u: farxadysku: point"
       multcu: |
       farxadysku: $x_1=c_1$ gesturally points in direction $x_2=c_2=f_1$ of $x_3=f_2$ to audience $x_4=c_3$ through body $x_5=xa_1=f_3$ of $x_6=xa_2$.
