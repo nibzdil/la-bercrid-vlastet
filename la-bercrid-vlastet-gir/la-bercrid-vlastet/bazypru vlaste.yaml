@@ -234,30 +234,39 @@
         farle'u: $x_1=l_1=f_2$ is an arrow / direction symbol _...
         selfarle'u: $x_1=l_1=f_2$ is an arrow / direction symbol 
         notci: {se} elided from the seltau.  See also: {farsni}.
-      selfarle'u: $x_1=l_1=f_2$ is an arrow / direction symbol of alphabet/character-set $x_2=l_2$ representing direction / pointing towards $x_3=l_3=f_1$ from origin/in frame of reference $x_4=f_3$.
+      selfarle'u: $x_1=l_1=f_2$ is an arrow / direction symbol of alphabet/character-set $x_2=l_2$ representing direction / pointing toward $x_3=l_3=f_1$ from origin/in frame of reference $x_4=f_3$.
       notci: See also: {farsni}.
       smuvelckivla: arrow;direction symbol
     - xadysku: $x_1=c_1$ gestures / gesticulates / non-verbally expresses / says $x_2=c_2$ to audience $x_3=c_3$ through body $x_4=c_4=xa_1$ of $x_5=xa_2$.
       smuvelckivla: gesture;non-verbal speech, gesticulate;gesture
-    - multcu: seva'o zo farsni .i xu zo'oi gy. direction of gy. .ijenai zo'oi gy.  direction towards gy. .ibabo ko jmina fi lo me'oi collection
-    - multcu: _: $x_1$ is the direction _towards_ $x_2$ from $x_3$.
+    - multcu: seva'o zo farsni .i xu zo'oi gy. direction of gy. .ijenai zo'oi gy.  direction toward gy. .ibabo ko jmina fi lo me'oi collection
+    - multcu: _: $x_1$ is the direction _toward_ $x_2$ from $x_3$.
       _ farna
-      klafa'a: $x_1=f_1=k_1$ is the direction towards (not direction of) $x_2=k_2$ from $x_3=k_3$ via route $x_4=k_4$ by means $x_5=k_5$ in frame of reference $x_6=f_3$.
-      notci: {fanra} means direction of something, not direction towards something, but {klafa'a} means direction towards something, or the direction of $x_3$ when it faces $x_2$.
+      klafa'a: $x_1=f_1=k_1$ is the direction toward (not direction of) $x_2=k_2$ from $x_3=k_3$ via route $x_4=k_4$ by means $x_5=k_5$ in frame of reference $x_6=f_3$.
+      notci: {fanra} means direction of something, not direction toward something, but {klafa'a} means direction toward something, or the direction of $x_3$ when it faces $x_2$.   Technically, {farna} alternatively could directly be used with {tu'a} in $x_2$ to indicate the direction not of the object itself, but the direction of the origin toward the object.
     - multcu: |
       farsni: _
       farsni: $x_1=s_1=f_2=f_3$ non-agentively/inanimately points at / indicates the direction toward $x_2=s_2=f_1$ to observer $x_3=s_3$ as being in the direction $x_4=x_2$.
       notci: |
-        This is based on and intended to improve rlpowell's previous definition: farna_1 is the direction of, not the direction towards, farna_2, i.e. farna_2 is towards farna_1.  The pointer is towards the thing pointed at; it isn't necessarily the direction of the pointed at thing itself.  This definition removes the confusion of or ambiguity between direction of with direction toward.  To better preserve the original definition, a redundant direction place is added as $x_4$.
+        This is based on and intended to improve rlpowell's previous definition: farna_1 is the direction of, not the direction toward, farna_2, i.e. farna_2 is toward farna_1.  The pointer is toward the thing pointed at; it isn't necessarily the direction of the pointed at thing itself.  This definition removes the confusion of or ambiguity between ‘direction of’ with ‘direction toward’.  To better preserve the original definition, a redundant direction place is added as $x_4$.  See also: {klafa'a} (direction toward, rather than direction of / facing).
 
-        ni'o $f_3$ defaults to the $x_1$, in other words the direction (i.e. $x_4$) is relative to the $x_1$ place.  Cf. {farja'o}, {degja'o}.
+        ni'o $f_3$ defaults to the $x_1$; in other words the direction (i.e. $x_4$) is relative to the $x_1$ place.  Cf. {farja'o}, {degja'o}.
       smuvelckivla: ‘point;directional, non-agentive’
       stuzi smuvelckivla: ‘pointer;directional, non-agentive’
+    - multcu: |
+      farja'o: 
+      notci: |
+        This is based on and intended to improve noralujv's previous definition: 
+
+        ni'o $f_3$ defaults to the $x_1$; in other words the direction (i.e. $x_4$) is relative to the $x_1$ place.  Cf. {farsni}, {degja'o}.
+      smuvelckivla: show direction, ‘to indicate something; [point]’
+      multcu: .i zo farja'o .i do djica lonu gasnu ma
+      multcu~~~~~~~~~~~~~~~~~~~~ .i la'a lo romoi multcu sera'a ti .i xu lonu jmina zo klafarja'o .i xu lonu jmina lo co'e be zo farja'o .i co'e
     - multcu: "lo multcu zo'u: farxadysku: point"
       multcu: |
       farxadysku: $x_1=c_1$ gesturally points in direction $x_2=c_2=f_1$ of $x_3=f_2$ to audience $x_4=c_3$ through body $x_5=xa_1=f_3$ of $x_6=xa_2$.
       multcu: TODO $x_2$ and $x_3$ pointing in direction or direction of you or the thing?
-      farxadysku: $x_1=c_1$ gesturally points at / towards / in direction $x_2=c_2=f_1$ to audience $x_3=c_3$, through body $x_4=c_4=xa_1=f_2$ of $x_5=xa_2$ (especially $x_1$), with direction relative to $x_6=f_3$ (especially $x_4$ i.e. the one pointing; can also be $x_3$).
+      farxadysku: $x_1=c_1$ gesturally points at / toward / in direction $x_2=c_2=f_1$ to audience $x_3=c_3$, through body $x_4=c_4=xa_1=f_2$ of $x_5=xa_2$ (especially $x_1$), with direction relative to $x_6=f_3$ (especially $x_4$ i.e. the one pointing; can also be $x_3$).
       notci: See also: {farsni} (point), {farle'u} (arrow).  $x_6$ is the frame of reference for $x_2$ (e.g. ‘is the person in font of me I'm talking to pointing to their left or to my left?’, which can also be expressed through {zunle}_2).
       smuvelckivla: point;gestural point, _
     - le'oi: lenjo modal, 1st place (with lens; seen through view) accessed through interface; as …
