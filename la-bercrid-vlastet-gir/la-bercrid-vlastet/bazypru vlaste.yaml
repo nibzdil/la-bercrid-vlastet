@@ -1377,6 +1377,8 @@
     - multcu: "_: me zo'oi aformentioned brivla .i notci: See also bi'unai .i ji'a xu zo ui"
     - multcu: "_: IIRC"
     - multcu: "_: IIUC"
+      notci: |
+        See also: {moi'icu'i} (IIRC), {pe'i} (IMO).
     - multcu: "_: zoizy if I'm not mistaken zy "
     - multcu: "nutcru: ko jmina le sumti nu lasna"
     - multcu: seva'u zo'oi lyrics .i e'u srana zo'oi letters ja zo'oi script
@@ -1588,6 +1590,8 @@
       smuvelckivla: despite motive;in spite of motive, despite motive;compound modal
       notci: "See also: {tolmu'i}, {to'eki'u}, {to'eni'i}, {to'eri'a}, {da'inai}."
     - multcu: zo'oi picky, zoizy too picky zy
+      nadypu'a: $x_1=p_1=n_1$ with difficulty pleases $x_2=p_2=n_2$ under conditions $x_3=p_3=n_3$; $x_2$ is picky / hard-to-please.
+      smulvelckivla: picky;hard to please
     - multcu: zo'oi missing
     - multcu: "_: zo'oi etc"
     - multcu: zo fu'i'a jenai zo fa'u'i xu
