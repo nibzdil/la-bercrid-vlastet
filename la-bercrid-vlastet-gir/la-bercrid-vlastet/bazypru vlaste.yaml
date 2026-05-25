@@ -229,7 +229,7 @@
       notci: See also: {benji}, {stidi}.
     - multcu: "xu zo farle'u: arrow"
     - multcu: |
-      slabu: |
+      tolci'o: |
         farle'u: $x_1$ is an arrow / direction symbol _...
         farle'u: $x_1=l_1=f_2$ is an arrow / direction symbol _...
         selfarle'u: $x_1=l_1=f_2$ is an arrow / direction symbol 
@@ -385,7 +385,7 @@
     - tu'e'ei: General-purpose left-bracket for arbitrary grouping of Lojban text; start highlight / selection marker.
     - tu'u'o: General-purpose right-bracket for arbitrary grouping of Lojban text; end highlight / selection marker.
     - pruma'ufa'o: $x_1=f_1=p_1$ is an abortion / premature end of $x_2=f_2=m_1$ before maturity $x_3=m_2$; $x_2$ aborts / is aborted / ends pre-maturely.
-    - slabu:
+    - tolci'o:
         xakmu'o: $x_1=m_1=xa_2$ is exhausted / depleted / completely consumed by $x_2=xa_2$ by standard $x_3=m_3$; $x_1$ is all used up / has run out.
         notci: "Examples: «le cidja selva'i zi co'a xakmu'o» - ‘The food resources will soon be exhausted’.  «mi tatpi jai xakmu'o lonu bajra» - ‘I'm exhausted from running’."
         smuvelckivla: exhausted;used up, depleted;exhausted
@@ -623,9 +623,9 @@
       smuvelckivla: elliptical place structure conversion
     - co'au: change place structure basis of a tanru to the left unit (repeatable).
       selma'o: SE
-      slabu:
+      tolci'o:
         notci: Somewhat similar to {co'ai} but as SE rather than COhAI (like a FA, which is also sticky); {co'au} affects the tanru and always picks a seltau or tertau .  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, even if {co} is used (12.2, 5.8) (e.g., «cidja coke carmi be loka titla» is not equivalent to «cidja co carmi loka titla», which might require a more poetic interpretation).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (new grammar to apply to the remaining attached sumti), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text).
-      slabu:
+      tolci'o:
         notci: Somewhat similar to {co'ai} but as SE rather than COhAI ({co'ai} is like a FA, which is also sticky); {co'au} affects the attached tanru and always picks a seltau or tertau overriding any {co} that is inside, but {co} outside can still have its sumti-filling effect.  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau.  Under LLG CLL Lojban, by default the tertau is used to select the place structure basis, but if {co} is used, the seltau is (12.2, 5.8).  A second experimental grammar feature would permit «SEnai» to inverse {co'au}.  Just as for {se}, beware that {co'au} actually attaches to the tanru, e.g. as in «co'auke broda brode» rather than «co'au broda brode», just as for «seke broda brode» (as in «broda se brode»).  See also {co'e'o} (merges the seltau and tertau place structures; SE grammar), {co'ai} (like FA that applies to the remaining attached sumti; but works more like an inverse of {co}'s place structure basis effect rather than specifically choosing the seltau or tertau), {se'o'e} (SE grammar), {do'o'e} (indicates the place structure is vague/elliptical; SE grammar), {to'o'e}…{toi} (more general attachment or application to an unspecified component or point in text), {pe'oi} (flexible grammar interpretation).
       notci: |
         {co'ai} but as SE rather than COhAI ({co'ai} is like a FA, which is also sticky); {co'au} affects the attached tanru and picks the left rather than the right tanru unit for the place structure basis, meaning the seltau without {co}, and the tertau with {co}, overriding {co}'s normal place structure basis described in CLL 5.8 where sumti to the right (but not left) are not filled into the normal selbri but to the right tanru unit which is the seltau when {co} is used (note that if a tanru is outside an inner {co'au} selbri, the tanru's place structure basis is used, not necessarily the inner one which happens to have {co'au}).  Because it is SE and not FA, {co'au} affects all sumti, changing the place structure basis for them all, whereas without {co'au}, the presence of {co} only affects sumti to the right of the selbri.  Recommended with experimental grammar feature that allows «SEku» in places other than before a brivla, since then you can say e.g. «carmi cidja co'auku loka titla», allowing «co'auku» to appear after the tanru is already said, when a speaker might possibly want to attach sumti to an already, previously spoken seltau (note that all sumti are affected regardless of the location of {co'au}, so long as it attaches to the bridi used).
@@ -1105,7 +1105,7 @@
     - multcu: "_: ko jdice va'o zo mulselfamgau"
     - multcu: zo fa'ormu'ogau .i la'a selbasygau va'o la'oi Neverball
       selfa'omulgau: $x_1=g_1$ finishes $x_2=m_1=f_2$ with ending $x_3=f_1$; $x_1$ completes $x_2$ in $x_4=m_2$ by standard $x_5=m_5$.
-    - slabu:
+    - tolci'o:
         - multcu: |
             mulselfamgau: $x_1=g_1$ finishes $x_2=f_1=m_1$ with ending $x_3=f_2$; $x_1$ completes $x_2$ in $x_4=m_2$ by standard $x_5=m_3$.
             smuvelckivla: finish;complete, complete;make a wholesome end
@@ -1186,7 +1186,7 @@
     - multcu: "bracre: "
     - multcu: "nalbi'o pamoi: zo'oi original"
     - multcu: "ranxlu: zo'oi gentle"
-    - slabu:
+    - tolci'o:
         multcu: "kelcrgolfo: $x_1$ (players / mass) plays golf in game / instance $x_2$, with golf standard / variant $x_3$."
         multcu: "vlakra: macnu se krasi lo vrici bangu"
         notci: "?: $x_2$ is the game / sport of golf (xu cmima?)"
@@ -1500,15 +1500,15 @@
     - kaikri: $x_1=k_1$ considers / deems / regards $x_2=c_1$ as $x_3=c_2$.
       notci: "See also: {ki'irxu'a} (assign to / attribute to / designate)."
       smuvelckivla: consider;deem, deem, regard;deem
-    - slabu:
+    - tolci'o:
         turtaikai: $x_1=c_1=t_2=s_2$ is formatted with / has format $x_2=c_2=t_1=s_1$.
         notci: "See also: {se turtai}."
         smuvelckivla: formatted;has format
-    - slabu:
+    - tolci'o:
         zifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for $x_2=z_1$ to have liberty $x_3=s_2=z_2$ under conditions $x_4=z_3$ against opposition / interferers $x_5=s_3$, a libertarian by means / in way $x_6=s_4$.
         notci: For specifically libertarian in sense of adherent to the political ideology, see {turzifsra}.
         smuvelckivla: libertarian;freedom advocate
-    - slabu:
+    - tolci'o:
         turzifsra: $x_1=s_1$ is a libertarian / political advocate for freedom in aspect $x_2$.
         notci: "See also: {zifsra}, {turzifsrasi'o} (libertarianism)."
         smuvelckivla: libertarian;politics
@@ -1620,11 +1620,11 @@
     - multcu: |
         jmanoi: $x_1=n_1=j_1$ is a footnote for $x_2=n_2=j_2$.
         smuvelckivla: footnote
-    - slabu:
+    - tolci'o:
         plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
         plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility.
         smuvelckivla: available;able to be used, up for grabs;available
-    - slabu:
+    - tolci'o:
       - plicu'i: $x_1=c_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=c_2$; $x_1$ is up for grabs.
         notci: "Deprecated in favor of {selplifrika'e} (ellision of {se} (CLL 12.9 rule of thumb) and {frika'e}).  See also: {selplifrika'e} (available)."
         smuvelckivla: might use;usage is a possibility
@@ -1648,7 +1648,7 @@
       smuvelckivla: available;able to be used, up for grabs;available, available;capable of being used
     - selcuxfrika'e: $x_1=c_2=k_1=l_1$ is an option / selectable / choosable to $x_2=c_1$ among options $x_3=c_3$ under conditions $x_4=k_3$.
       smuvelckivla: option;something that can be chosen, selectable;option, choosable;option
-    - slabu: |
+    - tolci'o: |
         - plika'e: $x_1$ can run on …_; $x_1$ is able to run.
           vlakra: lu« ka'e bajra »li'u .ije lu« kakne co bajra »li'u
     - gafka'e: $x_1=k_1=g_1$ (event) can change $x_2=g_2$ into $x_3=g_3$; $x_1$ is capable of modifying $x_2$ into $x_3$ under conditions $x_4=k_3$.
@@ -1674,7 +1674,7 @@
     - multcu: "_: effectively/practically"
     - multcu: "tol_: theoretically"
     - multcu: "examine "
-    - slabu:
+    - tolci'o:
       - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
         notci: For specifically libertarian in sense of adherent to the political ideology, see {truzifsra}.
         smuvelckivla: libertarian;freedom advocate
@@ -1689,7 +1689,7 @@
     - praselva'i: $x_1=v_2=c_1$ is a productive good / asset / something of value that produces / can result in acquiring $x_2=c_2$ by process $x_3=c_3$; $x_1$ is capital, a good that can produce goods, and of value $x_4=v_1$ to $x_5=v_3$ for use/end $x_6=v_4$.
       smuvelckivla: capital;productive good
       notci: "See also: {prasivyci'e} (capitalism), {jdini} (money)."
-    - slabu:
+    - tolci'o:
         praselva'isi'o: $x_1=s_1$ is capitalism according to $x_1=s_3$; $x_1$ in the economic system or belief based on private ownership of 
         smuvelckivla: capitalism;economic system or belief
         notci: "See also: {selsivypo'e}."
@@ -1748,7 +1748,7 @@
     - multcu: |
         sirganzu: $x_1=g_1$ aligns / arranges linearly $x_2=g_2$ into aligned / alignment $x_3=g_3$, aligned between / with $x_4=s_2$ and $x_5=s_3$, by system/principle(s) $x_6=g_4$.
         smuvelckivla: align;arrange linearly
-        slabu:
+        tolci'o:
           stuzi smuvelckivla: aligner;arrange linearly, aligned;something that one aligns, aligned;something that is aligned, alignment;something _
     - multcu: |
         drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
@@ -1763,7 +1763,7 @@
       notci: "Examples: «le cidja selva'i zi co'a selxakmu'o» - ‘The food resources will soon be exhausted’.  «mi tatpi jai selxakmu'o lonu bajra» - ‘I'm exhausted from running’.  See also: {mulxaksu}, {xakmu'o}."
       smuvelckivla: exhausted;used up, depleted;exhausted
     - xakmu'o: $x_1=m_1=xa_1$ finishes consuming $x_2=xa_2$ by standard $x_3=m_3$; $x_1$ has had their/its fill.
-      slabu: |
+      tolci'o: |
         notci: "{xakmu'o} focuses more on the consumer.  {selxakmu'o} means exhausted.  Note on lujvo construction: as a lujvo, {xakmu'o} does not elide {se} from the seltau (see CLL 12.9 guidelines) and, rather than applying the general bridi relationship to $m_1$ as a general principle (perhaps with {nu}), links $xa_1$ to $m_1$ (as might perhaps be done with {sese}); if this particular nuance is desired, then besides {mulxaksu}, constructions like {nunxakmu'o} and {selselxakmu'o} (or simply using an explicit bridi) may perhaps be used."
       notci: "{xakmu'o} focuses more on the consumer.  {selxakmu'o} means exhausted.  Note on lujvo construction: as a lujvo, {xakmu'o} does not elide {se} from the seltau (see CLL 12.9 guidelines) and, rather than applying the general bridi relationship to $m_1$ as a general principle, links $xa_1$ to $m_1$; if this particular nuance is desired, then besides {mulxaksu}, constructions like {nunxakmu'o} and {selselxakmu'o} for the former and latter (or simply using an explicit bridi) may perhaps be used."
       smuvelckivla: finish consuming;completion of consumption, had their fill;finished consuming
