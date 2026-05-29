@@ -1681,8 +1681,8 @@
         - multcu: by'o: null BY
           notci: "If the grammar requires BY, a null can semantically be treated as though it didn't exist, e.g. starting starting a lerfu string as in «by'opaby broda».  Note «me ko'a moi» is grammatical.  See also: {by'e} (elliptical BY), {tu'o} (null mekso operand)."
           smuvelckivla: null BY
-    - multcu: "_: effectively/practically"
-    - multcu: "tol_: theoretically"
+    - multcu: "_: effectively/practically" .i ko viska zo ja'erkai
+    - multcu: "tol_: theoretically" .i xu zo bityvelcki cu jicmu .i xu mu'a zo bityvelckikai
     - multcu: "examine "
     - tolci'o:
       - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
@@ -1696,6 +1696,13 @@
         smuvelckivla: libertarianism;political ideology
     - ja'erkai: $x_1=c_1$ is effectively $x_2=c_2=j_1$; $x_1$ has / is characterized by / is practically $x_2$ resulting from $x_3=j_2$.
       smuvelckivla: effectively;has trait, in practice;effectively
+      multcu: |
+      notci: "See also: {bityvelckikai} (theoretically)."
+    - multcu: |
+      bityvelckikai: $x_1=_$ is theoretically $x_2=_$; $x_1$ has / is characterized by / is theoretically $x_2$ _ $x_3$.
+      smuvelckivla: 
+      notci: "See also: {ja'erkai} (effectively)."
+      multcu: .i xu do djica zo'oi theoretical .i xu lo dukti cu drata zo'oi theoretical .i xu mu'a zo setsta ja lo drata
     - praselva'i: $x_1=v_2=c_1$ is a productive good / asset / something of value that produces / can result in acquiring $x_2=c_2$ by process $x_3=c_3$; $x_1$ is capital, a good that can produce goods, and of value $x_4=v_1$ to $x_5=v_3$ for use/end $x_6=v_4$.
       smuvelckivla: capital;productive good
       notci: "See also: {prasivyci'e} (capitalism), {jdini} (money)."
