@@ -1609,11 +1609,13 @@
       notci: |
         Does not use the more normal rafsi ‘nal’ for «na'e», but is a bit shorter than ‘nalkem-’.
       smuvelckivla: missing;not present when it should be
-    - bredi multcu: |
-      narzgadyzva: $x_1=zv_1=zg_1$ is missing from $x_2=zv_2=zg_1$ in situation / under conditions $x_3=zg_2$ by standard $x_4=zg_3$.
+    - multcu: je'i'a: attitudinal, heterogenous joi (multcu .i xu zo joi'i'a) .i zo ji'a .i co'e
+    - narzgadyzva: $x_1=zv_1=zg_1$ is missing from $x_2=zv_2=zg_1$ in situation / under conditions $x_3=zg_2$ by standard $x_4=zg_3$.
       notci: |
         Does not use the more normal rafsi ‘nal’ for «na'e», but is a bit shorter than ‘nalkem-’.
       smuvelckivla: missing;not present when it should be, absent;missing
+    - multcu: sera'a la neverbal zo darno ko se pilno seva'o zo'oi away vau xu
+    - multcu: zo boltai xu zo'oi sphere
     - multcu: nalplixla: deprecated
       notci: |
         Based on varikvalefor's {narplixla} definition, this uses the more
@@ -1844,3 +1846,11 @@
     - multcu: "_: zo'oi trust"
       xu ti: krilacri
       .ua pumo'u co'e: _
+    - tazysmi: $x_1=s_1$ is likewise / so / similar to that, that being $x_2=s_2$, in aspect $x_3=s_3$; $x_1$ is like that / this.
+      smuvelckivla: likewise;similar to that, so;similar to that, aforementioned;similar to that
+      notci: "See also: {tazyselsitna} (aformentioned)."
+      multcu: $x_1=s_1$ es así, siendo $x_2=s_2$ esto, en aspecto $x_3=s_3$.
+      multcu: $x_1=s_1$ es así, siendo esto $x_2=s_2$, en aspecto $x_3=s_3$.
+    - tazyselsitna: $x_1=s_2$ is aforementioned / said by $x_2=s_1$ in utterance $x_3=s_3$.
+      notci: "See also: {sazysmi} (like that)."
+      smuvelckavli: aforementioned;cited
