@@ -1681,9 +1681,11 @@
         - multcu: by'o: null BY
           notci: "If the grammar requires BY, a null can semantically be treated as though it didn't exist, e.g. starting starting a lerfu string as in «by'opaby broda».  Note «me ko'a moi» is grammatical.  See also: {by'e} (elliptical BY), {tu'o} (null mekso operand)."
           smuvelckivla: null BY
-    - multcu: "_: effectively/practically" .i ko viska zo ja'erkai
-    - multcu: "tol_: theoretically" .i xu zo bityvelcki cu jicmu .i xu mu'a zo bityvelckikai
-    - multcu: "examine "
+    - tolci'o: |
+      - multcu: "_: effectively/practically" .i ko viska zo ja'erkai
+      - multcu: "tol_: theoretically" .i xu zo bityvelcki cu jicmu .i xu mu'a zo bityvelckikai
+      - multcu: "examine "
+      - .i mi muvgau fiseka'a loka colci'o kei ki'u lodu'u se zasti lonu pilno ko'a joi lonu pilno ko'e .i ko'a du zo na'e .i ko'e du zo setsta
     - tolci'o:
       - nunzifsra: $x_1=s_1$ is a libertarian / freedom advocate / believer for freedom $x_2=n_1$, of $x_3=z_1$ to have liberty $x_4=s_2=z_2$ under conditions $x_5=z_3$ against opposition / interferers $x_6=s_3$, a libertarian by means / in way $x_7=s_4$.
         notci: For specifically libertarian in sense of adherent to the political ideology, see {truzifsra}.
