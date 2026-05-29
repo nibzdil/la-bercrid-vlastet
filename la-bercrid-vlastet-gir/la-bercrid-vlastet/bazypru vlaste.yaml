@@ -1764,9 +1764,11 @@
         smuvelckivla: align;arrange linearly
         tolci'o:
           stuzi smuvelckivla: aligner;arrange linearly, aligned;something that one aligns, aligned;something that is aligned, alignment;something _
-    - multcu: |
-        drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
-        smuvelckivla: accumulate;build cumulatively
+    - drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
+      smuvelckivla: accumulate;build cumulatively
+      multcu: |
+      ko jmina la lensisku ba lonu cikre
+      stuzi smuvelckivla: accumulate;build cumulatively, increment;increase in an accumulation, accumulation;heap added to
     - multcu: |
         fairfatygau: $x_1=g_1$ deallocates / unreserves / frees / takes back $x_2=fatr_1$ from $x_3=fatr_2$ with shares/portions $x_4=fatr_3$.
         smuvelckivla: deallocate;free resource, unreserve;deallocate, free;deallocate, take back;deallocate
