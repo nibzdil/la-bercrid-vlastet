@@ -1433,6 +1433,16 @@
       notci: "The left-operand can be a dictionary / dialect / standard, a namespace (as in Lean), a domain name label pe'ainai (part between dots) (Java order), something that can be accessed (like ‘.’ or ‘ ˆ.’ in Haskell lenses), and similar constructs.  {co'i'o} is a general ‘dot’ operator that can mean all of these.  See also: {joi'ei} (nonce connective)."
       vlakra: zo co joi zo pi (tota'o jabo zo pi'e toi) joi zo bo
       smuvelckivla: namespace;connective, dot operator;namespace
+    - jo'a'i: "non-logical connective: stable/static compose - neutral compose - dynamic/changing compose."
+      selma'o: JOI
+      vlakra: zo jonzba ce'o zo stodi
+      notci: Using the jacus grammar extension, {jo'a'i} (or {jo'a'inai}) can be used between consecutive NAhE to indicate the scale basis is unchanged (or uses specifically different scales).  See also: {a'a'e}, {pi'u'i}, {joi'u'i}.
+      smuvelckivla: static compose
+    - pi'u'i: "non-logical connective: application as a non-logical connective."
+      selma'o: JOI
+      vlakra: zo plipu'ija'e joi zo pi'u
+      notci: Application as of a function to an input argument, but with the grammar of {joi}.  See also: {lo}, {jo'a'i}, {plipu'ija'e}, {co'i'o}.
+      smuvelckivla: application connective
     - multcu: "_: zo'oi IIRC"
     - multcu: "_: zo'oi IIUC"
     - multcu: "_: zo'e je ma"
@@ -1764,10 +1774,8 @@
         smuvelckivla: align;arrange linearly
         tolci'o:
           stuzi smuvelckivla: aligner;arrange linearly, aligned;something that one aligns, aligned;something that is aligned, alignment;something _
-    - drejimna: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
+    - drejmina: $x_1=j_1$ adds $x_2=j_2$ to accumulation $x_3=d_1$ of $x_4=d_2$ at $x_5=d_3$, resulting in new accumulation $x_6=d_3$.
       smuvelckivla: accumulate;build cumulatively
-      multcu: |
-      ko jmina la lensisku ba lonu cikre
       stuzi smuvelckivla: accumulate;build cumulatively, increment;increase in an accumulation, accumulation;heap added to
     - multcu: |
         fairfatygau: $x_1=g_1$ deallocates / unreserves / frees / takes back $x_2=fatr_1$ from $x_3=fatr_2$ with shares/portions $x_4=fatr_3$.
@@ -1824,10 +1832,11 @@
       notci: Based on Qimar's contributions, this definition adds sumti links and decides to not drop the method of concealment or sneaking, and preserves vensa's smuvelckivla.
       smuvelckivla: sneak through;pass secretly
     - multcu: "taflu'i: $x_1=l_1$ washes / launders $x_2=l_2=t_1$ of $x_3=l_3$ by $x_4=l_4$."
-    - multcu: "e'i'a: attitudinal: guiding / leading - not guiding - following."
+    - e'i'a: "attitudinal: guiding / leading - not guiding - following."
       selma'o: UI1
       vlakra: zo .e'u joi zo gidva
-      notci: "See also: {.e'u} (suggestion), {xu'ai} (I declare), {ca'e} (I define), {gidva}, {selje'i}, {ko'oi}, {minde}."
+      notci: "Like an active or stronger version of {e'u} (suggestion).  See also: {xu'ai} (I declare), {ca'e} (I define), {gidva}, {selje'i}, {ko'oi}, {minde}."
+      smuvelckivla: guiding;attitudinal
     - multcu: "mapti: x1 matches x2 in x3 by standard x4."
     - multcu: "jorlnai: $x_1$ is an logical xclusive disjunction / XOR, stating that $x_2$ and $x_3$ are true and false or visa versa."
       notci: "See also: {kanxe}, {vlina}, {jetfrica}, {jetydu'i}, {jornja'ai}."
@@ -1855,3 +1864,15 @@
     - tazyselsitna: $x_1=s_2$ is aforementioned / said by $x_2=s_1$ in utterance $x_3=s_3$.
       notci: "See also: {sazysmi} (like that)."
       smuvelckavli: aforementioned;cited
+    - multcu: zo'oi already .i la'a lu« puzo'e »li'u
+    - multcu: kujycaumansa: perfunctory
+      kujycaumansa: $x_1=m_1=c_1=k_1$ carelessly satisfies $x_2=m_2$ by doing / in way $x_3=m_3$ without regard for / substance / competence / adequacy / expectation / thoroughness / normal / care $x_4=k_2=c_2$; $x_1$ is perfunctory / haphazard.
+      smuvelckivla: perfunctory;careless satisfier, haphazard;careless satisfier
+    - multcu: _: hereby (mu'a zoi'o I hereby assign)
+    - multcu: |
+      _: objective
+      kaurmanri: $x_1=k_1$ is an objective standard for observing/measuring/determining $x_2$.
+      notci: See also: {fatci}.
+    - multcu: |
+      karmaryra'a: $x_1=s_1=_$ is objective is aspect $x_2$.  TODO places
+      notci: See also: {fatci}.
