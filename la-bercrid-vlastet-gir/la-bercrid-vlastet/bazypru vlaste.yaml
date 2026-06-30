@@ -1764,6 +1764,16 @@
     - multcu: |
         vricymanri: $x_1=m_1$ is a manri for $x_2=m_2$ with rules $x_3=m_3$, with subjective $x_4$, standard $x_5$, basis for comparison $x_6$, frame of reference $x_7$, context $x_8$, and perspective/worldview $x_9$, in situation $x_10$.
         multcu: .e'u finti lo fu'ivla (to zo vricrmanri toi)
+        multcu: 4mai ma .i 5mai ma .i 6mai zo kabmanri .i 7mai ma .i 8mai ma .i 9mai ma .i 10mai ma
+        multcu: 4mai ma .i 5mai ma .i 6mai zo kabmanri .i 7mai ma .i 8mai zo vabmanri .i 9mai ma .i 10mai ma
+        multcu: 4mai ma .i 5mai ma .i 6mai zo kabmanri .i 7mai ma .i 8mai zo vabmanri .i 9mai ma .i 10mai tcinymanri
+        multcu: 4mai ma .i 5mai ma .i 6mai zo kabmanri .i 7mai zo terfarmanri xu? .i 8mai zo vabmanri .i 9mai tervinmanri .i 10mai tcinymanri
+        multcu: 4mai ma .i 5mai zo tibmanri .i 6mai zo kabmanri .i 7mai zo terfarmanri xu? .i 8mai zo vabmanri .i 9mai tervinmanri .i 10mai tcinymanri
+        multcu: 4mai ma .i 5mai zo tibmanri .i 6mai zo kabmanri .i 7mai zo stumanri xu? .i 8mai zo vabmanri .i 9mai tervinmanri .i 10mai tcinymanri
+        multcu: 4mai ma .i 5mai zo tibmanri .i 6mai zo kabmanri .i 7mai zo stumanri xu? .i 8mai zo vabmanri .i 9mai tervinmanri .i 10mai tcinymanri
+        vricymanri: $x_1=m_1$ is a (composite) manri for $x_2=m_2$ with rules $x_3=m_3$, with subjective $x_4$, standard $x_5$, basis for comparison $x_6$, frame of reference $x_7$, context $x_8$, and perspective/worldview $x_9$, in situation $x_10$.
+        multcu: 4mai zo selmansymanri xu? .i 5mai zo tibmanri .i 6mai zo kabmanri .i 7mai zo stumanri xu? .i 8mai zo vabmanri .i 9mai tervinmanri .i 10mai tcinymanri
+        multcu: 4mai zo selmansymanri xu? .i 5mai zo tibmanri .i 6mai zo kabmanri .i 7mai zo stumanri xu? .i 8mai zo vabmanri .i 9mai tervinmanri .i 10mai tcinymanri
     - multcu: .i rafsi zo za'u .i zo'oi multi- bau la glico
     - multcu: xagmaugau zo sirgazgau
     - multcu: |
