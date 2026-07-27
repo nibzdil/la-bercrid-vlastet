@@ -593,6 +593,7 @@
       selma'o: UI3c
       notci: "When the speaker is not aware of a way to precisely express meaning to their satisfaction, this can be used to pick a closest expression and indicate the meaning is slightly different or possibly improveable, until a precise or satisfactory construct is discovered.  Similar to {sa'enai}, but intended to indicate a possibly specific alternative meaning rather than vagueness or looseness in precision, although {sa'enai} might also work in some cases.  Example: «mi djica lo sa'enai djacu» might be used when what you want is water and/or alternatives that are close enough, like other hydrating drinks.  «mi djica lo pe'au djacu» might be used when you want something specific that is like water, perhaps a specific water-like substance, or you have some intended means of sumti qualification in mind, but since you haven't learned a good word or expression for it yet, you want to use «lo djacu» while also indicating that it's currently just the best way you know how to express it, especially when you expect that a more advanced understanding of vocabulary or topic would allow you to phrase it better differently, although the vagueness and semantic broadness in a gismu might sometimes be sufficient to adequately capture the meaning.  See also: {le}, {pe'ai}."
       smuvelckivla: approximate meaning, or something;or something like that
+      vlakra: zo pe'a joi zo claxu (to claxu loka satci toi)
     - pe'aunai: marks a construct as expressing the intended meaning to the speaker's satisfaction.
       selma'o: UI3c*
     - pagjdicu'a: $x_1=c_1=j_1=p_1$ votes for [ranked choice / top] $x_2=c_2=j_2$ in poll/decision/election $x_3=j_3$ among options/alternatives $x_4=c_3$ among voters $x_5=p_2$.
@@ -1249,7 +1250,7 @@
       notci: "See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A shorterned version is {crucauzva}."
       smuvelckivla: trespass;being present without the owner's consent
     - crucaule'a: $x_1=l_1$ steals $x_2=l_2$ from $x_3=l_3$ without the consent of $x_4=cu_1$ (e.g. $x_3$) under law / custom $x_5$.
-      notci: "See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A more explicit word with essentially the same meaning is {po'ercrucauzva}."
+      notci: "See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A more explicit word with essentially the same meaning is {po'ercrucaule'a}."
       smuvelckivla: steal;take without consent
     - po'ercrucaule'a: $x_1=l_1$ steals $x_2=z_2=l_2$ from $x_3=l_3$ without the consent of owner / right-holder $x_4=cu_1=p_1$ (e.g. $x_3$) under law / custom $x_5=p_3$; $x_1$ violates $x_4$'s ownership of $x_2$; $x_1$ takes $x_2$ without consent; $x_1$ is a thief.
       notci: "If the owner has the right to control use and exclude others (e.g. for a service or in the case of digital piracy), $x_2$ may be an event.  $x_3$ may be a trustee e.g. if $x_3$ is not $x_4$.  See also: {po'ecru} (consent), {ponse} (with notes on $x_3$).  A shorterned version is {crucaule'a}.  {po'ecrucaule'a} may also be divided into a theft that includes a tangible or direct loss ({jdikykemcrucaule'a}), and a theft that doesn't ({naljdikykemcrucaule'a}).  The general concept {po'ercrucaule'a} refers to a violation of ownership or rights (e.g. a taking away of part of one's rights)."
@@ -1883,6 +1884,23 @@
       _: objective
       kaurmanri: $x_1=k_1$ is an objective standard for observing/measuring/determining $x_2$.
       notci: See also: {fatci}.
+      multcu: fatci zasti manri
+      multcu: facyzatmanri: $x_1=m_1=z_2$ is an objective standard for observing/measuring/determining $x_2=m_2=z_1$ with/by rules $x_3=m_3$ under objective reality $x_4=z_3=f_1$; $x_2$ is objective.
+      notci: |
+        See also: {fatci}, {marnalkau}.
     - multcu: |
       karmaryra'a: $x_1=s_1=_$ is objective is aspect $x_2$.  TODO places
       notci: See also: {fatci}.
+      marnalkau: $x_1=$ 
+      notci: See also: {marnalkau}.
+      nalkaumanri: $x_1=m_1=k_2$ is a subjective standard for observing/measuring/determining $x_2=m_2=k_1$ with/by rules $x_3=m_3$; $x_2$ is subjective.
+    - multcu: _: session
+    - multcu: zo pe'au .i ko jmina bu'uda zo'oi metonymy ja zo'oi metonymic ja lo simna .i menli galfi .i na mintu
+    - multcu: _: lo <bridi> be ko'a: lu'a'au: lome zo'oi each be setai loka bridi
+    - multcu: _: lo mezo pe'au be le'oi loka me'oi metonym
+    - pe'au'i: metonym marker; marks construct as standing for something else.
+      selma'o: UI3c
+      smuvelckivla: metonym;substitutionary symbol, metonymic tag;substitutionary symbol
+      vlakra: zo pe'au joi lome zo sinxa (to ja zo krati ja zo basna ja zo simsa ja zo pagbu toi)
+      notci: |
+        See also: {pe'au}, {le'oi}, {pe'oi}, {pe'ai}, {pe'a}.
