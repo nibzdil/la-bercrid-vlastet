@@ -1880,20 +1880,27 @@
       kujycaumansa: $x_1=m_1=c_1=k_1$ carelessly satisfies $x_2=m_2$ by doing / in way $x_3=m_3$ without regard for / substance / competence / adequacy / expectation / thoroughness / normal / care $x_4=k_2=c_2$; $x_1$ is perfunctory / haphazard.
       smuvelckivla: perfunctory;careless satisfier, haphazard;careless satisfier
     - multcu: _: hereby (mu'a zoi'o I hereby assign)
-    - multcu: |
-      _: objective
-      kaurmanri: $x_1=k_1$ is an objective standard for observing/measuring/determining $x_2$.
-      notci: See also: {fatci}.
-      multcu: fatci zasti manri
-      multcu: facyzatmanri: $x_1=m_1=z_2$ is an objective standard for observing/measuring/determining $x_2=m_2=z_1$ with/by rules $x_3=m_3$ under objective reality $x_4=z_3=f_1$; $x_2$ is objective.
-      notci: |
-        See also: {fatci}, {marnalkau}.
-    - multcu: |
-      karmaryra'a: $x_1=s_1=_$ is objective is aspect $x_2$.  TODO places
-      notci: See also: {fatci}.
-      marnalkau: $x_1=$ 
-      notci: See also: {marnalkau}.
-      nalkaumanri: $x_1=m_1=k_2$ is a subjective standard for observing/measuring/determining $x_2=m_2=k_1$ with/by rules $x_3=m_3$; $x_2$ is subjective.
+    - ralte:
+      - multcu: |
+        menkauza'i: $x_1=z_1$ exists mind-independently in/for $x_2=z_2$ under metaphysics $x_3=z_3$; $x_1$ is objective, independent of minds or subjects $x_4=k_2$; $x_2$ is objective reality.
+        smuvelckivla: objective;mind-independent
+        notci: |
+          See also: {facyzatmanri} (objective), {nalkaumanri} (subjective), {menynalkauza'i} (mind-dependent), {sajra'a} (subjective), {selsajra'a} (objective); 3 different takes on objective/subjective ({manri}, {menli}, {sanji}).
+      - multcu: |
+        menynalkauza'i: $x_1=z_1$ exists mind-dependently in/for $x_2=z_2$ under metaphysics $x_3=z_3$; $x_1$ is subjective, dependent on minds or subjects $x_4=k_2$.
+        smuvelckivla: subjective;mind-dependent
+        notci: |
+          See also: {facyzatmanri} (objective), {nalkaumanri} (subjective), {menkauza'i} (mind-independent); 3 different takes on objective/subjective ({manri}, {menli}, {sanji}).
+      - multcu: |
+        facyzatmanri: $x_1=m_1=z_2$ is an objective standard for observing/measuring/determining $x_2=m_2=z_1$ with/by rules $x_3=m_3$ under objective reality $x_4=z_3=f_1$; $x_2$ is objective.
+        notci: |
+          See also: {facmu'e} (reality), {facyza'i} (real), {fatci}, {marnalkau} (subjective), {menkauza'i} (mind-independent); 3 different takes on objective/subjective ({manri}, {menli}, {sanji}).
+        smuvelckivla: objective;absolute reality
+      - multcu: |
+        nalkaumanri: $x_1=m_1=k_2$ is a subjective standard for observing/measuring/determining $x_2=m_2=k_1$ with/by rules $x_3=m_3$; $x_2$ is subjective; 3 different takes on objective/subjective ({manri}, {menli}, {sanji}).
+        subjective:relative reality
+        notci: |
+          See also: {facyzatmanri} (objective), {menkauza'i} (mind-independent); 3 different takes on objective/subjective ({manri}, {menli}, {sanji}).
     - multcu: _: session
     - multcu: zo pe'au .i ko jmina bu'uda zo'oi metonymy ja zo'oi metonymic ja lo simna .i menli galfi .i na mintu
     - multcu: _: lo <bridi> be ko'a: lu'a'au: lome zo'oi each be setai loka bridi
