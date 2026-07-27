@@ -1,6 +1,9 @@
 - skidatni:
     - notci:
         - lo gensu'a je'i'a:
+          - lo te tcinyra'igau valsi: |
+              lo se jersi valsi cu valsi je tcinyra'igau: .i joi'u'i
+              zo cmeta zo multcu
           - lo valsi valsi xu'asmu tortadji je'i'a: |
               lonu pilno lonu na se zasti zo xu'asmu cu cumki .i no ko'a cu
               setsta vasru zo'oi - no'usa'unai lo sirji stedai
@@ -108,6 +111,10 @@
         finti: la bairyn
       }
     :
+    - cmeta:
+        pli'aje:
+          bangu: jbo
+          finti: la bairyn
     - ce'ei: galfi lo sumti xokaumei lo sumti i smudu'i lo linsi pe zo ce i va'i lu ce'ei a'y boi by boi cy boi dy boi e'y li'o li'u smudu'i lu a'y ce by ce cy ce dy ce e'y li'o li'u
       selma'o: NUhI
       notci: |
@@ -1111,9 +1118,9 @@
     - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
       tocke'u: $x_1=k_1$ is $x_2=t_1$'s attempt of $x_3=t_2$ by means $x_4=t_3$ for the $x_5=k_3$th time.
       smuvelckivla: attempt;an instance of retrying
-      notci: "See also: {reftoi} (retry)."
+      notci: "See also: {reftoi} (retry).  This lujvo appends {krefu} and keeps $krefu_1$."
     - multcu: "reftoi: $x_1=t_1$ retries $x_2=t_2$ by means $x_3=t_3$ for the $x_4=k_3$th time."
-      notci: "See also: {tocke'u} (attempt of)."
+      notci: "See also: {tocke'u} (attempt of).  This lujvo prepends {krefu} and drops $krefu_1$."
     - multcu: "refcfagau: $x_1=g_1$ restarts $x_2=c_1$, for the $x_3=k_3$rd time."
       smuvelckivla: restart;make to start again
     - multcu: zo refcfagau (to la'a je zo cfake'ugau toi)
@@ -1915,3 +1922,5 @@
       selma'o: UI3
       discursive: explaining - _; «.ui'ei ciksi»
       notci: See also: {sa'unai}, {jai'o}.
+    - multcu: _: reorganize - refyganzu
+      refyganzu: $x_1=g_1$ reorganizes $x_2=g_2$ [relative chaos] into $x_3=g_3$ [ordered/organized result] by system/principles(s) $x_4=g_4$ in instance $x_5=k_1$ for the $x_6=k_3$'rd time.
