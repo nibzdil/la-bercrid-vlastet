@@ -1115,12 +1115,12 @@
             notci: "See also: {mulgau} (complete)."
     - multcu: "selbasygau: $x_1=g_1$ replaces $x_2=b_2$ with $x_3=b_1$ for situation $x_4=b_3$."
       smuvelckivla: replace;to make a substitute for
-    - multcu: zo tocke'u je zo reftoi (to milxe fricu toi)
-      tocke'u: $x_1=k_1$ is $x_2=t_1$'s attempt of $x_3=t_2$ by means $x_4=t_3$ for the $x_5=k_3$th time.
+    - tocke'u: $x_1=k_1$ is $x_2=t_1$'s attempt of $x_3=t_2$ by means $x_4=t_3$ for the $x_5=k_3$th time.
       smuvelckivla: attempt;an instance of retrying
       notci: "See also: {reftoi} (retry).  This lujvo appends {krefu} and keeps $krefu_1$."
-    - multcu: "reftoi: $x_1=t_1$ retries $x_2=t_2$ by means $x_3=t_3$ for the $x_4=k_3$th time."
+    - reftoi: $x_1=t_1$ retries $x_2=t_2$ by means $x_3=t_3$ for the $x_4=k_3$th time.
       notci: "See also: {tocke'u} (attempt of).  This lujvo prepends {krefu} and drops $krefu_1$."
+      smuvelckivla: retry;try again
     - multcu: "refcfagau: $x_1=g_1$ restarts $x_2=c_1$, for the $x_3=k_3$rd time."
       smuvelckivla: restart;make to start again
     - multcu: zo refcfagau (to la'a je zo cfake'ugau toi)
