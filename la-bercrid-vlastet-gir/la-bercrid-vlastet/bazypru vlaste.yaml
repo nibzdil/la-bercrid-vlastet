@@ -1,5 +1,9 @@
 - skidatni (meta):
     - notci (notes):
+        - lo gensu'a je'i'a:
+          - zo ralte je'i'a: |
+              .i so'i stedai cu xamgu jecuku'i .e'u na banzu sesau .i mi tcitygau
+              be fi ra zo ralte lonu jmina fi la lensisku
         - fukfadmupli pe'ai (template):
             - vlaste (vocabulary):
                 - li'enrai: x1=l1=t1 is initial in property x2=r2 in sequence x3=l3
@@ -1876,11 +1880,12 @@
       notci: "See also: {sazysmi} (like that)."
       smuvelckavli: aforementioned;cited
     - multcu: zo'oi already .i la'a lu« puzo'e »li'u
-    - multcu: kujycaumansa: perfunctory
-      kujycaumansa: $x_1=m_1=c_1=k_1$ carelessly satisfies $x_2=m_2$ by doing / in way $x_3=m_3$ without regard for / substance / competence / adequacy / expectation / thoroughness / normal / care $x_4=k_2=c_2$; $x_1$ is perfunctory / haphazard.
+    - kujycaumansa: $x_1=m_1=c_1=k_1$ carelessly satisfies $x_2=m_2$ by doing / in way $x_3=m_3$ without regard for / substance / competence / adequacy / expectation / thoroughness / normal / care $x_4=k_2=c_2$; $x_1$ is perfunctory / haphazard.
       smuvelckivla: perfunctory;careless satisfier, haphazard;careless satisfier
     - multcu: _: hereby (mu'a zoi'o I hereby assign)
     - ralte:
+      - cmeta:
+          - notci: .i zo sajra'a
       - multcu: |
         menkauza'i: $x_1=z_1$ exists mind-independently in/for $x_2=z_2$ under metaphysics $x_3=z_3$; $x_1$ is objective, independent of minds or subjects $x_4=k_2$; $x_2$ is objective reality.
         smuvelckivla: objective;mind-independent
@@ -1911,3 +1916,7 @@
       vlakra: zo pe'au joi lome zo sinxa (to ja zo krati ja zo basna ja zo simsa ja zo pagbu toi)
       notci: |
         See also: {pe'au}, {le'oi}, {pe'oi}, {pe'ai}, {pe'a}.
+    - multcu: |
+      stedai: $x_1=d_1$ is an item/entry of/in list/collection/type $x_2=l_1$.
+      notci: See also: {vreji}.
+      smuvelckivla: item;object of a list, entry;item
