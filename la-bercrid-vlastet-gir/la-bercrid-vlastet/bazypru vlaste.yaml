@@ -1,5 +1,5 @@
-- skidatni (meta):
-    - notci (notes):
+- skidatni:
+    - notci:
         - lo gensu'a je'i'a:
           - lo valsi valsi xu'asmu tortadji je'i'a: |
               lonu pilno lonu na se zasti zo xu'asmu cu cumki .i no ko'a cu
@@ -7,8 +7,8 @@
           - zo ralte je'i'a: |
               .i so'i stedai cu xamgu jecuku'i .e'u na banzu sesau .i mi tcitygau
               be fi ra zo ralte lonu jmina fi la lensisku
-        - fukfadmupli pe'ai (template):
-            - vlaste (vocabulary):
+        - fukfadmupli pe'ai:
+            - vlaste:
                 - li'enrai: x1=l1=t1 is initial in property x2=r2 in sequence x3=l3
                 - bazpru: x1 is tentative for purpose/satisfier x2 under conditions x3; x1 is a work-in-progress or placeholder; x1 is not yet processed.
                 - stoveipa'o: x1=s1=v1=p1 is a snapshot/record/commit of data x2=v2 in repository/data storage x3=v4, about/pertaining to x4=v3, immutable and static/unchanging in property x5=s2; x1 is a commit.
