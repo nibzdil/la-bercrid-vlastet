@@ -1942,3 +1942,35 @@
     - multcu: su'ai: 
       notci: See also: {pe'au}.
       multcu: mi'au: 
+      notci: 
+      Say you want to use a closely related word, but you want to modify it.
+      Perhaps like using reflexives to modify the meaning of a verb in some
+      languages, {mi'au} can be used e.g. as in «ko'a mi'au broda ko'e ko'i»,
+      to indicate possibly a modified meaning or specific interpretation.
+      Alternatively fill in the place to indicate which alternative meaning, or
+      to specify an interpretation.  See also: {pe'au}.
+      multcu: ko cusku ne'i lo pinka je'i'a .i zoizy Sorry, gleki. zy.
+    - multcu: .i rafsi zo za'u .i zo'oi multi- bau la glico .i xu zo'oi zav (to zo pa toi) .i ku'i lonu frica cu zmadu la'a co xamgu .i seki'ubo na du zo'oi zav
+    - multcu: zo lujyzba
+    - multcu: na'urcmu: numerical base
+    - multcu: ki'irnalcne: _
+      notci: See also: {ki'icne}
+      smuvelckivla: absolute;not relative
+    - multcu: kacycmaci: $x_1=cm_1$ is arithmetic.
+      smuvelckivla: arithmetic;elementary branch of mathematics pertaining to addition and like functions.
+    - multcu: badysoi: _
+      multcu: ko jmina xy3 poi bandu girzu
+    - multcu: cmeca'u: _ namespace
+    - multcu: stuka'i: $x_1=k_1=s_1$ is a pointer / reference to $x_2=k_2=s_2$ in matter(s)/function(s) $x_3$.
+      notci: See also: {sitna}, {jonse}, {stuka'igau}, {stuka'igaufa'e}.
+      smuvelckivla: pointer;reference
+      tecyvla: lo skami
+    - multcu: stuka'igau: $x_1=g_1$ points $x_2=k_1=s_1$ to reference $x_3=k_2=s_2$ in matter(s)/function(s) $x_4$.
+      notci: See also: {sitna}, {jonse}, {stuka'i}, {stuka'igaufa'e}.
+      tecyvla: lo skami
+    - multcu: stuka'igaufa'e: $x_1=g_1$ dereferences / accesses $x_2=k_1=s_1$, a pointer / reference to $x_3=k_2=s_2$ in matter(s)/function(s) $x_4$.
+      notci: See also: {sitna}, {jonse}, {stuka'i}, {stuka'igau}.
+      smuvelckivla: dereference;access a pointer
+      tecyvla: lo skami
+    - multcu: smugau: _
+      multuc: ko jmina lo drani dacti
