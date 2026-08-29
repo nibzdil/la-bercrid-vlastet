@@ -1976,3 +1976,24 @@
       tecyvla: lo skami
     - multcu: smugau: _
       multuc: ko jmina lo drani dacti
+    - multcu: _: keep on
+    - multcu: _: x1 continues x2
+    - multcu: nulgla: _ is warm _
+      multcu: xu zo norgla
+    - multcu: goi'ai: Indicate which (experimental) grammar / standard / dialect / language specification is used.
+      selma'o: COIx.
+      notci: Can be a single feature, or a complete specification or standard of many choices.  Can be used after «ko'a broda tau ko'e» to indicate «goi'ai la tcekitau».  See also: {gi'ai} (experimental grammar UI), {jo'au} (change language COI).  {jo'au} specifies a language switch, while {goi'ai} indicates or makes a claim of what is being used.
+    - multcu: _: feedback
+    - multcu: porxra: video
+    - multcu: jmina be fi lo do liste be ne'i la lensisku zo do'e'e
+    - multcu: _: hexadecimal
+    - multcu: rafsi be zo za'u .i mu'a zo'oi multi-dimensional
+    - multcu: _: link .i mo linsi mo
+    - multcu: circular .ijenai kutyje'u ja co'e
+    - multcu: _: relative/subjective
+    - multcu: _: absolute
+    - multcu: _: 2026-08-29 ko visa le notci .i zo'oi que joi zo'oi cuál .i .ua lo me'oi .ui be'ei zo ti .ije lo me'oi .ui be'ei lo xukau me'oi veridicalness
+      notci: This UI captures the same meaning that some POI and LO words also add to their meaning.
+    - multcu: _: xu valsi be'ei zo'oi versus
+    - multcu: fi'o na'e jagri'a: ‘anyway’
+    - multcu: _: .ua
