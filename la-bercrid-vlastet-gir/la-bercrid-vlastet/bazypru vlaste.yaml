@@ -1877,7 +1877,7 @@
       multcu: $x_1=s_1$ es así, siendo $x_2=s_2$ esto, en aspecto $x_3=s_3$.
       multcu: $x_1=s_1$ es así, siendo esto $x_2=s_2$, en aspecto $x_3=s_3$.
     - tazyselsitna: $x_1=s_2$ is aforementioned / said by $x_2=s_1$ in utterance $x_3=s_3$.
-      notci: "See also: {sazysmi} (like that)."
+      notci: "See also: {tazysmi} (like that)."
       smuvelckivla: aforementioned;cited
     - multcu: zo'oi already .i la'a lu« puzo'e »li'u
     - kujycaumansa: $x_1=m_1=c_1=k_1$ carelessly satisfies $x_2=m_2$ by doing / in way $x_3=m_3$ without regard for / substance / competence / adequacy / expectation / thoroughness / normal / care $x_4=k_2=c_2$; $x_1$ is perfunctory / haphazard.
@@ -1997,3 +1997,5 @@
     - multcu: _: xu valsi be'ei zo'oi versus
     - multcu: fi'o na'e jagri'a: ‘anyway’
     - multcu: _: .ua
+    - multcu: xu a'ei
+    - multcu: ci'erklacpe: syscall
