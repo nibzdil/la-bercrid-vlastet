@@ -2026,3 +2026,19 @@
         Alternatively, use a ‘by standard $x_3$’ place or use {ma'i} or {fi'o}
         for a specific sub-type of {manri}.
       smuvelckivla: champagne;sparkling wine
+    - multcu: zo jbetei zo za'irtei
+    - multcu: |
+      mu'erkau: $x_1=k_1=m_1$ is objective / mind-independent / universal, not-varying between / existing in $x_2=m_2$, in property $x_3$.
+      smuvelckivla: objective;not relative
+      notci: See also: {mu'ercne} (subjective / relative), {fatci}, {facmu'e}.
+    - multcu: |
+      mu'ercne: $x_1=c_1$ is relative / subjective / dependent on factor / mind / evaluator / world / subject $x_2=m_1$, in property $x_3=c_2$.
+      notci: See also: {sajra'a} (subjective), {mu'erkau} (objective).
+      smuvelckivla: relative;not objective, subjective;not objective
+    - multcu: |
+      doi'o'e: elliptical/unspecified vocative
+      selma'o: COIx
+      smuvelckivla: elliptical vocative
+    - multcu: goi'ai: vocative: indicate which (experimental) grammar / standard / dialect / language specification is used.
+      selma'o: COIx
+      notci: Can be a single feature, or a complete specification or standard of many choices.  Can be used after «ko'a broda tau ko'e» to indicate «goi'ai la tcekitau».  See also: {gi'ai} (experimental grammar UI rather than COI), {jo'au} (change language COI).  {jo'au} specifies a language switch, while {goi'ai} indicates or makes a claim of what is being used.
