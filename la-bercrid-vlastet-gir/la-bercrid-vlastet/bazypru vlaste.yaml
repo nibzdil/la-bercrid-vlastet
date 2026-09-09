@@ -2035,8 +2035,15 @@
     - doi'o'e: elliptical/unspecified vocative.
       selma'o: COI1
       smuvelckivla: elliptical vocative
-      notci: See also: {co'e}, {zo'e}, {xo'e}, {do'e}, {se'o'e}, {do'o'e}, {co'o'e}, {na'o'e}, {na'e'o'e}, {ju'e}, {zo'u'au}.
+      notci: See also: {co'e}, {zo'e}, {xo'e}, {do'e}, {se'o'e}, {do'o'e}, {co'o'e}, {na'o'e}, {na'e'o'e}, {ju'e}, {ge'e}, {pe'oi}, {zo'u'au}.
     - multcu: goi'ai: vocative: indicate which (experimental) grammar / standard / dialect / language specification is used.
       selma'o: COI3
       notci: Can be a single feature, or a complete specification or standard of many choices.  Can be used after «ko'a broda tau ko'e» to indicate «goi'ai la tcekitau».  See also: {gi'ai} (experimental grammar UI rather than COI), {jo'au} (change language COI).  {jo'au} specifies a language switch, while {goi'ai} indicates or makes a claim of what is being used.
       smuvelckivla: with grammar;vocative
+    - multcu:
+    - multcu: "mapti: x1 matches x2 in x3 by standard x4."
+    - multcu: |
+      za'u: digit/number: greater than.
+      selma'o: PA3
+      smuvelckivla: greater than, more;in greater number
+      rafsi: zav
