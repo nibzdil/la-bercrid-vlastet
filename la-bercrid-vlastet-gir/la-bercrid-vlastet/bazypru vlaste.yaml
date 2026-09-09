@@ -134,6 +134,9 @@
     - tekei'u: reltcinysumtcita zo krefu joi $x_3$ .i smuni du lu« fi'o te krefu »li'u .i me ko'a va'e lo na'e balvi se rapli ckilu .i xokau moi semu'uku
       selma'o: BAI*
       smuvelckivla: fi'o te krefu;pavytcinysumtcita
+    - skuka'i: .i lo ka sku'ai cu ka $x_1$ boi $x_2$ boi $x_3$ boi $x_4$ boi $x_5$ ce'ai $x_1$ krati $x_2$ lo ka ce'u cusku $x_3$ boi $x_4$ boi $x_5$
+      tolci'o: notci: se jicmu le pa la .djeikyb. purci xu'asmu .i ti noi ve farvi cu panra ri tau goi'ai tcekitau lodu'u ni'o .i .e'u catlu ge zo'e ne zo {cusku} gi zo'e ne zo {krati} 
+      notci: se jicmu le pe la .djeikyb. purci xu'asmu .i ti noi ve farvi cu panra ri loka se muvgau fi zo skuka'i zo cuska'i ni'o .i .e'u catlu ge zo'e ne zo {cusku} gi zo'e ne zo {krati} 
 
 - vlaste (vocabulary):
     ? pli'aje: {bangu: eng}
@@ -818,14 +821,14 @@
       notci: "Shorthand for «{lu'a'ei} {karncau}»; the sumti are seen as individuals or separate (see also {le'oi}).  See also: {lu'o'au}."
       vlakra: zo lu'a'ei joi zo karncau
       smuvelckivla: each;separate individual, individually;each
-    - lo'u'a: «lo» with a focus on truthfulness and non-groupness; old-style «lo».
+    - lo'u'a: «lo» with a focus on truthfulness and non-groupness; old-style / pre-xorlo «lo».
       selma'o: LE
       notci: |
         A gadri/descriptor under this proposed model: since «lo» is generic, «le» can focus more on specificity, non-groupness, and on it being more of a description than the description necessarily being true (non-veridical rather than vague veridicalness and rather than veridical), and «lo'u'a» compared to «lo» focuses on non-groupness and truthfulness.  «lo'u'a» also adds non-setness (although the individual itself can be a set).  Suggestion: «lo» may still have connotations of «lo'u'a»; for a strictly pure «lo» consider using «zo'e noi», which can be individuals, masses, sets, and novel types of sumti.  See also: «ma'o'ei», xorlo language mod, and «karncau» and related conveniences with LAhE, BAI, and other grammar for ‘each’ / individuality focus.
 
         ni'o Example: if a person, who is sitting inside a room, is in the middle of a room's walls (or a point in the middle of a square's four corners ({kurfa})), then while «lo prenu cu midju lo bitmu pe le kumfa» may be technically true, its connotation is false, since there may be greater emphasis on the person being actually inside of the walls, whereas «zo'e noi bitmu pe la kumfa» avoids that connotation, and «lo prenu cu midju lo'u'a bitmu pe le kumfa» means the person is inside each wall / a wall.  «lo prenu cu midju loi bitmu pe le kumfa» or «lo prenu cu midju lo gunma be lo bitmu pe le kumfa» may be more precise, as the object being discussed is the whole group of walls, perhaps as a certain type of group in terms of how it is used or interpreted, as in «lo prenu cu midju lo girzu be lo bitmu pe le kumfa sekai loka marji stuzi», so using a mass to signal alternative logic can be used to express this.  However, under this interpretation of individuality, to use the LLG CLL's example, three people carrying a piano implies each person was carrying the piano, even if the individuals happened to be in relation to each other, or even if they happened to be carrying the piano at the same time, so «lo'u'a» can be used here while still being true (see also {sepli} to communicate separate carrying, and {krefu} and {kei'u} (e.g. «kei'u lo sepli») to talk about the instances / whether it was at the same time, or {kancau} to communicate carrying alone, or {karncau} to use an alternative interpretation of individuality, one that has a stronger focus on separateness).
       vlakra: se krasi zo lo joi zo lu'a
-      smuvelckivla: individuals that really are, old lo;old-style lo
+      smuvelckivla: individuals that really are, old lo;old-style lo, pre-xorlo lo, old-style lo
     - kei'u: krefu modal, 1st place (in instance / at time); in instance / case …
       selma'o: BAI
       notci: "Example: «lo prenu be kei'u lo sepli cu bevri le pipno» means the people, at separate times, carried the piano.  «lo prenu be kei'u lo mintu cu bevri le pipno» means the people carried the piano at the same time / in the same instance.  See also: {lo'u'a}, {ke'u}."
@@ -2036,14 +2039,25 @@
       selma'o: COI1
       smuvelckivla: elliptical vocative
       notci: See also: {co'e}, {zo'e}, {xo'e}, {do'e}, {se'o'e}, {do'o'e}, {co'o'e}, {na'o'e}, {na'e'o'e}, {ju'e}, {ge'e}, {pe'oi}, {zo'u'au}.
+    - skuka'i: $x_1=k_1$ is a spokesperson of/speaks on behalf of $x_2=k_2=c_1$, saying $x_3=c_2$ to $x_4=c_3$ via expressive medium $x_5=c_4$.
+      notci: Based on djeikyb's earlier definition; this iteration copies the definition but moves it from {cuska'i} to {skuka'i}.  cf. {cusku}, {krati}, cmavo list {ka'i}
+      smuvelckivla: spokesperson, spokesman;non-gender-neutral version of spokesperson, spokeswoman;non-gender-neutral version of spokesperson
     - multcu: goi'ai: vocative: indicate which (experimental) grammar / standard / dialect / language specification is used.
       selma'o: COI3
       notci: Can be a single feature, or a complete specification or standard of many choices.  Can be used after «ko'a broda tau ko'e» to indicate «goi'ai la tcekitau».  See also: {gi'ai} (experimental grammar UI rather than COI), {jo'au} (change language COI).  {jo'au} specifies a language switch, while {goi'ai} indicates or makes a claim of what is being used.
       smuvelckivla: with grammar;vocative
     - multcu:
     - multcu: "mapti: x1 matches x2 in x3 by standard x4."
-    - multcu: |
-      za'u: digit/number: greater than.
+    - za'u: digit/number: greater than.
       selma'o: PA3
       smuvelckivla: greater than, more;in greater number
-      rafsi: zav
+      rafsi: zab
+    - po'au: restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal.
+      selma'o: GOI
+      notci: For those who choose to use a Lojban standard that includes the {jboponei} dialect, {po'au} and {nei'ei} can be used to recover the origin {po} and {nei} words.  To avoid confusion, after using {jboponei} in your Lojban, you may say «goi'ai jboponei».  See also: {lo'u'a} (pre-xorlo {lo}).
+      smuvelckivla: is specific to
+    - nei'ei: pro-bridi: repeats the current bridi.
+      selma'o: GOhA
+      smuvelckivla: current bridi
+      notci: For those who choose to use a Lojban standard that includes the {jboponei} dialect, {po'au} and {nei'ei} can be used to recover the origin {po} and {nei} words.  To avoid confusion, after using {jboponei} in your Lojban, you can say «goi'ai jboponei».  See also: {lo'u'a} (pre-xorlo {lo}).
+      valsi krasi: zo nei ja zoi nenri ja lome zo nenri joi zo sevzi
