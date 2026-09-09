@@ -563,6 +563,8 @@
       smuvelckivla: optionally;non-obligatory, optionally;omittably
       vlakra: zo narbilga
     - do'o'e: with a vague / ommitted / elliptical / unspecified / [possibly alternative] place structure.
+      selma'o: SE
+      notci: More general than {se'o'e}.  See also: {jai'a'a}, {co'au}, {co'e'o}.
     - multcu: "lo multcu zo'u: zaucpe: $x_1=c_1$ applies for [job] / [school] / requests approval of / [proposes] $x_2=c_2=z_2$ from $x_3=c_3=z_1$ in manner / form / with application $x_4=c_4$."
       multcu: apply;request approval
       multcu: x4 application;request approval
@@ -573,7 +575,7 @@
       notci: "See also: {zaucpe} (‘apply’ as in ‘request approval’)."
     - na'o'e: vague/elliptical truth value for selbri; whether {ja'a}, {na}, etc. is applied is unspecified.
 
-      notci: "See also: {ja'a}, {na}, {na'e'o'e} (for {na'e}), {cau'a} (alternative synonym), {xu'o'e} (alternative synonym)."
+      notci: "See also: {je'ucu'i}, {ja'a}, {na}, {na'e'o'e} (for {na'e}), {cau'a} (alternative synonym), {xu'o'e} (alternative synonym)."
     - na'e'o'e: vague/elliptical truth value for sumti; whether {je'a}, {na'e}, etc. is applied is unspecified.
 
       notci: "See also: {je'a}, {na'e}, {na'o'e} (for {na}), {cau'e} (alternative synonym), {cau'o'e} (alternative synonym)."
@@ -2011,13 +2013,10 @@
       notci: In contrast with {selsivypo'e} (privately own).  If you have a chair ({ralte}), but do not own it ({ponse}), you can say {selki'ipo'e}.  Compare {pe} to {po} and {selki'ipo'e} to {selsivypo'e}.  See also: {ralte}, {tolcau}, {avju}, {tcinyra'igau}, {ki'irxu'a}, {ponse}, {krali}, {kansa}, {dunda}, {plicru}, {sabji}, {ckini}, {srana}, {ckaji}.
       smuvelckivla: has;loosely owns, owns;loosely associated with
     - multcu: _: order
-    - multcu: kuclypei: $x_1=p_1=k_1$ wonders [about] $x_2=p_2=k_2$.
+    - peirkucli: $x_1=k_1=p_1$ wonders [about] $x_2=k_2=p_2$.
       smuvelckivla: wonder;to wonder about
-    - multcu: peskucli: $x_1=k_1=p_1$ wonders [about] $x_2=k_2=p_2$.
-      smuvelckivla: wonder;to wonder about
-    - multcu: campana: gauko panra fi le me'oi AOC me zo'e
-      multcu: |
-      campana: $x_1$ is a champagne made from grapes $x_2$ by standard $x_3$.
+      notci: See also: {retpei}, {kucli}, {retkucli}.
+    - campana: $x_1$ is a champagne made from grapes $x_2$ by standard $x_3$.
       notci: |
         Based on lakanro's earlier definition.  Cf. {vanju}, {fomvanju}, {risyvanju},
         {xalka}, {koinka}.  To explicitly indicate (or deny) true AOC conformance
@@ -2027,18 +2026,17 @@
         for a specific sub-type of {manri}.
       smuvelckivla: champagne;sparkling wine
     - multcu: zo jbetei zo za'irtei
-    - multcu: |
-      mu'erkau: $x_1=k_1$ is objective / mind-independent / universal, not-varying between / existing in $x_2=k_2=m_1$, in property / aspect $x_3=k_1$.
+    - mujykau: $x_1=k_1$ is objective / mind-independent / universal, not-varying between / existing in $x_2=k_2=m_1$, in property / aspect $x_3=k_1$.
       smuvelckivla: objective;not relative
-      notci: See also: {mu'ecne} (subjective / relative), {fatci}, {facmu'e}.  e.g. «lonu ko'a palci cu mu'erkau» could be used in placed of «ko'a palci fi lo fatci» to make an objective moral claim.  If the universality arises from a ‘reality’ or ‘world’ ‘above’ all others, like a shared reality or existence, even if a direct link would vary (e.g. ‘immoral according to X’), this may be encoded in $x_1$ or $x_3$ - e.g. it may not be palci_2 that is universal, but that «ko'a palci lo fatci» that is universal; or, perhaps a bit more simplistically, «palci zi'o» could also be talked about inside {mu'erkau}, and {ma'i} or a subtype of {manri} could bring it back.  This would be like the distinction between the idea of moral universalism and the idea of moral realism.  Note also that if, even though something or some claim varies, it applies universally to all members of a group, e.g. the human cultures, you can use {mu'erkau} with a restricted $x_2$.
-    - multcu: |
-      mu'ecne: $x_1=c_1$ is relative / subjective / dependent on factor / mind / evaluator / world / subject / parameter / sumti $x_2=c_4=m_1$, in property / aspect $x_3=c_2$, by amount / degree $x_4=c_3$.
-      notci: See also: {mu'erkau} (objective).  Synonym: {sajra'a}.
+      notci: See also: {mu'ecne} (subjective / relative), {fatci}, {facmu'e}.  e.g. «lonu ko'a palci cu mujykau» could be used in place of «ko'a palci fi lo fatci» to make an objective moral claim.  If the universality arises from a ‘reality’ or ‘world’ ‘above’ all others, like a shared reality, or existence, even if a direct link would vary (e.g. ‘immoral according to X’), then this may be encoded in x1 or x3 - e.g. it may not be palci2 that is universal, but that «ko'a palci lo fatci» that is universal; or, perhaps a bit more simplistically, «palci zi'o» could also be talked about inside {mujykau}, and {ma'i} or a subtype of {manri} could bring it back.  This would be like the distinction between the idea of moral universalism and the idea of moral realism.  Note also that if, even though something or some claim varies, it applies universally to all members of a group, e.g. the human cultures, you can use {mujykau} with a restricted x2.
+    - mu'ecne: $x_1=c_1$ is relative / subjective / dependent on factor / mind / evaluator / world / subject / parameter / sumti $x_2=c_4=m_1$, in property / aspect $x_3=c_2$, by amount / degree $x_4=c_3$.
+      notci: See also: {mujykau} (objective).  Synonym: {sajra'a}.
       smuvelckivla: relative;not objective, subjective;not objective
-    - multcu: |
-      doi'o'e: elliptical/unspecified vocative
+    - doi'o'e: elliptical/unspecified vocative.
       selma'o: COI1
       smuvelckivla: elliptical vocative
+      notci: See also: {co'e}, {zo'e}, {xo'e}, {do'e}, {se'o'e}, {do'o'e}, {co'o'e}, {na'o'e}, {na'e'o'e}, {ju'e}, {zo'u'au}.
     - multcu: goi'ai: vocative: indicate which (experimental) grammar / standard / dialect / language specification is used.
       selma'o: COI3
       notci: Can be a single feature, or a complete specification or standard of many choices.  Can be used after «ko'a broda tau ko'e» to indicate «goi'ai la tcekitau».  See also: {gi'ai} (experimental grammar UI rather than COI), {jo'au} (change language COI).  {jo'au} specifies a language switch, while {goi'ai} indicates or makes a claim of what is being used.
+      smuvelckivla: with grammar;vocative
