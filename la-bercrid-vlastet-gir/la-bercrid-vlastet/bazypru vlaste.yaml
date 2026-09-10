@@ -2062,4 +2062,7 @@
       notci: For those who choose to use a Lojban standard that includes the {jboponei} dialect, {po'au} and {nei'ei} can be used to recover the original {po} and {nei} words.  To avoid confusion, after using {jboponei} in your Lojban, you can say «goi'ai jboponei».  See also: {lo'u'a} (pre-xorlo {lo}).
       valsi krasi: zo nei ja zoi nenri ja lome zo nenri joi zo sevzi
     - multcu: linsi: x1 chain of x2 link properties x3 link link properties x4
-    - multcu: zilpoi: order; $x_1$ is an ordering, which may be applied / is applicable to (possibly unordered set) $x_2$.
+    - multcu: zilpoi: order; $x_1=_$ is an ordering, which may be applied / is applicable to (possibly unordered set) $x_2$.
+      smuvelckivla: order;_, _
+    - multcu: nilcurve: $x_1=_$ is the purity (amount) of $x_2$ in (property) $x_3=_$ on scale $x_4$.
+      smuvelckivla: purity;percentage of something, purity;measure of pureness
