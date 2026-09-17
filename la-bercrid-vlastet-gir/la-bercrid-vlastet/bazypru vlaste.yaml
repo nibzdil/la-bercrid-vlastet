@@ -2075,9 +2075,18 @@
       mulkai: $x_1=c_1=m_1$ is completely $x_2=c_2=m_2$ by standard $x_3=m_3$.
       mulkai: $x_1=c_1=m_1$ is completed $x_2=c_2=m_2$ by standard $x_3=m_3$.
       multcu: xu do djica lonu selbasygau kei va'o la'oi Neverball
-    - multcu: mulkai: $x_1=c_1$ is completely $x_2=c_2$, complete/total in $x_3=m_2$, by standard $x_3=m_3$.
-      notci: See also: {kairmu'o}, {ralte}.
-      smuvelckivla: is completely
-    - multcu: kairmu'o: $x_1=c_1=m_1$ has completion/wholeness $x_2=c_2=m_2$ by standard $x_3=m_3$; $x_1$ is completed.
-      notci: See also: {mulkai}.
+    - tolci'o: |
+      - multcu: mulkai: $x_1=c_1$ is completely $x_2=c_2$, complete/total in $x_3=m_2$, by standard $x_4=m_3$.
+        notci: See also: {kairmu'o}, {ralte}.
+        smuvelckivla: is completely
+      - multcu: kairmu'o: $x_1=c_1=m_1$ has completion/wholeness $x_2=c_2=m_2$ by standard $x_3=m_3$; $x_1$ is completed.
+        notci: See also: {mulkai}.
+        smuvelckivla: completed;having completion
+    - multcu: |
+      mulkai: $x_1=c_1=m_1$ has completion/wholeness $x_2=c_2=m_2$ by standard $x_3=m_3$; $x_1$ is completed.
+      notci: See also: {mo'u se mulgau}.
       smuvelckivla: completed;having completion
+    - multcu: |
+      mulrkai: $x_1$ is completely $x_2$, complete/total in $x_3$, by standard $x_4$.
+      notci: A second possible meaning for «mulno ckaji», this was moved to a fu'ivla synonym variant in place of {mulkai}.
+      notci: See also: {mulkai}, {ralte}.
