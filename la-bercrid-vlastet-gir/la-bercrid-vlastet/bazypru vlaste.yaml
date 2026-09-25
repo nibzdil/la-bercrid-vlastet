@@ -1329,7 +1329,7 @@
     - ai'ai: "discursive: comparative reality emphasis; even."
       selma'o: UI3b
       smuvelckivla: even;comparative reality emphasis
-      notci: "«.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene»."
+      notci: "«.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene».  Synonym: {te'y}.  See also: {ky'u}."
       vlakra: lu« karbi fatci »li'u
     - rai'ai: "discursive: naturally; of course; «.ui'ei rarna»"
       selma'o: UI3
@@ -2099,3 +2099,23 @@
         Useful for {xi} subscripts to indicate the attached cmavo has a separate index from any other (e.g. «daxixo'e'o» to indicate a localized ‘there is / some’, without keeping track of an index pool; this can be repeated for multiple anonymous {da}s), like anonymous, nameless lambda functions.  Etymology: {xo'e} and {po'o} (or possibly {xo'e} and {di'o}).  See also: {da'au} (proposed equivalence: «da'au» ＝＝ «daxixo'e'o»).
       smuvelckivla: anonymous number;math, nameless number;math, unqie number;math
     - multcu: lo basti be zo da'au sera'a zo xo'e'o
+    - multcu: |
+      _: interest / neat / cool
+    - multcu: |
+      ta'o sepli co'e
+      _: praise / esteem / respect
+    - multcu: (to ko viska lo notci be de'i li 2026-09-21 toi)
+    - multcu: _: pamxe'o: shows lovingkindness / benevolence towards
+    - fe'usno: $x_1=m_1=f_1$ is patient / slow to anger towards $x_2=f_2$ for $x_3=f_3$.
+      smuvelckivla: patient;slow to anger
+      notci: "See also: {o'o}, {xlacru}."
+    - lonu xaurpai kei lo prenu cu kairgau loka fe'usno .ije py misyselsi'a lonu fraxu fi lo zekri:
+        xu'asmu: Good judgement makes a person patient, and it is their glory to forgive a transgression.
+        tolci'o: |
+          notci: «lonu xaurpai kei lo prenu cu kairgau loka fe'usno .ije py misyselsi'a lonu fraxu fi lo zekri»: A possible translation of Proverbs 19:11.  (https://tanach.us/HTML/Tanach_Book.html?Prov19:11-19:11)
+        notci: «lonu xaurpai kei lo prenu cu kairgau loka fe'usno .ije py misyselsi'a lonu fraxu fi lo zekri»: A possible translation of Proverbs 19:11.  (\detokenize{https://tanach.us/HTML/Tanach_Book.html?Prov19:11-19:11})
+    - multcu: |
+        sampu glico:
+          - da'au: unique {da}
+            notci: {da} {xi} {xo'e'o}
+          - da'avni: if not x1 then x3 else x2
