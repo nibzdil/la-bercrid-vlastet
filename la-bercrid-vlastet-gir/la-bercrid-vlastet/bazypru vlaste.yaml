@@ -1329,7 +1329,7 @@
     - ai'ai: "discursive: comparative reality emphasis; even."
       selma'o: UI3b
       smuvelckivla: even;comparative reality emphasis
-      notci: "«.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene».  Synonym: {te'y}.  See also: {ky'u}."
+      notci: "«.ui'ei karbi fatci basna [se'u]».  Example: «mi pu na kakne lo .ai'ai nu morji fi lo ra cmene».  Synonym: {te'y}.  See also: {ky'u}, {tei'i} (especially), {ra'u} (chiefly)."
       vlakra: lu« karbi fatci »li'u
     - rai'ai: "discursive: naturally; of course; «.ui'ei rarna»"
       selma'o: UI3
@@ -2119,4 +2119,16 @@
           - da'au: unique {da}
             notci: {da} {xi} {xo'e'o}
           - da'avni: if not x1 then x3 else x2
+          - ta'ei: nevermind
+            smuvelckivla: nevermind
     - multcu: "fi'o na'e jagri'a: zo'o zy. anyway;regardless .zy."
+    - multcu: xu do djica lonu gafygau zo'eilo zo randa
+    - ty'i: at a point on time axis
+      selma'o: BAI
+      notci: |
+        If {te'i} gets replaced from {fi'o temjudri} to become an alias for {te'y}, then {ty'i} remains a word for {fi'o temjudri}.  The rest of this definition is copied from gusnikantu's original definition.  {temjudri} modal. See also {de'i} and {ti'u}. ex.) su'o da nuntumdesku te'i li re no pa mu pi'e mu pi'e ci no pi'e re no pi'e re vo noi sinxa lo mentu ku'o te te'i u'y ty cy xi ma'u so (There was an earthquake at 2015-05-30 20:24 UTC+9.) / su'o da nuntumdesku te'i li re vo mu ze pa ze re pi so ze mu te te'i la juli'us (There was an earthquake at 2457172.975 of Julian date.)
+      smuvelckikvla: point on time axis;modal
+    - maudji: $x_1=d_1$ prefers / desires $x_2=d_2=z_1$ more than [they desire] $x_3=z_2$, due to property/reason $x_4$, for purpose $x_5=d_3$.
+      smuvelckivla: prefer;desire more
+      notci: |
+        See also: {zmanei}.  Contrasts with {djimau} and {neizma}.
