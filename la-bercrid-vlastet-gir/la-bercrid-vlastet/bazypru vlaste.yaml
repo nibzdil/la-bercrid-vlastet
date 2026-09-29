@@ -137,6 +137,10 @@
     - skuka'i: .i lo ka skuk'ai cu ka $x_1$ boi $x_2$ boi $x_3$ boi $x_4$ boi $x_5$ ce'ai $x_1$ krati $x_2$ lo ka ce'u cusku $x_3$ boi $x_4$ boi $x_5$
       tolci'o: notci: se jicmu le pa la .djeikyb. purci xu'asmu .i ti noi ve farvi cu panra ri tau goi'ai tcekitau lodu'u ni'o .i .e'u catlu ge zo'e ne zo {cusku} gi zo'e ne zo {krati} 
       notci: se jicmu le pe la .djeikyb. purci xu'asmu .i ti noi ve farvi cu panra ri loka se muvgau fi zo skuka'i zo cuska'i ni'o .i .e'u catlu ge zo'e ne zo {cusku} gi zo'e ne zo {krati} 
+    - y'y: zo'oi ' noi pamoi lerfu le lojbo
+      selma'o: BY2
+      notci: pamoi ma'i la'oi https://lojban.github.io/cll/3/1/ joi la'oi https://lojban.github.io/cll/17/7/ .i ti goi le valsi cu ralte lo selma'o po'u la me zo by ce'o li re
+      smuvelckivla: y'y
 
 - vlaste (vocabulary):
     ? pli'aje: {bangu: eng}
@@ -2128,3 +2132,11 @@
       notci: |
         If {te'i} gets replaced from {fi'o temjudri} to become an alias for {te'y}, then {ty'i} remains a word for {fi'o temjudri}.  The rest of this definition is copied from gusnikantu's original definition.  {temjudri} modal. See also {de'i} and {ti'u}. ex.) su'o da nuntumdesku te'i li re no pa mu pi'e mu pi'e ci no pi'e re no pi'e re vo noi sinxa lo mentu ku'o te te'i u'y ty cy xi ma'u so (There was an earthquake at 2015-05-30 20:24 UTC+9.) / su'o da nuntumdesku te'i li re vo mu ze pa ze re pi so ze mu te te'i la juli'us (There was an earthquake at 2457172.975 of Julian date.)
       smuvelckikvla: point on time axis;modal
+    - selsazycando: $x_1=c_1=s_2$ is off / not operating / not being operated by $x_2=s_1$ for goal / objective / use / end / function $x_3$.
+      smuvelckivla: off;inactive
+      multcu notci: "Synonym: {ganda}"
+      multcu: ko la neverbal
+    - multcu: zo katci zo ganda .i ko gafygau zo selsazycando
+    - multcu: 
+    - datytercu'a: $x_1=c_3=d_1$ is an alternative to $x_2=c_2=d_2$ for $x_3=c_3$; $x_1$ is a different option by standard $x_4=d_3$.
+      smuvelckivla: alternative;different option
