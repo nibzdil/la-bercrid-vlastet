@@ -230,7 +230,9 @@
     - multcu: "(lo multcu zo'u: ¿xu jagri'a pensi stidi?) jbofu'ivlafavytsi: x1=fu1=v1=fu'ivla1=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3). (ji'a nitcu lo nu jmina lumci ja spali)"
       multcu: |
       jbofu'ivlafavytsi: $x_1=t_1=t_3=fa_2=v_1=fu'ivla_1$ is a fu'ivla synonym variant meaning $x_2=v_2=fu'ivla_2$ based on lujvo/word $x_3=t_2=fa_3=fu'ivla_4$, with meaning understood by / to / dictionary $x_4=v_3=fu'ivla_3$.
-      notci: Consider distinguishability vs semantic similarity as well.
+      notci: Distinguishability vs semantic similarity can be considered as well.  You may use ‘y’ to join fu'ivla into a lujvo.  If a vowel would be adjacent to the ‘y’, you can add an apostrophe between the vowel and the ‘y’ hyphen.
+      multcu notci: Distinguishability vs semantic similarity can be considered as well.  You may use ‘y’ to join fu'ivla into a lujvo.  If a vowel would be adjacent to the ‘y’, you can add an apostrophe between the vowel and the ‘y’ hyphen.  Also consider using lujvo (rather than fu'ivla) with a VCC cmevla prefix for personalization, assuming short rafsi are not extended to include VCC as a grammar extension.
+      smuvelckivla: fu'ivla synonym variant
     - multcu: "lo mutcu zo'u: lo valsi be lo xe fanva be zo'oi submit"
       multcu: xu lu setca benji li'u .i xu zo se'arbe'i .i foi'a na go'i .i zo setca .i lakne fa lodu'u se zasti lo xagmau .i xu zo sukbe'i
       multcu: |
@@ -370,6 +372,7 @@
     - multcu: "jbovlaste Taun: sorlutca'u: maze / labyrinth"
     - ba'arlu'a: $x_1=p_1=b_2$ is a trail of / with marks / indicators $x_2=b_1$ to $x_3=l_2$ from $x_4=l_3$ via / defined by points including / through $x_5=l_4$, with trail mark type / material $x_6=b_3$; $x_1$ is a trail of $x_2$ to $x_3$ from $x_4$ through $x_5$.
     - lutpoi: $x_1=po_1=pl_1$ is a course / pathed sequence to $x_2=pl_2$ from $x_3=pl_3$ via / defined by steps / stages / including $x_4=po_3=pl_4$ ordered by / sequenced by / listed by $x_5=po_2$.
+      notci: "See also: {ctusfimei}."
     - selgrebi'u: $x_1=b_1=p_2$ is a barrier / walled medium separating / protecting $x_2=b_2=p_3$ from $x_3=b_3=p_4$ but allowing passage by $x_4=p_1$ in environment / structure $x_5=b_4$.
     - pipmulkla: $x_1=k_1=p_1$ lands on / at $x_2=k_2=p_2$ from origin $x_3=k_3=p_3$ from route $x_4=k_4$ by means $x_5=k_5$ having reached height $x_6=p_4$ with propellent $x_7=p_5$ by standard $x_8=m_3$.
     - caltaiboi: $x_1=b_1=t_2$ is a sphere / ellipsoid with geometric shape $x_2=t_1=c_1$ occupied by / made of $x_3=b_2=c_2$.
@@ -2141,3 +2144,12 @@
     - datytercu'a: $x_1=c_3=d_1$ is an alternative to $x_2=c_2=d_2$ for $x_3=c_3$; $x_1$ is a different option by standard $x_4=d_3$.
       smuvelckivla: alternative;different option
     - multcu: ko viska zo mulkai ne'i lo purci viku
+    - vamzma: $x_1=z_1=v_2$ is more valuable/worthwhile than $x_2=z_2=v_2$ is to $x_3=v_3$ for use/appreciation $x_4=v_4$ by amount/excess $x_5=z_3$.
+      notci: |
+        Note: in this case, $vamji_1$ was dropped before adding a «-zma» suffix with the pattern of affecting the $x_1$ for comparison and adding a $zmadu_3$ suffix at the end.  This slight deviation from this pattern seems worthwhile in this case, since the alternative is saying ‘x1 has greater equivalence of worth/value than x2 …’.  Beware also the order of ‘zma’ when the difference actually is meaningful: e.g. {zmanei} and {neizma} mean different things.
+      worth it;more worthwhile
+      worthwhile;being more worth it
+    - olju'ytaifu'i: $x_1$ is an aggressive mimic of $x_2$ in form $x_3$ by method $x_4$.
+      notci: |
+        Copied from MoheXoheKohe's definition of {oljytamfu'i}, this version is a lujvo from «olju tarmi fukpi» rather than «olj tarmi fukpi», a more explicit lujvo at the cost of an extra syllable.  See also {justamfu'i}, {olju}, {fukpi}, {tamsmi}.
+      smuvelckivla: aggressive mimic;mimics something harmless
