@@ -2168,7 +2168,11 @@
       smuvelckivla: amen;so be it
     - tugzau: $x_1=t_1=z_1$ confirms $x_2=t_3=z_2$ from $x_3=t_2$ about $x_4=t_4$.
       smuvelckivla: confirm
-    - multcu: ku'e'u: place before a terminator to add an unspecified word that it terminates at the most distant possible place
+    - ku'e'u: place before a terminator to add an unspecified word that it terminates at the most distant possible place.
       selma'o: KUhEhU
-      notci: The parse must be valid up to before the terminator is found, to simplify the grammar.  You can also specify which word is added that the new terminator at the current position matches, by placing that word rather than the terminator after {ku'e'u}.  Example: in «mi broda lo <adds ke here> brode jo brodi ku'e'uke'e be ko'a .iku'i mi na broda lo brode jo [ke] brodi be ko'a», {ku'e'uke'e} (or {ku'e'uke}) allows you say {ke'e} if you forgot to group it together.  See also: {vu'o} (experimental grammar proposal: {vu'o be} also works after «lo broda ja brode», namely that, when using {jacus}, {vu'o} generally applies to a group of connected things and allows you to apply grammar after it to affect the whole group rather than the last component, perhaps similar to but different from {gi'i}, which only terminates {ga}; thus it is generalized from only working with restrictive clauses), {bei'i}, {ke}.
+      notci: |
+        The parse must be valid up to before the terminator is found, to simplify the grammar.  You can also specify which word is added that the new terminator at the current position matches, by placing that word rather than the terminator after {ku'e'u}.  Example: in «mi broda lo <adds ke here> brode jo brodi ku'e'uke'e be ko'a .iku'i mi na broda lo brode jo [ke] brodi be ko'a», {ku'e'uke'e} (or {ku'e'uke}) allows you say {ke'e} if you forgot to group it together.  See also: {vu'o} (experimental grammar proposal: {vu'o be} also works after «lo broda ja brode», namely that, when using {jacus}, {vu'o} generally applies to a group of connected things and allows you to apply grammar after it to affect the whole group rather than the last component, perhaps similar to but different from {gi'i}, which terminates {ga}; thus it is generalized from only working with restrictive clauses), {bei'i}, {ke}.
       vlakra: zo ku joi zo ve'u
+      smuvelckivla: retroactively terminate;retroactively add a terminated word
+    - multcu: |
+      ko jmina lo jacus papri la'oi lojban.io joi la'oly. modern Lojban consencepts .ly. .ije ko cmigau zo ku'e'u je zo vu'o .ije zoizy.« bairyn proposes also generalizing vu'o (see {ku'e'u} notes) ».zy.
