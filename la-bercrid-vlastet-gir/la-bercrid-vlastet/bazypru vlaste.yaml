@@ -2088,7 +2088,7 @@
         smuvelckivla: completed;having completion
     - multcu: |
       mulkai: $x_1=c_1=m_1$ has completion/wholeness $x_2=c_2=m_2$ by standard $x_3=m_3$; $x_1$ is completed.
-      notci: See also: {mo'u se mulgau}.
+      notci: See also: {mo'u se mulgau}, {mulrkai}.
       smuvelckivla: completed;having completion
     - multcu: |
       mulrkai: $x_1$ is completely $x_2$, complete/total in $x_3$, by standard $x_4$.
@@ -2134,9 +2134,10 @@
       smuvelckikvla: point on time axis;modal
     - selsazycando: $x_1=c_1=s_2$ is off / not operating / not being operated by $x_2=s_1$ for goal / objective / use / end / function $x_3$.
       smuvelckivla: off;inactive
-      multcu notci: "Synonym: {ganda}"
+      notci: "Synonym: {ganda} (off).  See also: {katci} (on)."
       multcu: ko la neverbal
     - multcu: zo katci zo ganda .i ko gafygau zo selsazycando
     - multcu: 
     - datytercu'a: $x_1=c_3=d_1$ is an alternative to $x_2=c_2=d_2$ for $x_3=c_3$; $x_1$ is a different option by standard $x_4=d_3$.
       smuvelckivla: alternative;different option
+    - multcu: ko viska zo mulkai ne'i lo purci viku
