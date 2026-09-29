@@ -2162,8 +2162,12 @@
     - multcu: |
       _: anyway/regardless
     - ie'ai: attitudinal: so be it/amen/confirmation - indifference - let it not be.
+      notci: See also ie, i'e, re'e.
       selma'o: UI1
-      vlakra: zo ie joi zo .ai joi zo tazysmi joi zo ko'oi
+      vlakra: joi'u'i zo .ie zo .ai zo tazysmi zo ko'oi
       smuvelckivla: amen;so be it
     - tugzau: $x_1=t_1=z_1$ confirms $x_2=t_3=z_2$ from $x_3=t_2$ about $x_4=t_4$.
       smuvelckivla: confirm
+    - multcu: _: place after a terminator to add an unspecified word that it terminates at the most distant possible place
+      selma'o: _
+      notci: The parse must be valid up to before the terminator is found.  Example: in «mi broda lo [ke] brode ja brodi ke'e_ be ko'a .iku'i mi na broda lo brode ja [ke] brodi be ko'a», _ allows you say {ke'e} if you forgot to group it together.  See also: _, which allows you to specify precisely which word to insert.  See also: {vu'o} (experimental grammar proposal: {vu'o be} also works after «lo broda ja brode»), {bei'i}.
