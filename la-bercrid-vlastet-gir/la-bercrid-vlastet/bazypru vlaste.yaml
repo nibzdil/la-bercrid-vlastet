@@ -227,11 +227,9 @@
     - jagri'a: $x_1=r_1=j_2$ is a factor / contributing cause / effectual part of effect $x_2=r_2=j_1$ under conditions $x_3=r_3$.
       smuvelckivla: factor;cause
       stuzi smuvelckivla: factor;cause
-    - multcu: "(lo multcu zo'u: ¿xu jagri'a pensi stidi?) jbofu'ivlafavytsi: x1=fu1=v1=fu'ivla1=fa2=t3 is a fu'ivla synonym variant meaning x2=v2(=fu'ivla2) based on lujvo x3=fa3=fu2(=fu'ivla4)=t1, with meaning understood by / to / dictionary x4=v3(=fu'ivla3). (ji'a nitcu lo nu jmina lumci ja spali)"
-      multcu: |
-      jbofu'ivlafavytsi: $x_1=t_1=t_3=fa_2=v_1=fu'ivla_1$ is a fu'ivla synonym variant meaning $x_2=v_2=fu'ivla_2$ based on lujvo/word $x_3=t_2=fa_3=fu'ivla_4$, with meaning understood by / to / dictionary $x_4=v_3=fu'ivla_3$.
-      notci: Distinguishability vs semantic similarity can be considered as well.  You may use ‘y’ to join fu'ivla into a lujvo.  If a vowel would be adjacent to the ‘y’, you can add an apostrophe between the vowel and the ‘y’ hyphen.
-      multcu notci: Distinguishability vs semantic similarity can be considered as well.  You may also use ‘y’ to join fu'ivla into a lujvo for personalization or customization or modification rather than a top-level fu'ivla.  If a vowel would be adjacent to the ‘y’, you can add an apostrophe between the vowel and the ‘y’ hyphen.
+    - jbofu'ivlafavytsi: $x_1=t_1=t_3=fa_2=v_1=fu'ivla_1$ is a fu'ivla synonym variant meaning $x_2=v_2=fu'ivla_2$ based on lujvo/word $x_3=t_2=fa_3=fu'ivla_4$, with meaning understood by / to / dictionary $x_4=v_3=fu'ivla_3$.
+      notci: |
+        Distinguishability vs semantic similarity can be considered as well.  You may also use ‘y’ to join fu'ivla into a lujvo rather than using a top-level fu'ivla.  If a vowel would be adjacent to the ‘y’, you can add an apostrophe between the vowel and the ‘y’ hyphen.  Example: «zo {mulrkai} cu jbofu'ivlafavytsi zo {mulkai}».
       smuvelckivla: fu'ivla synonym variant
     - multcu: "lo mutcu zo'u: lo valsi be lo xe fanva be zo'oi submit"
       multcu: xu lu setca benji li'u .i xu zo se'arbe'i .i foi'a na go'i .i zo setca .i lakne fa lodu'u se zasti lo xagmau .i xu zo sukbe'i
@@ -2151,7 +2149,7 @@
       worthwhile;being more worth it
     - olju'ytaifu'i: $x_1$ is an aggressive mimic of $x_2$ in form $x_3$ by method $x_4$.
       notci: |
-        Copied from MoheXoheKohe's definition of {oljytamfu'i}, this version is a lujvo from «olju tarmi fukpi» rather than «olj tarmi fukpi», a more explicit lujvo at the cost of an extra syllable.  See also {justamfu'i}, {olju}, {fukpi}, {tamsmi}.
+        Copied from MoheXoheKohe's definition of {oljytamfu'i}, which saves a syllable when «olj» is a rafsi for {olju}, e.g. if fu'ivla are constrained so that no two fu'ivla differ only by their final vowel, this version is a lujvo from «olju tarmi fukpi» which does not require this proposal.  It is a syllable longer.  See also {justamfu'i}, {olju}, {fukpi}, {tamsmi}.
       smuvelckivla: aggressive mimic;mimics something harmless
     - rolvli: $x_1=v_1$ is all-powerful / omnipotent under conditions $x_2=v_3$.
       notci: |
