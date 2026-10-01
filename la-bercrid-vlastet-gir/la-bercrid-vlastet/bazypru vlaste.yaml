@@ -1671,8 +1671,14 @@
         smuvelckivla: available;able to be used, up for grabs;available, available;use is possible, available;might be used
     - multcu: zo slabu cu ambigu ne'i le datnyvei .i ta'o cmeta
     - plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility under conditions $x_4=c_2$; $x_2$ is available to $x_1$.
-      notci: "See also: {selplifrika'e} (available)."
+      notci: "See also: {selplicu'i} (available), {selplifrika'e} (usable), {selcu'acu'i} (option)."
       smuvelckivla: available;might use
+    - selplicu'i: $x_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$; $x_2$ using $x_1$ is a possibility under conditions $x_4=c_3$.
+      notci: "See also: {selcu'acu'i} (option), {selplifrika'e} (usable)."
+      smuvelckivla: available;might be used
+    - selcu'acu'i: $x_1=cux_2$ is an option for $x_2=cux_1$ among options $x_3=cux_3$; $x_2$ choosing $x_1$ is a possibility under conditions $x_4=cum_2$.
+      notci: "See also: {tepi'o}, {kosmu}, {selplicu'i} (available)."
+      smuvelckivla: option;might be chosen
     - cuxycu'i: $x_1=cux_1$ might choose $x_2=cux_2$ among options $x_3=cux_3$; $x_1$ choosing $x_2$ is a possibility under conditions $x_4=cum_2$; $x_2$ is an option.
       notci: "See also: {selcuxfrika'e} (option)."
       smuvelckivla: option;might choose
