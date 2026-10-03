@@ -141,6 +141,20 @@
       selma'o: BY2
       notci: pamoi ma'i la'oi https://lojban.github.io/cll/3/1/ joi la'oi https://lojban.github.io/cll/17/7/ .i ti goi le valsi cu ralte lo selma'o po'u la me zo by ce'o li re
       smuvelckivla: y'y
+    - laldo: |
+      - tambi'o: $x_1=b_1=t_2$ binxo loka dunli $x_2=b_2=t_2$ loka se tarmi kei $x_3=b_3$
+        notci: ti goi le xu'asmu cu fukpi teka'a la gleki jecu milxe te gafygau .i zo {tambi'o} cu tordu smudu'i zo {seltaidunbi'o}
+      - seltaidunbi'o: $x_1=b_1=d_1=t_2$ binxo loka dunli $x_2=b_2=d_2=t_2$ loka se tarmi kei $x_3=b_3$
+        notci: ti goi le xu'asmu cu fukpi teka'a la gleki jecu milxe te gafygau .i zo {tambi'o} cu tordu smudu'i zo {seltaidunbi'o}
+    - multcu: i xu do djica: |
+      - tambi'o: $x_1=b_1=t_2$ binxo loka du $x_2=b_2=t_2$ kei setai lonu lo tarmi be $x_1$ cu binxo lo tarmi be $x_2$ kei $x_3=b_3$
+        notci: ko catlu fu'oiji'a zo {seltaidunbi'o}
+      - seltaidunbi'o: $x_1=b_1=d_1=t_2$ binxo loka dunli $x_2=b_2=d_2=t_2$ loka tarmi kei $x_3=b_3$
+        notci: ti goi le xu'asmu cu se fu'irgau teka'a la gleki jecu milxe te gafygau jecu te jmina lo notci .i ko catlu fu'oiji'a zo {tambi'o} .i lodu'u tambi'o na'o nibli lodu'u seltaidunbi'o .iku'i na se go'i (to simsa lonu gripau toi) .i nu smuni frica kei ralci
+      - dubybi'o: $x_1=b_1=d_1$ co'a du $x_2=b_2=d_2$ va'o $x_3=b_3$
+        notci: ko catlu fu'oiji'a zo {kairbi'o} .i ti goi le valsi cu vimcu lo jimpe ka zabcu'i kei $b_2$ fau tei'i lonu $b_2$ cu zilkai
+      - kairbi'o: $x_1=b_1=c_1$ co'a ckaji $x_2=b_2=c_2$ va'o $x_3=b_3$
+        notci: ko catlu fu'oiji'a zo {dubybi'o} .i ti goi le valsi cu vimcu lo jimpe ka zabcu'i kei $b_2$
 
 - vlaste (vocabulary):
     ? pli'aje: {bangu: eng}
@@ -2194,3 +2208,6 @@
     - multcu: _: prime/primitive
     - multcu: cevmakfa: ko basygau fi zo cesmakfa
     - multcu: tumkupypaumerko: xu do djica lo basti .i ma zo'oi contiguous
+    - mitsre: $x_1=s_1$ confuses the identity of $x_2=m_1$ as $x_3=s_2=m_2$, a confusion under conditions $x_4=s_3$ by standard $x_5=s_4=m_3$; $x_1$ mistakes $x_2$ for $x_3$.
+      notci: "See also: {dubju'o}, {mitfa'i}, {dumdu'o}, {sevzi}, {basti}, {kamdu'o}."
+      smuvelckivla: confuse;mistake the identity of something, mistake;to mistake something for something
