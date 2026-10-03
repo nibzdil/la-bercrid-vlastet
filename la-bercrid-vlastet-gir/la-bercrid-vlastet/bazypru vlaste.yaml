@@ -2225,3 +2225,9 @@
       notci: "Copied from gleki's definition of {mitsre} and modified.  Regarding which possible meaning is chosen for {mitsre}, it is proposed to be a shortening of {sezmitsre} (analogous, with {kaisre}, to {dubybi'o} vs {kairbi'o}) as opposed to {mazdu'osre} (analogous to {dubyfa'i}, being {mazdubyfa'i} rather than {sezdubyfa'i}).  See also: {mazdu'osre}, {mitsre}, {kaisre}, {sevzi}."
       smuvelckivla: self-identity error
     - multcu: ko jmina ta goi le valsi be do'e zo sezmitsre
+    - multcu: |
+      rircau: x1 is childless
+      …
+      selrircau: x1 is an orphan
+      …
+      xu do djica
