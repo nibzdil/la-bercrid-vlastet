@@ -2231,6 +2231,36 @@
       selrircau: x1 is an orphan
       …
       xu do djica
+    - multcu: |
+      - multcu: toi'au: discursive: parenthetical attitudinal
+        selma'o: UI3
+        notci: Indicates the attached is parenthetical, with attitudinal grammar.  {to}…{toi} as {ui}.  See also: {pe'oi}.
+      - multcu: zo https://lensisku.lojban.org/jbo/valsi/jijysarxe: ko .i la'oi https://lojban.github.io/cll/12/5/ .i xu
+      - multcu: tai'ai: fi'o tamsmi
+        selma'o: BAI
+        notci: If {tai} becomes a modal of {tasmi} instead of {tamsmi}, {tai'ai} can still be used as a shortcut for «fi'o tamsmi».
+      - tai'ai: tamsmi modal, 1st place (with lens; seen through view) accessed through interface; as …
+        selma'o: BAI
+        notci: If {tai} becomes a modal of {tasmi} instead of {tamsmi}, {tai'ai} can still be used as a shortcut for «fi'o tamsmi».
     - multcu: toi'au: discursive: parenthetical attitudinal
       selma'o: UI3
       notci: Indicates the attached is parenthetical, with attitudinal grammar.  {to}…{toi} as {ui}.  See also: {pe'oi}.
+    - multcu: zo https://lensisku.lojban.org/jbo/valsi/jijysarxe: ko .i la'oi https://lojban.github.io/cll/12/5/ .i xu
+    - laldu: |
+      - laldo: |
+        - tai'ai: tamsmi modal, 1st place; as a resemblance for …
+          selma'o: BAI
+          notci: If {tai} becomes a modal of {tasmi} instead of {tamsmi}, {tai'ai} can still be used as a shortcut for «fi'o tamsmi».  See also: {tai'o} («fi'o tai'o»).
+          smuvelckivla: fi'o tamsmi;original tai
+        - tai'o: tasmi modal, 1st place (as) in manner …
+          selma'o: BAI
+          notci: If {tai} becomes a modal of {tasmi} instead of {tamsmi} (and thus becomes an alias for {tai'o} rather than {tai'ai}), {tai'ai} can still be used as a shortcut for «fi'o tamsmi».
+          smuvelckivla: fi'o tasmi;long version, as;in manner
+      - tai'ai: tamsmi modal, 1st place; as a resemblance for …
+        selma'o: BAI
+        notci: See also: {tai'o} («fi'o tasmi»), {tai}.
+        smuvelckivla: fi'o tamsmi;original tai
+      - tai'o: tasmi modal, 1st place (as) in manner …
+        selma'o: BAI
+        notci: See also; {tai'ai} («fi'o tamsmi»), {le'oi}.
+        smuvelckivla: fi'o tasmi;long version, as;in manner
