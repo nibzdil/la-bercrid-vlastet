@@ -2242,9 +2242,12 @@
       - tai'ai: tamsmi modal, 1st place (with lens; seen through view) accessed through interface; as …
         selma'o: BAI
         notci: If {tai} becomes a modal of {tasmi} instead of {tamsmi}, {tai'ai} can still be used as a shortcut for «fi'o tamsmi».
-    - multcu: toi'au: discursive: parenthetical attitudinal
+    - toi'au: "discursive: parenthetical."
       selma'o: UI3
-      notci: Indicates the attached is parenthetical, with attitudinal grammar.  {to}…{toi} as {ui}.  See also: {pe'oi}.
+      notci: |
+        Indicates the attached is parenthetical, with attitudinal grammar.  {to}…{toi} as UI.  See also: {pe'oi}, {ta'o}.
+      vlakra: zo toi joi zo claxu
+      smuvelckivla: parenthetical
     - multcu: zo https://lensisku.lojban.org/jbo/valsi/jijysarxe: ko .i la'oi https://lojban.github.io/cll/12/5/ .i xu
     - laldu: |
       - laldo: |
@@ -2264,3 +2267,12 @@
         selma'o: BAI
         notci: See also; {tai'ai} («fi'o tamsmi»), {le'oi}.
         smuvelckivla: fi'o tasmi;long version, as;in manner
+    - multcu: xamnili .i ko catlu te'i li 2026-10-05 ne'i la irci
+    - multcu: |
+      mitystodraunju: $x_1=s_1$ is a bijective function / isomorphism from $x_2=s_2$ to $x_3=s_3$, with inverse $x_4$, in system / category $x_5$; $x_1$ has an inverse; $x_1$ is a function that is injective and surjective; $x_2$ and $x_3$ are isomorphic.
+      ???ystodraunju: $x_1=s_1$ is a bijective function / isomorphism from $x_2=s_2$ to $x_3=s_3$, with inverse $x_4$, in system / category $x_5$; $x_1$ has an inverse; $x_1$ is a function that is injective and surjective; $x_2$ and $x_3$ are isomorphic.
+      fatra'efancu:
+      fatfrika'efancu: $x_1=s_1$ is a bijective function / isomorphism from $x_2=s_2$ to $x_3=s_3$, with inverse $x_4$, in system / category $x_5$; $x_1$ has an inverse; $x_1$ is a function that is injective and surjective; $x_2$ and $x_3$ are isomorphic.
+      notci: |
+        See also: {ficystodraunju} (surjection), {stodraunju} (injection).
+      smuvelckivla: bijection, isomorphism
