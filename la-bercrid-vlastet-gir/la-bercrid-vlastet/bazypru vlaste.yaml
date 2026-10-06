@@ -578,7 +578,8 @@
         ni'o Generally, scope is by default short ({ve'i'ai}) and affecting the preceding cmavo group like UI attachment / emphasis, but it can alternatively be medium scope or for the whole top-level bridi; and it can be with long scope for ‘sticky’ / permanent attachment, with {ve'u'ai}.  Scope can also be precisely and explicitly declared with a full {baunpli} declaration, especially with x3.  Even within a tanru, {ke} or {bo}-like connectors can be used to enable and disable this feature for multiple different specific tanru at the same time that are nested within a larger, composite tanru.  With unspecified scope, generally by default {ve'i'ai} is used, which can affect a top-level bridi by appearing after «.i», except if scope in unspecified (e.g. there is no {ve'i'ai}-like expression or equivalent) and it appears alone with nothing else in a {bridi}, then a long-scope (sticky/permanent) of {ve'u'ai} may be inferred instead of {ve'i'ai}.  See also {tu'e'ei}, {tu'u'o}.
 
         ni'o «{do'e'e}» is a contraction of «{do'e'e'au'i}» which ＝＝ «sei {baunpli} be la {terbricnetau}».  «{do'e'o}» is a contraction of «{do'e'o'au'i}» which ＝＝ «sei {baunpli} be la {terbristotau}».  See also: {do'o'e}.
-    - narbilga: $x_1=b_1$ is not bound/obliged to/does not have the duty to do/be $x_2=b_2$ in/by standard/agreement $x_3=b_3$; $x_2$ is optional / non-mandatory / non-obligatory to $x_1$ under $x_3$.
+    - nalbilga: $x_1=b_1$ is not bound/obliged to/does not have the duty to do/be $x_2=b_2$ in/by standard/agreement $x_3=b_3$; $x_2$ is optional / non-mandatory / non-obligatory to $x_1$ under $x_3$.
+      smuvelckivla: optional;non-compulsory, optional;non-obligatory
     - na'i'a: "discursive: optionally."
       selma'o: UI3b
       notci: "Also ‘omittably’.  See also: {ji'a}, {po'o}, {si'a}, {narbilga}, {to}…{toi}, {fu'e}…{fu'o}, {tu'e'ei}…{tu'u'o}.  Equivalent to «{ji'a} {ma'o'ei} {narbilga} [{se'u}]»."
@@ -2279,8 +2280,7 @@
       smuvelckivla: bijection, isomorphism
       vlakra: zo fatfrika'efancu
     - multcu: xamnilo: ko visa lo notci be te'i li 2026-10-05 pe la irci
-    - joi'e'o: elliptical/unspecified connective.
+    - multcu: joi'o'e: elliptical/unspecified connective.
       selma'o: JOI
-      notci: "See also: {ju'e}."
+      notci: "See also: {ju'e}.  (Alternative synonyms: {y'i}, {ji'o'e}.)"
       smuvleckivla: elliptical connective, unspecified connective
-    - multcu: xu do djica lonu basygau be fi zo narbilga zo nalbilga
