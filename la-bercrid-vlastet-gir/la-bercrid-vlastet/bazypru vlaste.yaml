@@ -2295,8 +2295,9 @@
     - multcu: xu do djica lonu gafygau lome zo ra'erprogau be le'oi loka lerfu valsi
       y pe'i go'i
     - multcu: sevda: $x_1$ serves as, functions as, has the purpose or role of having property $x_2$.
-      notci: Adds the $x_3$ to Ilmen's older {sevda}.
-    - multcu: kei'oi: «ku'e'ake'e»
+      notci: Adds the $x_3$ to Ilmen's older {sevda}.  See also: {le'oi}.
+    - kei'e: afterthought «ke»; «ke'e» with implied «ke»; «ku'e'ake».
+      selma'o: CO
       notci: |
         For example, say you say «lo broda brode» and then _afterwards_ want to
         group the selbri to the left as «lo ke broda brode ke'e», e.g. in order
@@ -2305,9 +2306,8 @@
         intended to be an afterthought {ke}.  {kei'oi} follows regular the
         left-grouping pattern found in Lojban, and {bo}, being like {co} an
         exception that also switches to right-grouping, can be added to it to
-        bind more tightly under right-grouping.
+        bind more tightly under right-grouping.  {kei'e} shares the same
+        scoping behaviour as {co}, like {ku'e'a} in the context of selbri.
+        Note that for this specification of {kei'e} to be implimented, CO needs
+        to be extended to support {bo} afterwards.
       smuvelckivla: afterthought ke
-      multcu: |
-        tercu'a KVV'VV: kai'oi kei'oi kai'oi koi'ei koi'oi kau'ei kau'oi
-        ziljmina tercu'a: kei'e kei'i
-        .ua zo kei'e
