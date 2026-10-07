@@ -2303,18 +2303,6 @@
         group the selbri to the left as «lo ke broda brode ke'e», e.g. in order
         to add «je» to the entire group rather than just brode, e.g. «lo ke
         broda brode ke'e je brodi», you can say «kei'oi».  This word is
-        intended to be an afterthought {ke}.  {kei'oi} follows regular the
-        left-grouping pattern found in Lojban, and {bo}, being like {co} an
-        exception that also switches to right-grouping, can be added to it to
-        bind more tightly under right-grouping.  {kei'e} shares the same
-        scoping behaviour as {co}, like {ku'e'a} in the context of selbri.
-        Note that for this specification of {kei'e} to be implimented, CO needs
-        to be extended to support {bo} afterwards.
-      notci: |
-        For example, say you say «lo broda brode» and then _afterwards_ want to
-        group the selbri to the left as «lo ke broda brode ke'e», e.g. in order
-        to add «je» to the entire group rather than just brode, e.g. «lo ke
-        broda brode ke'e je brodi», you can say «kei'oi».  This word is
         intended to be an afterthought {ke}.  {kei'oi} follows the regular
         left-grouping pattern found in Lojban, and {bo}, being like {co} an
         exception that also switches to right-grouping, can be added to it to
@@ -2325,10 +2313,10 @@
         {co}, which makes {ke} terminate); this could be reflected in the EBNF
         grammar with ‘selbri-3 = (selbri-4 [KEIhE selbri-4] …) …’ (likely split
         into a new selbri non-terminal for consistency), which makes {kei'e}
-        consistent with {ke}…{ke'e} behaviour).  Note {kei'ebe} grammatically
-        binds the application to a whole tanru.  See also: {co'y} ({co} that is
-        a bit tighter and that can be inside {ke}…{ke'e}) ({co'y} allows
-        {kei'e} to include it).
+        consistent with {ke}…{ke'e} behaviour).  Note «lo broda brode
+        {kei'ebe}» grammatically binds the application to a whole tanru.  See
+        also: {co'y} ({co} that is a bit tighter and that can be inside
+        {ke}…{ke'e}) ({co'y} allows {kei'e} to include it).
       smuvelckivla: afterthought ke
     - co'y: parenthesizable «co».
       selma'o: COhY
