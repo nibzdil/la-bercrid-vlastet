@@ -2322,6 +2322,16 @@
         salma'o CO, but {co} binds more loosely and is right-grouping
         (following LLG CLL 5.8 specifications, where “not even {ke}..{ke'e}
         parentheses can encompass a {co}” (consider using {melo} to group over
-        {co}, which makes {ke} terminate); perhaps this could be reflected in
-        the EBNF grammar with ‘selbri-3 = selbri-4 [KEIhE selbri-4] …’).
+        {co}, which makes {ke} terminate); this could be reflected in the EBNF
+        grammar with ‘selbri-3 = (selbri-4 [KEIhE selbri-4] …) …’ (likely split
+        into a new selbri non-terminal for consistency), which makes {kei'e}
+        consistent with {ke}…{ke'e} behaviour).  Note {kei'ebe} grammatically
+        binds the application to a whole tanru.  See also: {co'y} ({co} that is
+        a bit tighter and that can be inside {ke}…{ke'e}) ({co'y} allows
+        {kei'e} to include it).
       smuvelckivla: afterthought ke
+    - co'y: parenthesizable «co».
+      selma'o: COhY
+      notci: |
+        According to LLG CLL 5.8, {co} binds so loosely that it makes {ke} terminate.  {co'y} is {co} except it binds a bit more loosely so as to allow {ke}…{ke'e} to include it, so you do not need to e.g. use {melo} to group around {co}, and {co'y} follows the default left-grouping rule, but it can be followed by {bo}, where {co'ybo} binds tighter and switches to right-grouping.  {co'y} also does not change the place filling behaviour of sumti that appear to the right as {co} does; consider using {be} for this.  {co'y} could be implemented in the CLL EBNF grammar inside selbri-3 rather than selbri-2.  See also: {kei'e} (afterthought {ke}).
+      smuvelckivla: parenthesizable co
