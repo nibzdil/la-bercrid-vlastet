@@ -2315,15 +2315,13 @@
         group the selbri to the left as «lo ke broda brode ke'e», e.g. in order
         to add «je» to the entire group rather than just brode, e.g. «lo ke
         broda brode ke'e je brodi», you can say «kei'oi».  This word is
-        intended to be an afterthought {ke}.  {kei'oi} follows regular the
+        intended to be an afterthought {ke}.  {kei'oi} follows the regular
         left-grouping pattern found in Lojban, and {bo}, being like {co} an
         exception that also switches to right-grouping, can be added to it to
         bind more tightly under right-grouping.  {kei'e} is almost in the
         salma'o CO, but {co} binds more loosely and is right-grouping
         (following LLG CLL 5.8 specifications, where “not even {ke}..{ke'e}
-        parentheses can encompass a {co}” (consider using {melo} to group over {co})).
-        shares the same
-        scoping behaviour as {co}, like {ku'e'a} in the context of selbri.
-        Note that for this specification of {kei'e} to be implimented, CO needs
-        to be extended to support {bo} afterwards.
+        parentheses can encompass a {co}” (consider using {melo} to group over
+        {co}, which makes {ke} terminate); perhaps this could be reflected in
+        the EBNF grammar with ‘selbri-3 = selbri-4 [KEIhE selbri-4] …’).
       smuvelckivla: afterthought ke
