@@ -1696,11 +1696,14 @@
         smuvelckivla: available;able to be used, up for grabs;available, available;use is possible, available;might be used
     - multcu: zo slabu cu ambigu ne'i le datnyvei .i ta'o cmeta
     - plicu'i: $x_1=p_1$ might use $x_2=p_2$ for purpose / end $x_3=p_3$; $x_1$ using $x_2$ is a possibility under conditions $x_4=c_2$; $x_2$ is available to $x_1$.
-      notci: "See also: {selplicu'i} (available), {selplifrika'e} (usable), {selcu'acu'i} (option)."
+      notci: "See also: {plife'e} (available), {selplicu'i} (available), {selplifrika'e} (usable), {selcu'acu'i} (option), {jidge}, {plika'e} (usable to).  This place structure order was chosen because of CLL 12.9: ‘Note that, with these lujvo, an interpretation requiring SE insertion is safe only if the alternatives are either implausible or unlikely to be needed as a lujvo. This may not always be the case, and Lojbanists should be aware of the risk of ambiguity.’ (see also {ifka'e})."
       smuvelckivla: available;might use
     - selplicu'i: $x_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$; $x_2$ using $x_1$ is a possibility under conditions $x_4=c_3$.
-      notci: "See also: {selcu'acu'i} (option), {selplifrika'e} (usable)."
+      notci: "See also: {plife'e} (available), {selcu'acu'i} (option), {selplifrika'e} (usable)."
       smuvelckivla: available;might be used
+    - plife'e: $x_1=p_2$ is available to $x_2=p_1$ for purpose / end $x_3=p_3$; $x_2$ using $x_1$ is a possibility under conditions $x_4=i_3$.
+      notci: "See also: {selplicu'i} (available), {selcu'acu'i} (option), {selplifrika'e} (usable), {ifka'e}."
+      smuvelckivla: available;able to be used, available;can be used
     - selcu'acu'i: $x_1=cux_2$ is an option for $x_2=cux_1$ among options $x_3=cux_3$; $x_2$ choosing $x_1$ is a possibility under conditions $x_4=cum_2$.
       notci: "See also: {tepi'o}, {kosmu}, {selplicu'i} (available)."
       smuvelckivla: option;might be chosen
@@ -1709,7 +1712,7 @@
       smuvelckivla: option;might choose
     - frika'e: $x_1=k_1=l_1$ is able to undergo / experience $x_2=k_2=l_2$ under conditions $x_3=k_3$; $x_1$ is $x_2$-able.
       smuvelckivla: able to be;can be acted upon, -able;able to undergo
-      notci: "E.g. see {selplifrika'e} for an application in a lujvo.  See also: {ifkakne} (synonym)."
+      notci: "E.g. see {selplifrika'e} for an application in a lujvo.  See also: {ifkakne} (synonym), {ifka'e} ({frika'e} but $x_2$ is often emphasized by {se})."
     - selplifrika'e: $x_1=p_2=k_1=l_1$ is usable / available to $x_2=p_1$ for purpose / end $x_3=p_3$ under conditions $x_4=k_3$; $x_1$ is up for grabs.
       smuvelckivla: available;able to be used, up for grabs;available, available;capable of being used
     - selcuxfrika'e: $x_1=c_2=k_1=l_1$ is an option / selectable / choosable to $x_2=c_1$ among options $x_3=c_3$ under conditions $x_4=k_3$.
@@ -2338,3 +2341,8 @@
       smuvelckivla: tight co
     - multcu: _: cancel
       xu do djica lonu gafygau zo ra'erprogau
+    - ifka'e: $x_1$ is passively $x_2$-able (especially «se $x_2$») under conditions $x_3$; $x_1$ is such that event $x_2$ (nu) can happen to it; it is possible that $x_1$ may undergo $x_2$.
+      marbartu rafsi: ke'e
+      notci: |
+        See also: {frika'e}, {ifkakne}, {kakne}.  {ifka'e} is {frika'e}, except $x_2$ is especially focused on its own $x_2$ rather than $x_1$ (as though applied with {se} or that {ce} («(goi'ai) {tcekitau}») is more likely to be in the $x_2$ rather than $x_1$ of {ifka'e}'s $x_2$), although {se} is not guaranteed and other possibilities are valid as well (such as {te} or nothing at all).  This word also is created to add an experimental rafsi that ends in a vowel, so that it can be used at the end of a word in place of {ka'e}, in case adding a «-ka'e» suffix also has a parallel / symmetric place structure that also makes sense, rather than {ifka'e} being the only especially meaningful word (note especially CLL 12.9: ‘Note that, with these lujvo, an interpretation requiring SE insertion is safe only if the alternatives are either implausible or unlikely to be needed as a lujvo. This may not always be the case, and Lojbanists should be aware of the risk of ambiguity.’) (see also CLL 12.4 and 12.3); in this case, «-fe'e» can be added.  «-fe'e» is like adding a «-ka'e» suffix and prepending «sel-» to the seltau.  (Definition text based on that of {ifkakne} by krtisfranks.)  {ifka'e} can be implemented by having $x_2$, when a property, be a property where its _second_ {ce}, rather than its first, applies to $x_1$, while its {cexipa} refers to the agent doing $x_2$ to $x_1$, so this is how this definition defines {ifka'e}; when unspecified or left to defaults, {cexire} is often in the second place, but it is by no means required.  {ifka'e} isn't required to link $x_1$ to {cexire}, but as it seems 
+      smuvelckivla: able to be;can be passively acted upon, -able;able to passsively undergo
