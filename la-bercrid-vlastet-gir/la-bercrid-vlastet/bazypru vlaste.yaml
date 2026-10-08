@@ -300,7 +300,11 @@
       notci: |
         {le'oi}: modal for {lenjo}.  Suitable for use as an option for one of the meanings of the English ‘as’, as in ‘in the role of’.  Inspired by Haskell lenses, analogous to this use.  {le'oi} is similar to {se}{tai}, meaning ‘in form’, and {fi'o} {te} {jvinu}.  {le'oi} focuses more on aspect than other types of correspondences, such using the more general modals {tai} (or {fi'o} {mapti} a bit more rigidly, possibly in a tanru) to express ‘as’, similarity, manners, conformance, proportionalities (suggestion: {fi'o} {te} {parbi} as in ‘for each’ or ‘per’), concurrence (e.g. in time), degree/extent (see {se}{la'u}, {du'i}, or {fi'o} {kuspe}), ‘in the sense of’ (see {fi'o} {smuni}), or other types.  Note: This proposed experimental cmavo costs 5 letters and a slot in 5-letter space, a relatively short word which can often be more efficiently allocated for more frequent, important, or fitting use.  Alternative, better designs or more efficient allocations can be proposed, possibly in a forked standard or dictionary.
 
-        ni'o Synonym: {setai}.  See also: {semai'ai} ({ki'irmapti}).
+        ​
+
+        ni'o Synonym: {setai}.  See also: {semai'ai} ({ki'irmapti}), {sekai'oi}.
+
+        ​
 
         ni'o Example without modal: «lo terle'o be le spofu toknu bei loka nabypalne zbasu cu se vamji cmalu .ijeku'i lo terle'o be fi loka fagri cfagau cu mutce certu» - — As a pie-maker, the broken oven was of little worth, but as a fire starter, it was very good at it. ni'o Example with modal: «lo nacmei be le'oi loka se clalai cu pamei se cimde» — As a magnitude, a vector is one-dimensional.
       smuvelckivla: as;in the role of, as;in role
@@ -2294,32 +2298,37 @@
       vlakra: zo sai joi zo krixa
     - multcu: xu do djica lonu gafygau lome zo ra'erprogau be le'oi loka lerfu valsi
       y pe'i go'i
-    - multcu: sevda: $x_1$ serves as, functions as, has the purpose or role of having property $x_2$.
-      notci: Adds the $x_3$ to Ilmen's older {sevda}.  See also: {le'oi}.
+    - katro: $x_1$ serves as / functions as / has purpose / role $x_2$ in context / situation / matter $x_3$.
+      notci: Adds the $x_3$ to Ilmen's older {sevda}, slightly modified, and adds an etymology.  See also: {kai'oi}, {le'oi}, {temu'i}, {ja'erkai}.
+      vlakra: zoizy.« python2 ./gismu_score-v0.5-1999.py `# zh 作用` tsoion `# hi काम` kam `# en role` rl `# es rol` rol `# ru роль` rol `# ar دور` daur ».zy.
+      smuvelckivla: role;function, function;has role or effect
+    - kai'oi: katro modal, 1st place (as a role for) a function of …
+      selma'o: BAI
+      notci: "See also: {sekai'oi}, {le'oi}, {tai}."
+      smuvelckivla: a function of, a role of
+    - sekai'oi: katro modal, 2nd place (in role) in the role of …
+      selma'o: BAI*
+      notci: |
+        Example: «sekai'oi loka xamgu gunka kei mi cu da'i gasnu ra jecu toltu'i .iku'i sekai'oi loka tinbe fi lo catni kei mi na tolmipri le cfila».  See also: {setai}, {ma'i}.
+      smuvelckivla: in role, in function, as;in the role
+    - tekai'oi: katro modal, 3rd place (in role context) in functional contex …
+      selma'o: BAI*
+      smuvelckivla: in functional context, in role context
     - kei'e: afterthought «ke»; «ke'e» with implied «ke»; «ku'e'ake».
       selma'o: KEIhE
       notci: |
-        For example, say you say «lo broda brode» and then _afterwards_ want to
-        group the selbri to the left as «lo ke broda brode ke'e», e.g. in order
-        to add «je» to the entire group rather than just brode, e.g. «lo ke
-        broda brode ke'e je brodi», you can say «kei'oi».  This word is
-        intended to be an afterthought {ke}.  {kei'oi} follows the regular
-        left-grouping pattern found in Lojban, and {bo}, being like {co} an
-        exception that also switches to right-grouping, can be added to it to
-        bind more tightly under right-grouping.  {kei'e} is almost in the
-        salma'o CO, but {co} binds more loosely and is right-grouping
-        (following LLG CLL 5.8 specifications, where “not even {ke}..{ke'e}
-        parentheses can encompass a {co}” (consider using {melo} to group over
-        {co}, which makes {ke} terminate); this could be reflected in the EBNF
-        grammar with ‘selbri-3 = (selbri-4 [KEIhE selbri-4] …) …’ (likely split
-        into a new selbri non-terminal for consistency), which makes {kei'e}
-        consistent with {ke}…{ke'e} behaviour).  Note «lo broda brode
-        {kei'ebe}» grammatically binds the application to a whole tanru.  See
-        also: {co'y} ({co} that is a bit tighter and that can be inside
-        {ke}…{ke'e}) ({co'y} allows {kei'e} to include it).
+        For example, say you say «lo broda brode» and then _afterwards_ want to group the selbri to the left as «lo ke broda brode ke'e», e.g. in order to add «je» to the entire group rather than just brode, e.g. «lo ke broda brode ke'e je brodi», you can say «kei'oi».  This word is intended to be an afterthought {ke}.  {kei'oi} follows the regular left-grouping pattern found in Lojban, and {bo}, being like {co} an exception that also switches to right-grouping, can be added to it to bind more tightly under right-grouping.  {kei'e} is almost in the salma'o CO, but {co} binds more loosely and is right-grouping (following LLG CLL 5.8 specifications, where “not even {ke}..{ke'e} parentheses can encompass a {co}” (consider using {melo} to group over {co}, which makes {ke} terminate); this could be reflected in the EBNF grammar with ‘selbri-3 = (selbri-4 [KEIhE selbri-4] …) …’ (likely split into a new selbri non-terminal for consistency), which makes {kei'e} consistent with {ke}…{ke'e} behaviour).  Note «lo broda brode {kei'ebe}» grammatically binds the application to a whole tanru.  See also: {co'y} ({co} that is a bit tighter and that can be inside {ke}…{ke'e}) ({co'y} allows {kei'e} to include it), {seco'y}, {ku'e'a}.
       smuvelckivla: afterthought ke
     - co'y: parenthesizable «co».
       selma'o: COhY
       notci: |
-        According to LLG CLL 5.8, {co} binds so loosely that it makes {ke} terminate.  {co'y} is {co} except it binds a bit more loosely so as to allow {ke}…{ke'e} to include it, so you do not need to e.g. use {melo} to group around {co}, and {co'y} follows the default left-grouping rule, but it can be followed by {bo}, where {co'ybo} binds tighter and switches to right-grouping.  {co'y} also does not change the place filling behaviour of sumti that appear to the right as {co} does; consider using {be} for this.  {co'y} could be implemented in the CLL EBNF grammar inside selbri-3 rather than selbri-2.  See also: {kei'e} (afterthought {ke}).
+        According to LLG CLL 5.8, {co} binds so loosely that it makes {ke} terminate.  {co'y} is {co} except it binds a bit more loosely so as to allow {ke}…{ke'e} to include it, so you do not need to e.g. use {melo} to group around {co}, and {co'y} follows the default left-grouping rule, but it can be followed by {bo}, where {co'ybo} binds tighter and switches to right-grouping.  {co'y} also does not change the place filling behaviour of sumti that appear to the right as {co} does; consider using {be} for this.  {co'y} could be implemented in the CLL EBNF grammar inside selbri-3 rather than selbri-2.  {co'y} also accepts SE before it; {seco'y} restores default tanru order, and thus {seco'y} works like {kei'e}.  See also: {kei'e} (afterthought {ke}), {cy'o}, {ku'e'a}.
       smuvelckivla: parenthesizable co
+    - cy'o: tight «co»; «co'y» as JOI.
+      selma'o: JOI
+      notci: |
+        Semantically equivalent to {co'y}, but binds as tight as {joi}.  Conveniently, {secy'o} restores default tanru order.  See also: {co'y}, {joi'o'e}, {y'i}, {co'i'o}, {pi'u'i}.
+      vlakra: zo co'y joi zo y'i
+      smuvelckivla: tight co
+    - multcu: _: cancel
+      xu do djica lonu cafygau zo ra'erprogau
