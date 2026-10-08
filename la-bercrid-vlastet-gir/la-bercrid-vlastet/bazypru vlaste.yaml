@@ -473,9 +473,15 @@
     - toisti: $x_1=s_1=t_1$ gives up / abandons / stops trying to do / attain $x_2=s_2=t_2$ by means / actions / method $x_3=t_3$.
     - proradyxarnysti: $x_1=s_1=r_1$ abandons / surrenders / gives up / relinquishes control / influence of $x_2=s_2=xa_1$ to $x_3=xa_3=r_2$ concerning / in matter / property $x_4=xa_3=f_3$ under conditions $x_5=r_3$.
     - nupmulgau: $x_1=g_1$ follows through / is faithful on / fulfills / makes good on $x_2=n_1$'s promise / claim / threat of $x_3=g_2=m_1=n_2$ to $x_4=n_3$ in aspect $x_5=m_2$ by standard $x_6=m_3$.
+      notci: "See also: {nupmu'o}."
+      smuvelckivla: faithful;promise fulfiller, follow through;being faithful, fulfill;being faithfull, make good on;being faithful
     - nupmu'o: $x_1=n_1$'s promise of $x_2=m_1=n_2$ to $x_3=n_3$ is fulfilled in aspect $x_4=m_2$ by standard $x_5=m_3$; $x_1$ is faithful.
+      notci: "See also: {nupmulgau} for follow-through, {lacri}."
+      smuvelckivla: faithful;promise keeper, fulfilled promise
     - ra'erprogau: $x_1=g_1=f_1=r_1$ cancels / revokes / invalidates / withdraws from / [reverses] $x_2=g_2=f_2=r_2$ about / concerning $x_3=f_3$.
       smuvelckivla: cancel;abort, invalidate;cancel, revoke;cancel
+      notci: |
+        lujvo construction note: this word is irregular in its «-gau» suffix actually not prepending an agent place in this case, but instead has a symmetric lujvo place structure.  See also: {nupmu'o}.
     - nupra'eprogau: $x_1=g_1=f_1$ cancels promise / renounces / reneges / repudiates / abandons $x_2=r_1=n_1$'s promise / threat of $x_3=g_2=r_2=n_2$ to $x_4=n_3$ about / concerning $x_5=f_3$.
       notci: "See also: {ra'erprogau} for a general word for ‘cancel’."
       smuvelckivla: repudiate;cancel promise, renege;repudiate, renounce;repudiate, abandon;repudiate
