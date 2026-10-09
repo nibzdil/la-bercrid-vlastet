@@ -2362,6 +2362,14 @@
         This modifies {ju'u} so that the base is specified first, and the base is represented by the last digit in the base, as every base is base 10 in the same base.  By placing the base first, as it is done in some programming languages such as ‘0x’ or ‘0d’ or ‘0b’, this word can help facilitate right-branching, where details are placed first before branching into deeper structures or more substantial or longer components, which can aid in easier flow of language.  Thus {vaiju'u'e} can mean ‘0x’, {soju'u'e} ‘0d’, and {paju'u'e} ‘0b’.  See also: {na'urdegraicmu}.
       vlakra: zo se joi zo ju'u
       smuvelckivla: base by digit for, reverse ju'u;with last digit
-    - na'urdegraicmu: $x_1=j_1=t_1$ represents the numeric base of $x_2=j_2$; $x_2$ is in base $x_1$ + 1 which equals $x_3$; $x_1$ is the largest possible single digit in the representation used by $x_2$.
-      notci: "x2 does not have to include the largest possible single digit; this would instead specify what the base of x2 is.  The base has x3 digits.  See also: {ju'u'e}."
+    - laldo: |
+      - na'urdegraicmu: $x_1=j_1=t_1$ represents the numeric base of $x_2=j_2$; $x_2$ is in base $x_1$ + 1 which equals $x_3$; $x_1$ is the largest possible single digit in the representation used by $x_2$, resulting in / evaluating to $x_4$.
+    - na'urdegraicmu: $x_1=j_1=t_1$ represents the numeric base of $x_2=j_2$ evaluating to $x_3$; $x_2$ is in base $x_1$ + 1 which equals $x_4$; $x_1$ is the largest possible single digit in the representation used by $x_2$."
+      notci: "x2 does not have to include the largest possible single digit; this would instead specify what the base of x2 is.  The base has x4 digits.  See also: {ju'u'e}, {ju'u}, {ju'umcu}."
       smuvelckivla: base for;with last digit, numeric base;by last digit
+    - .e'u'e: "attitudinal: maybe / perhaps / mentioning / tentative thought / [pre-filter] - higher-level / thought-out."
+      selma'o: UI1
+      notci: |
+        Can be used for brainstorming or merely mentioning ideas that the speaker might not support or be now committed to, like a weak .{e'u}.  See also: {je'ucu'i}, .{e'uru'e}, {la'acu'i}, .{iaru'e}, {ju'oru'e}, .{e'i'acu'i}, {je'au} ("I mean"), {ta'ei} ("nevermind"), {cumki}, {lodu'u}.
+      smuvelckivla: maybe, perhaps, brainstorming;attitudinal
+      vlakra: zo .e'u joi zo ru'e
